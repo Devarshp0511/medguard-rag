@@ -46,7 +46,7 @@ openFDA API         ──►     Fetch → clean → chunk   ──►      Qdr
                     Claude API generation (cited answer)
                                     │
                                     ▼
-                 FastAPI + MCP server + Streamlit UI
+                 FastAPI backend + custom clinical frontend (Docker Compose)
 ```
 
 ## Data sources
@@ -96,12 +96,32 @@ kind of judgment calls worth being able to explain in an interview.
 
 ## Setup
 
+**Quickest path — one command via Docker Compose** (recommended):
+
+```bash
+cp .env.example .env   # fill in ANTHROPIC_API_KEY
+docker compose up --build
+```
+
+This builds and starts all three services — Qdrant, the FastAPI backend, and
+the frontend — wired together automatically. Open `http://localhost:8080`
+once it's running.
+
+Note: the ingestion pipeline (fetching ~800 real FDA labels, chunking, and
+embedding ~22,000 chunks) takes significant time on first run due to
+external API rate limits. A populated `data/processed/medguard.db` and
+`qdrant_storage/` are not committed to this repo (see `.gitignore`) since
+they're large, binary, and fully reproducible — expect roughly 1-2 hours
+for a from-scratch ingestion run if you're rebuilding the dataset yourself.
+
+**Manual / local dev path** (running each service directly, without Docker):
+
 ```bash
 # 1. Environment
 cp .env.example .env   # fill in ANTHROPIC_API_KEY, optionally QDRANT_API_KEY
 
 # 2. Dependencies
-pip3 install -r requirements.txt   # (see note below if this file doesn't exist yet)
+pip3 install -r requirements.txt
 
 # 3. Vector store
 docker run -d --name medguard-qdrant -p 6333:6333 -p 6334:6334 \
@@ -113,7 +133,13 @@ python3 -m app.ingestion.fetch_openfda
 python3 -m app.ingestion.chunk_labels
 python3 -m app.ingestion.embed_chunks
 
-# 5. Try it
+# 5. Run the backend
+uvicorn app.api.main:app --reload --port 8000
+
+# 6. Open the frontend
+open frontend/index.html   # or serve it however you prefer
+
+# Optional: raw retrieval testing without the API
 python3 search_repl.py                    # raw semantic search
 python3 -m app.retrieval.hybrid_search     # hybrid structured + semantic retrieval
 ```
@@ -121,16 +147,25 @@ python3 -m app.retrieval.hybrid_search     # hybrid structured + semantic retrie
 ## Project status
 
 - [x] Structured data: DDInter loaded (15,140 interactions, 1,503 drugs)
-- [x] Unstructured data: openFDA fetch pipeline built and validated
+- [x] Unstructured data: openFDA fetch complete (822 real FDA labels, 116
+      combination products correctly excluded, 512 not found — mostly OTC
+      minerals/electrolytes without prescription-style labels)
 - [x] Chunking pipeline: sentence-aware, markup-stripped, section-scoped
-- [x] Vector store: Qdrant running, embeddings validated end-to-end
+      (21,885 chunks total)
+- [x] Vector store: Qdrant populated and validated (21,885 embedded points)
 - [x] Hybrid retrieval: structured + drug-filtered semantic search working
-- [ ] Full-scale openFDA fetch (in progress — 1,503 drugs)
-- [ ] Claude API generation layer with mandatory citations
-- [ ] Ragas evaluation suite
-- [ ] FastAPI + MCP server
-- [ ] Streamlit UI
-- [ ] Docker Compose + CI
+- [x] Claude API generation layer with mandatory citations and graceful
+      refusal on insufficient evidence
+- [x] Ragas evaluation suite (faithfulness, answer relevancy, context
+      precision/recall — see `docs/eval_report*.csv` and
+      `docs/engineering-notes.md` for findings)
+- [x] FastAPI backend (`/query`, `/search`, `/interactions`, `/health`) with
+      optional shared-secret protection on cost-incurring endpoints
+- [x] Custom clinical-grade frontend (static HTML/JS, no framework)
+- [x] Docker Compose bundling Qdrant + API + frontend, one-command startup
+- [ ] MCP server wrapper (FastAPI only so far — a natural v2 extension)
+- [ ] CI pipeline (lint/test/eval-regression gate)
+- [ ] Live public deployment
 
 ## Disclaimer
 
