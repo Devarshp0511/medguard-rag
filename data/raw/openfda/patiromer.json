@@ -1,0 +1,86 @@
+{
+  "drug_name": "Patiromer",
+  "drug_id": 1176,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Worsening of Gastrointestinal Motility. ( 5.1 ) Hypomagnesemia. ( 5.2 ) 5.1 Worsening of Gastrointestinal Motility Avoid use of Veltassa in patients with severe constipation, bowel obstruction or impaction, including abnormal post-operative bowel motility disorders, because Veltassa may be ineffective and may worsen gastrointestinal conditions. Patients with a history of bowel obstruction or major gastrointestinal surgery, severe gastrointestinal disorders, or swallowing disorders were not included in the clinical studies. 5.2 Hypomagnesemia Veltassa binds to magnesium in the colon, which can lead to hypomagnesemia. In clinical studies, hypomagnesemia was reported as an adverse reaction in 5.3% of adult patients treated with Veltassa [see Adverse Reactions (6.1) ]. Monitor serum magnesium. Consider magnesium supplementation in patients who develop low serum magnesium levels on Veltassa.",
+    "drug_interactions": "7 DRUG INTERACTIONS Veltassa has the potential to bind some oral co-administered medications, which could decrease their gastrointestinal absorption. Binding of Veltassa to other oral medications not listed in Table 3 below could cause decreased gastrointestinal absorption and loss of efficacy when taken close to the time Veltassa is administered. Administer other oral medications at least 3 hours before or 3 hours after Veltassa [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3) ] . Take other orally administered drugs at least 3 hours before or 3 hours after Veltassa except those shown to not have a clinically important interaction. ( 2.1 , 7 ) 7.1 Clinically Important Interaction of Veltassa with Other Drugs The in-vitro binding of the following drugs to patiromer was evaluated and potentially clinically significant binding was observed. Some drugs were subsequently tested in-vivo and significant reduction in systemic exposure was observed [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3) ] . Binding by Veltassa may reduce the systemic exposure and decrease the clinical efficacy of the co-administered drugs shown in Table 2. The administration of these drugs (and any drugs not listed in Table 3) should be separated by at least 3 hours from Veltassa. Table 2: Clinically important drug interactions of Veltassa Angiotensin II receptor blockers (ARB) Telmisartan \u03b2-adrenoceptor blockers (\u03b2-blocker) Bisoprolol, carvedilol, nebivolol Antibiotics Ciprofloxacin Anti-Parathyroid Agents and Thyroid Preparations Levothyroxine Blood Glucose Lowering Drugs Metformin Immunosuppressants Mycophenolate mofetil Others Quinidine, thiamine 7.2 No Observed Clinically Important Interaction of Veltassa with Other Drugs The binding of the following drugs to patiromer was evaluated [see Clinical Pharmacology (12.3) ] and no clinically significant binding was observed. No separation of dosing is required for these drugs. Table 3: No observed clinically important drug interactions of Veltassa Angiotensin-converting enzyme (ACE) inhibitors Benazepril, captopril, enalapril, fosinopril, lisinopril, perindopril, quinapril, ramipril, trandolapril Angiotensin II receptor blockers (ARB) Azilsartan, candesartan, irbesartan, losartan, olmesartan, valsartan \u03b2-adrenoceptor blockers (\u03b2-blocker) Metoprolol Loop diuretics Furosemide, bumetanide, torasemide Mineralocorticoid receptor antagonists (MRA) Eplerenone, finerenone, spironolactone Neprilysin inhibitors Sacubitril Sodium-glucose cotransporter-2 (SGLT-2) inhibitors Canagliflozin, dapagliflozin, empagliflozin Antibiotics Trimethoprim, amoxicillin, cephalexin Anticoagulants Warfarin, apixaban, rivaroxaban Anti-parathyroid agents and Thyroid preparations Cinacalcet Antithrombotic agents Clopidogrel, acetylsalicylic acid Blood glucose lowering drugs Glipizide Calcium channel blockers Amlodipine, verapamil Immunosuppressants Tacrolimus Others Lithium, allopurinol, atorvastatin, digoxin, phenytoin, riboflavin, sevelamer",
+    "drug_interactions_table": "<table width=\"85%\" ID=\"table2a\"><caption>Table 2: Clinically important drug interactions of Veltassa</caption><col align=\"left\" valign=\"middle\" width=\"25%\"/><col align=\"left\" valign=\"middle\" width=\"75%\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Angiotensin II receptor blockers (ARB)</content> <content styleCode=\"italics\">Telmisartan</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">&#x3B2;-adrenoceptor blockers (&#x3B2;-blocker)</content> <content styleCode=\"italics\">Bisoprolol, carvedilol, nebivolol</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Antibiotics</content> <content styleCode=\"italics\">Ciprofloxacin</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Anti-Parathyroid Agents and Thyroid Preparations</content> <content styleCode=\"italics\">Levothyroxine</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Blood Glucose Lowering Drugs</content> <content styleCode=\"italics\">Metformin</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Immunosuppressants</content> <content styleCode=\"italics\">Mycophenolate mofetil</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Others</content> <content styleCode=\"italics\">Quinidine, thiamine</content></td></tr></tbody></table> <table width=\"85%\" ID=\"table3\"><caption>Table 3: No observed clinically important drug interactions of Veltassa</caption><col width=\"100%\" align=\"left\" valign=\"middle\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Angiotensin-converting enzyme (ACE) inhibitors</content> <content styleCode=\"italics\">Benazepril, captopril, enalapril, fosinopril, lisinopril, perindopril, quinapril, ramipril, trandolapril</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Angiotensin II receptor blockers (ARB)</content> <content styleCode=\"italics\">Azilsartan, candesartan, irbesartan, losartan, olmesartan, valsartan</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">&#x3B2;-adrenoceptor blockers (&#x3B2;-blocker)</content> <content styleCode=\"italics\">Metoprolol</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Loop diuretics</content> <content styleCode=\"italics\">Furosemide, bumetanide, torasemide</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Mineralocorticoid receptor antagonists (MRA)</content> <content styleCode=\"italics\">Eplerenone, finerenone, spironolactone</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Neprilysin inhibitors</content> <content styleCode=\"italics\">Sacubitril</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Sodium-glucose cotransporter-2 (SGLT-2) inhibitors</content> <content styleCode=\"italics\">Canagliflozin, dapagliflozin, empagliflozin</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Antibiotics</content> <content styleCode=\"italics\">Trimethoprim, amoxicillin, cephalexin</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Anticoagulants</content> <content styleCode=\"italics\">Warfarin, apixaban, rivaroxaban</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Anti-parathyroid agents and Thyroid preparations</content> <content styleCode=\"italics\">Cinacalcet</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Antithrombotic agents</content> <content styleCode=\"italics\">Clopidogrel, acetylsalicylic acid</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Blood glucose lowering drugs</content> <content styleCode=\"italics\">Glipizide</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Calcium channel blockers</content> <content styleCode=\"italics\">Amlodipine, verapamil</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Immunosuppressants</content> <content styleCode=\"italics\">Tacrolimus</content></td></tr><tr><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Others</content> <content styleCode=\"italics\">Lithium, allopurinol, atorvastatin, digoxin, phenytoin, riboflavin, sevelamer</content></td></tr></tbody></table>",
+    "contraindications": "4 CONTRAINDICATIONS Veltassa is contraindicated in patients with a history of a hypersensitivity reaction to Veltassa or any of its components [see Adverse Reactions (6.1) ]. Known hypersensitivity to Veltassa or any of its components. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION For adults, the recommended starting dose of Veltassa is 8.4 grams administered orally once daily. ( 2.2 ) For adults, adjust dose by 8.4 grams daily as needed at one-week intervals to obtain desired serum potassium target range. ( 2.2 ) For pediatric patients 12 to 17 years of age, the recommended starting dose of Veltassa is 4 grams administered orally once daily. ( 2.2 ) For pediatric patients 12 to 17 years of age, adjust dose by 4 grams daily as needed at one-week intervals to obtain desired serum potassium target range. ( 2.2 ) The maximum recommended dosage in adults and pediatric patients older than 12 years is 25.2 grams once daily. ( 2.2 ) 2.1 General Information Administer Veltassa at least 3 hours before or 3 hours after other oral medications except those shown to not have a clinically important interaction [see Drug Interactions (7) and Clinical Pharmacology (12.3) ]. Do not heat Veltassa (e.g., microwave) or add to heated foods or liquids. Do not take Veltassa in its dry form. 2.2 Recommended Dosing and Titration The recommended starting dose of Veltassa varies with age and is shown below. Multiple packets may be used to achieve the prescribed dose. Monitor serum potassium and adjust the dose of Veltassa based on the serum potassium level and the desired target range. The dose may be increased or decreased, as necessary, to reach the desired serum potassium concentration, up to a maximum dose of 25.2 grams once daily in adults and pediatric patients aged 12 years and older. Adults: The recommended starting dose of Veltassa is 8.4 grams patiromer orally once daily. The dose can be up-titrated based on serum potassium level at 1-week or longer intervals, in increments of 8.4 grams. Pediatric Patients Ages 12 years and older: The recommended starting dose of Veltassa is 4 grams patiromer orally once daily. The dose can be titrated based on serum potassium level at 1-week or longer intervals, in increments of 4 grams. 2.3 Preparation of Veltassa Prepare each dose immediately prior to administration. Measure 1/3 cup of water. Pour half of the water into a glass, then add the packet(s) of Veltassa and stir. Add the remaining half of the water and stir thoroughly. The powder will not dissolve and the mixture will look cloudy. Add more water to the mixture as needed for desired consistency. Drink the mixture immediately. If powder remains in the glass after drinking, add more water, stir and drink immediately. Repeat as needed to ensure the entire dose is administered. Other beverages or soft foods (e.g., apple sauce, yogurt, pudding) can be used instead of water to prepare the mixture by following the same steps as described above. A minimum volume of 45 mL (3 tablespoons) can be used to prepare doses up to and including 4 grams patiromer. The potassium content of liquids or soft foods used to prepare the mixture should be considered as part of the dietary recommendations on potassium intake for each individual patient.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Veltassa is indicated for the treatment of hyperkalemia in adults and pediatric patients ages 12 years and older. Limitation of Use: Veltassa should not be used as an emergency treatment for life-threatening hyperkalemia because of its delayed onset of action [see Clinical Pharmacology (12.2) ] . Veltassa is a potassium binder indicated for the treatment of hyperkalemia in adults and pediatric patients ages 12 years and older. ( 1 ) Limitation of Use Veltassa should not be used as an emergency treatment for life-threatening hyperkalemia because of its delayed onset of action. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA205739"
+    ],
+    "brand_name": [
+      "VELTASSA"
+    ],
+    "generic_name": [
+      "PATIROMER"
+    ],
+    "manufacturer_name": [
+      "Vifor Pharma, Inc."
+    ],
+    "product_ndc": [
+      "53436-010",
+      "53436-084",
+      "53436-168",
+      "53436-252"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PATIROMER"
+    ],
+    "rxcui": [
+      "1716209",
+      "1716215",
+      "1716217",
+      "1716219",
+      "1716221",
+      "1716223",
+      "2692050",
+      "2692052"
+    ],
+    "spl_id": [
+      "3e4b6452-1c7c-4f58-aee4-12fb185aaa83"
+    ],
+    "spl_set_id": [
+      "bf002984-d6c9-46df-aecb-a07733f763c1"
+    ],
+    "package_ndc": [
+      "53436-084-01",
+      "53436-084-04",
+      "53436-084-30",
+      "53436-084-91",
+      "53436-084-92",
+      "53436-168-01",
+      "53436-168-30",
+      "53436-252-01",
+      "53436-252-30",
+      "53436-010-01",
+      "53436-010-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000178378",
+      "N0000178377"
+    ],
+    "pharm_class_epc": [
+      "Potassium Binder [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Potassium Ion Binding Activity [MoA]"
+    ],
+    "unii": [
+      "1FQ2RY5YHH"
+    ]
+  }
+}

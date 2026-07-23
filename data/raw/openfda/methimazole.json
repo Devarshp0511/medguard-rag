@@ -1,0 +1,72 @@
+{
+  "drug_name": "Methimazole",
+  "drug_id": 1261,
+  "sections": {
+    "warnings": "WARNINGS First Trimester Use of Methimazole and Congenital Malformations Methimazole crosses the placental membranes and can cause fetal harm when administered in the first trimester of pregnancy. Rare instances of congenital defects, including aplasia cutis, craniofacial malformations (facial dysmorphism; choanal atresia), gastrointestinal malformations (esophageal atresia with or without tracheoesophageal fistula), omphalocele and abnormalities of the omphalomesenteric duct have occurred in infants born to mothers who received methimazole in the first trimester of pregnancy. If methimazole is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be warned of the potential hazard to the fetus. Because of the risk for congenital malformations associated with use of methimazole in the first trimester of pregnancy, it may be appropriate to use other agents in pregnant women requiring treatment for hyperthyroidism. If methimazole is used, the lowest possible dose to control the maternal disease should be given. Agranulocytosis Agranulocytosis is a potentially life-threatening adverse reaction of methimazole therapy. Patients should be instructed to immediately report to their physicians any symptoms suggestive of agranulocytosis, such as fever or sore throat. Leukopenia, thrombocytopenia, and aplastic anemia (pancytopenia) may also occur. The drug should be discontinued in the presence of agranulocytosis or aplastic anemia (pancytopenia), and the patient's bone marrow indices should be monitored. Liver Toxicity Although there have been reports of hepatotoxicity (including acute liver failure) associated with methimazole, the risk of hepatotoxicity appears to be less with methimazole than with propylthiouracil, especially in the pediatric population. Symptoms suggestive of hepatic dysfunction (anorexia, pruritus, right upper quadrant pain, etc.) should prompt evaluation of liver function (bilirubin, alkaline phosphatase) and hepatocellular integrity (ALT, AST). Drug treatment should be discontinued promptly in the event of clinically significant evidence of liver abnormality including hepatic transaminase values exceeding 3 times the upper limit of normal. Hypothyroidism Methimazole can cause hypothyroidism necessitating routine monitoring of TSH and free T4 levels with adjustments in dosing to maintain a euthyroid state. Because the drug readily crosses placental membranes, methimazole can cause fetal goiter and cretinism when administered to a pregnant woman. For this reason, it is important that a sufficient, but not excessive, dose be given during pregnancy (see PRECAUTIONS, Pregnancy ). Vasculitis Cases of vasculitis resulting in severe complications have been reported in patients receiving methimazole therapy. These cases of vasculitis include: leukocytoclastic cutaneous vasculitis, acute kidney injury and glomerulonephritis, alveolar/pulmonary hemorrhage, CNS vasculitis, and neuropathy. Most cases were associated with antineutrophilic cytoplasmic antibodies (ANCA)-positive vasculitis. In some cases, vasculitis resolved/improved with drug discontinuation; however, more severe cases required treatment with additional measures including corticosteroids, immunosuppressant therapy, and plasmapheresis. If vasculitis is suspected, discontinue therapy and initiate appropriate intervention.",
+    "drug_interactions": "Drug Interactions Anticoagulants (oral) Due to potential inhibition of vitamin K activity by methimazole, the activity of oral anticoagulants (e.g., warfarin) may be increased; additional monitoring of PT/INR should be considered, especially before surgical procedures. \u00df-adrenergic blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be needed. Theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed.",
+    "contraindications": "CONTRAINDICATIONS",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION",
+    "indications_and_usage": "INDICATIONS AND USAGE"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA218830"
+    ],
+    "brand_name": [
+      "methimazole"
+    ],
+    "generic_name": [
+      "METHIMAZOLE"
+    ],
+    "manufacturer_name": [
+      "Viona Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "72578-212",
+      "72578-213"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "METHIMAZOLE"
+    ],
+    "rxcui": [
+      "197941",
+      "197942"
+    ],
+    "spl_id": [
+      "ce881707-0cf8-49b8-af99-367197e27bfa"
+    ],
+    "spl_set_id": [
+      "05a8fed7-f805-4c59-8840-630174b6d130"
+    ],
+    "package_ndc": [
+      "72578-212-01",
+      "72578-213-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0372578213015",
+      "0372578212018"
+    ],
+    "nui": [
+      "N0000175918",
+      "N0000175917"
+    ],
+    "pharm_class_epc": [
+      "Thyroid Hormone Synthesis Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Thyroid Hormone Synthesis Inhibitors [MoA]"
+    ],
+    "unii": [
+      "554Z48XN5E"
+    ]
+  }
+}

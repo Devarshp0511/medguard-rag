@@ -1,0 +1,54 @@
+{
+  "drug_name": "Loperamide",
+  "drug_id": 494,
+  "sections": {
+    "warnings": "Warnings Allergy alert: Do not use if you have ever had a rash or other allergic reaction to loperamide HCl Heart alert: Taking more than directed can cause serious heart problems or death Do not use if you have bloody or black stool Ask a doctor before use if you have \u2022 fever \u2022 mucus in the stool \u2022 a history of liver disease \u2022 a history of abnormal heart rhythm Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs. When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery. Stop use and ask a doctor if \u2022 symptoms get worse \u2022 diarrhea lasts for more than 2 days \u2022 you get abdominal swelling or bulging. These may be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "dosage_and_administration": "Directions \u2022 drink plenty of clear fluids to help prevent dehydration caused by diarrhea \u2022 find right dose on chart. If possible, use weight to dose; otherwise use age. \u2022 shake well before using \u2022 use only enclosed dosing cup specifically designed for use with this product. Do not use any other dosing device. \u2022 mL = milliliter adults and children 12 years and over 30 mL after the first loose stool; 15 mL after each subsequent loose stool; but no more than 60 mL in 24 hours children 9-11 years (60-95 lbs) 15 mL after the first loose stool; 7.5 mL after each subsequent loose stool; but no more than 45 mL in 24 hours children 6-8 years (48-59 lbs) 15 mL after the first loose stool; 7.5 mL after each subsequent loose stool; but no more than 30 mL in 24 hours children 2-5 years (34 to 47 lbs) ask a doctor children under 2 years (up to 33 lbs) do not use",
+    "dosage_and_administration_table": "<table width=\"520.5pt\"><col width=\"29%\"/><col width=\"71%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>adults and children </paragraph><paragraph>12 years and over</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>30 mL after the first loose stool; 15 mL after each subsequent loose stool; but no more than 60 mL in 24 hours</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>children 9-11 years </paragraph><paragraph>(60-95 lbs)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>15 mL after the first loose stool; 7.5 mL after each subsequent loose stool; but no more than 45 mL in 24 hours</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>children 6-8 years </paragraph><paragraph>(48-59 lbs)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>15 mL after the first loose stool; 7.5 mL after each subsequent loose stool; but no more than 30 mL in 24 hours</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>children 2-5 years</paragraph><paragraph>(34 to 47 lbs)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>children under 2 years</paragraph><paragraph>(up to 33 lbs)</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>do not use</paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "Use controls symptoms of diarrhea, including Travelers\u2019 Diarrhea"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA091292"
+    ],
+    "brand_name": [
+      "anti diarrheal"
+    ],
+    "generic_name": [
+      "LOPERAMIDE HCL"
+    ],
+    "manufacturer_name": [
+      "H E B"
+    ],
+    "product_ndc": [
+      "37808-449"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LOPERAMIDE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1250685"
+    ],
+    "spl_id": [
+      "80acab10-ff9e-4353-8bf0-a9ea6138e047"
+    ],
+    "spl_set_id": [
+      "01964f8a-f05c-4f72-9530-e0cffd981ffa"
+    ],
+    "package_ndc": [
+      "37808-449-34"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "77TI35393C"
+    ]
+  }
+}

@@ -1,0 +1,1657 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AMBAR — A Fire-First Kitchen</title>
+<meta name="description" content="AMBAR is a fire-first cloud kitchen. Wood-fire cooking, sealed at temperature, at your door in under forty minutes. The city is our dining room.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Manrope:wght@300;400;500;600;700;800&family=Marcellus&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   AMBAR — design tokens
+   ============================================================ */
+:root{
+  --ease-out: cubic-bezier(.22,1,.36,1);
+  --ease-io:  cubic-bezier(.65,0,.35,1);
+  --ease-soft:cubic-bezier(.33,1,.68,1);
+  --dur-1:.45s; --dur-2:.8s; --dur-3:1.4s;
+
+  --font-display:'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --font-mark:'Marcellus', Georgia, serif;
+  --font-ui:'Manrope', -apple-system, 'Segoe UI', sans-serif;
+
+  --w-max: 1280px;
+  --gutter: clamp(20px, 4.5vw, 64px);
+
+  --fs-hero: clamp(2.9rem, 8.4vw, 7.6rem);
+  --fs-h2:   clamp(2.1rem, 4.6vw, 4.1rem);
+  --fs-h3:   clamp(1.35rem, 2.2vw, 1.85rem);
+  --fs-body: clamp(.98rem, 1.05vw, 1.09rem);
+  --fs-sm:   clamp(.8rem, .85vw, .875rem);
+  --fs-xs:   .72rem;
+}
+
+/* --- dark (primary) --- */
+:root, [data-theme="dark"]{
+  --bg:        #0A0807;
+  --bg-2:      #0F0C0A;
+  --surface:   #16110D;
+  --surface-2: #1D1712;
+  --line:      rgba(240,231,218,.09);
+  --line-2:    rgba(240,231,218,.16);
+  --ink:       #F1EAE0;
+  --ink-2:     #B4A99B;
+  --ink-3:     #7C7266;
+  --amber:     #E3A251;
+  --ember:     #C2622B;
+  --deep:      #7E3A16;
+  --glow:      rgba(227,162,81,.16);
+  --glow-hard: rgba(227,162,81,.42);
+  --sheen:     rgba(255,244,228,.05);
+  --shadow:    0 30px 80px -20px rgba(0,0,0,.65);
+  --nav-bg:    rgba(10,8,7,.55);
+  --plate-rim: rgba(0,0,0,.5);
+  color-scheme: dark;
+}
+/* --- light (porcelain & ink) --- */
+[data-theme="light"]{
+  --bg:        #F4F1EA;
+  --bg-2:      #EDE8DF;
+  --surface:   #FBF9F4;
+  --surface-2: #F1ECE2;
+  --line:      rgba(26,19,13,.1);
+  --line-2:    rgba(26,19,13,.18);
+  --ink:       #1B1410;
+  --ink-2:     #5D5348;
+  --ink-3:     #90867A;
+  --amber:     #B06A1E;
+  --ember:     #9A4A1B;
+  --deep:      #6E340F;
+  --glow:      rgba(176,106,30,.13);
+  --glow-hard: rgba(176,106,30,.35);
+  --sheen:     rgba(255,255,255,.5);
+  --shadow:    0 30px 70px -28px rgba(60,40,20,.28);
+  --nav-bg:    rgba(244,241,234,.6);
+  --plate-rim: rgba(120,80,40,.18);
+  color-scheme: light;
+}
+
+/* ============================================================
+   base
+   ============================================================ */
+*,*::before,*::after{ box-sizing:border-box; margin:0; padding:0; }
+html{ scroll-behavior:smooth; }
+body{
+  font-family:var(--font-ui);
+  font-size:var(--fs-body);
+  line-height:1.7;
+  background:var(--bg);
+  color:var(--ink);
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  overflow-x:hidden;
+  transition:background-color .7s var(--ease-io), color .7s var(--ease-io);
+}
+::selection{ background:var(--amber); color:#140C05; }
+img,svg,canvas{ display:block; max-width:100%; }
+a{ color:inherit; text-decoration:none; }
+button{ font:inherit; color:inherit; background:none; border:0; cursor:pointer; }
+h1,h2,h3{ font-weight:500; line-height:1.05; }
+.container{ width:min(var(--w-max), 100% - var(--gutter)*2); margin-inline:auto; }
+
+/* focus */
+:focus-visible{ outline:2px solid var(--amber); outline-offset:4px; border-radius:2px; }
+
+/* grain — one quiet film layer over everything */
+.grain{
+  position:fixed; inset:-50%; z-index:9990; pointer-events:none; opacity:.05;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.6'/%3E%3C/svg%3E");
+  animation:grainShift 9s steps(6) infinite;
+}
+@keyframes grainShift{
+  0%{transform:translate(0,0)} 20%{transform:translate(-4%,3%)} 40%{transform:translate(3%,-5%)}
+  60%{transform:translate(-3%,-2%)} 80%{transform:translate(4%,4%)} 100%{transform:translate(0,0)}
+}
+
+/* ============================================================
+   custom cursor (fine pointers only)
+   ============================================================ */
+@media (hover:hover) and (pointer:fine){
+  .cursor-dot,.cursor-ring{
+    position:fixed; top:0; left:0; z-index:9999; pointer-events:none;
+    border-radius:50%; will-change:transform;
+  }
+  .cursor-dot{
+    width:6px; height:6px; background:var(--amber);
+    transform:translate(-50%,-50%);
+    transition:opacity .3s, width .3s var(--ease-out), height .3s var(--ease-out);
+  }
+  .cursor-ring{
+    width:38px; height:38px; border:1px solid var(--glow-hard);
+    transform:translate(-50%,-50%);
+    transition:width .45s var(--ease-out), height .45s var(--ease-out),
+               border-color .45s, background-color .45s, opacity .3s;
+  }
+  body.cursor-hot .cursor-ring{ width:64px; height:64px; background:var(--glow); border-color:transparent; }
+  body.cursor-hot .cursor-dot{ width:4px; height:4px; }
+  body.cursor-text .cursor-ring{ width:80px; height:80px; }
+}
+@media (hover:none), (pointer:coarse){ .cursor-dot,.cursor-ring{ display:none; } }
+
+/* ============================================================
+   preloader — the first strike of the match
+   ============================================================ */
+.loader{
+  position:fixed; inset:0; z-index:10000; display:grid; place-items:center;
+  background:var(--bg);
+  transition:opacity .9s var(--ease-io), visibility .9s;
+}
+.loader.done{ opacity:0; visibility:hidden; }
+.loader-mark{
+  font-family:var(--font-mark); font-size:clamp(2rem,6vw,3.6rem);
+  letter-spacing:.42em; text-indent:.42em; color:var(--ink);
+  display:flex; overflow:hidden;
+}
+.loader-mark span{
+  display:inline-block; transform:translateY(120%);
+  animation:letterUp .9s var(--ease-out) forwards;
+}
+.loader-mark span:nth-child(1){animation-delay:.10s}
+.loader-mark span:nth-child(2){animation-delay:.18s}
+.loader-mark span:nth-child(3){animation-delay:.26s}
+.loader-mark span:nth-child(4){animation-delay:.34s}
+.loader-mark span:nth-child(5){animation-delay:.42s}
+@keyframes letterUp{ to{ transform:translateY(0); } }
+.loader-line{
+  width:min(220px,40vw); height:1px; background:var(--line-2);
+  margin-top:28px; position:relative; overflow:hidden;
+}
+.loader-line::after{
+  content:""; position:absolute; inset:0; background:linear-gradient(90deg,transparent,var(--amber),transparent);
+  transform:translateX(-100%); animation:heatPass 1.6s var(--ease-io) .3s infinite;
+}
+@keyframes heatPass{ to{ transform:translateX(100%); } }
+.loader-sub{
+  margin-top:18px; font-size:var(--fs-xs); letter-spacing:.34em; text-indent:.34em;
+  text-transform:uppercase; color:var(--ink-3);
+  opacity:0; animation:fadeIn 1s .8s forwards;
+}
+@keyframes fadeIn{ to{ opacity:1; } }
+
+/* ============================================================
+   nav
+   ============================================================ */
+.nav{
+  position:fixed; top:0; left:0; right:0; z-index:1000;
+  transition:transform .55s var(--ease-out), background-color .5s, border-color .5s, backdrop-filter .5s;
+  border-bottom:1px solid transparent;
+}
+.nav.scrolled{
+  background:var(--nav-bg);
+  -webkit-backdrop-filter:blur(18px) saturate(1.4);
+  backdrop-filter:blur(18px) saturate(1.4);
+  border-bottom-color:var(--line);
+}
+.nav.hidden{ transform:translateY(-100%); }
+.nav-inner{
+  display:flex; align-items:center; justify-content:space-between;
+  padding:clamp(14px,2vw,20px) 0;
+}
+.brand{
+  font-family:var(--font-mark); font-size:1.22rem; letter-spacing:.34em; text-indent:.34em;
+  display:flex; align-items:center; gap:12px;
+}
+.brand-flame{
+  width:9px; height:12px; border-radius:50% 50% 50% 50%/62% 62% 38% 38%;
+  background:radial-gradient(circle at 50% 80%, var(--amber), var(--ember) 70%);
+  box-shadow:0 0 14px 2px var(--glow-hard);
+  animation:flick 2.6s ease-in-out infinite;
+}
+@keyframes flick{
+  0%,100%{ transform:scaleY(1) rotate(-2deg); opacity:.95; }
+  30%{ transform:scaleY(1.18) rotate(2deg); opacity:1; }
+  60%{ transform:scaleY(.92) rotate(-1deg); opacity:.85; }
+}
+.nav-links{ display:flex; gap:clamp(18px,2.6vw,38px); list-style:none; }
+.nav-links a{
+  font-size:var(--fs-sm); font-weight:500; letter-spacing:.14em; text-transform:uppercase;
+  color:var(--ink-2); position:relative; padding:6px 0; transition:color .35s;
+}
+.nav-links a::after{
+  content:""; position:absolute; left:0; bottom:0; height:1px; width:100%;
+  background:var(--amber); transform:scaleX(0); transform-origin:right;
+  transition:transform .5s var(--ease-out);
+}
+.nav-links a:hover{ color:var(--ink); }
+.nav-links a:hover::after{ transform:scaleX(1); transform-origin:left; }
+.nav-actions{ display:flex; align-items:center; gap:14px; }
+
+.theme-toggle{
+  width:44px; height:26px; border-radius:100px; border:1px solid var(--line-2);
+  position:relative; transition:border-color .4s, background-color .4s;
+}
+.theme-toggle::before{
+  content:""; position:absolute; top:3px; left:3px; width:18px; height:18px; border-radius:50%;
+  background:radial-gradient(circle at 35% 35%, var(--amber), var(--ember));
+  box-shadow:0 0 10px var(--glow-hard);
+  transition:transform .5s var(--ease-out), background .5s;
+}
+[data-theme="light"] .theme-toggle::before{ transform:translateX(18px); }
+.theme-toggle:hover{ border-color:var(--amber); }
+
+.btn{
+  display:inline-flex; align-items:center; gap:10px;
+  font-size:var(--fs-sm); font-weight:600; letter-spacing:.12em; text-transform:uppercase;
+  padding:14px 30px; border-radius:100px; position:relative; overflow:hidden;
+  transition:color .4s var(--ease-out), border-color .4s, transform .3s var(--ease-out), box-shadow .5s;
+  will-change:transform;
+}
+.btn-solid{ background:var(--ink); color:var(--bg); }
+.btn-solid::before{
+  content:""; position:absolute; inset:0; z-index:0;
+  background:linear-gradient(120deg, var(--ember), var(--amber));
+  transform:translateY(101%); transition:transform .5s var(--ease-out);
+}
+.btn-solid:hover::before{ transform:translateY(0); }
+.btn-solid:hover{ color:#160D06; box-shadow:0 12px 40px -8px var(--glow-hard); }
+.btn-solid span{ position:relative; z-index:1; }
+.btn-ghost{ border:1px solid var(--line-2); color:var(--ink); }
+.btn-ghost:hover{ border-color:var(--amber); color:var(--amber); }
+.btn-sm{ padding:11px 22px; }
+.btn .arr{ transition:transform .4s var(--ease-out); }
+.btn:hover .arr{ transform:translateX(5px); }
+
+.nav-burger{ display:none; }
+
+/* ============================================================
+   hero — the kitchen above the city
+   ============================================================ */
+.hero{
+  min-height:100svh; position:relative; display:flex; align-items:center;
+  overflow:hidden; isolation:isolate;
+}
+#embers{
+  position:absolute; inset:0; z-index:0; pointer-events:none;
+  transition:opacity 1s;
+}
+.hero-orb{
+  position:absolute; z-index:0; border-radius:50%; pointer-events:none;
+  filter:blur(70px); opacity:.5; will-change:transform;
+}
+.hero-orb.a{
+  width:52vmax; height:52vmax; right:-18vmax; top:-16vmax;
+  background:radial-gradient(circle, var(--deep) 0%, transparent 62%);
+  animation:orbDrift 26s ease-in-out infinite alternate;
+}
+.hero-orb.b{
+  width:34vmax; height:34vmax; left:-12vmax; bottom:-14vmax;
+  background:radial-gradient(circle, var(--ember) 0%, transparent 60%);
+  opacity:.24; animation:orbDrift 32s ease-in-out infinite alternate-reverse;
+}
+@keyframes orbDrift{
+  from{ transform:translate3d(0,0,0) scale(1); }
+  to{ transform:translate3d(-5%,6%,0) scale(1.12); }
+}
+.hero-inner{ position:relative; z-index:2; width:100%; padding:140px 0 110px; }
+.hero-eyebrow{
+  display:inline-flex; align-items:center; gap:14px;
+  font-size:var(--fs-xs); font-weight:600; letter-spacing:.4em; text-transform:uppercase;
+  color:var(--ink-2); margin-bottom:clamp(22px,3.5vh,40px);
+}
+.hero-eyebrow::before{
+  content:""; width:44px; height:1px; background:linear-gradient(90deg,var(--amber),transparent);
+}
+.hero h1{
+  font-family:var(--font-display); font-size:var(--fs-hero); font-weight:500;
+  letter-spacing:-.015em; line-height:.98; max-width:12ch;
+}
+.hero h1 em{
+  font-style:italic; font-weight:400;
+  background:linear-gradient(100deg, var(--amber) 10%, var(--ember) 55%, var(--amber) 90%);
+  background-size:200% 100%;
+  -webkit-background-clip:text; background-clip:text; color:transparent;
+  animation:molten 7s var(--ease-io) infinite;
+}
+@keyframes molten{ 0%,100%{ background-position:0% 0; } 50%{ background-position:100% 0; } }
+.hero-line{ display:block; overflow:hidden; }
+.hero-line > span{ display:inline-block; transform:translateY(112%); }
+.loaded .hero-line > span{ animation:letterUp 1.1s var(--ease-out) forwards; }
+.loaded .hero-line:nth-child(1) > span{ animation-delay:.95s; }
+.loaded .hero-line:nth-child(2) > span{ animation-delay:1.08s; }
+.loaded .hero-line:nth-child(3) > span{ animation-delay:1.21s; }
+.hero-sub{
+  max-width:46ch; margin-top:clamp(24px,3.5vh,38px); color:var(--ink-2);
+  font-size:calc(var(--fs-body)*1.06); font-weight:400;
+  opacity:0; transform:translateY(20px);
+}
+.loaded .hero-sub{ animation:riseIn 1s var(--ease-out) 1.5s forwards; }
+@keyframes riseIn{ to{ opacity:1; transform:translateY(0); } }
+.hero-ctas{
+  display:flex; flex-wrap:wrap; gap:16px; margin-top:clamp(28px,4vh,44px);
+  opacity:0; transform:translateY(20px);
+}
+.loaded .hero-ctas{ animation:riseIn 1s var(--ease-out) 1.68s forwards; }
+
+.hero-stats{
+  display:flex; gap:clamp(28px,4.5vw,72px); flex-wrap:wrap;
+  margin-top:clamp(48px,8vh,86px); padding-top:30px; border-top:1px solid var(--line);
+  opacity:0;
+}
+.loaded .hero-stats{ animation:fadeIn 1.2s 2s forwards; }
+.stat{ min-width:90px; }
+.stat b{
+  display:block; font-family:var(--font-display); font-weight:500;
+  font-size:clamp(1.7rem,2.6vw,2.4rem); line-height:1; color:var(--ink);
+}
+.stat b i{ font-style:normal; color:var(--amber); font-size:.65em; margin-left:2px; }
+.stat span{
+  display:block; margin-top:8px; font-size:var(--fs-xs); font-weight:600;
+  letter-spacing:.22em; text-transform:uppercase; color:var(--ink-3);
+}
+.scroll-cue{
+  position:absolute; bottom:34px; right:var(--gutter); z-index:2;
+  display:flex; flex-direction:column; align-items:center; gap:12px;
+  font-size:var(--fs-xs); letter-spacing:.3em; text-transform:uppercase; color:var(--ink-3);
+  writing-mode:vertical-rl; opacity:0;
+}
+.loaded .scroll-cue{ animation:fadeIn 1.4s 2.4s forwards; }
+.scroll-cue::after{
+  content:""; width:1px; height:56px; background:var(--line-2);
+  position:relative; overflow:hidden; display:block;
+  background:linear-gradient(180deg, var(--amber) 0 30%, var(--line-2) 30%);
+  background-size:100% 300%; animation:cueDrop 2.2s var(--ease-io) infinite;
+}
+@keyframes cueDrop{ 0%{ background-position:0 130%; } 100%{ background-position:0 -130%; } }
+
+/* ============================================================
+   shared section chrome
+   ============================================================ */
+section{ position:relative; }
+.section-pad{ padding:clamp(90px,13vh,160px) 0; }
+.eyebrow{
+  display:inline-flex; align-items:center; gap:14px;
+  font-size:var(--fs-xs); font-weight:700; letter-spacing:.4em; text-transform:uppercase;
+  color:var(--amber); margin-bottom:22px;
+}
+.eyebrow::before{ content:""; width:34px; height:1px; background:var(--amber); opacity:.6; }
+.h2{
+  font-family:var(--font-display); font-size:var(--fs-h2); letter-spacing:-.01em;
+  max-width:20ch;
+}
+.h2 em{ font-style:italic; font-weight:400; color:var(--amber); }
+.lede{ color:var(--ink-2); max-width:52ch; margin-top:20px; }
+.section-head{ margin-bottom:clamp(44px,7vh,76px); }
+.section-head.split{
+  display:flex; align-items:flex-end; justify-content:space-between; gap:32px; flex-wrap:wrap;
+}
+
+/* reveal system */
+.rv{ opacity:0; transform:translateY(44px); transition:opacity 1s var(--ease-out), transform 1s var(--ease-out); }
+.rv.in{ opacity:1; transform:none; }
+.rv-l{ transform:translateX(-44px); } .rv-r{ transform:translateX(44px); }
+.rv-l.in,.rv-r.in{ transform:none; }
+[data-stagger] > *{ opacity:0; transform:translateY(38px); transition:opacity .9s var(--ease-out), transform .9s var(--ease-out); }
+[data-stagger].in > *{ opacity:1; transform:none; }
+
+/* ambient idle drift — the page never freezes */
+.float-slow{ animation:floatSlow 11s ease-in-out infinite; }
+@keyframes floatSlow{ 0%,100%{ transform:translateY(0); } 50%{ transform:translateY(-10px); } }
+body.idle .idle-breathe{ animation:breathe 6s ease-in-out infinite; }
+@keyframes breathe{ 0%,100%{ transform:scale(1); } 50%{ transform:scale(1.015); } }
+
+/* ============================================================
+   marquee
+   ============================================================ */
+.marquee{
+  border-block:1px solid var(--line); padding:22px 0; overflow:hidden;
+  background:var(--bg-2); transition:background-color .7s var(--ease-io);
+}
+.marquee-track{ display:flex; gap:0; width:max-content; animation:marquee 34s linear infinite; }
+.marquee:hover .marquee-track{ animation-play-state:paused; }
+@keyframes marquee{ to{ transform:translateX(-50%); } }
+.marquee-track span{
+  font-family:var(--font-display); font-style:italic; font-size:clamp(1.05rem,1.6vw,1.4rem);
+  color:var(--ink-2); white-space:nowrap; padding:0 26px; display:flex; align-items:center; gap:52px;
+}
+.marquee-track span::after{
+  content:"✦"; font-style:normal; color:var(--amber); font-size:.7em;
+}
+
+/* ============================================================
+   featured dishes
+   ============================================================ */
+.dishes{ background:var(--bg); }
+.dish-grid{
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(min(300px,100%),1fr));
+  gap:clamp(18px,2.4vw,30px);
+}
+.dish{
+  position:relative; border:1px solid var(--line); border-radius:22px; overflow:hidden;
+  background:linear-gradient(170deg, var(--surface), var(--bg-2));
+  padding:clamp(26px,2.6vw,36px);
+  transition:border-color .5s, box-shadow .6s var(--ease-out), background .7s;
+  transform-style:preserve-3d; will-change:transform;
+}
+.dish:hover{ border-color:var(--line-2); box-shadow:var(--shadow); }
+.dish::after{ /* moving sheen */
+  content:""; position:absolute; inset:0; pointer-events:none;
+  background:radial-gradient(600px circle at var(--mx,50%) var(--my,50%), var(--sheen), transparent 42%);
+  opacity:0; transition:opacity .5s;
+}
+.dish:hover::after{ opacity:1; }
+.dish-plate-wrap{
+  display:grid; place-items:center; padding:clamp(14px,2vw,26px) 0 clamp(22px,2.4vw,34px);
+  transform:translateZ(46px);
+}
+.plate{
+  width:clamp(168px,15vw,208px); aspect-ratio:1; border-radius:50%; position:relative;
+  box-shadow:
+    inset 0 0 0 8px var(--surface-2),
+    inset 0 0 0 9px var(--plate-rim),
+    inset 0 14px 26px rgba(0,0,0,.28),
+    0 26px 40px -18px rgba(0,0,0,.55);
+  transition:transform .8s var(--ease-out), box-shadow .8s;
+}
+.dish:hover .plate{ transform:rotate(9deg) scale(1.04); }
+.plate::before{ /* ceramic rim highlight */
+  content:""; position:absolute; inset:0; border-radius:50%;
+  background:conic-gradient(from 210deg, rgba(255,255,255,.14), transparent 30%, transparent 70%, rgba(255,255,255,.07));
+  mix-blend-mode:screen; pointer-events:none;
+}
+.plate-food{ position:absolute; inset:16%; border-radius:50%; overflow:hidden; }
+.plate-food::after{
+  content:""; position:absolute; inset:0; border-radius:50%;
+  box-shadow:inset 0 6px 18px rgba(0,0,0,.35), inset 0 -4px 12px rgba(255,255,255,.06);
+}
+/* four hand-mixed dishes */
+.food-ember{
+  background:
+    radial-gradient(circle at 32% 30%, #F2C077 0 10%, transparent 11%),
+    radial-gradient(circle at 68% 62%, #E8A954 0 14%, transparent 15%),
+    radial-gradient(circle at 46% 70%, #8C4A1F 0 8%, transparent 9%),
+    radial-gradient(circle at 60% 30%, #5C2E12 0 7%, transparent 8%),
+    radial-gradient(circle at 50% 50%, #C97C33, #7E3E16 68%, #4A2410 100%);
+}
+.food-saffron{
+  background:
+    radial-gradient(circle at 30% 62%, rgba(255,255,255,.25) 0 6%, transparent 7%),
+    radial-gradient(circle at 66% 38%, #B33E1B 0 3.4%, transparent 4%),
+    radial-gradient(circle at 44% 30%, #B33E1B 0 2.6%, transparent 3.2%),
+    radial-gradient(circle at 58% 66%, #B33E1B 0 3%, transparent 3.6%),
+    conic-gradient(from 40deg, #E9B45C, #D89838, #F0C578, #DA9C3E, #E9B45C);
+}
+.food-rib{
+  background:
+    radial-gradient(ellipse 60% 34% at 50% 46%, #3A1B0C 0 58%, transparent 60%),
+    radial-gradient(ellipse 52% 26% at 50% 44%, #5B2B12 0 52%, transparent 54%),
+    radial-gradient(circle at 30% 74%, #7DA05B 0 5%, transparent 6%),
+    radial-gradient(circle at 70% 76%, #7DA05B 0 4%, transparent 5%),
+    radial-gradient(circle at 50% 50%, #241209, #150A05 90%);
+}
+.food-custard{
+  background:
+    radial-gradient(circle at 36% 32%, rgba(255,255,255,.4) 0 7%, transparent 8%),
+    radial-gradient(ellipse 64% 58% at 50% 52%, #E8C171 0 62%, #C99136 78%, transparent 80%),
+    radial-gradient(circle at 62% 30%, #6B3A12 0 4%, transparent 5%),
+    radial-gradient(circle at 50% 50%, #2A1A0E, #1B100A 90%);
+}
+[data-theme="light"] .plate{
+  box-shadow:
+    inset 0 0 0 8px #FFFFFF,
+    inset 0 0 0 9px var(--plate-rim),
+    inset 0 12px 22px rgba(90,60,30,.14),
+    0 24px 44px -20px rgba(90,60,30,.4);
+}
+/* steam */
+.steam{
+  position:absolute; left:50%; top:-6%; transform:translateX(-50%); width:60%;
+  opacity:0; transition:opacity .7s;
+  pointer-events:none;
+}
+.dish:hover .steam{ opacity:.8; }
+.steam path{
+  fill:none; stroke:var(--ink-2); stroke-width:1.6; stroke-linecap:round; opacity:.5;
+  stroke-dasharray:60; stroke-dashoffset:60;
+}
+.dish:hover .steam path{ animation:steamRise 2.6s var(--ease-io) infinite; }
+.steam path:nth-child(2){ animation-delay:.5s !important; }
+.steam path:nth-child(3){ animation-delay:1s !important; }
+@keyframes steamRise{
+  0%{ stroke-dashoffset:60; opacity:0; transform:translateY(6px); }
+  35%{ opacity:.55; }
+  100%{ stroke-dashoffset:-60; opacity:0; transform:translateY(-10px); }
+}
+.dish-tag{
+  font-size:var(--fs-xs); font-weight:700; letter-spacing:.26em; text-transform:uppercase;
+  color:var(--amber);
+}
+.dish h3{
+  font-family:var(--font-display); font-size:var(--fs-h3); margin-top:10px; letter-spacing:-.005em;
+}
+.dish p{ color:var(--ink-2); font-size:var(--fs-sm); margin-top:10px; min-height:3.2em; }
+.dish-foot{
+  display:flex; align-items:center; justify-content:space-between; margin-top:22px;
+  padding-top:18px; border-top:1px solid var(--line);
+}
+.dish-price{ font-family:var(--font-display); font-size:1.3rem; }
+.dish-add{
+  width:42px; height:42px; border-radius:50%; border:1px solid var(--line-2);
+  display:grid; place-items:center; font-size:1.1rem; line-height:1;
+  transition:background-color .4s, color .4s, border-color .4s, transform .4s var(--ease-out);
+}
+.dish-add:hover{ background:var(--amber); border-color:var(--amber); color:#160D06; transform:rotate(90deg); }
+
+/* ============================================================
+   collections — horizontal shelf
+   ============================================================ */
+.collections{ background:var(--bg-2); transition:background-color .7s var(--ease-io); }
+.shelf{
+  display:grid; grid-auto-flow:column; grid-auto-columns:clamp(280px,30vw,420px);
+  gap:clamp(16px,2vw,26px); overflow-x:auto; padding:6px var(--gutter) 26px;
+  scroll-snap-type:x mandatory; scrollbar-width:none;
+  width:100%;
+}
+.shelf::-webkit-scrollbar{ display:none; }
+.shelf-card{
+  scroll-snap-align:center; border-radius:24px; padding:clamp(26px,2.6vw,38px);
+  min-height:clamp(340px,42vh,430px); display:flex; flex-direction:column; justify-content:flex-end;
+  position:relative; overflow:hidden; border:1px solid var(--line);
+  background:var(--surface); transition:transform .6s var(--ease-out), border-color .5s, background .7s;
+}
+.shelf-card:hover{ transform:translateY(-8px); border-color:var(--line-2); }
+.shelf-card::before{
+  content:""; position:absolute; inset:0;
+  background:var(--collection-art, radial-gradient(120% 90% at 80% 0%, var(--glow), transparent 55%));
+  transition:transform 1.2s var(--ease-out); transform-origin:top right;
+}
+.shelf-card:hover::before{ transform:scale(1.15); }
+.shelf-num{
+  position:absolute; top:24px; right:28px; font-family:var(--font-display); font-style:italic;
+  font-size:1rem; color:var(--ink-3);
+}
+.shelf-card h3{ font-family:var(--font-display); font-size:var(--fs-h3); position:relative; }
+.shelf-card p{ color:var(--ink-2); font-size:var(--fs-sm); margin-top:10px; position:relative; }
+.shelf-meta{
+  display:flex; gap:18px; margin-top:18px; position:relative;
+  font-size:var(--fs-xs); font-weight:700; letter-spacing:.2em; text-transform:uppercase; color:var(--amber);
+}
+.shelf-hint{
+  display:flex; align-items:center; gap:10px; color:var(--ink-3);
+  font-size:var(--fs-xs); letter-spacing:.24em; text-transform:uppercase; margin-top:6px;
+}
+.shelf-hint::after{ content:"⟶"; animation:nudge 2.4s ease-in-out infinite; }
+@keyframes nudge{ 0%,100%{ transform:translateX(0); } 50%{ transform:translateX(8px); } }
+
+/* ============================================================
+   chef story
+   ============================================================ */
+.story-grid{
+  display:grid; grid-template-columns:minmax(0,.92fr) minmax(0,1.08fr);
+  gap:clamp(40px,6vw,96px); align-items:center;
+}
+.portrait{
+  aspect-ratio:4/5; border-radius:26px; position:relative; overflow:hidden;
+  border:1px solid var(--line);
+  background:
+    radial-gradient(70% 55% at 50% 100%, var(--deep) 0%, transparent 70%),
+    linear-gradient(180deg, var(--bg-2), var(--surface));
+}
+.portrait-fire{
+  position:absolute; left:50%; bottom:-4%; transform:translateX(-50%);
+  width:56%; aspect-ratio:1; border-radius:50%;
+  background:radial-gradient(circle at 50% 72%, var(--amber) 0%, var(--ember) 34%, transparent 70%);
+  filter:blur(26px); opacity:.75; animation:hearthPulse 5s ease-in-out infinite;
+}
+@keyframes hearthPulse{ 0%,100%{ opacity:.6; transform:translateX(-50%) scale(1); } 50%{ opacity:.9; transform:translateX(-50%) scale(1.08); } }
+.portrait-arch{
+  position:absolute; left:50%; bottom:0; transform:translateX(-50%);
+  width:58%; height:74%;
+  border:1px solid var(--line-2); border-bottom:0;
+  border-radius:300px 300px 0 0;
+  background:linear-gradient(180deg, transparent 55%, rgba(0,0,0,.22));
+}
+.portrait-arch::before{
+  content:""; position:absolute; inset:12px 12px 0;
+  border:1px solid var(--line); border-bottom:0; border-radius:300px 300px 0 0;
+}
+.portrait-logs{
+  position:absolute; left:50%; bottom:9%; transform:translateX(-50%);
+  display:flex; gap:7px;
+}
+.portrait-logs i{
+  width:34px; height:8px; border-radius:6px; background:var(--deep);
+  box-shadow:inset 0 -2px 4px rgba(0,0,0,.4), 0 0 12px var(--glow-hard);
+}
+.portrait-logs i:nth-child(2){ transform:rotate(-8deg) translateY(-3px); background:var(--ember); }
+.portrait-logs i:nth-child(3){ transform:rotate(6deg); }
+.portrait-caption{
+  position:absolute; left:24px; bottom:20px; font-size:var(--fs-xs); letter-spacing:.28em;
+  text-transform:uppercase; color:var(--ink-2);
+}
+.story-quote{
+  font-family:var(--font-display); font-style:italic; font-weight:400;
+  font-size:clamp(1.5rem,2.6vw,2.2rem); line-height:1.34; color:var(--ink);
+  margin-top:30px; padding-left:26px; border-left:2px solid var(--amber);
+}
+.story-copy{ margin-top:26px; color:var(--ink-2); max-width:56ch; }
+.story-copy + .story-copy{ margin-top:16px; }
+.story-sign{
+  margin-top:34px; font-family:var(--font-display); font-style:italic; font-size:1.5rem; color:var(--amber);
+}
+.story-sign small{
+  display:block; font-family:var(--font-ui); font-style:normal; font-size:var(--fs-xs);
+  letter-spacing:.26em; text-transform:uppercase; color:var(--ink-3); margin-top:6px;
+}
+
+/* ============================================================
+   philosophy — three vows
+   ============================================================ */
+.philosophy{ background:var(--bg-2); overflow:hidden; transition:background-color .7s var(--ease-io); }
+.vows{ display:grid; grid-template-columns:repeat(3,1fr); gap:clamp(18px,2.4vw,30px); }
+.vow{
+  padding:clamp(28px,3vw,42px); border:1px solid var(--line); border-radius:22px;
+  background:var(--surface); position:relative; overflow:hidden;
+  transition:transform .6s var(--ease-out), border-color .5s, background .7s;
+}
+.vow:hover{ transform:translateY(-6px); border-color:var(--line-2); }
+.vow-glyph{ width:44px; height:44px; margin-bottom:22px; }
+.vow-glyph svg{ width:100%; height:100%; stroke:var(--amber); fill:none; stroke-width:1.4; }
+.vow h3{ font-family:var(--font-display); font-size:var(--fs-h3); }
+.vow p{ color:var(--ink-2); font-size:var(--fs-sm); margin-top:12px; }
+.vow-key{
+  margin-top:20px; padding-top:16px; border-top:1px dashed var(--line-2);
+  font-size:var(--fs-xs); font-weight:700; letter-spacing:.22em; text-transform:uppercase; color:var(--amber);
+}
+
+/* ============================================================
+   process — from order to door (a true sequence)
+   ============================================================ */
+.process{ position:relative; }
+.process-rail{
+  position:absolute; left:calc(50% - .5px); top:0; bottom:0; width:1px; background:var(--line);
+}
+.process-rail i{
+  position:absolute; left:0; top:0; width:100%; height:var(--fill,0%);
+  background:linear-gradient(180deg, var(--ember), var(--amber)); transition:height .1s linear;
+  box-shadow:0 0 12px var(--glow-hard);
+}
+.step{
+  display:grid; grid-template-columns:1fr 1fr; gap:clamp(30px,6vw,90px);
+  align-items:center; padding:clamp(34px,6vh,64px) 0; position:relative;
+}
+.step:nth-child(even) .step-copy{ order:2; text-align:left; }
+.step:nth-child(even) .step-visual{ order:1; }
+.step:nth-child(odd) .step-copy{ text-align:right; justify-self:end; }
+.step-dot{
+  position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
+  width:13px; height:13px; border-radius:50%; background:var(--bg);
+  border:1px solid var(--line-2); transition:background-color .5s, box-shadow .5s, border-color .5s;
+}
+.step.lit .step-dot{ background:var(--amber); border-color:var(--amber); box-shadow:0 0 18px 3px var(--glow-hard); }
+.step-n{
+  font-family:var(--font-display); font-style:italic; color:var(--ink-3); font-size:1rem;
+  display:block; margin-bottom:10px; transition:color .5s;
+}
+.step.lit .step-n{ color:var(--amber); }
+.step-copy h3{ font-family:var(--font-display); font-size:var(--fs-h3); }
+.step-copy p{ color:var(--ink-2); font-size:var(--fs-sm); margin-top:10px; max-width:40ch; }
+.step:nth-child(odd) .step-copy p{ margin-left:auto; }
+.step-visual{
+  height:clamp(120px,16vh,170px); border-radius:18px; border:1px solid var(--line);
+  background:var(--surface); position:relative; overflow:hidden; max-width:340px; width:100%;
+  justify-self:start; transition:background .7s;
+}
+.step:nth-child(odd) .step-visual{ justify-self:start; }
+.step:nth-child(even) .step-visual{ justify-self:end; }
+.step-visual::after{
+  content:attr(data-glyph); position:absolute; inset:0; display:grid; place-items:center;
+  font-family:var(--font-display); font-style:italic; font-weight:400;
+  font-size:clamp(2.6rem,4vw,3.6rem); color:var(--amber); opacity:.9;
+  letter-spacing:-.02em;
+}
+.step-visual small{
+  position:absolute; left:18px; bottom:14px; font-size:var(--fs-xs); font-weight:700;
+  letter-spacing:.26em; text-transform:uppercase; color:var(--ink-3);
+}
+.step-visual::before{
+  content:""; position:absolute; inset:0;
+  background:radial-gradient(90% 120% at 50% 120%, var(--glow), transparent 60%);
+}
+
+/* ============================================================
+   reviews
+   ============================================================ */
+.reviews{ background:var(--bg-2); transition:background-color .7s var(--ease-io); }
+.review-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:clamp(18px,2.4vw,30px); }
+.review{
+  padding:clamp(28px,2.8vw,40px); border-radius:22px; border:1px solid var(--line);
+  background:var(--surface); display:flex; flex-direction:column; gap:20px;
+  transition:transform .6s var(--ease-out), border-color .5s, background .7s;
+}
+.review:hover{ transform:translateY(-6px); border-color:var(--line-2); }
+.review-stars{ color:var(--amber); letter-spacing:.3em; font-size:.85rem; }
+.review q{
+  font-family:var(--font-display); font-style:italic; font-size:clamp(1.1rem,1.5vw,1.3rem);
+  line-height:1.5; quotes:"“" "”";
+}
+.review-by{ margin-top:auto; font-size:var(--fs-xs); letter-spacing:.2em; text-transform:uppercase; color:var(--ink-3); }
+.review-by b{ color:var(--ink-2); display:block; letter-spacing:.24em; margin-bottom:4px; }
+
+/* ============================================================
+   gallery — heat mosaic
+   ============================================================ */
+.gallery-grid{
+  display:grid; grid-template-columns:repeat(4,1fr); grid-auto-rows:clamp(130px,18vh,210px);
+  gap:clamp(12px,1.4vw,18px);
+}
+.g-tile{
+  border-radius:18px; border:1px solid var(--line); position:relative; overflow:hidden;
+  background:var(--surface); transition:transform .7s var(--ease-out), background .7s;
+  will-change:transform;
+}
+.g-tile:hover{ transform:scale(.975); }
+.g-tile::before{ content:""; position:absolute; inset:0; background:var(--art); transition:transform 1.4s var(--ease-out); }
+.g-tile:hover::before{ transform:scale(1.12); }
+.g-tile span{
+  position:absolute; left:16px; bottom:12px; font-size:var(--fs-xs); letter-spacing:.24em;
+  text-transform:uppercase; color:var(--ink-2); opacity:0; transform:translateY(8px);
+  transition:opacity .5s, transform .5s var(--ease-out);
+}
+.g-tile:hover span{ opacity:1; transform:none; }
+.g-a{ grid-column:span 2; grid-row:span 2; }
+.g-d{ grid-row:span 2; }
+.g-f{ grid-column:span 2; }
+
+/* ============================================================
+   app preview
+   ============================================================ */
+.app{ overflow:hidden; }
+.app-grid{ display:grid; grid-template-columns:1.05fr .95fr; gap:clamp(40px,6vw,100px); align-items:center; }
+.phone{
+  width:clamp(240px,22vw,300px); aspect-ratio:9/19; margin-inline:auto;
+  border-radius:44px; border:1px solid var(--line-2); background:var(--bg);
+  box-shadow:var(--shadow), inset 0 0 0 6px var(--bg-2); position:relative; overflow:hidden;
+  transform:rotate(-4deg);
+}
+.phone-notch{
+  position:absolute; top:14px; left:50%; transform:translateX(-50%);
+  width:34%; height:20px; border-radius:100px; background:var(--bg-2); z-index:3;
+}
+.phone-screen{ position:absolute; inset:8px; border-radius:36px; background:var(--surface); padding:44px 18px 18px; overflow:hidden; }
+.phone-ember{
+  height:120px; border-radius:18px; position:relative; overflow:hidden;
+  background:radial-gradient(80% 120% at 50% 118%, var(--ember) 0%, var(--deep) 40%, var(--bg-2) 78%);
+}
+.phone-ember::after{
+  content:""; position:absolute; left:50%; bottom:-16px; transform:translateX(-50%);
+  width:70px; height:70px; border-radius:50%;
+  background:radial-gradient(circle, var(--amber), transparent 65%); filter:blur(8px);
+  animation:hearthPulse 4s ease-in-out infinite;
+}
+.phone-live{
+  position:absolute; top:10px; left:10px; font-size:.58rem; font-weight:800; letter-spacing:.2em;
+  color:var(--ink); background:rgba(0,0,0,.35); padding:4px 9px; border-radius:100px;
+  display:flex; align-items:center; gap:6px; z-index:2;
+}
+.phone-live::before{ content:""; width:6px; height:6px; border-radius:50%; background:#E0492B; animation:blink 1.6s infinite; }
+@keyframes blink{ 0%,100%{opacity:1} 50%{opacity:.25} }
+.phone-row{
+  margin-top:12px; padding:13px 14px; border-radius:14px; background:var(--surface-2);
+  border:1px solid var(--line); font-size:.7rem; color:var(--ink-2);
+  display:flex; justify-content:space-between; align-items:center;
+}
+.phone-row b{ color:var(--ink); font-size:.74rem; }
+.phone-bar{ height:4px; border-radius:4px; background:var(--line); margin-top:10px; overflow:hidden; }
+.phone-bar i{ display:block; height:100%; width:68%; border-radius:4px; background:linear-gradient(90deg,var(--ember),var(--amber)); animation:fillPulse 3.4s var(--ease-io) infinite; }
+@keyframes fillPulse{ 0%{width:52%} 50%{width:74%} 100%{width:52%} }
+.app-points{ list-style:none; margin-top:30px; display:grid; gap:0; }
+.app-points li{
+  display:flex; gap:18px; align-items:flex-start; padding:20px 0; border-top:1px solid var(--line);
+}
+.app-points li:last-child{ border-bottom:1px solid var(--line); }
+.app-points .pt-i{
+  width:38px; height:38px; flex:none; border-radius:12px; border:1px solid var(--line-2);
+  display:grid; place-items:center; color:var(--amber); font-size:1rem;
+}
+.app-points b{ display:block; font-weight:600; }
+.app-points p{ color:var(--ink-2); font-size:var(--fs-sm); margin-top:2px; }
+
+/* ============================================================
+   loyalty — the ember card
+   ============================================================ */
+.loyalty{ background:var(--bg-2); overflow:hidden; transition:background-color .7s var(--ease-io); }
+.loyal-grid{ display:grid; grid-template-columns:1fr 1fr; gap:clamp(40px,6vw,100px); align-items:center; }
+.ember-card{
+  aspect-ratio:8/5; max-width:460px; border-radius:24px; position:relative; overflow:hidden;
+  background:linear-gradient(140deg, #241408 0%, #120A05 55%, #1C0F06 100%);
+  border:1px solid rgba(227,162,81,.35);
+  box-shadow:var(--shadow); padding:30px; color:#F1EAE0;
+  display:flex; flex-direction:column; justify-content:space-between;
+  transform-style:preserve-3d; will-change:transform;
+}
+.ember-card::before{ /* sheen sweep */
+  content:""; position:absolute; inset:-40%;
+  background:linear-gradient(115deg, transparent 42%, rgba(255,220,170,.16) 50%, transparent 58%);
+  animation:cardSheen 6s var(--ease-io) infinite;
+}
+@keyframes cardSheen{ 0%{ transform:translateX(-60%);} 55%,100%{ transform:translateX(60%);} }
+.ember-card::after{
+  content:""; position:absolute; right:-14%; bottom:-34%; width:70%; aspect-ratio:1; border-radius:50%;
+  background:radial-gradient(circle, rgba(226,161,78,.5), transparent 65%); filter:blur(24px);
+}
+.card-top{ display:flex; justify-content:space-between; align-items:flex-start; position:relative; z-index:1;}
+.card-mark{ font-family:var(--font-mark); letter-spacing:.32em; font-size:1rem; }
+.card-tier{ font-size:.62rem; font-weight:800; letter-spacing:.3em; text-transform:uppercase; color:var(--amber); border:1px solid rgba(227,162,81,.45); padding:6px 12px; border-radius:100px; }
+.card-num{ font-family:var(--font-display); font-size:1.25rem; letter-spacing:.34em; position:relative; z-index:1; color:rgba(241,234,224,.85); }
+.card-foot{ display:flex; justify-content:space-between; font-size:.62rem; letter-spacing:.26em; text-transform:uppercase; color:rgba(241,234,224,.55); position:relative; z-index:1; }
+.tiers{ margin-top:34px; display:grid; gap:14px; }
+.tier{
+  display:flex; align-items:center; gap:18px; padding:18px 22px; border-radius:16px;
+  border:1px solid var(--line); background:var(--surface); transition:border-color .4s, transform .5s var(--ease-out), background .7s;
+}
+.tier:hover{ border-color:var(--amber); transform:translateX(8px); }
+.tier-dot{ width:10px; height:10px; border-radius:50%; flex:none; }
+.tier:nth-child(1) .tier-dot{ background:var(--ink-3); }
+.tier:nth-child(2) .tier-dot{ background:var(--ember); box-shadow:0 0 10px var(--glow-hard); }
+.tier:nth-child(3) .tier-dot{ background:var(--amber); box-shadow:0 0 14px var(--glow-hard); }
+.tier b{ font-weight:600; min-width:74px; }
+.tier span{ color:var(--ink-2); font-size:var(--fs-sm); }
+
+/* ============================================================
+   faq
+   ============================================================ */
+.faq-list{ max-width:820px; }
+.faq{ border-bottom:1px solid var(--line); }
+.faq:first-child{ border-top:1px solid var(--line); }
+.faq-q{
+  width:100%; display:flex; align-items:center; justify-content:space-between; gap:22px;
+  padding:26px 4px; text-align:left; font-size:calc(var(--fs-body)*1.05); font-weight:500;
+  transition:color .35s;
+}
+.faq-q:hover{ color:var(--amber); }
+.faq-x{
+  width:30px; height:30px; flex:none; position:relative; border-radius:50%;
+  border:1px solid var(--line-2); transition:transform .5s var(--ease-out), border-color .4s, background-color .4s;
+}
+.faq-x::before,.faq-x::after{
+  content:""; position:absolute; top:50%; left:50%; background:currentColor;
+  transform:translate(-50%,-50%);
+}
+.faq-x::before{ width:11px; height:1.4px; }
+.faq-x::after{ width:1.4px; height:11px; transition:transform .5s var(--ease-out); }
+.faq.open .faq-x{ transform:rotate(180deg); border-color:var(--amber); background:var(--glow); }
+.faq.open .faq-x::after{ transform:translate(-50%,-50%) scaleY(0); }
+.faq-a{
+  max-height:0; overflow:hidden; transition:max-height .7s var(--ease-io);
+}
+.faq-a p{ padding:0 4px 28px; color:var(--ink-2); max-width:62ch; }
+
+/* ============================================================
+   contact / final cta
+   ============================================================ */
+.finale{
+  text-align:center; overflow:hidden; position:relative; isolation:isolate;
+}
+.finale::before{
+  content:""; position:absolute; left:50%; bottom:-30%; transform:translateX(-50%);
+  width:80vmax; height:60vmax; border-radius:50%; z-index:-1;
+  background:radial-gradient(circle at 50% 100%, var(--glow) 0%, transparent 55%);
+}
+.finale .h2{ margin-inline:auto; max-width:16ch; }
+.finale-word{
+  font-family:var(--font-display); font-style:italic; display:block; margin-top:14px;
+  color:var(--ink-3); font-size:clamp(1rem,1.4vw,1.2rem);
+}
+.finale-ctas{ display:flex; justify-content:center; gap:16px; flex-wrap:wrap; margin-top:40px; }
+.finale-contact{ margin-top:44px; display:flex; justify-content:center; gap:clamp(24px,4vw,60px); flex-wrap:wrap; color:var(--ink-2); font-size:var(--fs-sm); }
+.finale-contact a{ border-bottom:1px solid var(--line-2); padding-bottom:2px; transition:color .3s, border-color .3s; }
+.finale-contact a:hover{ color:var(--amber); border-color:var(--amber); }
+
+/* ============================================================
+   footer
+   ============================================================ */
+footer{ border-top:1px solid var(--line); padding:clamp(50px,7vh,80px) 0 40px; background:var(--bg-2); transition:background-color .7s var(--ease-io); }
+.foot-mark{
+  font-family:var(--font-mark); letter-spacing:.3em; text-indent:.3em;
+  font-size:clamp(2.6rem,9vw,7rem); text-align:center; line-height:1;
+  color:transparent; -webkit-text-stroke:1px var(--line-2);
+  transition:color 1s var(--ease-out), -webkit-text-stroke-color 1s;
+}
+.foot-mark:hover{ color:var(--glow-hard); -webkit-text-stroke-color:var(--amber); }
+.foot-grid{
+  display:flex; justify-content:space-between; align-items:center; gap:24px; flex-wrap:wrap;
+  margin-top:clamp(40px,6vh,64px); padding-top:28px; border-top:1px solid var(--line);
+  font-size:var(--fs-xs); letter-spacing:.14em; text-transform:uppercase; color:var(--ink-3);
+}
+.foot-links{ display:flex; gap:26px; list-style:none; }
+.foot-links a{ transition:color .3s; }
+.foot-links a:hover{ color:var(--amber); }
+
+/* ============================================================
+   responsive
+   ============================================================ */
+@media (max-width:1024px){
+  .story-grid,.app-grid,.loyal-grid{ grid-template-columns:1fr; }
+  .portrait{ max-width:480px; }
+  .vows,.review-grid{ grid-template-columns:1fr 1fr; }
+  .gallery-grid{ grid-template-columns:repeat(3,1fr); }
+  .g-f{ grid-column:span 2; }
+}
+@media (max-width:760px){
+  .nav-links{ display:none; }
+  .vows,.review-grid{ grid-template-columns:1fr; }
+  .gallery-grid{ grid-template-columns:repeat(2,1fr); grid-auto-rows:140px; }
+  .g-a{ grid-column:span 2; }
+  .process-rail{ left:8px; }
+  .step{ grid-template-columns:1fr; gap:18px; padding-left:34px; }
+  .step:nth-child(odd) .step-copy{ text-align:left; justify-self:start; }
+  .step:nth-child(odd) .step-copy p{ margin-left:0; }
+  .step:nth-child(even) .step-copy{ order:1; }
+  .step:nth-child(even) .step-visual{ order:2; justify-self:start; }
+  .step-dot{ left:8px; top:34px; }
+  .hero-stats{ gap:26px; }
+  .scroll-cue{ display:none; }
+  .ember-card{ max-width:100%; }
+}
+
+/* reduced motion — respect it fully */
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{ animation-duration:.01ms !important; animation-iteration-count:1 !important; transition-duration:.01ms !important; }
+  html{ scroll-behavior:auto; }
+  .rv,[data-stagger]>*{ opacity:1; transform:none; }
+  #embers{ display:none; }
+}
+</style>
+</head>
+<body>
+<div class="grain" aria-hidden="true"></div>
+<div class="cursor-dot" aria-hidden="true"></div>
+<div class="cursor-ring" aria-hidden="true"></div>
+
+<!-- preloader -->
+<div class="loader" id="loader" aria-hidden="true">
+  <div>
+    <div class="loader-mark"><span>A</span><span>M</span><span>B</span><span>A</span><span>R</span></div>
+    <div class="loader-line"></div>
+    <div class="loader-sub">Lighting the fire</div>
+  </div>
+</div>
+
+<!-- nav -->
+<header class="nav" id="nav">
+  <div class="container nav-inner">
+    <a class="brand" href="#top" data-hot><span class="brand-flame" aria-hidden="true"></span>AMBAR</a>
+    <nav aria-label="Primary">
+      <ul class="nav-links">
+        <li><a href="#menu" data-hot>Menu</a></li>
+        <li><a href="#story" data-hot>Story</a></li>
+        <li><a href="#process" data-hot>Process</a></li>
+        <li><a href="#loyalty" data-hot>Ember Card</a></li>
+        <li><a href="#faq" data-hot>FAQ</a></li>
+      </ul>
+    </nav>
+    <div class="nav-actions">
+      <button class="theme-toggle" id="themeToggle" data-hot aria-label="Toggle light and dark theme"></button>
+      <a class="btn btn-solid btn-sm magnetic" href="#menu" data-hot><span>Order tonight</span></a>
+    </div>
+  </div>
+</header>
+
+<main id="top">
+
+<!-- ============ HERO ============ -->
+<section class="hero" id="home">
+  <canvas id="embers" aria-hidden="true"></canvas>
+  <div class="hero-orb a" aria-hidden="true"></div>
+  <div class="hero-orb b" aria-hidden="true"></div>
+  <div class="container hero-inner">
+    <p class="hero-eyebrow">Ambar · A fire-first kitchen · Delivery only</p>
+    <h1>
+      <span class="hero-line"><span>The city is</span></span>
+      <span class="hero-line"><span>our <em>dining room.</em></span></span>
+    </h1>
+    <p class="hero-sub">Eleven dishes. One oak-fired hearth. Sealed at temperature and at your door in under forty minutes — no tables, no waiting list, no compromise.</p>
+    <div class="hero-ctas">
+      <a class="btn btn-solid magnetic" href="#menu" data-hot><span>Order tonight</span><span class="arr">→</span></a>
+      <a class="btn btn-ghost magnetic" href="#story" data-hot><span>Our story</span></a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><b><span data-count="42">0</span><i>min</i></b><span>Median to door</span></div>
+      <div class="stat"><b><span data-count="11">0</span></b><span>Dishes, never more</span></div>
+      <div class="stat"><b><span data-count="1">0</span></b><span>Oak-fired hearth</span></div>
+      <div class="stat"><b><span data-count="4.9" data-dec="1">0</span></b><span>Across 12k orders</span></div>
+    </div>
+  </div>
+  <div class="scroll-cue">Scroll</div>
+</section>
+
+<!-- marquee -->
+<div class="marquee" aria-hidden="true">
+  <div class="marquee-track" id="marqueeTrack">
+    <span>Wood-fired, always</span><span>Small batch, cooked to order</span><span>Sealed at temperature</span><span>Forty-two minutes, door to door</span><span>Sourced within 120 km</span>
+  </div>
+</div>
+
+<!-- ============ FEATURED DISHES ============ -->
+<section class="dishes section-pad" id="menu">
+  <div class="container">
+    <div class="section-head split">
+      <div class="rv">
+        <p class="eyebrow">Tonight's fire</p>
+        <h2 class="h2">A short menu, <em>done properly.</em></h2>
+        <p class="lede">Eleven dishes and nothing we can't stand behind. Four of them have never left the menu — the city won't allow it.</p>
+      </div>
+      <a class="btn btn-ghost magnetic rv" href="#collections" data-hot><span>Full menu</span><span class="arr">→</span></a>
+    </div>
+    <div class="dish-grid" data-stagger>
+      <article class="dish tilt" data-hot>
+        <div class="dish-plate-wrap">
+          <div class="plate idle-breathe">
+            <svg class="steam" viewBox="0 0 100 60" aria-hidden="true">
+              <path d="M30 55 C 26 42, 36 38, 32 25 C 29 15, 35 12, 33 4"/>
+              <path d="M50 57 C 46 44, 56 40, 52 27 C 49 17, 55 14, 53 6"/>
+              <path d="M70 55 C 66 42, 76 38, 72 25 C 69 15, 75 12, 73 4"/>
+            </svg>
+            <div class="plate-food food-ember"></div>
+          </div>
+        </div>
+        <p class="dish-tag">Signature · Hearth</p>
+        <h3>Ember-Roast Chicken</h3>
+        <p>Twelve hours in brine, forty minutes over oak. Finished with burnt lemon and smoked salt.</p>
+        <div class="dish-foot">
+          <span class="dish-price">₹640</span>
+          <button class="dish-add" data-hot aria-label="Add Ember-Roast Chicken to order">+</button>
+        </div>
+      </article>
+      <article class="dish tilt" data-hot>
+        <div class="dish-plate-wrap">
+          <div class="plate idle-breathe">
+            <svg class="steam" viewBox="0 0 100 60" aria-hidden="true">
+              <path d="M30 55 C 26 42, 36 38, 32 25 C 29 15, 35 12, 33 4"/>
+              <path d="M50 57 C 46 44, 56 40, 52 27 C 49 17, 55 14, 53 6"/>
+              <path d="M70 55 C 66 42, 76 38, 72 25 C 69 15, 75 12, 73 4"/>
+            </svg>
+            <div class="plate-food food-saffron"></div>
+          </div>
+        </div>
+        <p class="dish-tag">Signature · Grain</p>
+        <h3>Saffron &amp; Smoke Risotto</h3>
+        <p>Carnaroli stirred over dying coals, saffron bloomed in brown butter. Quietly famous.</p>
+        <div class="dish-foot">
+          <span class="dish-price">₹560</span>
+          <button class="dish-add" data-hot aria-label="Add Saffron and Smoke Risotto to order">+</button>
+        </div>
+      </article>
+      <article class="dish tilt" data-hot>
+        <div class="dish-plate-wrap">
+          <div class="plate idle-breathe">
+            <svg class="steam" viewBox="0 0 100 60" aria-hidden="true">
+              <path d="M30 55 C 26 42, 36 38, 32 25 C 29 15, 35 12, 33 4"/>
+              <path d="M50 57 C 46 44, 56 40, 52 27 C 49 17, 55 14, 53 6"/>
+              <path d="M70 55 C 66 42, 76 38, 72 25 C 69 15, 75 12, 73 4"/>
+            </svg>
+            <div class="plate-food food-rib"></div>
+          </div>
+        </div>
+        <p class="dish-tag">Signature · Coal</p>
+        <h3>Charred Short Rib, Date Glaze</h3>
+        <p>Six hours low, four minutes ferocious. Glazed with dates, black garlic and a little patience.</p>
+        <div class="dish-foot">
+          <span class="dish-price">₹780</span>
+          <button class="dish-add" data-hot aria-label="Add Charred Short Rib to order">+</button>
+        </div>
+      </article>
+      <article class="dish tilt" data-hot>
+        <div class="dish-plate-wrap">
+          <div class="plate idle-breathe">
+            <svg class="steam" viewBox="0 0 100 60" aria-hidden="true">
+              <path d="M30 55 C 26 42, 36 38, 32 25 C 29 15, 35 12, 33 4"/>
+              <path d="M50 57 C 46 44, 56 40, 52 27 C 49 17, 55 14, 53 6"/>
+              <path d="M70 55 C 66 42, 76 38, 72 25 C 69 15, 75 12, 73 4"/>
+            </svg>
+            <div class="plate-food food-custard"></div>
+          </div>
+        </div>
+        <p class="dish-tag">Signature · Sweet</p>
+        <h3>Burnt-Honey Custard</h3>
+        <p>Set slowly beside the hearth, crowned with honey taken one shade past caramel.</p>
+        <div class="dish-foot">
+          <span class="dish-price">₹320</span>
+          <button class="dish-add" data-hot aria-label="Add Burnt-Honey Custard to order">+</button>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ COLLECTIONS ============ -->
+<section class="collections section-pad" id="collections">
+  <div class="container">
+    <div class="section-head split rv">
+      <div>
+        <p class="eyebrow">Signature collections</p>
+        <h2 class="h2">Boxes built for <em>occasions.</em></h2>
+      </div>
+      <p class="shelf-hint">Drag or scroll</p>
+    </div>
+  </div>
+  <div class="shelf" data-stagger>
+    <article class="shelf-card" data-hot style="--collection-art:radial-gradient(120% 90% at 80% 0%, rgba(226,161,78,.22), transparent 55%)">
+      <span class="shelf-num">for two</span>
+      <h3>The Hearth Box</h3>
+      <p>Two mains, one grain, one sweet — composed so every dish answers the next. Our most ordered box, three years running.</p>
+      <div class="shelf-meta"><span>₹1,450</span><span>Serves 2</span></div>
+    </article>
+    <article class="shelf-card" data-hot style="--collection-art:radial-gradient(120% 90% at 20% 0%, rgba(194,98,43,.24), transparent 55%)">
+      <span class="shelf-num">for six</span>
+      <h3>The Long Table</h3>
+      <p>A family-style spread that arrives plated in courses, with a card that tells you the order to open them.</p>
+      <div class="shelf-meta"><span>₹3,900</span><span>Serves 6</span></div>
+    </article>
+    <article class="shelf-card" data-hot style="--collection-art:radial-gradient(120% 100% at 50% 110%, rgba(126,58,22,.35), transparent 60%)">
+      <span class="shelf-num">after eleven</span>
+      <h3>Midnight Service</h3>
+      <p>A quieter, smokier menu for the hours the city pretends it's asleep. Available 11 pm – 3 am.</p>
+      <div class="shelf-meta"><span>₹—</span><span>Late night</span></div>
+    </article>
+    <article class="shelf-card" data-hot style="--collection-art:radial-gradient(140% 90% at 80% 100%, rgba(226,161,78,.16), transparent 55%)">
+      <span class="shelf-num">midday</span>
+      <h3>The Quiet Lunch</h3>
+      <p>One dish, one side, thirty minutes to your desk. Made for people who take lunch seriously and meetings less so.</p>
+      <div class="shelf-meta"><span>₹420</span><span>Weekdays</span></div>
+    </article>
+    <article class="shelf-card" data-hot style="--collection-art:radial-gradient(120% 90% at 50% 0%, rgba(226,161,78,.2), transparent 50%)">
+      <span class="shelf-num">by request</span>
+      <h3>The Chef's Hand</h3>
+      <p>No menu. Tell us the mood and the headcount; the kitchen decides the rest. Forty-eight hours' notice.</p>
+      <div class="shelf-meta"><span>Priced per table</span></div>
+    </article>
+  </div>
+</section>
+
+<!-- ============ CHEF STORY ============ -->
+<section class="section-pad" id="story">
+  <div class="container story-grid">
+    <div class="portrait rv-l rv" data-parallax="0.06">
+      <div class="portrait-fire" aria-hidden="true"></div>
+      <div class="portrait-arch" aria-hidden="true"></div>
+      <div class="portrait-logs" aria-hidden="true"><i></i><i></i><i></i></div>
+      <span class="portrait-caption">The hearth · Lit daily since 2023</span>
+    </div>
+    <div class="rv rv-r">
+      <p class="eyebrow">The story</p>
+      <h2 class="h2">We removed the room, <em>not the ritual.</em></h2>
+      <blockquote class="story-quote">"A dining room tells you how to feel about the food. I'd rather the food do the talking."</blockquote>
+      <p class="story-copy">Aarav Mehta spent nine years in fine-dining kitchens where the fire was the first thing lit each morning and the last thing watched each night. When he left, he kept exactly one thing: the hearth.</p>
+      <p class="story-copy">Ambar began as a single oak-fired oven in a rented industrial unit — no signage, no seats, one printed menu taped beside the pass. What it lacked in chandeliers it returned in attention: every plate cooked to order, timed to the minute a rider arrives.</p>
+      <div class="story-sign">Aarav Mehta<small>Founder &amp; Head of Fire</small></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PHILOSOPHY ============ -->
+<section class="philosophy section-pad" id="philosophy">
+  <div class="container">
+    <div class="section-head rv">
+      <p class="eyebrow">Ingredients philosophy</p>
+      <h2 class="h2">Three vows we <em>don't break.</em></h2>
+    </div>
+    <div class="vows" data-stagger>
+      <article class="vow" data-hot>
+        <div class="vow-glyph" aria-hidden="true"><svg viewBox="0 0 44 44"><circle cx="22" cy="22" r="15"/><path d="M22 7v-4M22 41v-4M7 22H3M41 22h-4"/></svg></div>
+        <h3>Sourced close</h3>
+        <p>Every ingredient travels less than 120 kilometres to reach the hearth. Menus shift with the mandi, not the calendar.</p>
+        <p class="vow-key">Within 120 km</p>
+      </article>
+      <article class="vow" data-hot>
+        <div class="vow-glyph" aria-hidden="true"><svg viewBox="0 0 44 44"><path d="M22 4c6 8 12 11 12 20a12 12 0 1 1-24 0c0-9 6-12 12-20z"/><path d="M22 20c2.6 3.4 5 5 5 8.6a5 5 0 1 1-10 0c0-3.6 2.4-5.2 5-8.6z"/></svg></div>
+        <h3>Fired, not fried</h3>
+        <p>One hearth, seasoned oak, no shortcuts. Char is a seasoning here — applied with the same care as salt.</p>
+        <p class="vow-key">Single oak hearth</p>
+      </article>
+      <article class="vow" data-hot>
+        <div class="vow-glyph" aria-hidden="true"><svg viewBox="0 0 44 44"><rect x="8" y="14" width="28" height="24" rx="3"/><path d="M14 14v-3a8 8 0 0 1 16 0v3M8 22h28"/></svg></div>
+        <h3>Sealed at temperature</h3>
+        <p>Ceramic-lined vessels leave the pass at serving heat and hold it for an hour. Your first bite is the kitchen's last check.</p>
+        <p class="vow-key">Holds heat 60 min</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PROCESS ============ -->
+<section class="section-pad" id="process">
+  <div class="container">
+    <div class="section-head rv" style="text-align:center">
+      <p class="eyebrow" style="justify-content:center; margin-inline:auto;">Order to door</p>
+      <h2 class="h2" style="margin-inline:auto;">Forty-two minutes, <em>accounted for.</em></h2>
+    </div>
+    <div class="process" id="processTrack">
+      <div class="process-rail" aria-hidden="true"><i id="railFill"></i></div>
+      <div class="step">
+        <div class="step-copy"><span class="step-n">i · minute 0</span><h3>You order</h3><p>Nothing is pre-made, so nothing is waiting. Your ticket prints beside the pass the second you confirm.</p></div>
+        <div class="step-visual" data-glyph="00′"><small>Ticket prints</small></div>
+        <span class="step-dot" aria-hidden="true"></span>
+      </div>
+      <div class="step">
+        <div class="step-copy"><span class="step-n">ii · minutes 1–24</span><h3>The fire</h3><p>Each dish is cooked to order over oak. The hearth runs at three heats; your plate visits at least two of them.</p></div>
+        <div class="step-visual" data-glyph="24′"><small>Over oak</small></div>
+        <span class="step-dot" aria-hidden="true"></span>
+      </div>
+      <div class="step">
+        <div class="step-copy"><span class="step-n">iii · minutes 25–28</span><h3>The seal</h3><p>Plated into ceramic-lined vessels at serving temperature. A wax stamp closes the box — if it's broken, it's not ours.</p></div>
+        <div class="step-visual" data-glyph="28′"><small>Wax sealed</small></div>
+        <span class="step-dot" aria-hidden="true"></span>
+      </div>
+      <div class="step">
+        <div class="step-copy"><span class="step-n">iv · minute 42</span><h3>The door</h3><p>Riders leave only when the food does. Median door time across twelve thousand orders: forty-two minutes.</p></div>
+        <div class="step-visual" data-glyph="42′"><small>At your door</small></div>
+        <span class="step-dot" aria-hidden="true"></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ REVIEWS ============ -->
+<section class="reviews section-pad" id="reviews">
+  <div class="container">
+    <div class="section-head rv">
+      <p class="eyebrow">Word of mouth</p>
+      <h2 class="h2">What the city <em>says.</em></h2>
+    </div>
+    <div class="review-grid" data-stagger>
+      <article class="review" data-hot>
+        <div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <q>The box was still warm to the touch when it arrived. I've had worse food seated at tables with white cloth.</q>
+        <div class="review-by"><b>Ishita R.</b>Ordered 34 times</div>
+      </article>
+      <article class="review" data-hot>
+        <div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <q>Watched my short rib over the live fire cam like it was a cricket final. It arrived exactly when the app promised.</q>
+        <div class="review-by"><b>Kabir S.</b>Ordered 19 times</div>
+      </article>
+      <article class="review" data-hot>
+        <div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <q>Eleven dishes sounds limiting until you realise every single one is the best version of itself you've eaten.</q>
+        <div class="review-by"><b>Meera D.</b>Ordered 51 times</div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ GALLERY ============ -->
+<section class="section-pad" id="gallery">
+  <div class="container">
+    <div class="section-head rv">
+      <p class="eyebrow">From the pass</p>
+      <h2 class="h2">Heat, in <em>still life.</em></h2>
+    </div>
+    <div class="gallery-grid" data-stagger>
+      <div class="g-tile g-a" data-hot style="--art:radial-gradient(90% 110% at 30% 100%, #C2622B 0%, #7E3A16 34%, transparent 70%), radial-gradient(60% 60% at 78% 20%, rgba(226,161,78,.35), transparent 60%)"><span>The hearth at 6 pm</span></div>
+      <div class="g-tile" data-hot style="--art:conic-gradient(from 210deg at 50% 50%, #E9B45C, #A65B22, #E9B45C)"><span>Saffron bloom</span></div>
+      <div class="g-tile" data-hot style="--art:radial-gradient(circle at 50% 60%, #3A1B0C 0 34%, transparent 36%), radial-gradient(circle at 50% 50%, #1E1108, #120A05)"><span>Resting rib</span></div>
+      <div class="g-tile g-d" data-hot style="--art:linear-gradient(200deg, transparent 40%, rgba(226,161,78,.3) 60%, transparent 78%), linear-gradient(180deg,#171009,#0E0906)"><span>Smoke line</span></div>
+      <div class="g-tile" data-hot style="--art:radial-gradient(circle at 36% 32%, rgba(255,255,255,.3) 0 8%, transparent 9%), radial-gradient(60% 60% at 50% 55%, #E8C171 0 55%, transparent 60%), #16100A"><span>Burnt honey</span></div>
+      <div class="g-tile g-f" data-hot style="--art:repeating-linear-gradient(90deg, transparent 0 26px, rgba(226,161,78,.14) 26px 27px), linear-gradient(120deg,#19120C,#0F0A06)"><span>The rack, seasoned oak</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ APP ============ -->
+<section class="app section-pad" id="app">
+  <div class="container app-grid">
+    <div class="rv rv-l">
+      <p class="eyebrow">The app</p>
+      <h2 class="h2">Watch your dinner <em>over the fire.</em></h2>
+      <p class="lede">Most delivery apps show you a dot on a map. Ours shows you the hearth — a live view of the pass while your order is on it.</p>
+      <ul class="app-points">
+        <li><span class="pt-i">◉</span><div><b>Live fire cam</b><p>See your plate cooked, sealed and handed off, in real time.</p></div></li>
+        <li><span class="pt-i">⏱</span><div><b>Honest timing</b><p>One estimate, made once. We're within four minutes of it 96% of the time.</p></div></li>
+        <li><span class="pt-i">✦</span><div><b>Ember points on every order</b><p>Points settle instantly and never expire. See tiers below.</p></div></li>
+      </ul>
+    </div>
+    <div class="rv rv-r">
+      <div class="phone float-slow" data-parallax="0.05" aria-label="Preview of the Ambar app order screen">
+        <div class="phone-notch"></div>
+        <div class="phone-screen">
+          <div class="phone-ember"><span class="phone-live">LIVE · THE HEARTH</span></div>
+          <div class="phone-row"><div><b>Charred Short Rib</b><div class="phone-bar"><i></i></div></div><span>On the fire</span></div>
+          <div class="phone-row"><b>Rider</b><span>Waiting at the pass</span></div>
+          <div class="phone-row"><b>At your door</b><span>8:42 pm</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ LOYALTY ============ -->
+<section class="loyalty section-pad" id="loyalty">
+  <div class="container loyal-grid">
+    <div class="rv rv-l">
+      <div class="ember-card tilt" data-hot>
+        <div class="card-top"><span class="card-mark">AMBAR</span><span class="card-tier">Flame</span></div>
+        <div class="card-num">04 · 21 · 90 · 08</div>
+        <div class="card-foot"><span>Member since 2024</span><span>The Ember Card</span></div>
+      </div>
+    </div>
+    <div class="rv rv-r">
+      <p class="eyebrow">Loyalty</p>
+      <h2 class="h2">The Ember Card <em>earns while you eat.</em></h2>
+      <p class="lede">One point per hundred spent, settled before the box is open. No apps to remember, no fine print worth hiding.</p>
+      <div class="tiers" data-stagger>
+        <div class="tier" data-hot><span class="tier-dot"></span><b>Ash</b><span>Free delivery on every order, from order one.</span></div>
+        <div class="tier" data-hot><span class="tier-dot"></span><b>Ember</b><span>Early access to menu changes and Midnight Service.</span></div>
+        <div class="tier" data-hot><span class="tier-dot"></span><b>Flame</b><span>A yearly seat at the hearth — dinner inside the kitchen itself.</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section-pad" id="faq">
+  <div class="container">
+    <div class="section-head rv">
+      <p class="eyebrow">Questions</p>
+      <h2 class="h2">Asked, <em>answered.</em></h2>
+    </div>
+    <div class="faq-list rv">
+      <div class="faq">
+        <button class="faq-q" data-hot aria-expanded="false">Where do you deliver?<span class="faq-x" aria-hidden="true"></span></button>
+        <div class="faq-a"><p>Anywhere within nine kilometres of the hearth — the honest limit of keeping food at temperature. Enter your address in the app; if we can reach you well, we will.</p></div>
+      </div>
+      <div class="faq">
+        <button class="faq-q" data-hot aria-expanded="false">Is this a restaurant or a cloud kitchen?<span class="faq-x" aria-hidden="true"></span></button>
+        <div class="faq-a"><p>Today, a delivery-only kitchen. The brand was built to travel: the same hearth, menu and identity are designed to open as a café, a dining room, or both — Flame members will hear first.</p></div>
+      </div>
+      <div class="faq">
+        <button class="faq-q" data-hot aria-expanded="false">Do you handle dietary requirements?<span class="faq-x" aria-hidden="true"></span></button>
+        <div class="faq-a"><p>Yes. Every dish lists its full composition, and the kitchen cooks vegetarian and vegan orders on dedicated sections of the hearth. Serious allergies get a direct line to the pass — call before ordering.</p></div>
+      </div>
+      <div class="faq">
+        <button class="faq-q" data-hot aria-expanded="false">What happens to the packaging?<span class="faq-x" aria-hidden="true"></span></button>
+        <div class="faq-a"><p>The ceramic-lined vessels are returnable. Leave them at your door on your next order and we collect, wash and reuse them — you earn Ember points for every vessel that comes home.</p></div>
+      </div>
+      <div class="faq">
+        <button class="faq-q" data-hot aria-expanded="false">Can Ambar cater an event?<span class="faq-x" aria-hidden="true"></span></button>
+        <div class="faq-a"><p>The Chef's Hand collection covers tables of six to sixty. For anything larger — or anything stranger — write to the kitchen directly and we'll design the fire around it.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FINALE / CONTACT ============ -->
+<section class="finale section-pad" id="contact">
+  <div class="container rv">
+    <p class="eyebrow" style="justify-content:center;">Tonight, then</p>
+    <h2 class="h2">The fire is already <em>lit.</em></h2>
+    <span class="finale-word">— it has been since six.</span>
+    <div class="finale-ctas">
+      <a class="btn btn-solid magnetic" href="#menu" data-hot><span>Order tonight</span><span class="arr">→</span></a>
+      <a class="btn btn-ghost magnetic" href="#collections" data-hot><span>Browse collections</span></a>
+    </div>
+    <div class="finale-contact">
+      <a href="mailto:hearth@ambar.kitchen" data-hot>hearth@ambar.kitchen</a>
+      <a href="tel:+919900000042" data-hot>+91 99000 00042</a>
+      <span>Open 12 pm – 3 am, every day</span>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="foot-mark rv" data-hot aria-hidden="true">AMBAR</div>
+    <div class="foot-grid">
+      <span>© 2026 Ambar Kitchens · A fire-first company</span>
+      <ul class="foot-links">
+        <li><a href="#menu" data-hot>Menu</a></li>
+        <li><a href="#story" data-hot>Story</a></li>
+        <li><a href="#loyalty" data-hot>Ember Card</a></li>
+        <li><a href="#contact" data-hot>Contact</a></li>
+      </ul>
+      <span>The city is our dining room.</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+(() => {
+  'use strict';
+  const prefersReduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const finePointer = matchMedia('(hover:hover) and (pointer:fine)').matches;
+  const $  = (s, c=document) => c.querySelector(s);
+  const $$ = (s, c=document) => [...c.querySelectorAll(s)];
+
+  /* ---------- preloader ---------- */
+  const loader = $('#loader');
+  const finishLoad = () => {
+    document.body.classList.add('loaded');
+    loader.classList.add('done');
+    setTimeout(() => loader.remove(), 1200);
+  };
+  window.addEventListener('load', () => setTimeout(finishLoad, prefersReduced ? 0 : 1400));
+  setTimeout(finishLoad, 3800); // safety net
+
+  /* ---------- theme ---------- */
+  const root = document.documentElement;
+  $('#themeToggle').addEventListener('click', () => {
+    root.setAttribute('data-theme', root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+  });
+
+  /* ---------- nav: glass on scroll, hide on scroll-down ---------- */
+  const nav = $('#nav');
+  let lastY = 0;
+  const onNavScroll = () => {
+    const y = scrollY;
+    nav.classList.toggle('scrolled', y > 40);
+    nav.classList.toggle('hidden', y > 320 && y > lastY);
+    lastY = y;
+  };
+
+  /* ---------- marquee: duplicate track for seamless loop ---------- */
+  const track = $('#marqueeTrack');
+  track.innerHTML += track.innerHTML;
+
+  /* ---------- custom cursor ---------- */
+  if (finePointer && !prefersReduced) {
+    const dot = $('.cursor-dot'), ring = $('.cursor-ring');
+    let mx = innerWidth/2, my = innerHeight/2, rx = mx, ry = my;
+    addEventListener('pointermove', e => { mx = e.clientX; my = e.clientY; }, {passive:true});
+    (function cursorLoop(){
+      rx += (mx - rx) * .16; ry += (my - ry) * .16;
+      dot.style.transform  = `translate(${mx}px,${my}px) translate(-50%,-50%)`;
+      ring.style.transform = `translate(${rx}px,${ry}px) translate(-50%,-50%)`;
+      requestAnimationFrame(cursorLoop);
+    })();
+    $$('[data-hot]').forEach(el => {
+      el.addEventListener('pointerenter', () => document.body.classList.add('cursor-hot'));
+      el.addEventListener('pointerleave', () => document.body.classList.remove('cursor-hot'));
+    });
+    $$('h1,.h2').forEach(el => {
+      el.addEventListener('pointerenter', () => document.body.classList.add('cursor-text'));
+      el.addEventListener('pointerleave', () => document.body.classList.remove('cursor-text'));
+    });
+  }
+
+  /* ---------- magnetic buttons ---------- */
+  if (finePointer && !prefersReduced) {
+    $$('.magnetic').forEach(btn => {
+      btn.addEventListener('pointermove', e => {
+        const r = btn.getBoundingClientRect();
+        const x = e.clientX - r.left - r.width/2, y = e.clientY - r.top - r.height/2;
+        btn.style.transform = `translate(${x*.22}px, ${y*.3}px)`;
+      });
+      btn.addEventListener('pointerleave', () => { btn.style.transform = ''; });
+    });
+  }
+
+  /* ---------- 3D tilt + sheen tracking ---------- */
+  if (finePointer && !prefersReduced) {
+    $$('.tilt').forEach(card => {
+      card.addEventListener('pointermove', e => {
+        const r = card.getBoundingClientRect();
+        const px = (e.clientX - r.left) / r.width, py = (e.clientY - r.top) / r.height;
+        card.style.setProperty('--mx', (px*100)+'%');
+        card.style.setProperty('--my', (py*100)+'%');
+        card.style.transform =
+          `perspective(900px) rotateX(${(py-.5)*-7}deg) rotateY(${(px-.5)*9}deg) translateZ(0)`;
+      });
+      card.addEventListener('pointerleave', () => {
+        card.style.transition = 'transform .9s cubic-bezier(.22,1,.36,1)';
+        card.style.transform = '';
+        setTimeout(() => card.style.transition = '', 900);
+      });
+    });
+  }
+
+  /* ---------- scroll reveals ---------- */
+  const io = new IntersectionObserver(entries => {
+    entries.forEach(en => {
+      if (!en.isIntersecting) return;
+      en.target.classList.add('in');
+      if (en.target.hasAttribute('data-stagger')) {
+        [...en.target.children].forEach((c,i) => c.style.transitionDelay = (i*.09)+'s');
+      }
+      io.unobserve(en.target);
+    });
+  }, {threshold:.14, rootMargin:'0px 0px -6% 0px'});
+  $$('.rv, [data-stagger]').forEach(el => io.observe(el));
+
+  /* ---------- counters ---------- */
+  const cio = new IntersectionObserver(entries => {
+    entries.forEach(en => {
+      if (!en.isIntersecting) return;
+      const el = en.target, target = parseFloat(el.dataset.count), dec = +(el.dataset.dec||0);
+      const t0 = performance.now(), dur = 1600;
+      (function tick(t){
+        const p = Math.min((t-t0)/dur, 1), e = 1 - Math.pow(1-p, 4);
+        el.textContent = (target*e).toFixed(dec);
+        if (p < 1) requestAnimationFrame(tick);
+      })(t0);
+      cio.unobserve(el);
+    });
+  }, {threshold:.6});
+  $$('[data-count]').forEach(el => cio.observe(el));
+
+  /* ---------- process rail fill + lit steps ---------- */
+  const rail = $('#railFill'), processEl = $('#processTrack');
+  const steps = $$('.step');
+  const onProcess = () => {
+    const r = processEl.getBoundingClientRect();
+    const vh = innerHeight;
+    const p = Math.min(Math.max((vh*.7 - r.top) / r.height, 0), 1);
+    rail.style.setProperty('--fill', (p*100)+'%');
+    rail.style.height = (p*100)+'%';
+    steps.forEach(s => {
+      const sr = s.getBoundingClientRect();
+      s.classList.toggle('lit', sr.top + sr.height*.5 < vh*.72);
+    });
+  };
+
+  /* ---------- parallax ---------- */
+  const pEls = $$('[data-parallax]');
+  const onParallax = () => {
+    if (prefersReduced) return;
+    pEls.forEach(el => {
+      const r = el.getBoundingClientRect();
+      const mid = r.top + r.height/2 - innerHeight/2;
+      el.style.translate = `0 ${(-mid * parseFloat(el.dataset.parallax)).toFixed(1)}px`;
+    });
+  };
+
+  /* single rAF-batched scroll handler */
+  let ticking = false;
+  const onScroll = () => {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(() => { onNavScroll(); onProcess(); onParallax(); ticking = false; });
+  };
+  addEventListener('scroll', onScroll, {passive:true});
+  onScroll();
+
+  /* ---------- FAQ accordion ---------- */
+  $$('.faq').forEach(item => {
+    const q = $('.faq-q', item), a = $('.faq-a', item);
+    q.addEventListener('click', () => {
+      const open = item.classList.contains('open');
+      $$('.faq.open').forEach(o => {
+        o.classList.remove('open');
+        $('.faq-a', o).style.maxHeight = '';
+        $('.faq-q', o).setAttribute('aria-expanded','false');
+      });
+      if (!open) {
+        item.classList.add('open');
+        a.style.maxHeight = a.scrollHeight + 'px';
+        q.setAttribute('aria-expanded','true');
+      }
+    });
+  });
+
+  /* ---------- idle detection: the page breathes when you rest ---------- */
+  let idleTimer;
+  const wake = () => {
+    document.body.classList.remove('idle');
+    clearTimeout(idleTimer);
+    idleTimer = setTimeout(() => document.body.classList.add('idle'), 6000);
+  };
+  ['pointermove','scroll','keydown','touchstart'].forEach(ev =>
+    addEventListener(ev, wake, {passive:true}));
+  wake();
+
+  /* ---------- ember canvas ---------- */
+  if (!prefersReduced) {
+    const canvas = $('#embers'), ctx = canvas.getContext('2d');
+    let W, H, dpr, embers = [], mouseX = .5;
+    const AMBERS = ['#E3A251','#C2622B','#F0C077','#9C4A1E'];
+    const resize = () => {
+      dpr = Math.min(devicePixelRatio||1, 2);
+      W = canvas.parentElement.clientWidth;
+      H = canvas.parentElement.clientHeight;
+      canvas.width = W*dpr; canvas.height = H*dpr;
+      canvas.style.width = W+'px'; canvas.style.height = H+'px';
+      ctx.setTransform(dpr,0,0,dpr,0,0);
+    };
+    const spawn = () => ({
+      x: Math.random()*W,
+      y: H + 10 + Math.random()*60,
+      r: .8 + Math.random()*2.2,
+      v: .25 + Math.random()*.85,
+      sway: Math.random()*2*Math.PI,
+      swaySpd: .004 + Math.random()*.01,
+      life: 0,
+      maxLife: 380 + Math.random()*340,
+      c: AMBERS[(Math.random()*AMBERS.length)|0]
+    });
+    resize();
+    addEventListener('resize', resize, {passive:true});
+    addEventListener('pointermove', e => { mouseX = e.clientX/innerWidth; }, {passive:true});
+    const COUNT = Math.min(70, Math.floor(innerWidth/18));
+    for (let i=0;i<COUNT;i++){ const e = spawn(); e.y = Math.random()*H; e.life = Math.random()*e.maxLife; embers.push(e); }
+    let heroVisible = true;
+    new IntersectionObserver(([en]) => heroVisible = en.isIntersecting, {threshold:0})
+      .observe($('.hero'));
+    (function loop(){
+      requestAnimationFrame(loop);
+      if (!heroVisible) return;
+      ctx.clearRect(0,0,W,H);
+      const drift = (mouseX - .5) * .5;
+      for (const e of embers){
+        e.life++; e.y -= e.v; e.sway += e.swaySpd;
+        e.x += Math.sin(e.sway)*.35 + drift;
+        const p = e.life/e.maxLife;
+        const alpha = p < .12 ? p/.12 : p > .8 ? (1-p)/.2 : 1;
+        if (e.life > e.maxLife || e.y < -12) Object.assign(e, spawn());
+        ctx.globalAlpha = alpha * .8;
+        ctx.fillStyle = e.c;
+        ctx.shadowColor = e.c; ctx.shadowBlur = 8;
+        ctx.beginPath(); ctx.arc(e.x, e.y, e.r, 0, 6.2832); ctx.fill();
+      }
+      ctx.globalAlpha = 1; ctx.shadowBlur = 0;
+    })();
+  }
+})();
+</script>
+</body>
+</html>

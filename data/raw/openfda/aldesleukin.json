@@ -1,0 +1,66 @@
+{
+  "drug_name": "Aldesleukin",
+  "drug_id": 1367,
+  "sections": {
+    "warnings": "WARNINGS Stop use and ask doctor if symptoms worsen or persist more than 5 days",
+    "dosage_and_administration": "DIRECTIONS Take 15 minutes before meals. Adults and children 12 years and older 20 drops twice a day in a little water. Hold in the mouth for about 30 seconds then swallow. Children between 12 years and 6 years of age 10 drops twice a day in a little water. Hold in the mouth for about 30 seconds then swallow. Children under 6 years 5 drops twice a day in a glass of water.",
+    "indications_and_usage": "Take 15 minutes before meals"
+  },
+  "openfda_meta": {
+    "brand_name": [
+      "GUNA-IL 2"
+    ],
+    "generic_name": [
+      "ALDESLEUKIN"
+    ],
+    "manufacturer_name": [
+      "Guna spa"
+    ],
+    "product_ndc": [
+      "17089-380"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ALDESLEUKIN"
+    ],
+    "spl_id": [
+      "ed8137f8-9931-234c-e053-2a95a90a5769"
+    ],
+    "spl_set_id": [
+      "0619f291-207a-4e01-96bd-b882726665e2"
+    ],
+    "package_ndc": [
+      "17089-380-18"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0317089380184"
+    ],
+    "nui": [
+      "N0000178328",
+      "N0000009391",
+      "M0011506",
+      "N0000175667"
+    ],
+    "pharm_class_pe": [
+      "Increased Lymphocyte Activation [PE]",
+      "Increased Lymphocyte Cell Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Interleukin-2 [CS]"
+    ],
+    "pharm_class_epc": [
+      "Lymphocyte Growth Factor [EPC]"
+    ],
+    "unii": [
+      "M89N0Q7EQR"
+    ]
+  }
+}

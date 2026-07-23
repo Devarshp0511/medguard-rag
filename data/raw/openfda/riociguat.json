@@ -1,0 +1,95 @@
+{
+  "drug_name": "Riociguat",
+  "drug_id": 599,
+  "sections": {
+    "boxed_warning": "WARNING: EMBRYO-FETAL TOXICITY Do not administer Adempas to a pregnant female because it may cause fetal harm [see Contraindications ( 4.1 ), Warnings and Precautions ( 5.1 ) and Use in Specific Populations ( 8.1 )]. Females of reproductive potential: Exclude pregnancy before the start of treatment, monthly during treatment, and 1 month after stopping treatment. To prevent pregnancy, females of reproductive potential must use effective forms of contraception during treatment and for one month after [see Dosage and Administration ( 2.3 ), Warnings and Precautions ( 5.1 , 5.2 ),and Use in Specific Populations ( 8.3 )]. For all female patients, Adempas is available only through a restricted program called the Adempas Risk Evaluation and Mitigation Strategy (REMS) Program [see Warnings and Precautions ( 5.1 , 5.2 )]. WARNING: EMBRYO-FETAL TOXICITY See full prescribing information for complete boxed warning. \u2022 Do not administer Adempas to a pregnant female because it may cause fetal harm. ( 4.1 , 5.1 , 8.1 ) \u2022 Females of reproductive potential: Exclude pregnancy before start of treatment, monthly during treatment, and 1 month after treatment discontinuation. Prevent pregnancy during treatment and for one month after treatment discontinuation by use of effective forms of contraception. ( 2.3 , 5.1, 5.2 , 8.6 ) \u2022 For females, Adempas is available only through a restricted program called the Adempas REMS Program. ( 5.1, 5.2 )",
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Symptomatic hypotension ( 5.3 ) \u2022 Bleeding ( 5.4 ) \u2022 Pulmonary edema in patients with pulmonary veno-occlusive disease. If confirmed, discontinue treatment ( 5.5 ) 5.1 Embryo-Fetal Toxicity Based on data from animal reproduction studies, Adempas may cause embryo-fetal toxicity when administered to a pregnant female and is contraindicated in females who are pregnant. Advise females of reproductive potential of the potential risk to a fetus. Obtain a pregnancy test before the start of treatment, monthly during treatment, and for one month after stopping treatment. Advise females of reproductive potential to use effective contraception during treatment with ADEMPAS and for at least one month after the last dose [see Dosage and Administration ( 2.3 ) and Use in Specific Populations ( 8.1 , 8.3 )] . For females, Adempas is only available through a restricted program under the Adempas REMS Program [see Warnings and Precautions ( 5.2 )] . 5.2 Adempas REMS Program Females can only receive Adempas through the Adempas Risk Evaluation and Mitigation Strategy (REMS) Program, a restricted distribution program [see Warnings and Precautions ( 5.1 )]. Important requirements of the Adempas REMS Program include the following: \u2022 Prescribers must be certified with the program by enrolling and completing training. \u2022 All females, regardless of reproductive potential, must enroll in the Adempas REMS Program prior to initiating Adempas. Male patients are not enrolled in the Adempas REMS Program. \u2022 Female patients of reproductive potential must comply with the pregnancy testing and contraception requirements [see Use in Specific Populations ( 8.3 )]. \u2022 Pharmacies must be certified with the program and must only dispense to patients who are authorized to receive Adempas. Further information, including a list of certified pharmacies, is available at www.AdempasREMS.com or 1-855-4 ADEMPAS. 5.3 Hypotension Adempas reduces blood pressure. Consider the potential for symptomatic hypotension or ischemia in patients with hypovolemia, severe left ventricular outflow obstruction, resting hypotension, autonomic dysfunction, or concomitant treatment with antihypertensives or strong CYP and P-gp/BCRP inhibitors [see Drug Interactions ( 7.2 ) and Clinical Pharmacology ( 12.3 )] . Consider a dose reduction if patient develops signs or symptoms of hypotension. 5.4 Bleeding In the placebo-controlled clinical trials, serious bleeding occurred in 2.4% of patients taking Adempas compared to 0% of placebo patients. Serious hemoptysis occurred in 5 (1%) patients taking Adempas compared to 0 placebo patients, including one event with fatal outcome. Serious hemorrhagic events also included 2 patients with vaginal hemorrhage, 2 with catheter site hemorrhage, and 1 each with subdural hematoma, hematemesis, and intra-abdominal hemorrhage. 5.5 Pulmonary Veno-Occlusive Disease Pulmonary vasodilators may significantly worsen the cardiovascular status of patients with pulmonary veno-occlusive disease (PVOD). Therefore, administration of Adempas to such patients is not recommended. Should signs of pulmonary edema occur, the possibility of associated PVOD should be considered and, if confirmed, discontinue treatment with Adempas.",
+    "drug_interactions": "7 DRUG INTERACTIONS \u2022 Strong CYP and P-gp/BCRP inhibitors: For patients receiving strong CYP and P-gp/BCRP inhibitors, consider a starting dose of 0.5 mg three times a day. Monitor for hypotension. (7.2 ) \u2022 Antacids: Separate administration by at least 1 hour. ( 7.2 ) 7.1 Pharmacodynamic Interactions with Adempas Other Soluble Guanylate Cyclase Stimulators: Co-administration of Adempas is contraindicated in patients with use of other soluble guanylate cyclase (sGC) stimulators [see Contraindications ( 4.4 )]. Nitrates: Co-administration of Adempas with nitrates or nitric oxide donors (such as amyl nitrite) in any form is contraindicated because of hypotension [see Contraindications ( 4.2 ) and Clinical Pharmacology ( 12.2 )] . PDE Inhibitors: Co-administration of Adempas with specific PDE-5 inhibitors (such as sildenafil, tadalafil, or vardenafil) and nonspecific PDE inhibitors (such as dipyridamole or theophylline), is contraindicated because of hypotension. Do not administer within 24 hours of sildenafil. Do not administer 24 hours before or within 48 hours after tadalafil [see Dosage and Administration (2.6)]. Clinical experience with co-administration of Adempas and other phosphodiesterase inhibitors (for example, milrinone, cilostazole, roflumilast) is limited. 7.2 Pharmacokinetic Interactions with Adempas Smoking: Plasma concentrations in smokers are reduced by 50% to 60% compared to nonsmokers. Based on pharmacokinetic modeling, for patients who are smokers, doses higher than 2.5 mg three times a day may be considered in order to match exposure seen in nonsmoking patients. Safety and effectiveness of Adempas doses higher than 2.5 mg three times a day have not been established. A dose reduction should be considered in patients who stop smoking [see Dosage and Administration ( 2.4 ) and Clinical Pharmacology ( 12.3 )]. Strong CYP and P-gp/BCRP inhibitors: Concomitant use of riociguat with strong cytochrome CYP inhibitors and P-gp/BCRP inhibitors such as azole antimycotics (for example, ketoconazole, itraconazole) or HIV protease inhibitors (such as ritonavir) increase riociguat exposure and may result in hypotension. Consider a starting dose of 0.5 mg 3 times a day when initiating Adempas in patients receiving strong CYP and P-gp/BCRP inhibitors. Monitor for signs and symptoms of hypotension on initiation and on treatment with strong CYP and P-gp/BCRP inhibitors. A dose reduction should be considered in patients who may not tolerate the hypotensive effect of riociguat [see Dosage and Administration ( 2.5 ), Warnings and Precautions ( 5.3 ) and Clinical Pharmacology ( 12.3 )] . Strong CYP3A inducers: Strong inducers of CYP3A (for example, rifampin, phenytoin, carbamazepine, phenobarbital or St. John\u2019s Wort) may significantly reduce riociguat exposure. Data are not available to guide dosing of riociguat when strong CYP3A inducers are co-administered. [see Clinical Pharmacology ( 12.3 )]. Antacids: Antacids such as aluminum hydroxide/magnesium hydroxide decrease riociguat absorption and should not be taken within 1 hour of taking Adempas [see Clinical Pharmacology ( 12.3 )].",
+    "contraindications": "4 CONTRAINDICATIONS \u2022 Pregnancy ( 4.1 ) \u2022 Use with nitrates or nitric oxide donors in any form ( 4.2 , 7.1 ) \u2022 Use with PDE inhibitors ( 2.6 , 4.3 , 7.1 ) \u2022 Patients with concomitant use of other soluble guanylate cyclase (sGC) stimulators. ( 4.4 , 7.1 ) \u2022 \u2022 Pulmonary hypertension associated with idiopathic interstitial pneumonias (PH-IIP) ( 4.4 ) 4.1 Pregnancy Based on data from animal reproduction studies, Adempas may cause fetal harm when administered to a pregnant woman and is contraindicated in females who are pregnant. Adempas was consistently shown to have teratogenic effects when administered to animals. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations ( 8.1 )] . 4.2 Nitrates and Nitric Oxide Donors Co-administration of Adempas with nitrates or nitric oxide donors (such as amyl nitrite) in any form is contraindicated [see Drug Interactions (7.1) and Clinical Pharmacology ( 12.2 )] . 4.3 Phosphodiesterase Inhibitors Concomitant administration of Adempas with specific PDE-5 inhibitors (such as sildenafil, tadalafil, or vardenafil) or nonspecific PDE 5 inhibitors (such as dipyridamole or theophylline) is contraindicated [see Dosage and Administration (2.6), Drug Interactions ( 7.1 ) and Clinical Pharmacology ( 12.2 )]. Do not administer within 24 hours of sildenafil. Do not administer 24 hours before or within 48 hours after tadalafil. 4.4 Soluble Guanylate Stimulators Adempas is contraindicated in patients with concomitant use of other soluble guanylate cyclase (sGC) stimulators [see Drug Interactions ( 7.1 )]. 4.5 Pulmonary Hypertension Associated with Idiopathic Interstitial Pneumonias (PH-IIP) Adempas is contraindicated in patients with pulmonary hypertension associated with idiopathic interstitial pneumonias (PH-IIP).",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION \u2022 Initiate treatment at 1 mg taken three times a day. ( 2.1 ) \u2022 For patients who may not tolerate the hypotensive effect of Adempas, consider a starting dose of 0.5 mg, three times a day. ( 2.1 ) \u2022 Increase dosage by 0.5 mg at intervals of no sooner than 2-weeks as tolerated to a maximum of 2.5 mg three times a day. ( 2.1 ) \u2022 Tablets may be crushed and mixed with water or soft foods for patients who have difficulty swallowing. ( 2.1 ) 2.1 Recommended Dosage in Adult Patients The recommended starting dosage is 1 mg taken 3 times a day. For patients who may not tolerate the hypotensive effect of Adempas, consider a starting dose of 0.5 mg taken three times a day. If systolic blood pressure remains greater than 95 mmHg and the patient has no signs or symptoms of hypotension, up-titrate the dose by 0.5 mg taken three times a day. Dose increases should be no sooner than 2 weeks apart. The dose can be increased to the highest tolerated dosage, up to a maximum of 2.5 mg taken three times a day. If at any time, the patient has symptoms of hypotension, decrease the dosage by 0.5 mg taken three times a day. Crushed Tablets For patients who are unable to swallow whole tablets, Adempas may be crushed and mixed with water or soft foods (such as applesauce) immediately before administration [see Clinical Pharmacology ( 12.3 )] . 2.2 Dosage Interruption If a dose is missed, advise patients to continue with the next regularly scheduled dose. In case Adempas is interrupted for 3 days or more, re-titrate Adempas. 2.3 Pregnancy Testing in Females of Reproductive Potential Obtain pregnancy tests prior to start of treatment and monthly during treatment [see Use in Specific Populations ( 8.3 )]. 2.4 Use in Patients who Smoke Consider titrating to dosages higher than 2.5 mg three times a day, if tolerated, in patients who smoke. A dose decrease may be required in patients who stop smoking [see Drug Interactions ( 7.2 ) and Clinical Pharmacology ( 12.3 )]. 2.5 Strong CYP and P-gp/BCRP Inhibitors Consider a starting dose of 0.5 mg, three times a day when initiating Adempas in patients receiving strong cytochrome P450 (CYP) and P-glycoprotein/breast cancer resistance protein (P-gp/BCRP) inhibitors such as azole antimycotics (for example, ketoconazole, itraconazole) or HIV protease inhibitors (for example, ritonavir). Monitor for signs and symptoms of hypotension on initiation and on treatment with strong CYP and P-gp/BCRP inhibitors [see Warnings and Precautions ( 5.3 ), Drug Interactions ( 7.2 ) and Clinical Pharmacology ( 12.3 )]. 2.6 Transitioning to and from Adempas \u2022 Discontinue sildenafil at least 24 hours prior to administering Adempas [see Contraindications ( 4.3 ) and Drug Interactions ( 7 )]. \u2022 Discontinue tadalafil at least 48 hours prior to administering Adempas [see Contraindications ( 4.3 ) and Drug Interactions ( 7 )] . Consider initiating Adempas at a starting dose of 0.5 mg in patients at risk of hypotension [see Dosage and Administration ( 2.1 )] . Monitor for signs and symptoms of hypotension on initiation. \u2022 Discontinue Adempas at least 24 hours prior to administering a PDE5-inhibitor [see Dosage and Administration ( 2.1 ), Contraindications ( 4.3 ), and Drug Interactions ( 7 )]. Monitor for signs and symptoms of hypotension on initiation.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Adempas is a soluble guanylate cyclase (sGC) stimulator indicated for the treatment of adults with: \u2022 Persistent/recurrent Chronic Thromboembolic Pulmonary Hypertension (CTEPH) (WHO Group 4) after surgical treatment or inoperable CTEPH to improve exercise capacity and WHO functional class. ( 1.1 ) \u2022 Pulmonary Arterial Hypertension (PAH) (WHO Group 1) to improve exercise capacity, improve WHO functional class and to delay clinical worsening. ( 1.2 ) 1.1 Chronic-Thromboembolic Pulmonary Hypertension Adempas is indicated for the treatment of adults with persistent/recurrent chronic thromboembolic pulmonary hypertension (CTEPH), (WHO Group 4) after surgical treatment, or inoperable CTEPH, to improve exercise capacity and WHO functional class [see Clinical Studies ( 14.1 )]. 1.2 Pulmonary Arterial Hypertension Adempas is indicated for the treatment of adults with pulmonary arterial hypertension (PAH), (WHO Group 1), to improve exercise capacity, WHO functional class and to delay clinical worsening. Efficacy was shown in patients on Adempas monotherapy or in combination with endothelin receptor antagonists or prostanoids. Studies establishing effectiveness included predominately patients with WHO functional class II\u2013III and etiologies of idiopathic or heritable PAH (61%) or PAH associated with connective tissue diseases (25%) [see Clinical Studies ( 14.2 )] ."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA204819"
+    ],
+    "brand_name": [
+      "Adempas"
+    ],
+    "generic_name": [
+      "RIOCIGUAT"
+    ],
+    "manufacturer_name": [
+      "Bayer HealthCare Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "50419-250",
+      "50419-251",
+      "50419-252",
+      "50419-253",
+      "50419-254"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "RIOCIGUAT"
+    ],
+    "rxcui": [
+      "1439821",
+      "1439823",
+      "1439831",
+      "1439833",
+      "1439837",
+      "1439894",
+      "1439896",
+      "1439899",
+      "1439901",
+      "1439903"
+    ],
+    "spl_id": [
+      "4919c19b-7cbb-4724-a711-7f908b7d18e7"
+    ],
+    "spl_set_id": [
+      "7b57509a-3d5d-41d4-8fed-1471e26372a3"
+    ],
+    "package_ndc": [
+      "50419-250-01",
+      "50419-250-03",
+      "50419-250-91",
+      "50419-250-71",
+      "50419-251-01",
+      "50419-251-03",
+      "50419-251-91",
+      "50419-251-71",
+      "50419-252-01",
+      "50419-252-03",
+      "50419-252-91",
+      "50419-253-01",
+      "50419-253-03",
+      "50419-253-91",
+      "50419-254-01",
+      "50419-254-03",
+      "50419-254-91"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000190484",
+      "N0000190485"
+    ],
+    "pharm_class_moa": [
+      "Guanylate Cyclase Stimulators [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Soluble Guanylate Cyclase Stimulator [EPC]"
+    ],
+    "unii": [
+      "RU3FE2Y4XI"
+    ]
+  }
+}

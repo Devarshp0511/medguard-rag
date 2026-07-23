@@ -1,0 +1,59 @@
+{
+  "drug_name": "Dexbrompheniramine",
+  "drug_id": 1073,
+  "sections": {
+    "warnings": "Warnings Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product excitability may occur, especially in children may cause drowsiness avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase the drowsiness effect use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "dosage_and_administration": "Directions Adults and children 12 years of age and over: 1 tablet every 4 to 6 hours, not to exceed 6 tablets in 24 hours. Children 6 to under 12 years of age: 1/2 tablet every 4 to 6 hours, not to exceed 3 tablets in 24 hours. Children under 6 years of age: Consult a doctor.",
+    "dosage_and_administration_table": "<table width=\"500px\"><col/><col/><tbody><tr><td valign=\"top\">Adults and children  12 years of age and  over: </td><td valign=\"top\">1 tablet every 4 to 6  hours, not to exceed  6 tablets in 24 hours. </td></tr><tr><td valign=\"top\">Children 6 to under  12 years of age: </td><td valign=\"top\">1/2 tablet every 4 to 6  hours, not to exceed  3 tablets in 24 hours. </td></tr><tr><td valign=\"top\">Children under 6  years of age: </td><td valign=\"top\">Consult a doctor. </td></tr></tbody></table>",
+    "indications_and_usage": "Uses Temporarily relieves these symptoms due to hay fever (allergic rhinitis) or upper respiratory allergies: runny nose sneezing itching of the nose or throat itchy, watery eyes"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "ALA-HIST IR"
+    ],
+    "generic_name": [
+      "DEXBROMPHENIRAMINE MALEATE"
+    ],
+    "manufacturer_name": [
+      "Poly Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "50991-783"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DEXBROMPHENIRAMINE MALEATE"
+    ],
+    "rxcui": [
+      "2262293",
+      "2262295"
+    ],
+    "spl_id": [
+      "4513db4f-e8f2-ecc6-e063-6294a90a1b17"
+    ],
+    "spl_set_id": [
+      "0d203b5c-8b10-428b-8703-17be6b4ce6eb"
+    ],
+    "package_ndc": [
+      "50991-783-02",
+      "50991-783-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0350991783605"
+    ],
+    "unii": [
+      "BPA9UT29BS"
+    ]
+  }
+}

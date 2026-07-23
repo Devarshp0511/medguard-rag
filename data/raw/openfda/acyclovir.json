@@ -1,0 +1,79 @@
+{
+  "drug_name": "Acyclovir",
+  "drug_id": 1462,
+  "sections": {
+    "warnings": "WARNINGS Acyclovir capsules are intended for oral ingestion only. Renal failure, in some cases resulting in death, has been observed with acyclovir therapy (see ADVERSE REACTIONS: Observed During Clinical Practice and OVERDOSAGE ). Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), which has resulted in death, has occurred in immunocompromised patients receiving acyclovir therapy.",
+    "drug_interactions": "Drug Interactions: See CLINICAL PHARMACOLOGY: Pharmacokinetics .",
+    "contraindications": "CONTRAINDICATIONS Acyclovir is contraindicated for patients who develop hypersensitivity to acyclovir or valacyclovir.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Acute Treatment of Herpes Zoster : 800 mg every 4 hours orally, 5 times daily for 7 to 10 days. Genital Herpes : Treatment of Initial Genital Herpes: 200 mg every 4 hours, 5 times daily for 10 days. Chronic Suppressive Therapy for Recurrent Disease: 400 mg 2 times daily for up to 12 months, followed by re-evaluation. Alternative regimens have included doses ranging from 200 mg 3 times daily to 200 mg 5 times daily. The frequency and severity of episodes of untreated genital herpes may change over time. After 1 year of therapy, the frequency and severity of the patient's genital herpes infection should be re-evaluated to assess the need for continuation of therapy with acyclovir. Intermittent Therapy: 200 mg every 4 hours, 5 times daily for 5 days. Therapy should be initiated at the earliest sign or symptom (prodrome) of recurrence. Treatment of Chickenpox : Children (2 years of age and older): 20 mg/kg per dose orally 4 times daily (80 mg/kg/day) for 5 days. Children over 40 kg should receive the adult dose for chickenpox. Adults and Children over 40 kg: 800 mg 4 times daily for 5 days. Intravenous acyclovir is indicated for the treatment of varicella-zoster infections in immunocompromised patients. When therapy is indicated, it should be initiated at the earliest sign or symptom of chickenpox. There is no information about the efficacy of therapy initiated more than 24 hours after onset of signs and symptoms. Patients With Acute or Chronic Renal Impairment : In patients with renal impairment, the dose of acyclovir capsules should be modified as shown in Table 3 : Hemodialysis : For patients who require hemodialysis, the mean plasma half-life of acyclovir during hemodialysis is approximately 5 hours. This results in a 60% decrease in plasma concentrations following a 6-hour dialysis period. Therefore, the patient's dosing schedule should be adjusted so that an additional dose is administered after each dialysis. Peritoneal Dialysis : No supplemental dose appears to be necessary after adjustment of the dosing interval. Bioequivalence of Dosage Forms : Acyclovir Suspension was shown to be bioequivalent to acyclovir Capsules (n = 20) and 1 acyclovir 800-mg capsule was shown to be bioequivalent to 4 acyclovir 200-mg capsules (n = 24).",
+    "indications_and_usage": "INDICATIONS AND USAGE Herpes Zoster Infections : Acyclovir is indicated for the acute treatment of herpes zoster (shingles). Genital Herpes : Acyclovir is indicated for the treatment of initial episodes and the management of recurrent episodes of genital herpes. Chickenpox : Acyclovir is indicated for the treatment of chickenpox (varicella)."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA206261"
+    ],
+    "brand_name": [
+      "Acyclovir"
+    ],
+    "generic_name": [
+      "ACYCLOVIR"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "71335-1290"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACYCLOVIR"
+    ],
+    "rxcui": [
+      "197310"
+    ],
+    "spl_id": [
+      "cb9a2970-e0e8-4faf-9ed9-06bec3649207"
+    ],
+    "spl_set_id": [
+      "01ae85df-d1a0-44f7-b4c0-0ac74d2216d4"
+    ],
+    "package_ndc": [
+      "71335-1290-1",
+      "71335-1290-2",
+      "71335-1290-3",
+      "71335-1290-4",
+      "71335-1290-5",
+      "71335-1290-6",
+      "71335-1290-7",
+      "71335-1290-8",
+      "71335-1290-9",
+      "71335-1290-0"
+    ],
+    "original_packager_product_ndc": [
+      "61442-114"
+    ],
+    "nui": [
+      "N0000020060",
+      "N0000180187",
+      "N0000180188",
+      "N0000175468",
+      "N0000175459"
+    ],
+    "pharm_class_moa": [
+      "DNA Polymerase Inhibitors [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor [EPC]",
+      "Herpes Zoster Virus Nucleoside Analog DNA Polymerase Inhibitor [EPC]",
+      "Herpesvirus Nucleoside Analog DNA Polymerase Inhibitor [EPC]"
+    ],
+    "unii": [
+      "X4HES1O11F"
+    ]
+  }
+}

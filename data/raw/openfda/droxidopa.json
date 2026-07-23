@@ -1,0 +1,72 @@
+{
+  "drug_name": "Droxidopa",
+  "drug_id": 237,
+  "sections": {
+    "boxed_warning": "WARNING: SUPINE HYPERTENSION WARNING: SUPINE HYPERTENSION See full prescribing information for complete boxed warning. Monitor supine blood pressure prior to and during treatment and more frequently when increasing doses. Elevating the head of the bed lessens the risk of supine hypertension, and blood pressure should be measured in this position. If supine hypertension cannot be managed by elevation of the head of the bed, reduce or discontinue droxidopa [see Warnings and Precautions (5.1) ].",
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Droxidopa may cause supine hypertension and may increase cardiovascular risk if supine hypertension is not well-managed (5.1) \u2022 Hyperpyrexia and confusion (5.2) \u2022 May exacerbate symptoms in patients with existing ischemic heart disease, arrhythmias, and congestive heart failure (5.3) \u2022 Allergic reactions (5.4) 5.1 Supine Hypertension Droxidopa therapy may cause or exacerbate supine hypertension in patients with nOH. Patients should be advised to elevate the head of the bed when resting or sleeping. Monitor blood pressure, both in the supine position and in the recommended head-elevated sleeping position. Reduce or discontinue droxidopa if supine hypertension persists. If supine hypertension is not well-managed, droxidopa may increase the risk of cardiovascular events, particularly stroke. 5.2 Hyperpyrexia and Confusion Postmarketing cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have been reported with droxidopa use during postmarketing surveillance. Observe patients carefully when the dosage of droxidopa is changed or when concomitant levodopa is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics. NMS is an uncommon but life-threatening syndrome characterized by fever or hyperthermia, muscle rigidity, involuntary movements, altered consciousness, and mental status changes. The early diagnosis of this condition is important for the appropriate management of these patients. 5.3 Ischemic Heart Disease, Arrhythmias, and Congestive Heart Failure Droxidopa may exacerbate existing ischemic heart disease, arrhythmias, and congestive heart failure. Careful consideration should be given to this potential risk prior to initiating therapy in patients with these conditions. 5.4 Allergic Reactions Hypersensitivity reactions including anaphylaxis, angioedema, bronchospasm, urticaria and rash have been reported in postmarketing experience. Some of these reactions resulted in emergency treatment. If a hypersensitivity reaction occurs, discontinue the drug and initiate appropriate therapy.",
+    "drug_interactions": "7 DRUG INTERACTIONS Use of DOPA decarboxylase inhibitors may require dose adjustments for droxidopa (7.2) 7.1 Drugs that Increase Blood Pressure Administering droxidopa in combination with other agents that increase blood pressure (e.g., norepinephrine, ephedrine, midodrine, and triptans) would be expected to increase the risk for supine hypertension. 7.2 Parkinson\u2019s Medications Dopa-decarboxylase inhibitors may require dose adjustments for droxidopa. 7.3 Non-selective MAO Inhibitors The concomitant use of selective MAO-B inhibitors, such as rasagiline or selegiline, was permitted in the droxidopa clinical trials. However, based on mechanism of action, the use of non-selective MAO inhibitors and linezolid should be avoided as there is a potential for increased blood pressure when taken with droxidopa.",
+    "contraindications": "4 CONTRAINDICATIONS Droxidopa is contraindicated in patients who have a history of hypersensitivity to the drug or its ingredients [see Warnings and Precautions (5.4) ]. History of hypersensitivity to the drug or its ingredients",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION \u2022 Starting dose is 100 mg three times during the day (2.1) \u2022 Titrate by 100 mg three times daily, up to a maximum dose of 600 mg three times daily (2.1) \u2022 Take consistently with or without food (2.1) \u2022 To reduce the potential for supine hypertension, elevate the head of the bed and give the last dose at least 3 hours prior to bedtime (2.1) \u2022 Take droxidopa capsule whole (2.1) 2.1 Dosing Information The recommended starting dose of droxidopa capsules is 100 mg, taken orally three times daily: upon arising in the morning, at midday, and in the late afternoon at least 3 hours prior to bedtime (to reduce the potential for supine hypertension during sleep). Administer droxidopa capsules consistently, either with food or without food. Take droxidopa capsule whole. Titrate to symptomatic response, in increments of 100 mg three times daily every 24 to 48 hours up to a maximum dose of 600 mg three times daily (i.e., a maximum total daily dose of 1,800 mg). Monitor supine blood pressure prior to initiating droxidopa capsules and after increasing the dose. Patients who miss a dose of droxidopa capsules should take their next scheduled dose.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Droxidopa capsules indicated for the treatment of orthostatic dizziness, lightheadedness, or the \u201cfeeling that you are about to black out\u201d in adult patients with symptomatic neurogenic orthostatic hypotension (nOH) caused by primary autonomic failure (Parkinson's disease [PD], multiple system atrophy, and pure autonomic failure), dopamine beta-hydroxylase deficiency, and non-diabetic autonomic neuropathy. Effectiveness beyond 2 weeks of treatment has not been established. The continued effectiveness of droxidopa capsules should be assessed periodically. Droxidopa capsules are indicated for the treatment of orthostatic dizziness, lightheadedness, or the \u201cfeeling that you are about to black out\u201d in adult patients with symptomatic neurogenic orthostatic hypotension (nOH) caused by primary autonomic failure (Parkinson's disease [PD], multiple system atrophy, and pure autonomic failure), dopamine beta-hydroxylase deficiency, and non-diabetic autonomic neuropathy. Effectiveness beyond 2 weeks of treatment has not been established. The continued effectiveness of droxidopa capsules should be assessed periodically."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA215265"
+    ],
+    "brand_name": [
+      "droxidopa"
+    ],
+    "generic_name": [
+      "DROXIDOPA"
+    ],
+    "manufacturer_name": [
+      "Slate Run Pharmaceuticals, LLC"
+    ],
+    "product_ndc": [
+      "70436-140",
+      "70436-141",
+      "70436-142"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DROXIDOPA"
+    ],
+    "rxcui": [
+      "1490026",
+      "1490034",
+      "1490038"
+    ],
+    "spl_id": [
+      "1af8aeac-14cf-4330-bf4e-3e50348268c1"
+    ],
+    "spl_set_id": [
+      "049f997b-1649-467e-bbb9-bdb991b0bc6e"
+    ],
+    "package_ndc": [
+      "70436-140-06",
+      "70436-141-06",
+      "70436-142-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "M0003647",
+      "N0000178478"
+    ],
+    "pharm_class_cs": [
+      "Catecholamines [CS]"
+    ],
+    "pharm_class_pe": [
+      "Increased Blood Pressure [PE]"
+    ],
+    "unii": [
+      "J7A92W69L7"
+    ]
+  }
+}

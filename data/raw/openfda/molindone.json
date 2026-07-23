@@ -1,0 +1,65 @@
+{
+  "drug_name": "Molindone",
+  "drug_id": 309,
+  "sections": {
+    "boxed_warning": "WARNING Increased Mortality in Elderly Patients with Dementia-Related Psychosis \u2013 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Analyses of seventeen placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients. Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group. Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature. Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality. The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear. Molindone Hydrochloride Tablets, USP are not approved for the treatment of patients with dementia-related psychosis (see WARNINGS ).",
+    "warnings": "WARNINGS Increased Mortality in Elderly Patients with Dementia-Related Psychosis \u2014 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Molindone Hydrochloride Tablets are not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING ). Tardive Dyskinesia Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs. Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome. Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown. Both the risk of developing the syndrome and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase. However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses. There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn. Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying disease process. The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown. Given these considerations, antipsychotics should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia. Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to antipsychotic drugs, and 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate. In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought. The need for continued treatment should be reassessed periodically. If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered. However, some patients may require treatment despite the presence of the syndrome. (For further information about the description of tardive dyskinesia and its clinical detection, please refer to the section on ADVERSE REACTIONS .) Falls Molindone Hydrochloride may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries. For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy. Neuroleptic Malignant Syndrome (NMS) A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias). The diagnostic evaluation of patients with this syndrome is complicated. In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS). Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology. The management of NMS should include, 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available. There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS. If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered. The patient should be carefully monitored, since recurrences of NMS have been reported.",
+    "drug_interactions": "Drug Interactions Potentiation of drugs administered concurrently with Molindone Hydrochloride has not been reported. Additionally, animal studies have not shown increased toxicity when Molindone Hydrochloride is given concurrently with representative members of three classes of drugs (i.e., barbiturates, chloral hydrate and antiparkinson drugs).",
+    "contraindications": "CONTRAINDICATIONS Molindone Hydrochloride Tablets are contraindicated in severe central nervous system depression (alcohol, barbiturates, narcotics, etc.) or comatose states, and in patients with known hypersensitivity to the drug.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Initial and maintenance doses of Molindone Hydrochloride Tablets should be individualized. Initial Dosage Schedule The usual starting dosage is 50 to 75 mg/day. \u2014Increase to 100 mg/day in 3 or 4 days. \u2014Based on severity of symptomatology, dosage may be titrated up or down depending on individual patient response. \u2014An increase to 225 mg/day may be required in patients with severe symptomatology. Elderly and debilitated patients should be started on lower dosage. Maintenance Dosage Schedule 1. Mild-5 mg to 15 mg three or four times a day. 2. Moderate-10 mg to 25 mg three or four times a day. Severe-225 mg/day may be required.",
+    "indications_and_usage": "INDICATIONS AND USAGE Molindone Hydrochloride Tablets, USP are indicated for the management of schizophrenia. The efficacy of Molindone Hydrochloride Tablets, USP in schizophrenia was established in clinical studies which enrolled newly hospitalized and chronically hospitalized, acutely ill, schizophrenic patients as subjects."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA090453"
+    ],
+    "brand_name": [
+      "Molindone Hydrochloride"
+    ],
+    "generic_name": [
+      "MOLINDONE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "EPIC PHARMA, LLC"
+    ],
+    "product_ndc": [
+      "42806-336",
+      "42806-337",
+      "42806-338"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MOLINDONE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1298816",
+      "1298906",
+      "1298910"
+    ],
+    "spl_id": [
+      "d7c8ea49-c06c-441d-820e-def3920f7c1e"
+    ],
+    "spl_set_id": [
+      "1275e92f-9573-4d0c-8e77-1c9ac47696d2"
+    ],
+    "package_ndc": [
+      "42806-336-01",
+      "42806-337-01",
+      "42806-338-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0342806337011"
+    ],
+    "unii": [
+      "1DWS68PNE6"
+    ]
+  }
+}

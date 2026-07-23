@@ -1,0 +1,78 @@
+{
+  "drug_name": "Nadolol",
+  "drug_id": 310,
+  "sections": {
+    "boxed_warning": "Exacerbation of Ischemic Heart Disease Following Abrupt Withdrawal Hypersensitivity to catecholamines has been observed in patients withdrawn from beta-blocker therapy; exacerbation of angina and, in some cases, myocardial infarction have occurred after abrupt discontinuation of such therapy. When discontinuing chronically administered nadolol, particularly in patients with ischemic heart disease, the dosage should be gradually reduced over a period of one to two weeks and the patient should be carefully monitored. If angina markedly worsens or acute coronary insufficiency develops, nadolol administration should be reinstituted promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken. Patients should be warned against interruption or discontinuation of therapy without the physician's advice. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue nadolol therapy abruptly even in patients treated only for hypertension.",
+    "warnings": "WARNINGS Cardiac Failure Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta-blockade may precipitate more severe failure. Although beta-blockers should be avoided in overt congestive heart failure, if necessary, they can be used with caution in patients with a history of failure who are well-compensated, usually with digitalis and diuretics. Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle. IN PATIENTS WITHOUT A HISTORY OF HEART FAILURE, continued use of beta-blockers can, in some cases, lead to cardiac failure. Therefore, at the first sign or symptom of heart failure, the patient should be digitalized and/or treated with diuretics, and the response observed closely, or nadolol should be discontinued (gradually, if possible). Exacerbation of Ischemic Heart Disease Following Abrupt Withdrawal Hypersensitivity to catecholamines has been observed in patients withdrawn from beta-blocker therapy; exacerbation of angina and, in some cases, myocardial infarction have occurred after abrupt discontinuation of such therapy. When discontinuing chronically administered nadolol, particularly in patients with ischemic heart disease, the dosage should be gradually reduced over a period of one to two weeks and the patient should be carefully monitored. If angina markedly worsens or acute coronary insufficiency develops, nadolol administration should be reinstituted promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken. Patients should be warned against interruption or discontinuation of therapy without the physician's advice. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue nadolol therapy abruptly even in patients treated only for hypertension. Nonallergic Bronchospasm (e.g., chronic bronchitis, emphysema) PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD IN GENERAL NOT RECEIVE BETA-BLOCKERS. Nadolol should be administered with caution since it may block bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta 2 receptors. Major Surgery Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures. Diabetes and Hypoglycemia Beta blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting). If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment. Beta-blockade also reduces the release of insulin in response to hyperglycemia; therefore, it may be necessary to adjust the dose of antidiabetic drugs. Thyrotoxicosis Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism. Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-adrenergic blockade which might precipitate a thyroid storm.",
+    "drug_interactions": "Drug Interactions When administered concurrently, the following drugs may interact with beta-adrenergic receptor blocking agents: Anesthetics, general exaggeration of the hypotension induced by general anesthetics (see WARNINGS: Major Surgery ). Antidiabetic drugs (oral agents and insulin) hypoglycemia or hyperglycemia; adjust dosage of antidiabetic drug accordingly (see WARNINGS: Diabetes and Hypoglycemia ). Catecholamine-depleting drugs (e.g., reserpine) additive effect; monitor closely for evidence of hypotension and/or excessive bradycardia (e.g., vertigo, syncope, postural hypotension). Digitalis glycosides Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia. Response to Treatment for Anaphylactic Reaction While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.",
+    "contraindications": "CONTRAINDICATIONS Nadolol is contraindicated in bronchial asthma, sinus bradycardia and greater than first degree conduction block, cardiogenic shock, and overt cardiac failure (see WARNINGS ).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION DOSAGE MUST BE INDIVIDUALIZED. NADOLOL MAY BE ADMINISTERED WITHOUT REGARD TO MEALS. Angina Pectoris The usual initial dose is 40 mg nadolol once daily. Dosage may be gradually increased in 40 to 80 mg increments at 3 to 7 day intervals until optimum clinical response is obtained or there is pronounced slowing of the heart rate. The usual maintenance dose is 40 or 80 mg administered once daily. Doses up to 160 or 240 mg administered once daily may be needed. The usefulness and safety in angina pectoris of dosage exceeding 240 mg per day have not been established. If treatment is to be discontinued, reduce the dosage gradually over a period of one to two weeks (see WARNINGS ). Hypertension The usual initial dose is 40 mg nadolol once daily, whether it is used alone or in addition to diuretic therapy. Dosage may be gradually increased in 40 to 80 mg increments until optimum blood pressure reduction is achieved. The usual maintenance dose is 40 or 80 mg administered once daily. Doses up to 240 or 320 mg administered once daily may be needed. Dosage Adjustment in Renal Failure Absorbed nadolol is excreted principally by the kidneys and, although nonrenal elimination does occur, dosage adjustments are necessary in patients with renal impairment. The following dose intervals are recommended: Creatinine Clearance (mL/min/1.73m 2 ) Dosage Interval (hours) > 50 24 31 to 50 24 to 36 10 to 30 24 to 48 < 10 40 to 60",
+    "dosage_and_administration_table": "<table width=\"97.72%\"><col width=\"48%\"/><col width=\"47%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Creatinine Clearance (mL/min/1.73m <sup>2</sup>) </content> </paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Dosage Interval (hours)</content> </paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>&gt; 50  </paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>24  </paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>31 to 50  </paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>24 to 36  </paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>10 to 30  </paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>24 to 48  </paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>&lt; 10  </paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>40 to 60  </paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE Angina Pectoris Nadolol tablets, USP are indicated for the long-term management of patients with angina pectoris. Hypertension Nadolol tablets, USP are indicated for the treatment of hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this drug principally belongs. There are no controlled trials demonstrating risk reduction with Nadolol. Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than one drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program's Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC). Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly. Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal. Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease). These considerations may guide selection of therapy. Nadolol may be used alone or in combination with other antihypertensive agents, especially thiazide-type diuretics."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA203455"
+    ],
+    "brand_name": [
+      "Nadolol"
+    ],
+    "generic_name": [
+      "NADOLOL"
+    ],
+    "manufacturer_name": [
+      "BluePoint Laboratories"
+    ],
+    "product_ndc": [
+      "68001-317",
+      "68001-318",
+      "68001-319"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NADOLOL"
+    ],
+    "rxcui": [
+      "198006",
+      "198007",
+      "198008"
+    ],
+    "spl_id": [
+      "1980a55f-434f-5c45-e063-6394a90a014e"
+    ],
+    "spl_set_id": [
+      "0a2acdc0-aab6-462e-a377-67a0f3d55ec6"
+    ],
+    "package_ndc": [
+      "68001-317-00",
+      "68001-318-00",
+      "68001-319-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0368001319003",
+      "0368001317009",
+      "0368001318006"
+    ],
+    "nui": [
+      "N0000000161",
+      "N0000175556"
+    ],
+    "pharm_class_moa": [
+      "Adrenergic beta-Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "beta-Adrenergic Blocker [EPC]"
+    ],
+    "unii": [
+      "FEN504330V"
+    ]
+  }
+}

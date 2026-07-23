@@ -1,0 +1,70 @@
+{
+  "drug_name": "Erythromycin",
+  "drug_id": 563,
+  "sections": {
+    "warnings": "WARNINGS Pseudomembranous colitis has been reported with nearly all antibacterial agents, including erythromycin, and may range in severity from mild to life-threatening. Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents. Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia. Studies indicate that a toxin produced by Clostridium difficile is one primary cause of \u201cantibiotic-associated colitis\u201d. After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated. Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone. In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation and treatment with an antibacterial drug clinically effective against C. difficile colitis.",
+    "contraindications": "CONTRAINDICATIONS Erythromycin Topical Solution USP, 2% is contraindicated in those individuals who have shown hypersensitivity to any of its components.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Erythromycin Topical Solution USP, 2% should be applied over the affected areas twice a day (morning and evening) after the skin is thoroughly washed with warm water and soap and patted dry. Acne lesions on the face, neck, shoulders, chest, and back may be treated in this manner. This medication should be applied with applicator top. If fingertips are used, wash hands after application. Drying and peeling may be controlled by reducing the frequency of applications.",
+    "indications_and_usage": "INDICATIONS AND USAGE Erythromycin Topical Solution USP, 2% is indicated for the topical treatment of acne vulgaris."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA063038"
+    ],
+    "brand_name": [
+      "erythromycin"
+    ],
+    "generic_name": [
+      "ERYTHROMYCIN"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "72162-2075"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ERYTHROMYCIN"
+    ],
+    "rxcui": [
+      "318202"
+    ],
+    "spl_id": [
+      "4ddb7356-308f-4c0a-bda1-7c49fb7efe29"
+    ],
+    "spl_set_id": [
+      "00c4f27e-59e2-4173-99b1-59dd295e83de"
+    ],
+    "package_ndc": [
+      "72162-2075-6"
+    ],
+    "original_packager_product_ndc": [
+      "45802-038"
+    ],
+    "nui": [
+      "N0000009982",
+      "N0000175877",
+      "N0000175935",
+      "M0028311"
+    ],
+    "pharm_class_pe": [
+      "Decreased Sebaceous Gland Activity [PE]"
+    ],
+    "pharm_class_epc": [
+      "Macrolide [EPC]",
+      "Macrolide Antimicrobial [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Macrolides [CS]"
+    ],
+    "unii": [
+      "63937KV33D"
+    ]
+  }
+}

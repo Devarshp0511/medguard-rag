@@ -1,0 +1,53 @@
+{
+  "drug_name": "Guanfacine",
+  "drug_id": 1296,
+  "sections": {
+    "contraindications": "CONTRAINDICATIONS Guanfacine tablets are contraindicated in patients with known hypersensitivity to guanfacine hydrochloride.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The recommended initial dose of guanfacine tablets when given alone or in combination with another antihypertensive drug is 1 mg daily given at bedtime to minimize somnolence. If after 3 weeks to 4 weeks of therapy 1 mg does not give a satisfactory result, a dose of 2 mg may be given, although most of the effect of guanfacine tablets are seen at 1 mg (see CLINICAL PHARMACOLOGY ). Higher daily doses have been used, but adverse reactions increase significantly with doses above 3 mg/day. The frequency of rebound hypertension is low, but it can occur. When rebound occurs, it does so after 2 days to 4 days, which is delayed compared with clonidine hydrochloride. This is consistent with the longer half-life of guanfacine. In most cases, after abrupt withdrawal of guanfacine, blood pressure returns to pretreatment levels slowly (within 2 days to 4 days) without ill effects.",
+    "indications_and_usage": "INDICATIONS AND USAGE Guanfacine tablets, USP are indicated in the management of hypertension. Guanfacine tablets, USP may be given alone or in combination with other antihypertensive agents, especially thiazide-type diuretics."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA217293"
+    ],
+    "brand_name": [
+      "Guanfacine"
+    ],
+    "generic_name": [
+      "GUANFACINE"
+    ],
+    "manufacturer_name": [
+      "REMEDYREPACK INC."
+    ],
+    "product_ndc": [
+      "70518-4333"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GUANFACINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "197745"
+    ],
+    "spl_id": [
+      "4030552e-44d1-d71c-e063-6394a90ad1de"
+    ],
+    "spl_set_id": [
+      "04a3bd2d-9a9c-43e8-a0e2-280e02265f16"
+    ],
+    "package_ndc": [
+      "70518-4333-0"
+    ],
+    "original_packager_product_ndc": [
+      "27241-242"
+    ],
+    "unii": [
+      "PML56A160O"
+    ]
+  }
+}

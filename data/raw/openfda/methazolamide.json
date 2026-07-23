@@ -1,0 +1,62 @@
+{
+  "drug_name": "Methazolamide",
+  "drug_id": 786,
+  "sections": {
+    "warnings": "WARNINGS Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias. Hypersensitivity reactions may recur when a sulfonamide is readministered, irrespective of the route of administration. If hypersensitivity or other serious reactions occur, the use of this drug should be discontinued. Caution is advised for patients receiving high-dose aspirin and methazolamide concomitantly, as anorexia, tachypnea, lethargy, coma, and death have been reported with concomitant use of high-dose aspirin and carbonic anhydrase inhibitors.",
+    "drug_interactions": "Drug Interactions Methazolamide should be used with caution in patients on steroid therapy because of the potential for developing hypokalemia. Caution is advised for patients receiving high-dose aspirin and methazolamide concomitantly, as anorexia, tachypnea, lethargy, coma and death have been reported with concomitant use of high-dose aspirin and carbonic anhydrase inhibitors (see WARNINGS ).",
+    "contraindications": "CONTRAINDICATIONS Methazolamide therapy is contraindicated in situations in which sodium and/or potassium serum levels are depressed, in cases of marked kidney or liver disease or dysfunction, in adrenal gland failure, and in hyperchloremic acidosis. In patients with cirrhosis, use may precipitate the development of hepatic encephalopathy. Long-term administration of methazolamide is contraindicated in patients with angle-closure glaucoma, since organic closure of the angle may occur in spite of lowered intraocular pressure.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The effective therapeutic dose administered varies from 50 mg to 100 mg two or three times daily. The drug may be used concomitantly with miotic and osmotic agents.",
+    "indications_and_usage": "INDICATIONS AND USAGE Methazolamide Tablets are indicated in the treatment of ocular conditions where lowering intraocular pressure is likely to be of therapeutic benefit, such as chronic open-angle glaucoma, secondary glaucoma, and preoperatively in acute angle-closure glaucoma where lowering the intraocular pressure is desired before surgery."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA040001"
+    ],
+    "brand_name": [
+      "Methazolamide"
+    ],
+    "generic_name": [
+      "METHAZOLAMIDE"
+    ],
+    "manufacturer_name": [
+      "NorthStar Rx LLC"
+    ],
+    "product_ndc": [
+      "72603-166",
+      "72603-167"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "METHAZOLAMIDE"
+    ],
+    "rxcui": [
+      "197939",
+      "197940"
+    ],
+    "spl_id": [
+      "042586b3-4d4a-c5ae-e063-6394a90aaa7c"
+    ],
+    "spl_set_id": [
+      "042586b3-4d49-c5ae-e063-6394a90aaa7c"
+    ],
+    "package_ndc": [
+      "72603-166-01",
+      "72603-167-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0372603166019",
+      "0372603167016"
+    ],
+    "unii": [
+      "W733B0S9SD"
+    ]
+  }
+}

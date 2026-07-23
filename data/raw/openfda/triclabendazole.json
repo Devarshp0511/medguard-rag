@@ -1,0 +1,84 @@
+{
+  "drug_name": "Triclabendazole",
+  "drug_id": 1012,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS QT Prolongation : Prolongs QTc interval. Monitor electrocardiogram (ECG) in patients with a history of QTc prolongation or with electrolyte imbalance like hypokalemia or who are taking medications which prolong the QTc interval, or on CYP1A2 inhibitors, or have hepatic impairment. ( 5.1 ) 5.1 QT Prolongation EGATEN prolongs the QTc interval [see Clinical Pharmacology (12.2)] . The magnitude of QTc prolongation can increase with increasing treatment duration of EGATEN. Administration of EGATEN concurrently with CYP1A2 inhibitors and use in patients with hepatic impairment may result in increased exposures of triclabendazole and/or its metabolites, and, therefore, may increase the risk for QT prolongation. Monitor electrocardiogram (ECG) in patients with a history of prolongation of the QTc interval or a history of symptoms compatible with a long QT interval or with electrolyte imbalance like hypokalemia, or when EGATEN is used in patients who receive drugs that are known to prolong the QTc interval, or patients taking CYP1A2 inhibitors, or in patients with hepatic impairment. If signs of cardiac arrhythmia occur during treatment with EGATEN, stop the treatment and monitor ECG.",
+    "drug_interactions": "7 DRUG INTERACTIONS CYP2C19 Substrates : Re-check the plasma concentration of concomitantly administered CYP2C19 substrates after cessation of EGATEN therapy, if the plasma concentrations of the CYP2C19 substrates are elevated during administration of EGATEN. ( 7.1 ) 7.1 Effect of EGATEN on CYP2C19 Substrates No specific clinical drug interaction studies have been conducted for triclabendazole. However, in vitro data suggest the potential for increased plasma concentrations of CYP2C19 substrates with concomitant use of triclabendazole [see Clinical Pharmacology (12.3)] . The potential elevation in concentrations of concomitantly used CYP2C19 substrates is expected to be transient based on the short elimination half-life and short treatment duration of triclabendazole. For those CYP2C19 substrate drugs that require therapeutic monitoring of systemic drug exposures, if the plasma concentrations of the CYP2C19 substrates are elevated during administration of triclabendazole, re-check the plasma concentration of the CYP2C19 substrates after cessation of triclabendazole therapy.",
+    "contraindications": "4 CONTRAINDICATIONS EGATEN is contraindicated in patients with known hypersensitivity to triclabendazole and/or to other benzimidazole derivatives or to any of the excipients in EGATEN. Patients with known hypersensitivity to triclabendazole, other benzimidazole derivatives or any of the excipients in EGATEN. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended dose of EGATEN is 2 doses of 10 mg/kg given 12 hours apart in patients 6 years of age and older. The 250 mg tablets are functionally scored and divisible into two equal halves of 125 mg. If the dosage cannot be adjusted exactly, round the dose upwards. Take EGATEN orally with food. EGATEN tablets can be swallowed whole or divided in half and taken with water or crushed and administered with applesauce. The crushed tablet mixed with applesauce is stable for up to 4 hours. The recommended dose of EGATEN is 2 doses of 10 mg/kg given 12 hours apart in patients 6 years of age and older. ( 2 ) Take orally with food. ( 2 ) Swallow tablets whole or divide in half and take with water, or crush and administer with applesauce. ( 2 ) If the dosage cannot be adjusted exactly, round dose upwards. ( 2 )",
+    "indications_and_usage": "1 INDICATIONS AND USAGE EGATEN \u00ae is indicated for the treatment of fascioliasis in patients 6 years of age and older. EGATEN \u00ae tablet is an anthelmintic indicated for the treatment of fascioliasis in patients 6 years of age and older."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA208711"
+    ],
+    "brand_name": [
+      "EGATEN"
+    ],
+    "generic_name": [
+      "TRICLABENDAZOLE"
+    ],
+    "manufacturer_name": [
+      "Novartis Pharmaceuticals Corporation"
+    ],
+    "product_ndc": [
+      "0078-0937"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "TRICLABENDAZOLE"
+    ],
+    "rxcui": [
+      "2118606",
+      "2118612"
+    ],
+    "spl_id": [
+      "09bbe9c5-f4a7-4140-8a74-809125cd7861"
+    ],
+    "spl_set_id": [
+      "5552884e-10ea-450c-9658-d3d4f33c946e"
+    ],
+    "package_ndc": [
+      "0078-0937-91"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175481",
+      "M0001301",
+      "N0000182140",
+      "N0000182138",
+      "N0000193937",
+      "N0000182139",
+      "N0000187062",
+      "N0000185504",
+      "N0000182137",
+      "N0000190114"
+    ],
+    "pharm_class_epc": [
+      "Anthelmintic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Anthelmintics [CS]"
+    ],
+    "pharm_class_moa": [
+      "Cytochrome P450 2C19 Inhibitors [MoA]",
+      "Cytochrome P450 1A2 Inhibitors [MoA]",
+      "Cytochrome P450 2A6 Inhibitors [MoA]",
+      "Cytochrome P450 2B6 Inhibitors [MoA]",
+      "Cytochrome P450 2C8 Inhibitors [MoA]",
+      "Cytochrome P450 2C9 Inhibitors [MoA]",
+      "Cytochrome P450 2D6 Inhibitors [MoA]",
+      "Cytochrome P450 3A Inhibitors [MoA]"
+    ],
+    "unii": [
+      "4784C8E03O"
+    ]
+  }
+}

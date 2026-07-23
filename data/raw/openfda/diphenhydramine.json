@@ -1,0 +1,54 @@
+{
+  "drug_name": "Diphenhydramine",
+  "drug_id": 1074,
+  "sections": {
+    "warnings": "Warnings Do not use \u25a0 with any other product containing diphenhydramine, even one used on skin \u25a0 to make a child sleepy Ask a doctor before use if the child has \u25a0 glaucoma \u25a0 a breathing problem such as chronic bronchitis",
+    "dosage_and_administration": "Directions \u25a0 if needed, take every 4-6 hours \u25a0 do not take more than 6 doses in 24-hours children under 4 years of age Do not use children 4 to under 6 years of age Do not use unless directed by a doctor children 6 to under 12 years of age 1 to 2 teaspoonfuls (5 ml to 10 ml)",
+    "dosage_and_administration_table": "<table width=\"60%\"><caption/><tbody><tr><td> children under 4 years of age</td><td> Do not use</td></tr><tr><td> children 4 to under 6 years of age</td><td> Do not use unless directed by a  doctor</td></tr><tr><td> children 6 to under 12 years of age</td><td> 1 to 2 teaspoonfuls (5 ml to 10 ml)</td></tr></tbody></table>",
+    "indications_and_usage": "Uses temporarily relieves these symptoms due to hay fever or other respiratory allergies: \u25a0 sneezing \u25a0 itching of the nose or throat \u25a0 runny nose \u25a0 itchy watery eyes \u25a0temporarily relieves these symptoms due to the common cold: \u25a0 sneezing \u25a0 runny nose"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Childrens Allergy Relief"
+    ],
+    "generic_name": [
+      "DIPHENHYDRAMINE HCL"
+    ],
+    "manufacturer_name": [
+      "Best Choice"
+    ],
+    "product_ndc": [
+      "63941-505"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIPHENHYDRAMINE HCL"
+    ],
+    "rxcui": [
+      "1049906"
+    ],
+    "spl_id": [
+      "448524ca-2fda-44ab-b1f8-edf8db006713"
+    ],
+    "spl_set_id": [
+      "0035e6a4-b3ef-4e0b-aa7f-7453dd065f4d"
+    ],
+    "package_ndc": [
+      "63941-505-26"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "TC2D6JAD40"
+    ]
+  }
+}

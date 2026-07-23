@@ -1,0 +1,55 @@
+{
+  "drug_name": "Carbinoxamine",
+  "drug_id": 909,
+  "sections": {
+    "warnings": "WARNINGS Deaths have been reported in children less than 2 years of age who were taking antihistamines, including carbinoxamine-containing drug products, therefore, carbinoxamine maleate is contraindicated in children younger than 2 years of age (see CONTRAINDICATIONS ). Antihistamines should be used with considerable caution in patients with: narrow angle glaucoma, stenosing peptic ulcer, symptomatic prostatic hypertrophy, bladder neck obstruction, pyloroduodenal obstruction.",
+    "drug_interactions": "Drug Interactions Monoamine oxidase inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines. Carbinoxamine maleate has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc.).",
+    "contraindications": "CONTRAINDICATIONS Carbinoxamine maleate is contraindicated in children younger than 2 years of age. Carbinoxamine maleate is contraindicated in nursing mothers. Carbinoxamine maleate is contraindicated in patients who are hypersensitive to the drug or on monoamine oxidase inhibitor therapy (see Drug Interactions ).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Carbinoxamine maleate is contraindicated in children younger than 2 years of age (see CONTRAINDICATIONS ). Carbinoxamine maleate should be taken on an empty stomach with water. DOSAGE SHOULD BE INDIVIDUALIZED ACCORDING TO THE NEEDS AND THE RESPONSE OF THE PATIENT. Carbinoxamine maleate dosage should be based on the severity of the condition and the response of the patient. The drug is well tolerated in adults in doses as high as 24 mg daily, in divided doses, over prolonged periods. On the other hand, some patients respond to as little as 4 mg daily. Clinical experience suggests the following dosage schedule: Usual Adult Dosage: 1 tablet (6 mg) 3 to 4 times daily",
+    "indications_and_usage": "INDICATIONS AND USAGE Carbinoxamine maleate is effective for the symptomatic treatment of: Seasonal and perennial allergic rhinitis. Vasomotor rhinitis. Allergic conjunctivitis due to inhalant allergens and foods. Mild, uncomplicated allergic skin manifestations of urticaria and angioedema. Dermatographism. As therapy for anaphylactic reactions adjunctive to epinephrine and other standard measures after the acute manifestations have been controlled. Amelioration of the severity of allergic reactions to blood or plasma."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA215476"
+    ],
+    "brand_name": [
+      "CARBINOXAMINE MALEATE"
+    ],
+    "generic_name": [
+      "CARBINOXAMINE MALEATE"
+    ],
+    "manufacturer_name": [
+      "Leading Pharma, LLC"
+    ],
+    "product_ndc": [
+      "69315-239"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CARBINOXAMINE MALEATE"
+    ],
+    "rxcui": [
+      "1795581"
+    ],
+    "spl_id": [
+      "a6ac5a29-dc4e-425f-bcaf-d362b08e887c"
+    ],
+    "spl_set_id": [
+      "02e13b55-2153-468e-a5bd-57dee062f47f"
+    ],
+    "package_ndc": [
+      "69315-239-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "02O55696WH"
+    ]
+  }
+}

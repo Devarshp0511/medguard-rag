@@ -1,0 +1,82 @@
+{
+  "drug_name": "Ranolazine",
+  "drug_id": 694,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS QT interval prolongation: Can occur with ranolazine. Little data available on high doses, long exposure, use with QT interval-prolonging drugs, potassium channel variants causing prolonged QT interval, in patients with a family history of (or congenital) long QT syndrome, or in patients with known acquired QT interval prolongation. ( 5.1 ) Renal failure: Monitor renal function after initiation and periodically in patients with moderate to severe renal impairment (CrCL<60 mL/min). If acute renal failure develops, discontinue ranolazine. ( 5.2 ) 5.1 QT Interval Prolongation Ranolazine blocks IKr and prolongs the QTc interval in a dose-related manner. Clinical experience in an acute coronary syndrome population did not show an increased risk of proarrhythmia or sudden death [see Clinical Studies (14.2) ] . However, there is little experience with high doses (>1000 mg twice daily) or exposure, other QT-prolonging drugs, potassium channel variants resulting in a long QT interval, in patients with a family history of (or congenital) long QT syndrome, or in patients with known acquired QT interval prolongation. 5.2 Renal Failure Acute renal failure has been observed in some patients with severe renal impairment (creatinine clearance [CrCL] <30 mL/min) while taking ranolazine. If acute renal failure develops (e.g., marked increase in serum creatinine associated with an increase in blood urea nitrogen [BUN]), discontinue ranolazine and treat appropriately [see Use in Specific Populations (8.7) ]. Monitor renal function after initiation and periodically in patients with moderate to severe renal impairment (CrCL <60 mL/min) for increases in serum creatinine accompanied by an increase in BUN.",
+    "drug_interactions": "7 DRUG INTERACTIONS Moderate CYP3A inhibitors (e.g., diltiazem, verapamil, erythromycin): Limit ranolazine to 500 mg twice daily. ( 7.1 ) P-gp inhibitors (e.g., cyclosporine): Ranolazine exposure increased. Titrate ranolazine based on clinical response. ( 7.1 ) CYP3A substrates: Limit simvastatin to 20 mg when used with ranolazine. Doses of other sensitive CYP3A substrates (e.g., lovastatin) and CYP3A substrates with narrow therapeutic range (e.g., cyclosporine, tacrolimus, sirolimus) may need to be reduced with ranolazine. ( 7.2 ) OCT2 substrates: Limit the dose of metformin to 1700 mg daily when used with ranolazine 1000 mg twice daily. Doses of other OCT2 substrates may require adjusted doses. ( 7.2 ) Drugs transported by P-gp (e.g., digoxin), or drugs metabolized by CYP2D6 (e.g., tricyclic antidepressants) may need reduced doses when used with ranolazine. ( 7.2 ) 7.1 Effects of Other Drugs on Ranolazine Strong CYP3A Inhibitors Do not use ranolazine with strong CYP3A inhibitors, including ketoconazole, itraconazole, clarithromycin, nefazodone, nelfinavir, ritonavir, indinavir, and saquinavir [see Contraindications (4) , Clinical Pharmacology (12.3) ]. Moderate CYP3A Inhibitors Limit the dose of ranolazine to 500 mg twice daily in patients on moderate CYP3A inhibitors, including diltiazem, verapamil, erythromycin, fluconazole, and grapefruit juice or grapefruit-containing products [see Dosage and Administration (2.2) , Clinical Pharmacology (12.3) ]. P-gp Inhibitors Concomitant use of ranolazine and P-gp inhibitors, such as cyclosporine, may result in increases in ranolazine concentrations. Titrate ranolazine based on clinical response in patients concomitantly treated with predominant P-gp inhibitors such as cyclosporine [see Dosage and Administration (2.2) ]. CYP3A Inducers Do not use ranolazine with CYP3A inducers such as rifampin, rifabutin, rifapentine, phenobarbital, phenytoin, carbamazepine, and St. John's wort [see Contraindications (4) , Clinical Pharmacology (12.3) ]. 7.2 Effects of Ranolazine on Other Drugs Drugs Metabolized by CYP3A Limit the dose of simvastatin in patients on any dose of ranolazine to 20 mg once daily, when ranolazine is co-administered. Dose adjustment of other sensitive CYP3A substrates (e.g., lovastatin) and CYP3A substrates with a narrow therapeutic range (e.g., cyclosporine, tacrolimus, sirolimus) may be required as ranolazine may increase plasma concentrations of these drugs [see Clinical Pharmacology (12.3) ]. Drugs Transported by P-gp Concomitant use of ranolazine and digoxin results in increased exposure to digoxin. The dose of digoxin may have to be adjusted [see Clinical Pharmacology (12.3) ]. Drugs Metabolized by CYP2D6 The exposure to CYP2D6 substrates, such as tricyclic antidepressants and antipsychotics, may be increased during co-administration with ranolazine, and lower doses of these drugs may be required. Drugs Transported by OCT2 In subjects with type 2 diabetes mellitus, concomitant use of ranolazine 1000 mg twice daily and metformin results in increased plasma levels of metformin. When ranolazine 1000 mg twice daily is co-administered with metformin, metformin dose should not exceed 1700 mg/day. Monitor blood glucose levels and risks associated with high exposures of metformin. Metformin exposure was not significantly increased when given with ranolazine 500 mg twice daily [see Clinical Pharmacology (12.3) ].",
+    "contraindications": "4 CONTRAINDICATIONS Ranolazine is contraindicated in patients: Taking strong inhibitors of CYP3A [see Drug Interactions (7.1) ] Taking inducers of CYP3A [see Drug Interactions (7.1) ] With liver cirrhosis [see Use in Specific Populations (8.6) ] Strong CYP3A inhibitors (e.g., ketoconazole, clarithromycin, nelfinavir) ( 4 , 7.1 ) CYP3A inducers (e.g., rifampin, phenobarbital, St. John's wort) ( 4 , 7.1 ) Liver cirrhosis ( 4 , 8.6 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION 500 mg twice daily and increase to 1000 mg twice daily, based on clinical symptoms ( 2.1 ) 2.1 Dosing Information Initiate ranolazine extended-release tablet dosing at 500 mg twice daily and increase to 1000 mg twice daily, as needed, based on clinical symptoms. Take ranolazine extended-release tablet with or without meals. Swallow ranolazine extended-release tablet whole; do not crush, break, or chew. The maximum recommended daily dose of ranolazine extended-release tablet is 1000 mg twice daily. If a dose of ranolazine extended-release tablet is missed, take the prescribed dose at the next scheduled time; do not double the next dose. 2.2 Dose Adjustments in Specific Populations Dose adjustments may be needed when ranolazine extended-release tablet is taken in combination with certain other drugs [see Drug Interactions (7.1) ] . Limit the maximum dose of ranolazine extended-release tablet to 500 mg twice daily in patients on moderate CYP3A inhibitors such as diltiazem, verapamil, and erythromycin. Use of ranolazine extended-release tablet with strong CYP3A inhibitors is contraindicated [ see Contraindications (4) , Drug Interactions (7.1) ] . Use of P-gp inhibitors, such as cyclosporine, may increase exposure to ranolazine extended-release tablet. Titrate ranolazine extended-release tablet based on clinical response [see Drug Interactions (7.1) ].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Ranolazine extended-release tablet is indicated for the treatment of chronic angina. Ranolazine extended-release tablet may be used with beta-blockers, nitrates, calcium channel blockers, anti-platelet therapy, lipid-lowering therapy, ACE inhibitors, and angiotensin receptor blockers. Ranolazine extended-release tablet is an antianginal indicated for the treatment of chronic angina. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA210188"
+    ],
+    "brand_name": [
+      "Ranolazine"
+    ],
+    "generic_name": [
+      "RANOLAZINE"
+    ],
+    "manufacturer_name": [
+      "Viona Pharmaceuticals Inc"
+    ],
+    "product_ndc": [
+      "72578-064",
+      "72578-065"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "RANOLAZINE"
+    ],
+    "rxcui": [
+      "616749",
+      "728231"
+    ],
+    "spl_id": [
+      "ca6a476b-e330-4618-8661-08ac1125fc3e"
+    ],
+    "spl_set_id": [
+      "00979fb3-d70f-493d-94ca-2914cbadaa9d"
+    ],
+    "package_ndc": [
+      "72578-064-14",
+      "72578-064-01",
+      "72578-064-05",
+      "72578-064-30",
+      "72578-064-77",
+      "72578-065-14",
+      "72578-065-01",
+      "72578-065-05",
+      "72578-065-30",
+      "72578-065-77"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175427",
+      "N0000190114",
+      "N0000185503",
+      "N0000182137",
+      "N0000187061"
+    ],
+    "pharm_class_epc": [
+      "Anti-anginal [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Cytochrome P450 3A Inhibitors [MoA]",
+      "P-Glycoprotein Inhibitors [MoA]",
+      "Cytochrome P450 2D6 Inhibitors [MoA]",
+      "Organic Cation Transporter 2 Inhibitors [MoA]"
+    ],
+    "unii": [
+      "A6IEZ5M406"
+    ]
+  }
+}

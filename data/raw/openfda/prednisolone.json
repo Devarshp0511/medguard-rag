@@ -1,0 +1,65 @@
+{
+  "drug_name": "Prednisolone",
+  "drug_id": 806,
+  "sections": {
+    "warnings": "WARNINGS Prolonged use of corticosteroids may result in posterior subcapsular cataract formation and may increase intraocular pressure in susceptible individuals, resulting in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision. Prolonged use may also suppress the host immune response and thus increase the hazard of secondary ocular infections. If this product is used for 10 days or longer, intraocular pressure should be routinely monitored even though it may be difficult in children and uncooperative patients. Steroids should be used with caution in the presence of glaucoma. Intraocular pressure should be checked frequently. Various ocular diseases and long-term use of topical corticosteroids have been known to cause corneal and scleral thinning. Use of topical corticosteroids in the presence of thin corneal or scleral tissue may lead to perforation. Acute purulent infections of the eye may be masked or activity enhanced by the presence of corticosteroid medication. The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation. Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex). Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution; frequent slit lamp microscopy is recommended. PRED FORTE \u00ae suspension contains sodium bisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people.",
+    "contraindications": "CONTRAINDICATIONS PRED FORTE \u00ae suspension is contraindicated in acute untreated purulent ocular infections, in most viral diseases of the cornea and conjunctiva including epithelial herpes simplex keratitis (dendritic keratitis), vaccinia, and varicella, and also in mycobacterial infection of the eye and fungal diseases of ocular structures. PRED FORTE \u00ae suspension is also contraindicated in individuals with known or suspected hypersensitivity to any of the ingredients of this preparation and to other corticosteroids.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Shake well before using. Instill one to two drops into the conjunctival sac two to four times daily. During the initial 24 to 48 hours, the dosing frequency may be increased if necessary. Care should be taken not to discontinue therapy prematurely. If signs and symptoms fail to improve after 2 days, the patient should be re-evaluated (see PRECAUTIONS ).",
+    "indications_and_usage": "INDICATIONS AND USAGE PRED FORTE \u00ae is indicated for the treatment of steroid-responsive inflammation of the palpebral and bulbar conjunctiva, cornea, and anterior segment of the globe."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA017011"
+    ],
+    "brand_name": [
+      "PRED FORTE"
+    ],
+    "generic_name": [
+      "PREDNISOLONE ACETATE"
+    ],
+    "manufacturer_name": [
+      "Allergan, Inc."
+    ],
+    "product_ndc": [
+      "11980-180"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "PREDNISOLONE ACETATE"
+    ],
+    "rxcui": [
+      "1376336",
+      "1548724"
+    ],
+    "spl_id": [
+      "bff1726c-7781-49de-8a61-bc37a755c92b"
+    ],
+    "spl_set_id": [
+      "00a5aa88-e361-4ea7-8922-530c738b726e"
+    ],
+    "package_ndc": [
+      "11980-180-01",
+      "11980-180-06",
+      "11980-180-05",
+      "11980-180-10",
+      "11980-180-15",
+      "11980-180-11"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0311980180058",
+      "0311980180157",
+      "0311980180102"
+    ],
+    "unii": [
+      "8B2807733D"
+    ]
+  }
+}

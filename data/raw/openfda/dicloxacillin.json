@@ -1,0 +1,57 @@
+{
+  "drug_name": "Dicloxacillin",
+  "drug_id": 1241,
+  "sections": {
+    "warnings": "WARNINGS Serious and occasionally fatal hypersensitivity (anaphylactic shock with collapse) reactions have occurred in patients receiving penicillin. The incidence of anaphylactic shock in all penicillin-treated patients is between 0.015% and 0.04%. Anaphylactic shock resulting in death has occurred in approximately 0.002% of the patients treated. Although anaphylaxis is more frequent following a parenteral administration, it has occurred in patients receiving oral penicillins. When penicillin therapy is indicated, it should be initiated only after a comprehensive patient drug and allergy history has been obtained. If an allergic reaction occurs, dicloxacillin should be discontinued and appropriate therapy instituted. Individuals with a history of penicillin hypersensitivity may also experience allergic reactions when treated with a cephalosporin. Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including dicloxacillin sodium, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated.",
+    "drug_interactions": "Drug Interactions Tetracycline, a bacteriostatic antibiotic, may antagonize the bactericidal effect of penicillin and concurrent use of these drugs should be avoided. Probenecid administered concomitantly with penicillins increases and prolongs serum penicillin levels (see DOSAGE AND ADMINISTRATION ). Penicillinase-resistant penicillins, like other penicillins, are physically and/or chemically incompatible with aminoglycosides and can inactivate the drugs in vitro. In vitro mixing of penicillins and aminoglycosides should be avoided during concomitant therapy and the drugs should be administered separately. Penicillins can inactivate aminoglycosides in vitro in serum samples from patients receiving both drugs, which could produce falsely decreased results in serum aminoglycoside assays of the serum samples. Dicloxacillin may reduce the anticoagulant response to dicumarol and warfarin. Careful monitoring of prothrombin times is suggested during concomitant therapy, and dosage of the anticoagulant should be adjusted as required. The mechanism of this possible interaction is unclear, but may be due to hepatic enzyme induction.",
+    "contraindications": "CONTRAINDICATIONS Dicloxacillin sodium is contraindicated in persons who have shown hypersensitivity to any of the penicillins or any component of the formulations.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Concurrent administration of the penicillinase-resistant penicillins and probenecid increases and prolongs serum penicillin levels. Probenecid decreases the apparent volume of distribution and slows the rate of excretion by competitively inhibiting renal tubular secretion of penicillin. Penicillin-probenecid therapy is generally limited to those infections where very high serum levels of penicillin are necessary. Oral preparations of the penicillinase-resistant penicillins should not be used as initial therapy in serious, life-threatening infections (see PRECAUTIONS - General ). Oral therapy with the penicillinase-resistant penicillins may be used to follow up the previous use of a parenteral agent as soon as the clinical condition warrants. RECOMMENDED DOSAGES FOR DICLOXACILLIN SODIUM IN MILD TO MODERATE AND SEVERE INFECTIONS DRUG ADULTS CHILDREN Mild to Moderate Severe Mild to Moderate Severe Dicloxacillin 125 mg every 6 hours 250 mg every 6 hours 12.5 mg/kg/day 1 in equally divided doses every 6 hours 25 mg/kg/day 1 in equally divided doses every 6 hours 1 . Patients weighing less than 40 kg (88 lbs) Dicloxacillin is best absorbed when taken on an empty stomach, and should be administered at least 1 hour before or 2 hours after meals. Dicloxacillin should be taken with at least 4 fluid ounces (120 mL) of water and should not be taken in the supine position or immediately before going to bed (see PRECAUTIONS ).",
+    "dosage_and_administration_table": "<table width=\"800px\" border=\"1\" cellspacing=\"0\" cellpadding=\"5\"><caption>RECOMMENDED DOSAGES FOR DICLOXACILLIN SODIUM IN MILD TO MODERATE AND SEVERE INFECTIONS</caption><col width=\"1pt\"/><col width=\"206.5pt\"/><col width=\"205.55pt\"/><col/><col/><tbody><tr><td><paragraph>DRUG</paragraph></td><td align=\"center\" colspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>ADULTS</paragraph></td><td align=\"center\" colspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>CHILDREN</paragraph></td></tr><tr><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"/><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Mild to Moderate</paragraph></td><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Severe</paragraph></td><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Mild to Moderate</paragraph></td><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Severe</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Dicloxacillin</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>125 mg every </paragraph><paragraph>6 hours</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>250 mg every </paragraph><paragraph>6 hours</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>12.5 mg/kg/day <content styleCode=\"italics\"><sup>1 </sup></content>in equally divided doses every 6 hours </paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>25 mg/kg/day <content styleCode=\"italics\"><sup>1 </sup></content>in equally divided doses every 6 hours </paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE To reduce the development of drug-resistant bacteria and maintain the effectiveness of dicloxacillin sodium capsules and other antibacterial drugs, dicloxacillin sodium capsules should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy. Dicloxacillin is indicated in the treatment of infections caused by penicillinase-producing staphylococci which have demonstrated susceptibility to the drug. Cultures and susceptibility tests should be performed initially to determine the causative organisms and their sensitivity to the drug (see CLINICAL PHARMACOLOGY \u2013 Susceptibility Testing ) . Dicloxacillin may be used to initiate therapy in suspected cases of resistant staphylococcal infections prior to the availability of laboratory test results. The penicillinase-resistant penicillins should not be used in infections caused by organisms susceptible to penicillin G. If the susceptibility tests indicate that the infection is due to an organism other than a resistant staphylococcus, therapy should not be continued with a penicillinase-resistant penicillin."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA062286"
+    ],
+    "brand_name": [
+      "Dicloxacillin Sodium"
+    ],
+    "generic_name": [
+      "DICLOXACILLIN SODIUM"
+    ],
+    "manufacturer_name": [
+      "PD-Rx Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "43063-473"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DICLOXACILLIN SODIUM"
+    ],
+    "rxcui": [
+      "197596"
+    ],
+    "spl_id": [
+      "4138864e-9d78-23ff-e063-6294a90ac47c"
+    ],
+    "spl_set_id": [
+      "24e821aa-85b8-4f5a-aa13-83ff132952ca"
+    ],
+    "package_ndc": [
+      "43063-473-20",
+      "43063-473-30"
+    ],
+    "original_packager_product_ndc": [
+      "0093-3125"
+    ],
+    "unii": [
+      "4HZT2V9KX0"
+    ]
+  }
+}

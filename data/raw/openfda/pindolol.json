@@ -1,0 +1,68 @@
+{
+  "drug_name": "Pindolol",
+  "drug_id": 327,
+  "sections": {
+    "warnings": "WARNINGS Cardiac Failure Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta-blockade may precipitate more severe failure. Although beta-blockers should be avoided in overt congestive heart failure, if necessary, pindolol can be used with caution in patients with a history of failure who are well-compensated, usually with digitalis and diuretics. Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase risk of bradycardia. Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle. In Patients Without A History of Cardiac Failure In patients with latent cardiac insufficiency, continued depression of the myocardium with beta-blocking agents over a period of time can in some cases lead to cardiac failure. At the first sign or symptom of impending cardiac failure, patients should be fully digitalized and/or be given a diuretic, and the response observed closely. If cardiac failure continues, despite adequate digitalization and diuretic, pindolol therapy should be withdrawn (gradually, if possible). Exacerbation of Ischemic Heart Disease Following Abrupt Withdrawal Hypersensitivity to catecholamines has been observed in patients withdrawn from beta-blocker therapy; exacerbation of angina and, in some cases, myocardial infarction have occurred after abrupt discontinuation of such therapy. When discontinuing chronically administered pindolol, particularly in patients with ischemic heart disease, the dosage should be gradually reduced over a period of 1 to 2 weeks and the patient should be carefully monitored. If angina markedly worsens or acute coronary insufficiency develops, pindolol administration should be reinstituted promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken. Patients should be warned against interruption or discontinuation of therapy without the physician's advice. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue pindolol therapy abruptly even in patients treated only for hypertension. Nonallergic Bronchospasm (e.g., chronic bronchitis, emphysema) - Patients with Bronchospastic Diseases Should in General Not Receive Beta-Blockers Pindolol should be administered with caution since it may block bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta 2 receptors. Major Surgery Because beta-blockade impairs the ability of the heart to respond to reflex stimuli and may increase the risks of general anesthesia and surgical procedures, resulting in protracted hypotension or low cardiac output, it has generally been suggested that such therapy should be gradually withdrawn several days prior to surgery. Recognition of the increased sensitivity to catecholamines of patients recently withdrawn from beta-blocker therapy, however, has made this recommendation controversial. If possible, beta-blockers should be withdrawn well before surgery takes place. In the event of emergency surgery, the anesthesiologist should be informed that the patient is on beta-blocker therapy. The effects of pindolol can be reversed by administration of beta-receptor agonists such as isoproterenol, dopamine, dobutamine, or norepinephrine. Difficulty in restarting and maintaining the heart beat has also been reported with beta-adrenergic receptor blocking agents. Diabetes and Hypoglycemia Beta-adrenergic blockade may prevent the appearance of premonitory signs and symptoms (e.g., tachycardia and blood pressure changes) of acute hypoglycemia. This is especially important with labile diabetics. Beta-blockade also reduces the release of insulin in response to hyperglycemia; therefore, it may be necessary to adjust the dose of antidiabetic drugs. Thyrotoxicosis Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism. Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-blockade which might precipitate a thyroid crisis.",
+    "drug_interactions": "Drug Interactions Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents. Patients receiving pindolol plus a catecholamine-depleting agent should, therefore, be closely observed for evidence of hypotension and/or marked bradycardia which may produce vertigo, syncope, or postural hypotension. Pindolol has been used with a variety of antihypertensive agents, including hydrochlorothiazide, hydralazine, and guanethidine without unexpected adverse interactions. Pindolol has been shown to increase serum thioridazine levels when both drugs are coadministered. Pindolol levels may also be increased with this combination. Risk of Anaphylactic Reaction While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.",
+    "contraindications": "CONTRAINDICATIONS Pindolol tablets are contraindicated in: 1) bronchial asthma; 2) overt cardiac failure; 3) cardiogenic shock; 4) second and third degree heart block; 5) severe bradycardia. (See WARNINGS. )",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The dosage of pindolol tablets should be individualized. The recommended initial dose of pindolol tablets is 5 mg b.i.d. alone or in combination with other antihypertensive agents. An antihypertensive response usually occurs within the first week of treatment. Maximal response, however, may take as long as or occasionally longer than 2 weeks. If a satisfactory reduction in blood pressure does not occur within 3 to 4 weeks, the dose may be adjusted in increments of 10 mg/day at these intervals up to a maximum of 60 mg/day.",
+    "indications_and_usage": "INDICATIONS AND USAGE Pindolol tablets are indicated in the management of hypertension. It may be used alone or concomitantly with other antihypertensive agents, particularly with a thiazide-type diuretic."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA074063"
+    ],
+    "brand_name": [
+      "Pindolol"
+    ],
+    "generic_name": [
+      "PINDOLOL"
+    ],
+    "manufacturer_name": [
+      "PD-Rx Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "72789-293"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PINDOLOL"
+    ],
+    "rxcui": [
+      "198104"
+    ],
+    "spl_id": [
+      "40bad50c-2987-1150-e063-6394a90a23a2"
+    ],
+    "spl_set_id": [
+      "0daed7b3-6017-4611-8c3a-2f390470f8bc"
+    ],
+    "package_ndc": [
+      "72789-293-01"
+    ],
+    "original_packager_product_ndc": [
+      "57664-656"
+    ],
+    "upc": [
+      "0372789293011"
+    ],
+    "nui": [
+      "N0000000161",
+      "N0000175556"
+    ],
+    "pharm_class_moa": [
+      "Adrenergic beta-Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "beta-Adrenergic Blocker [EPC]"
+    ],
+    "unii": [
+      "BJ4HF6IU1D"
+    ]
+  }
+}

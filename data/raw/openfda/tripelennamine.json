@@ -1,0 +1,54 @@
+{
+  "drug_name": "Tripelennamine",
+  "drug_id": 1085,
+  "sections": {
+    "warnings": "Warnings For external use only. Avoid contact with the eyes. If condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product and consult a physician. Do not use if packaging is damaged or opened. If pregnant or breast-feeding, ask a health professional before use Keep out of reach of children and pets. If swallowed, get medical help or contact Poison Control Center right away.",
+    "dosage_and_administration": "Directions Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily. Children under 2 years of age: Do not use, consult a physician. Storage Information: Protect from freezing and excessive heat, store at 68\u00b0-77\u00b0F (20\u00b0-25\u00b0C).",
+    "indications_and_usage": "Use Temporarily relieves pain and itching associated with: \u2022 insect bites \u2022 minor burns \u2022 minor cuts \u2022 minor skin irritations \u2022 scrapes \u2022 sunburn \u2022 rashes due to poison ivy, poison oak, or poison sumac"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "PBZ OTC"
+    ],
+    "generic_name": [
+      "TRIPELENNAMINE HCL 1%"
+    ],
+    "manufacturer_name": [
+      "Kingsway Pharmaceuticals dba NFI, LLC"
+    ],
+    "product_ndc": [
+      "69993-151"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "TRIPELENNAMINE"
+    ],
+    "rxcui": [
+      "2711712"
+    ],
+    "spl_id": [
+      "d144cc3d-1fca-4a3e-932c-7ca07b85068b"
+    ],
+    "spl_set_id": [
+      "12f72d74-018f-4bc6-acd4-175ca3af4c6d"
+    ],
+    "package_ndc": [
+      "69993-151-01",
+      "69993-151-02"
+    ],
+    "original_packager_product_ndc": [
+      "75587-151"
+    ],
+    "unii": [
+      "3C5ORO99TY"
+    ]
+  }
+}

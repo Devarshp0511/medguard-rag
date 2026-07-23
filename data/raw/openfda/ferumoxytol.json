@@ -1,0 +1,68 @@
+{
+  "drug_name": "Ferumoxytol",
+  "drug_id": 1382,
+  "sections": {
+    "boxed_warning": "WARNING: RISK FOR SERIOUS HYPERSENSITIVITY/ANAPHYLAXIS REACTIONS Fatal and serious hypersensitivity reactions including anaphylaxis have occurred in patients receiving Feraheme. Initial symptoms may include hypotension, syncope, unresponsiveness, cardiac/cardiorespiratory arrest. \u2022 Only administer Feraheme as an intravenous infusion over at least 15 minutes and only when personnel and therapies are immediately available for the treatment of anaphylaxis and other hypersensitivity reactions [see Warnings and Precautions ( 5.1 )] . \u2022 Observe for signs or symptoms of hypersensitivity reactions during and for at least 30 minutes following Feraheme infusion including monitoring of blood pressure and pulse during and after Feraheme administration [see Warnings and Precautions ( 5.1 )]. \u2022 Hypersensitivity reactions have occurred in patients in whom a previous Feraheme dose was tolerated [see Warnings and Precautions ( 5.1 )]. WARNING: RISK FOR SERIOUS HYPERSENSITIVITY/ANAPHYLAXIS REACTIONS See full prescribing information for complete boxed warning. Fatal and serious hypersensitivity reactions including anaphylaxis have occurred in patients receiving Feraheme. Initial symptoms may include hypotension, syncope, unresponsiveness, cardiac/cardiorespiratory arrest. \u2022 Only administer Feraheme as an intravenous infusion over at least 15 minutes and only when personnel and therapies are immediately available for the treatment of anaphylaxis and other hypersensitivity reactions. ( 5.1 ) \u2022 Observe for signs or symptoms of hypersensitivity reactions during and for at least 30 minutes following Feraheme infusion including monitoring of blood pressure and pulse during and after Feraheme administration. ( 5.1 ) \u2022 Hypersensitivity reactions have occurred in patients in whom a previous Feraheme dose was tolerated. ( 5.1 )",
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Greater risk of anaphylaxis in patients with multiple drug allergies. ( 5.1 ) \u2022 Hypotension: Feraheme may cause hypotension. Monitor for signs and symptoms of hypotension following each administration of Feraheme. ( 5.2 ) \u2022 Iron Overload: Regularly monitor hematologic responses during Feraheme therapy. Do not administer Feraheme to patients with iron overload. ( 5.3 ) \u2022 Magnetic Resonance Imaging Test Interference: Feraheme can alter magnetic resonance imaging (MRI) studies. ( 5.4 ) 5.1 Serious Hypersensitivity Reactions Fatal and serious hypersensitivity reactions including anaphylaxis, presenting with cardiac/ cardiorespiratory arrest, clinically significant hypotension, syncope, or unresponsiveness have occurred in patients receiving Feraheme. Other adverse reactions potentially associated with hypersensitivity have occurred (pruritus, rash, urticaria, and wheezing). These reactions have occurred following the first dose or subsequent doses in patients in whom a previous Feraheme dose was tolerated. Patients with a history of multiple drug allergies may have a greater risk of anaphylaxis with parenteral iron products. Carefully consider the potential risks and benefits before administering Feraheme to these patients. Only administer Feraheme as an intravenous infusion over at least 15 minutes and only when personnel and therapies are immediately available for the treatment of anaphylaxis and other hypersensitivity reactions. Closely observe patients for signs and symptoms of hypersensitivity including monitoring of blood pressure and pulse during and after Feraheme administration for at least 30 minutes and until clinically stable following completion of each infusion [see Adverse Reactions ( 6.2 )]. In a clinical study in patients with IDA, regardless of etiology, hypersensitivity reactions were reported in 0.4% (4/997) of subjects receiving Feraheme administered as intravenous infusion over at least 15 minutes. These included one patient with severe hypersensitivity reaction and three patients with moderate hypersensitivity reactions. In clinical studies predominantly in patients with IDA and CKD, serious hypersensitivity reactions were reported in 0.2% (4/1,806) of subjects receiving Feraheme (administered as a rapid intravenous injection \u2013 prior method of administration no longer approved). Other adverse reactions potentially associated with hypersensitivity (e.g., pruritus, rash, urticaria or wheezing) were reported in 3.5% (63/1,806) of these subjects. In the post-marketing experience, fatal and serious anaphylactic type reactions presenting with cardiac/ cardiorespiratory arrest, clinically significant hypotension, syncope, and unresponsiveness have been reported. Elderly patients with multiple or serious co-morbidities who experience hypersensitivity reactions and/or hypotension following administration of Feraheme may have more severe outcomes [see Boxed Warning , Adverse Reactions ( 6.2 ) and Use in Specific Populations ( 8.5 )]. 5.2 Hypotension Feraheme may cause clinically significant hypotension. In a clinical study with Feraheme in patients with IDA, regardless of etiology, moderate hypotension was reported in 0.2% (2/997) of subjects receiving Feraheme administered as intravenous infusion over at least 15 minutes. In clinical studies in patients with IDA and CKD, hypotension was reported in 1.9% (35/1,806) of subjects, including three patients with serious hypotensive reactions, who had received Feraheme as a rapid intravenous injection (prior method of administration no longer approved). Hypotension has also been reported in the post-marketing experience [see Adverse Reactions ( 6.2 )] . Monitor patients for signs and symptoms of hypotension following each Feraheme administration [see Dosage and Administration ( 2 ) and Warnings and Precautions ( 5.1 )] . 5.3 Iron Overload Excessive therapy with parenteral iron can lead to excess storage of iron with the possibility of iatrogenic hemosiderosis. Regularly monitor the hematologic response during parenteral iron therapy [see Dosage and Administration ( 2 )] . Do not administer Feraheme to patients with iron overload. In the 24 hours following administration of Feraheme, laboratory assays may overestimate serum iron and transferrin bound iron by also measuring the iron in the Feraheme complex. 5.4 Magnetic Resonance (MR) Imaging Test Interference Administration of Feraheme may transiently affect the diagnostic ability of MR imaging. Conduct anticipated MR imaging studies prior to the administration of Feraheme. Alteration of MR imaging studies may persist for up to 3 months following the last Feraheme dose. If MR imaging is required within 3 months after Feraheme administration, use T1- or proton density-weighted MR pulse sequences to minimize the Feraheme effects; MR imaging using T2-weighted pulse sequences should not be performed earlier than 4 weeks after the administration of Feraheme. Maximum alteration of vascular MR imaging is anticipated to be evident for 1 \u2013 2 days following Feraheme administration [see Clinical Pharmacology ( 12.3 )] . Feraheme will not interfere with X-ray, computed tomography (CT), positron emission tomography (PET), single photon emission computed tomography (SPECT), ultrasound or nuclear medicine imaging.",
+    "drug_interactions": "7 DRUG INTERACTIONS Drug-drug interaction studies with Feraheme were not conducted. Feraheme may reduce the absorption of concomitantly administered oral iron preparations.",
+    "contraindications": "4 CONTRAINDICATIONS Feraheme is contraindicated in patients with: \u2022 Known hypersensitivity to Feraheme or any of its components [see Warnings and Precautions ( 5.1 )] \u2022 History of allergic reaction to any intravenous iron product [see Warnings and Precautions ( 5.1 )] \u2022 Known hypersensitivity to Feraheme or any of its components. ( 4 ) \u2022 History of allergic reaction to any intravenous iron product. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended dose of Feraheme is an initial 510 mg dose followed by a second 510 mg dose 3 to 8 days later. Administer Feraheme as an intravenous infusion in 50-200 mL 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP over at least 15 minutes. Take measures to avoid extravasation, as this can lead to skin discoloration or staining, which may be long lasting. If extravasation occurs, discontinue Feraheme administration at that site. Administer while the patient is in a reclined or semi-reclined position. Feraheme does not contain antimicrobial preservatives. Discard unused portion. Feraheme, when added to intravenous infusion bags containing either 0.9% Sodium Chloride Injection, USP (normal saline), or 5% Dextrose Injection, USP, at concentrations of 2-8 mg elemental iron per mL, should be used immediately but may be stored at controlled room temperature (25\u00b0C \u00b1 2\u00b0C) for up to 4 hours or refrigerated (2-8\u00b0 C) for up to 48 hours. The dosage is expressed in terms of mg of elemental iron, with each mL of Feraheme containing 30 mg of elemental iron. Evaluate the hematologic response (hemoglobin, ferritin, iron and transferrin saturation) at least one month following the second Feraheme infusion. The recommended Feraheme dose may be readministered to patients with persistent or recurrent iron deficiency anemia. For patients receiving hemodialysis, administer Feraheme once the blood pressure is stable and the patient has completed at least one hour of hemodialysis. Monitor for signs and symptoms of hypotension following each Feraheme infusion. Allow at least 30 minutes between administration of Feraheme and administration of other medications that could potentially cause serious hypersensitivity reactions and/or hypotension, such as chemotherapeutic agents or monoclonal antibodies. Inspect parenteral drug products visually for the absence of particulate matter and discoloration prior to administration. \u2022 The recommended dose of Feraheme is an initial 510 mg dose followed by a second 510 mg dose 3 to 8 days later. ( 2 ) \u2022 Administer Feraheme as an intravenous infusion in 50-200 mL 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP over at least 15 minutes. ( 2 )",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Feraheme is indicated for the treatment of iron deficiency anemia (IDA) in adult patients: \u2022 who have intolerance to oral iron or have had unsatisfactory response to oral iron or \u2022 who have chronic kidney disease (CKD). Feraheme is an iron replacement product indicated for the treatment of iron deficiency anemia (IDA) in adult patients: \u2022 who have intolerance to oral iron or have had unsatisfactory response to oral iron ( 1 ) or \u2022 who have chronic kidney disease (CKD). ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA022180"
+    ],
+    "brand_name": [
+      "Feraheme"
+    ],
+    "generic_name": [
+      "FERUMOXYTOL"
+    ],
+    "manufacturer_name": [
+      "AMAG Pharmaceuticals, Inc"
+    ],
+    "product_ndc": [
+      "59338-775"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "FERUMOXYTOL NON-STOICHIOMETRIC MAGNETITE"
+    ],
+    "rxcui": [
+      "860605",
+      "1191357"
+    ],
+    "spl_id": [
+      "a13ebd7b-ac6b-47c7-8c39-ba4702b66f5a"
+    ],
+    "spl_set_id": [
+      "32b0e320-a739-11dc-a704-0002a5d5c51b"
+    ],
+    "package_ndc": [
+      "59338-775-01",
+      "59338-775-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000177913",
+      "M0011718"
+    ],
+    "pharm_class_epc": [
+      "Parenteral Iron Replacement [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Iron [CS]"
+    ],
+    "unii": [
+      "CLH5FT6412"
+    ]
+  }
+}

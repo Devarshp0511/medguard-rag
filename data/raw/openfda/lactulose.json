@@ -1,0 +1,73 @@
+{
+  "drug_name": "Lactulose",
+  "drug_id": 572,
+  "sections": {
+    "warnings": "WARNINGS A theoretical hazard may exist for patients being treated with lactulose solution who may be required to undergo electrocautery procedures during proctoscopy or colonoscopy. Accumulation of H 2 gas in significant concentration in the presence of an electrical spark may result in an explosive reaction. Although this complication has not been reported with lactulose, patients on lactulose therapy undergoing such procedures should have a thorough bowel cleansing with a non-fermentable solution. Insufflation of CO 2 as an additional safeguard may be pursued but is considered to be a redundant measure.",
+    "drug_interactions": "Drug Interactions There have been conflicting reports about the concomitant use of neomycin and lactulose solution. Theoretically, the elimination of certain colonic bacteria by neomycin and possibly other anti-infective agents may interfere with the desired degradation of lactulose and thus prevent the acidification of colonic contents. Thus the status of the lactulose-treated patient should be closely monitored in the event of concomitant oral anti-infective therapy. Results of preliminary studies in humans and rats suggest that nonabsorbable antacids given concurrently with lactulose may inhibit the desired lactulose-induced drop in colonic pH. Therefore, a possible lack of desired effect of treatment should be taken into consideration before such drugs are given concomitantly with lactulose. Other laxatives should not be used, especially during the initial phase of therapy for portal-systemic encephalopathy, because the loose stools resulting from their use may falsely suggest that adequate lactulose dosage has been achieved.",
+    "contraindications": "CONTRAINDICATIONS Since lactulose solution contains galactose (less than 1.6 g/15 mL), it is contraindicated in patients who require a low galactose diet.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Oral Adult: The usual adult, oral dosage is 2 to 3 tablespoonfuls (30 to 45 ml, containing 20 g to 30 g of lactulose) three or four times daily. The dosage may be adjusted every day or two to produce 2 or 3 soft stools daily. Hourly doses of 30 to 45 ml of Lactulose may be used to induce the rapid laxation indicated in the initial phase of the therapy of portal-systemic encephalopathy. When the laxative effect has been achieved, the dose of lactulose may then be reduced to the recommended daily dose. Improvement in the patient's condition may occur within 24 hours but may not begin before 48 hours or even later. Continuous long-term therapy is indicated to lessen the severity and prevent the recurrence of portal-systemic encephalopathy. The dose of lactulose for this purpose is the same as the recommended daily dose. Pediatric Very little information on the use of lactulose in young children and adolescents has been recorded. As with adults, the subjective goal in proper treatment is to produce 2 to 3 soft stools daily. On the basis of information available, the recommended initial daily oral dose in infants is 2.5 to 10 ml in divided doses. For older children and adolescents, the total daily dose is 40 to 90 ml. If the initial dose causes diarrhea, the dose should be reduced immediately. If diarrhea persists, lactulose should be discontinued. Rectal When the adult patient is in the impending coma or coma stage of portal-systemic encephalopathy and the danger of aspiration exists, or when the necessary endoscopic or intubation procedures physically interfere with the administration of the recommended oral doses, lactulose solution may be given as a retention enema via a rectal balloon catheter. Cleansing enemas containing soapsuds or other alkaline agents should not be used. Three hundred ml of lactulose solution should be mixed with 700 mL of water or physiologic saline and retained for 30 to 60 minutes. Lactulose enema may be repeated every 4 to 6 hours. If the enema is inadvertently evacuated too promptly, it may be repeated immediately. The goal of treatment is reversal of the coma stage in order that the patient may be able to take oral medication. Reversal of coma may take place within 2 hours of the first enema in some patients. Lactulose, given orally in the recommended doses, should be started before Lactulose by enema is stopped entirely.",
+    "indications_and_usage": "INDICATIONS AND USAGE For the prevention and treatment of portal-systemic encephalopathy, including the stages of hepatic pre-coma and coma. Controlled studies have shown that lactulose solution therapy reduces the blood ammonia levels by 25 to 50%; this is generally paralleled by an improvement in the patients' mental state and by an improvement in EEG patterns. The clinical response has been observed in about 75% of patients, which is at least as satisfactory as that resulting from neomycin therapy. An increase in patients' protein tolerance is also frequently observed with lactulose therapy. In the treatment of chronic portal-systemic encephalopathy, Lactulose has been given for over 2 years in controlled studies."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA090502"
+    ],
+    "brand_name": [
+      "Enulose"
+    ],
+    "generic_name": [
+      "LACTULOSE"
+    ],
+    "manufacturer_name": [
+      "Actavis Pharma, Inc."
+    ],
+    "product_ndc": [
+      "45963-438"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL",
+      "RECTAL"
+    ],
+    "substance_name": [
+      "LACTULOSE"
+    ],
+    "rxcui": [
+      "391937",
+      "755470"
+    ],
+    "spl_id": [
+      "bda4ccaa-fa33-4911-b3bd-12391c365f47"
+    ],
+    "spl_set_id": [
+      "00c42c5c-d19e-4130-aa08-a8bbd47d3e5b"
+    ],
+    "package_ndc": [
+      "45963-438-64"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175811",
+      "N0000010288",
+      "N0000175833",
+      "N0000009871"
+    ],
+    "pharm_class_epc": [
+      "Osmotic Laxative [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Osmotic Activity [MoA]",
+      "Acidifying Activity [MoA]"
+    ],
+    "pharm_class_pe": [
+      "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+    ],
+    "unii": [
+      "9U7D5QH5AE"
+    ]
+  }
+}

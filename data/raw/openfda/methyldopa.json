@@ -1,0 +1,58 @@
+{
+  "drug_name": "Methyldopa",
+  "drug_id": 301,
+  "sections": {
+    "warnings": "WARNINGS It is important to recognize that a positive Coombs test, hemolytic anemia, and liver disorders may occur with methyldopa therapy. The rare occurrences of hemolytic anemia or liver disorders could lead to potentially fatal complications unless properly recognized and managed. Read this section carefully to understand these reactions. With prolonged methyldopa therapy, 10% to 20% of patients develop a positive direct Coombs test which usually occurs between 6 and 12 months of methyldopa therapy. Lowest incidence is at daily dosage of 1 g or less. This on rare occasions may be associated with hemolytic anemia, which could lead to potentially fatal complications. One cannot predict which patients with a positive direct Coombs test may develop hemolytic anemia. Prior existence or development of a positive direct Coombs test is not in itself a contraindication to use of methyldopa. If a positive Coombs test develops during methyldopa therapy, the physician should determine whether hemolytic anemia exists and whether the positive Coombs test may be a problem. For example, in addition to a positive direct Coombs test there is less often a positive indirect Coombs test which may interfere with cross matching of blood. Before treatment is started, it is desirable to do a blood count (hematocrit, hemoglobin, or red cell count) for a baseline or to establish whether there is anemia. Periodic blood counts should be done during therapy to detect hemolytic anemia. It may be useful to do a direct Coombs test before therapy and at 6 and 12 months after the start of therapy. If Coombs-positive hemolytic anemia occurs, the cause may be methyldopa and the drug should be discontinued. Usually the anemia remits promptly. If not, corticosteroids may be given and other causes of anemia should be considered. If the hemolytic anemia is related to methyldopa, the drug should not be reinstituted. When methyldopa causes Coombs positivity alone or with hemolytic anemia, the red cell is usually coated with gamma globulin of the lgG (gamma G) class only. The positive Coombs test may not revert to normal until weeks to months after methyldopa is stopped. Should the need for transfusion arise in a patient receiving methyldopa, both a direct and an indirect Coombs test should be performed. In the absence of hemolytic anemia, usually only the direct Coombs test will be positive. A positive direct Coombs test alone will not interfere with typing or cross matching. If the indirect Coombs test is also positive, problems may arise in the major cross match and the assistance of a hematologist or transfusion expert will be needed. Occasionally, fever has occurred within the first 3 weeks of methyldopa therapy, associated in some cases with eosinophilia or abnormalities in one or more liver function tests, such as serum alkaline phosphatase, serum transaminases (SGOT, SGPT), bilirubin, and prothrombin time. Jaundice, with or without fever, may occur with onset usually within the first 2 to 3 months of therapy. In some patients the findings are consistent with those of cholestasis. In others the findings are consistent with hepatitis and hepatocellular injury. Rarely, fatal hepatic necrosis has been reported after use of methyldopa. These hepatic changes may represent hypersensitivity reactions. Periodic determinations of hepatic function should be done particularly during the first 6 to 12 weeks of therapy or whenever an unexplained fever occurs. If fever, abnormalities in liver function tests, or jaundice appear, stop therapy with methyldopa. If caused by methyldopa, the temperature and abnormalities in liver function characteristically have reverted to normal when the drug was discontinued. Methyldopa should not be reinstituted in such patients. Rarely, a reversible reduction of the white blood cell count with a primary effect on the granulocytes has been seen. The granulocyte count returned promptly to normal on discontinuance of the drug. Rare cases of granulocytopenia have been reported. In each instance, upon stopping the drug, the white cell count returned to normal. Reversible thrombocytopenia has occurred rarely.",
+    "drug_interactions": "Drug Interactions When methyldopa is used with other antihypertensive drugs, potentiation of antihypertensive effect may occur. Patients should be followed carefully to detect side reactions or unusual manifestations of drug idiosyncrasy. Patients may require reduced doses of anesthetics when on methyldopa. If hypotension does occur during anesthesia, it usually can be controlled by vasopressors. The adrenergic receptors remain sensitive during treatment with methyldopa. When methyldopa and lithium are given concomitantly, the patient should be carefully monitored for symptoms of lithium toxicity. Read the circular for lithium preparations. Several studies demonstrate a decrease in the bioavailability of methyldopa when it is ingested with ferrous sulfate or ferrous gluconate. This may adversely affect blood pressure control in patients treated with methyldopa. Coadministration of methyldopa with ferrous sulfate or ferrous gluconate is not recommended. Monoamine oxidase (MAO) inhibitors: See CONTRAINDICATIONS .",
+    "contraindications": "CONTRAINDICATIONS Methyldopa is contraindicated in patients: \u2013 with active hepatic disease, such as acute hepatitis and active cirrhosis. \u2013 with liver disorders previously associated with methyldopa therapy (see WARNINGS ). \u2013 with hypersensitivity to any component of this product. \u2013 on therapy with monoamine oxidase (MAO) inhibitors.",
+    "dosage_and_administration": "DOSAGE & ADMINISTRATION Adults : Initiation of Therapy : The usual starting dosage of methyldopa tablets is 250 mg two to three times a day in the first 48 hours. The daily dosage then may be increased or decreased, preferably at intervals of not less than 2 days, until an adequate response is achieved. To minimize the sedation, start dosage increases in the evening. By adjustment of dosage, morning hypotension may be prevented without sacrificing control of afternoon blood pressure. When methyldopa tablets are given to patients on other antihypertensives, the dose of these agents may need to be adjusted to effect a smooth transition. When methyldopa tablets are given with anti-hypertensives other than thiazides, the initial dosage of methyldopa tablets should be limited to 500 mg daily in divided doses; when methyldopa tablets are added to a thiazide, the dosage of thiazide need not be changed. Maintenance of Therapy : The usual daily dosage of methyldopa tablets is 500 mg to 2 g in two to four doses. Although occasional patients have responded to higher doses, the maximum recommended daily dosage is 3 g. Once an effective dosage range is attained, a smooth blood pressure response occurs in most patients in 12 to 24 hours. Since methyldopa has a relatively short duration of action, withdrawal is followed by return of hypertension usually within 48 hours. This is not complicated by an overshoot of blood pressure. Occasionally tolerance may occur, usually between the second and third month of therapy. Adding a diuretic or increasing the dosage of methyldopa frequently will restore effective control of blood pressure. A thiazide may be added at any time during methyldopa therapy and is recommended if therapy has not been started with a thiazide or if effective control of blood pressure cannot be maintained on 2 g of methyldopa daily. Methyldopa is largely excreted by the kidney and patients with impaired renal function may respond to smaller doses. Syncope in older patients may be related to an increased sensitivity and advanced arteriosclerotic vascular disease. This may be avoided by lower doses. Pediatric Patients : Initial dosage is based on 10 mg/kg of body weight daily in two to four doses. The daily dosage then is increased or decreased until an adequate response is achieved. The maximum dosage is 65 mg/kg or 3 g daily, whichever is less. (See PRECAUTIONS: Pediatric Use .)",
+    "indications_and_usage": "INDICATIONS & USAGE Hypertension."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA070076"
+    ],
+    "brand_name": [
+      "Methyldopa"
+    ],
+    "generic_name": [
+      "METHYLDOPA"
+    ],
+    "manufacturer_name": [
+      "Rising Pharma Holdings, Inc."
+    ],
+    "product_ndc": [
+      "64980-571",
+      "64980-572"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "METHYLDOPA"
+    ],
+    "rxcui": [
+      "197956",
+      "197958"
+    ],
+    "spl_id": [
+      "807ace4b-b2af-44b4-9371-884d73e21601"
+    ],
+    "spl_set_id": [
+      "9e22e1d8-04ec-4b67-92ea-b09c706f2703"
+    ],
+    "package_ndc": [
+      "64980-572-01",
+      "64980-571-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "56LH93261Y"
+    ]
+  }
+}

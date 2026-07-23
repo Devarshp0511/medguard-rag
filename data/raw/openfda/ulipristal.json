@@ -1,0 +1,56 @@
+{
+  "drug_name": "Ulipristal",
+  "drug_id": 731,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Existing Pregnancy: ella is not indicated for termination of an existing pregnancy. ( 5.1) Ectopic pregnancy: Evaluate women who become pregnant or complain of lower abdominal pain after taking ella for ectopic pregnancy. ( 5.2 ) Fertility Following Use : Rapid return of fertility is likely. Subsequent acts of intercourse should be protected by a reliable barrier method of contraception until the next menstrual period. ( 5.5 ) Effect on Menstrual Cycle: ella may alter the next expected menses. If menses is delayed beyond 1 week, rule out pregnancy. ( 5.6 ) Ella does not protect against STI/HIV. ( 5.7 ) 5.1 Existing Pregnancy Ella is not indicated for termination of an existing pregnancy. 5.2 Ectopic Pregnancy A history of ectopic pregnancy is not a contraindication to use of this emergency contraceptive method. Healthcare providers, however, should consider the possibility of ectopic pregnancy in women who become pregnant or complain of lower abdominal pain after taking ella . A follow-up physical or pelvic examination is recommended if there is any doubt concerning the general health or pregnancy status of any woman after taking ella . 5.3 Repeated Use Ella is for occasional use as an emergency contraceptive. It should not replace a regular method of contraception. Repeated use of ella within the same menstrual cycle is not recommended, as safety and efficacy of repeat use within the same cycle has not been evaluated. 5.4 CYP3A4 Inducers A CYP3A4 inducer, rifampin, decreases the plasma concentration of ella significantly. Ella should not be administered with CYP3A4 inducers [see Drug interactions (7.1) and Clinical Pharmacology (12.3) ] . 5.5 Fertility Following Use A rapid return of fertility is likely following treatment with ella for emergency contraception. After use of ella , a reliable barrier method of contraception should be used with subsequent acts of intercourse until the next menstrual period. After using ella , if a woman wishes to initiate hormonal contraception as a regular method, she can do so, no sooner than 5 days after the intake of ella and she should use a reliable barrier method until the next menstrual period [ see Dosage and Administration (2.2) , Drug Interactions (7.1 and 7.3 ) and Clinical Pharmacology (12.2) ]. Progestin-containing contraceptives may impair the ability of ella to delay ovulation. Advise women to follow the instructions on the initiation or resumption of hormonal contraceptives after ella intake [see Dosage and Administration(2.2) ]. 5.6 Effect on Menstrual Cycle After ella intake, menses sometimes occur earlier or later than expected by a few days. In clinical trials, cycle length was increased by a mean of 2.5 days but returned to normal in the subsequent cycle. Seven percent of subjects reported menses occurring more than 7 days earlier than expected, and 19% reported a delay of more than 7 days. If there is a delay in the onset of expected menses beyond 1 week, rule out pregnancy. Nine percent of women studied reported intermenstrual bleeding after use of ella . 5.7 Sexually Transmitted Infections/HIV Ella does not protect against HIV infection (the virus that causes AIDS) or other sexually transmitted infections (STIs).",
+    "drug_interactions": "7 DRUG INTERACTIONS Several in vivo drug interaction studies have shown that ella is predominantly metabolized by CYP3A4. Drugs or herbal products that induce CYP3A4 decrease the effectiveness of ella . ( 7.1 ) Initiation of progestin-containing contraceptives may impair the ability of ella to delay ovulation. ( 7.1 ) 7.1 Changes in Emergency Contraceptive Effectiveness Associated with Co-Administration of Other Products CYP3A inducers Drugs or herbal products that induce CYP3A4 decrease the plasma concentrations of ella , and may decrease its effectiveness [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3) ] . Avoid co-administration of ella and drugs or herbal products such as: barbiturates bosentan carbamazepine felbamate griseofulvin oxcarbazepine phenytoin rifampin St. John's Wort topiramate Hormonal contraceptives Progestin-containing contraceptives may impair the ability of ella to delay ovulation. After using ella , if a woman wishes to initiate or resume hormonal contraception, she can do so, no sooner than 5 days after the intake of ella and she should use a reliable barrier method until the next menstrual period. If a woman used ella due to a known or suspected failure of her hormonal contraception refer to the hormonal contraceptive\u2019s prescribing information for instructions on what to do [see Dosage and Administration (2.2) , Warnings and Precautions (5.5) and Clinical Pharmacology (12.2) ] . 7.2 Increase in Plasma Concentrations of ella Associated with Co-Administered Drugs CYP3A4 inhibitors such as itraconazole or ketoconazole increase plasma concentrations of ella [see Pharmacokinetics (12.3) ] . 7.3 Effects of ella on Co-Administered Drugs Hormonal contraceptives: ella may impact the effect of the progestin component of hormonal contraceptives. Therefore, if a woman wishes to use hormonal contraception after using ella , she should use a reliable barrier method for subsequent acts of intercourse until her next menstrual period [see Dosage and Administration (2.2) , Warnings and Precautions (5.5) and Clinical Pharmacology (12.2) ] .",
+    "contraindications": "4 CONTRAINDICATIONS Ella is contraindicated for use in the case of known or suspected pregnancy [see Use in Specific Populations (8.1) ]. Known or suspected pregnancy ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Take one tablet orally as soon as possible, within 120 hours (5 days) after unprotected intercourse or a known or suspected contraceptive failure. Take with or without food. Take at any time during the menstrual cycle. ( 2.1 ) After ella use, initiate or resume hormonal contraception no sooner than 5 days after the intake of ella and use a reliable barrier method until the next menstrual period. ( 2.2 ) If vomiting occurs within 3 hours of taking ella , consider repeating the dose. ( 2.3 ) 2.1 Recommended Dosage and Administration Take one tablet of ella orally as soon as possible within 120 hours (5 days) after unprotected intercourse or a known or suspected contraceptive failure. Take ella with or without food. Take ella at any time during the menstrual cycle. 2.2 Recommendations Regarding Use with Hormonal Contraception After ella use, initiate or resume hormonal contraception no sooner than 5 days after the intake of ella and use a reliable barrier method until the next menstrual period. For known or suspected failure of hormonal contraception refer to the hormonal contraceptive\u2019s prescribing information for instructions on what to do [see Warnings and Precautions (5.5) , Drug Interactions (7.1) and Clinical Pharmacology (12.2 )] . 2.3 Recommendation in Case of Gastrointestinal Disturbances If vomiting occurs within 3 hours of taking ella , consider repeating the dose.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Ella is a progesterone agonist/antagonist emergency contraceptive indicated for prevention of pregnancy following unprotected intercourse or a known or suspected contraceptive failure [see Dosage and Administration (2.1) ] . Ella is not intended for routine use as a contraceptive. Ella is a progesterone agonist/antagonist emergency contraceptive indicated for prevention of pregnancy following unprotected intercourse or a known or suspected contraceptive failure. Ella is not intended for routine use as a contraceptive. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA022474"
+    ],
+    "brand_name": [
+      "Ella"
+    ],
+    "generic_name": [
+      "ULIPRISTAL ACETATE"
+    ],
+    "manufacturer_name": [
+      "HRA PHARMA AMERICA, INC."
+    ],
+    "product_ndc": [
+      "73302-456"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ULIPRISTAL ACETATE"
+    ],
+    "rxcui": [
+      "1005924",
+      "1005928"
+    ],
+    "spl_id": [
+      "47d0b808-7143-c7a9-e063-6394a90a6e0d"
+    ],
+    "spl_set_id": [
+      "2bf93d23-cddd-4613-9066-5b5fa090404b"
+    ],
+    "package_ndc": [
+      "73302-456-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "YF7V70N02B"
+    ]
+  }
+}

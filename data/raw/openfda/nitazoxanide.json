@@ -1,0 +1,66 @@
+{
+  "drug_name": "Nitazoxanide",
+  "drug_id": 502,
+  "sections": {
+    "drug_interactions": "7 DRUG INTERACTIONS Competition for binding sites may occur when administered concurrently with other highly plasma protein-bound drugs with narrow therapeutic indices. Monitor for adverse reactions ( 7 ). 7.1 Highly Protein Bound Drugs with Narrow Therapeutic Indices Tizoxanide (the active metabolite of nitazoxanide) is highly bound to plasma protein (>99.9%). Therefore, monitor for adverse reactions when administering nitazoxanide concurrently with other highly plasma protein-bound drugs with narrow therapeutic indices, as competition for binding sites may occur (e.g., warfarin).",
+    "contraindications": "4 CONTRAINDICATIONS Hypersensitivity ( 4.1 ) 4.1 Hypersensitivity Nitazoxanide tablets are contraindicated in patients with a prior hypersensitivity to nitazoxanide or any other ingredient in the formulations.",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION \u2022 Nitazoxanide tablets should not be administered to pediatric patient 11 years of age or younger ( 2.1 ). \u2022 Dosage for treatment of diarrhea caused by G.lamblia or C. parvum ( 2.1 ): Age Dosage Duration 12 years and older One 500 mg nitazoxanide tablet every 12 hours with food 3 days 2.1 Recommended Dosage and Important Administration Instructions Important Administration Instructions for Pediatric Patients 11 years of Age or Younger: Nitazoxanide tablets should not be administered to pediatric patients 11 years of age or younger because a single tablet contains a greater amount of nitazoxanide than the recommended dosing in this pediatric age group. Table 1. Recommended Dosage Age Dosage Duration 12 years and older One 500 mg nitazoxanide tablet taken orally every 12 hours with food 3 days",
+    "dosage_and_administration_table": "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\"><col width=\"20%\"/><col width=\"58%\"/><col width=\"21%\"/><tbody><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"top\"><content styleCode=\"bold\">Age</content> </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Dosage</content> </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Duration</content> </td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"top\">12 years and older  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\">One 500 mg nitazoxanide tablet every 12 hours with food  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\">3 days  </td></tr></tbody></table> <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\"><col width=\"21%\"/><col width=\"67%\"/><col width=\"11%\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\"><content styleCode=\"bold\">Age</content> </td><td styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Dosage</content> </td><td styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Duration</content> </td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"top\">12 years and older  </td><td styleCode=\"Rrule\" valign=\"top\">One 500 mg nitazoxanide tablet taken orally every 12 hours with food  </td><td styleCode=\"Rrule\" valign=\"top\">3 days  </td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Diarrhea caused by Giardia lamblia or Cryptosporidium parvum: Nitazoxanide tablets (patients 12 years and older) are indicated for the treatment of diarrhea caused by Giardia lamblia or Cryptosporidium parvum . Limitations of Use Nitazoxanide tablets have not been shown to be effective for the treatment of diarrhea caused by Cryptosporidium parvum in HIV-infected or immunodeficient patients [see Clinical Studies (14.2) ] . Nitazoxanide tablets are antiprotozoal indicated for the treatment of diarrhea caused by Giardia lamblia or Cryptosporidium parvum (1 ). Limitations of Use: Nitazoxanide tablets have not been shown to be effective for the treatment of diarrhea caused by C. parvum in HIV-infected or immunodeficient patients (1)."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA218701"
+    ],
+    "brand_name": [
+      "Nitazoxanide"
+    ],
+    "generic_name": [
+      "NITAZOXANIDE"
+    ],
+    "manufacturer_name": [
+      "Camber Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "31722-100"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NITAZOXANIDE"
+    ],
+    "rxcui": [
+      "427163"
+    ],
+    "spl_id": [
+      "4729e7ee-3333-ee2b-e063-6394a90aa85c"
+    ],
+    "spl_set_id": [
+      "295011e1-f919-4e5a-b9e7-4c784f623a86"
+    ],
+    "package_ndc": [
+      "31722-100-31",
+      "31722-100-30",
+      "31722-100-32"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0331722100311"
+    ],
+    "nui": [
+      "N0000175485"
+    ],
+    "pharm_class_epc": [
+      "Antiprotozoal [EPC]"
+    ],
+    "unii": [
+      "SOA12P041N"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+# MedGuard RAG — full stack, one command:  docker compose up --build
+#
+# Three services:
+#   qdrant   — vector database (official image, persisted via a named volume)
+#   api      — FastAPI backend (built from ./Dockerfile)
+#   frontend — static HTML UI, served by nginx (built from ./frontend/Dockerfile)
+#
+# Key detail: inside Compose, containers reach each other by SERVICE NAME,
+# not "localhost". The api service is given QDRANT_HOST=qdrant here --
+# this overrides whatever's in your local .env (which correctly says
+# "localhost" for running services directly on your Mac). Compose env vars
+# take precedence, so no need to edit .env for this to work.
+#
+# The ANTHROPIC_API_KEY is read from your shell environment or a .env file
+# in this same directory (Compose auto-loads .env for variable substitution
+# in this file) -- never hardcoded here.
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_storage:/qdrant/storage
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - QDRANT_HOST=qdrant
+      - QDRANT_PORT=6333
+      - DATABASE_URL=sqlite:///data/processed/medguard.db
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - CLAUDE_MODEL=${CLAUDE_MODEL:-claude-sonnet-4-6}
+    depends_on:
+      - qdrant
+    volumes:
+      # Mount data read-write so the container sees the same populated
+      # SQLite DB you built locally, without baking a large binary file
+      # into the image itself.
+      - ./data:/app/data
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    depends_on:
+      - api
+
+volumes:
+  qdrant_storage:

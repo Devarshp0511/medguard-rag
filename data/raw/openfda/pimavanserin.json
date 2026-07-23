@@ -1,0 +1,67 @@
+{
+  "drug_name": "Pimavanserin",
+  "drug_id": 992,
+  "sections": {
+    "boxed_warning": "WARNING: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. NUPLAZID is not approved for the treatment of patients with dementia who experience psychosis unless their hallucinations and delusions are related to Parkinson's disease [see Warnings and Precautions (5.1) ] . WARNING: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS See full prescribing information for complete boxed warning . Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. NUPLAZID is not approved for the treatment of patients with dementia who experience psychosis unless their hallucinations and delusions are related to Parkinson's disease. ( 5.1 )",
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS QT Interval Prolongation: Increases in QT interval; avoid use with drugs that also increase the QT interval and in patients with risk factors for prolonged QT interval. ( 5.2 ) 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis Antipsychotic drugs increase the all-cause risk of death in elderly patients with dementia-related psychosis. Analyses of 17 dementia-related psychosis placebo-controlled trials (modal duration of 10 weeks and largely in patients taking atypical antipsychotic drugs) revealed a risk of death in the drug-treated patients of between 1.6- to 1.7-times that in placebo-treated patients. Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in placebo-treated patients. Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature. NUPLAZID is not approved for the treatment of patients with dementia who experience psychosis unless their hallucinations and delusions are related to Parkinson's disease [see Boxed Warning ]. 5.2 QT Interval Prolongation NUPLAZID prolongs the QT interval. The use of NUPLAZID should be avoided in patients with known QT prolongation or in combination with other drugs known to prolong QT interval including Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class 3 antiarrhythmics (e.g., amiodarone, sotalol), certain antipsychotic medications (e.g., ziprasidone, chlorpromazine, thioridazine), and certain antibiotics (e.g., gatifloxacin, moxifloxacin) [see Drug Interactions (7.1) ] . NUPLAZID should also be avoided in patients with a history of cardiac arrhythmias, as well as other circumstances that may increase the risk of the occurrence of torsade de pointes and/or sudden death, including symptomatic bradycardia, hypokalemia or hypomagnesemia, and the presence of congenital prolongation of the QT interval [see Clinical Pharmacology (12.2) ] .",
+    "drug_interactions": "7 DRUG INTERACTIONS Strong CYP3A4 Inhibitors: Reduce NUPLAZID dose to 10 mg once daily. ( 2.3 , 7.1 ) Strong or Moderate CYP3A4 Inducers: Avoid concomitant use of NUPLAZID. ( 2.3 , 7.1 ) 7.1 Drugs Having Clinically Important Interactions with NUPLAZID Table 2 Clinically Important Drug Interactions with NUPLAZID QT Interval Prolongation Clinical Impact: Concomitant use of drugs that prolong the QT interval may add to the QT effects of NUPLAZID and increase the risk of cardiac arrhythmia. Intervention: Avoid the use of NUPLAZID in combination with other drugs known to prolong QT interval (e.g., Class 1A antiarrythmics, Class 3 antiarrythmics, certain antipsychotics or antibiotics) [see Warnings and Precautions (5.2) ] . Strong CYP3A4 Inhibitors Clinical Impact: Concomitant use of NUPLAZID with a strong CYP3A4 inhibitor increases pimavanserin exposure [see Clinical Pharmacology (12.3) ] . Intervention: If NUPLAZID is used with a strong CYP3A4 inhibitor, reduce the dosage of NUPLAZID [see Dosage and Administration (2.3) ]. Strong or Moderate CYP3A4 Inducers Clinical Impact: Concomitant use of NUPLAZID with strong or moderate CYP3A4 inducers reduces pimavanserin exposure [see Clinical Pharmacology (12.3) ]. Intervention: Avoid concomitant use of strong or moderate CYP3A4 inducers with NUPLAZID [see Dosage and Administration (2.3) ] . 7.2 Drugs Having No Clinically Important Interactions with NUPLAZID Based on pharmacokinetic studies, no dosage adjustment of carbidopa/levodopa is required when administered concomitantly with NUPLAZID [see Clinical Pharmacology (12.3) ] .",
+    "drug_interactions_table": "<table width=\"75%\"><caption>Table 2 Clinically Important Drug Interactions with NUPLAZID</caption><col width=\"25%\" align=\"left\" valign=\"top\"/><col width=\"75%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">QT Interval Prolongation</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\"> Clinical Impact:</td><td styleCode=\"Rrule\">Concomitant use of drugs that prolong the QT interval may add to the QT effects of NUPLAZID and increase the risk of cardiac arrhythmia. </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\"> Intervention:</td><td styleCode=\"Rrule\">Avoid the use of NUPLAZID in combination with other drugs known to prolong QT interval (e.g., Class 1A antiarrythmics, Class 3 antiarrythmics, certain antipsychotics or antibiotics) <content styleCode=\"italics\">[see <linkHtml href=\"#S5.2\">Warnings and Precautions (5.2)</linkHtml>]</content>. </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Strong CYP3A4 Inhibitors</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\"> Clinical Impact:</td><td styleCode=\"Rrule\">Concomitant use of NUPLAZID with a strong CYP3A4 inhibitor increases pimavanserin exposure <content styleCode=\"italics\">[see <linkHtml href=\"#S12.3\">Clinical Pharmacology (12.3)</linkHtml>]</content>. </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\"> Intervention:</td><td styleCode=\"Rrule\">If NUPLAZID is used with a strong CYP3A4 inhibitor, reduce the dosage of NUPLAZID <content styleCode=\"italics\">[see <linkHtml href=\"#S2.3\">Dosage and Administration (2.3)</linkHtml>].</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Strong or Moderate CYP3A4 Inducers</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\"> Clinical Impact:</td><td styleCode=\"Rrule\">Concomitant use of NUPLAZID with strong or moderate CYP3A4 inducers reduces pimavanserin exposure <content styleCode=\"italics\">[see <linkHtml href=\"#S12.3\">Clinical Pharmacology (12.3)</linkHtml>].</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\"> Intervention:</td><td styleCode=\"Rrule\">Avoid concomitant use of strong or moderate CYP3A4 inducers with NUPLAZID <content styleCode=\"italics\">[see <linkHtml href=\"#S2.3\">Dosage and Administration (2.3)</linkHtml>]</content>. </td></tr></tbody></table>",
+    "contraindications": "4 CONTRAINDICATIONS NUPLAZID is contraindicated in patients with a history of a hypersensitivity reaction to pimavanserin or any of its components. Rash, urticaria, and reactions consistent with angioedema (e.g., tongue swelling, circumoral edema, throat tightness, and dyspnea) have been reported [see Adverse Reactions (6.2) ] . Known hypersensitivity to NUPLAZID or any of its components. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Recommended dose is 34 mg taken orally once daily, without titration. ( 2.1 ) Can be taken with or without food. ( 2.2 ) Capsules may be swallowed whole or opened and entire contents sprinkled over a tablespoon of certain types of soft food. ( 2.2 ) 2.1 Recommended Dosage The recommended dose of NUPLAZID is 34 mg taken orally once daily, without titration. 2.2 Administration Information NUPLAZID can be taken with or without food [see Clinical Pharmacology (12.3) ] . NUPLAZID capsules can be taken whole, or opened and the entire contents sprinkled over a tablespoon (15 mL) of applesauce, yogurt, pudding, or a liquid nutritional supplement. Consume the drug/food mixture immediately without chewing; do not store for future use. 2.3 Dosage Modifications for Concomitant Use with CYP3A4 Inhibitors and Inducers Coadministration with Strong CYP3A4 Inhibitors The recommended dose of NUPLAZID when coadministered with strong CYP3A4 inhibitors is 10 mg, taken orally as one tablet once daily [see Drug Interactions (7.1) ]. Coadministration with Strong or Moderate CYP3A4 Inducers Avoid concomitant use of strong or moderate CYP3A4 inducers with NUPLAZID [see Drug Interactions (7.1) ] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE NUPLAZID \u00ae is indicated for the treatment of hallucinations and delusions associated with Parkinson's disease psychosis [ see Clinical Studies (14) ] . NUPLAZID is an atypical antipsychotic indicated for the treatment of hallucinations and delusions associated with Parkinson's disease psychosis. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA207318",
+      "NDA210793"
+    ],
+    "brand_name": [
+      "NUPLAZID"
+    ],
+    "generic_name": [
+      "PIMAVANSERIN TARTRATE"
+    ],
+    "manufacturer_name": [
+      "Acadia Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "63090-100",
+      "63090-340"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PIMAVANSERIN TARTRATE"
+    ],
+    "rxcui": [
+      "2049269",
+      "2049271",
+      "2049275",
+      "2049278"
+    ],
+    "spl_id": [
+      "2199d74b-37ed-408c-97af-ef036899216b"
+    ],
+    "spl_set_id": [
+      "1e6bea44-57d6-4bac-9328-46e1ee59f83b"
+    ],
+    "package_ndc": [
+      "63090-340-30",
+      "63090-100-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0363090100303",
+      "0363090340303"
+    ],
+    "unii": [
+      "NA83F1SJSR"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "drug_name": "Etomidate",
+  "drug_id": 1465,
+  "sections": {
+    "warnings": "WARNINGS INTRAVENOUS ETOMIDATE SHOULD BE ADMINISTERED ONLY BY PERSONS TRAINED IN THE ADMINISTRATION OF GENERAL ANESTHETICS AND IN THE MANAGEMENT OF COMPLICATIONS ENCOUNTERED DURING THE CONDUCT OF GENERAL ANESTHESIA. BECAUSE OF THE HAZARDS OF PROLONGED SUPPRESSION OF ENDOGENOUS CORTISOL AND ALDOSTERONE PRODUCTION, THIS FORMULATION IS NOT INTENDED FOR ADMINISTRATION BY PROLONGED INFUSION. Pediatric Neurotoxicity: Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours. The clinical significance of these findings is not clear. However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see PRECAUTIONS/PREGNANCY , PEDIATRIC USE , ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY ). Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects. These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness. Anesthetic and sedation drugs are a necessary part of the care of children needing surgery, other procedures, or tests that cannot be delayed, and no specific medications have been shown to be safer than any other. Decisions regarding the timing of any elective procedures requiring anesthesia should take into consideration the benefits of the procedure weighed against the potential risks.",
+    "contraindications": "CONTRAINDICATIONS Etomidate is contraindicated in patients who have shown hypersensitivity to it.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTATION Do not administer unless solution is clear and container is undamaged. Discard unused portion (see DOSAGE AND ADMINISTRATION ). Etomidate Injection is intended for administration only by the intravenous route (see CLINICAL PHARMACOLOGY ). The dose for induction of anesthesia in adult patients and in pediatric patients above the age of ten (10) years will vary between 0.2 mg/kg and 0.6 mg/kg of body weight, and it must be individualized in each case. The usual dose for induction in these patients is 0.3 mg/kg, injected over a period of 30 to 60 seconds. There are inadequate data to make dosage recommendations for induction of anesthesia in patients below the age of ten (10) years; therefore, such use is not recommended. Geriatric patients may require reduced doses of etomidate. Smaller increments of intravenous etomidate may be administered to adult patients during short operative procedures to supplement subpotent anesthetic agents, such as nitrous oxide. The dosage employed under these circumstances, although usually smaller than the original induction dose, must be individualized. There are insufficient data to support this use of etomidate for longer adult procedures or for any procedures in pediatric patients; therefore, such use is not recommended. The use of intravenous fentanyl and other neuroactive drugs employed during the conduct of anesthesia may alter the etomidate dosage requirements. Consult the prescribing information for all other such drugs before using. Premedication: Etomidate Injection is compatible with commonly administered pre-anesthetic medications, which may be employed as indicated. See also CLINICAL PHARMACOLOGY , ADVERSE REACTIONS , and dosage recommendations for maintenance of anesthesia. Etomidate Injection anesthesia does not significantly alter the usual dosage requirements of neuromuscular blocking agents employed for endotracheal intubation or other purposes shortly after induction of anesthesia. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. To prevent needle-stick injuries, needles should not be recapped, purposely bent, or broken by hand.",
+    "indications_and_usage": "INDICATIONS & USAGE SECTION Etomidate Injection is indicated by intravenous injection for the induction of general anesthesia. When considering use of Etomidate Injection, the usefulness of its hemodynamic properties (see CLINICAL PHARMACOLOGY ) should be weighed against the high frequency of transient skeletal muscle movements (see ADVERSE REACTIONS ). Intravenous Etomidate Injection is also indicated for the supplementation of subpotent anesthetic agents, such as nitrous oxide in oxygen, during maintenance of anesthesia for short operative procedures such as dilation and curettage or cervical conization."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA206126"
+    ],
+    "brand_name": [
+      "ETOMIDATE injection, solution"
+    ],
+    "generic_name": [
+      "ETOMIDATE INJECTION, SOLUTION"
+    ],
+    "manufacturer_name": [
+      "HF Acquisition Co LLC, DBA HealthFirst"
+    ],
+    "product_ndc": [
+      "51662-1634"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "ETOMIDATE"
+    ],
+    "rxcui": [
+      "1654006"
+    ],
+    "spl_id": [
+      "0635683b-880b-0cd4-e063-6394a90ab73e"
+    ],
+    "spl_set_id": [
+      "0635683b-880a-0cd4-e063-6394a90ab73e"
+    ],
+    "package_ndc": [
+      "51662-1634-1"
+    ],
+    "original_packager_product_ndc": [
+      "55150-222"
+    ],
+    "nui": [
+      "N0000175975",
+      "N0000175681"
+    ],
+    "pharm_class_pe": [
+      "General Anesthesia [PE]"
+    ],
+    "pharm_class_epc": [
+      "General Anesthetic [EPC]"
+    ],
+    "unii": [
+      "Z22628B598"
+    ]
+  }
+}

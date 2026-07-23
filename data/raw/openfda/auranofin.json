@@ -1,0 +1,60 @@
+{
+  "drug_name": "Auranofin",
+  "drug_id": 1441,
+  "sections": {
+    "boxed_warning": "RIDAURA \u00ae (auranofin) contains gold and, like other gold-containing drugs, can cause gold toxicity, signs of which include: fall in hemoglobin, leukopenia below 4,000 WBC/cu mm, granulocytes below 1,500/cu mm, decrease in platelets below 150,000/cu mm, proteinuria, hematuria, pruritus, rash, stomatitis or persistent diarrhea. Therefore, the results of recommended laboratory work (See PRECAUTIONS ) should be reviewed before writing each RIDAURA prescription. Like other gold preparations, RIDAURA is only indicated for use in selected patients with active rheumatoid arthritis. Physicians planning to use RIDAURA should be experienced with chrysotherapy and should thoroughly familiarize themselves with the toxicity and benefits of RIDAURA. In addition, the following precautions should be routinely employed: The possibility of adverse reactions should be explained to patients before starting therapy. Patients should be advised to report promptly any symptoms suggesting toxicity. (See PRECAUTIONS\u2014Information for Patients .)",
+    "warnings": "WARNINGS Danger signs of possible gold toxicity include fall in hemoglobin, leukopenia below 4,000 WBC/cu mm, granulocytes below 1,500/cu mm, decrease in platelets below 150,000/cu mm, proteinuria, hematuria, pruritus, rash, stomatitis or persistent diarrhea. Thrombocytopenia has occurred in 1\u20133% of patients (See ADVERSE REACTIONS ) treated with RIDAURA (auranofin), some of whom developed bleeding. The thrombocytopenia usually appears to be peripheral in origin and is usually reversible upon withdrawal of RIDAURA. Its onset bears no relationship to the duration of RIDAURA therapy and its course may be rapid. While patients' platelet counts should normally be monitored at least monthly (See PRECAUTIONS\u2014 Laboratory Tests ), the occurrence of a precipitous decline in platelets or a platelet count less than 100,000/cu mm or signs and symptoms (e.g., purpura, ecchymoses or petechiae) suggestive of thrombocytopenia indicates a need to immediately withdraw RIDAURA and other therapies with the potential to cause thrombocytopenia, and to obtain additional platelet counts. No additional RIDAURA should be given unless the thrombocytopenia resolves and further studies show it was not due to gold therapy. Proteinuria has developed in 3-9% of patients (See ADVERSE REACTIONS ) treated with RIDAURA. If clinically significant proteinuria or microscopic hematuria is found (See PRECAUTIONS\u2014 Laboratory Tests ), RIDAURA and other therapies with the potential to cause proteinuria or microscopic hematuria should be stopped immediately.",
+    "drug_interactions": "Drug Interactions: In a single patient-report, there is the suggestion that concurrent administration of RIDAURA and phenytoin may have increased phenytoin blood levels.",
+    "contraindications": "CONTRAINDICATIONS RIDAURA (auranofin) is contraindicated in patients with a history of any of the following gold-induced disorders: anaphylactic reactions, necrotizing enterocolitis, pulmonary fibrosis, exfoliative dermatitis, bone marrow aplasia or other severe hematologic disorders.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Usual Adult Dosage: The usual adult dosage of RIDAURA (auranofin) is 6 mg daily, given either as 3 mg twice daily or 6 mg once daily. Initiation of therapy at dosages exceeding 6 mg daily is not recommended because it is associated with an increased incidence of diarrhea. If response is inadequate after six months, an increase to 9 mg (3 mg three times daily) may be tolerated. If response remains inadequate after a three-month trial of 9 mg daily, RIDAURA therapy should be discontinued. Safety at dosages exceeding 9 mg daily has not been studied. Transferring from Injectable Gold: In controlled clinical studies, patients on injectable gold have been transferred to RIDAURA (auranofin) by discontinuing the injectable agent and starting oral therapy with RIDAURA, 6 mg daily. When patients are transferred to RIDAURA, they should be informed of its adverse reaction profile, in particular the gastrointestinal reactions. (See PRECAUTIONS\u2014 Information for Patients .) At six months, control of disease activity of patients transferred to RIDAURA and those maintained on the injectable agent was not different. Data beyond six months are not available.",
+    "indications_and_usage": "INDICATIONS AND USAGE RIDAURA (auranofin) is indicated in the management of adults with active classical or definite rheumatoid arthritis (ARA criteria) who have had an insufficient therapeutic response to, or are intolerant of, an adequate trial of full doses of one or more nonsteroidal anti-inflammatory drugs. RIDAURA should be added to a comprehensive baseline program, including non-drug therapies. Unlike anti-inflammatory drugs, RIDAURA does not produce an immediate response. Therapeutic effects may be seen after three to four months of treatment, although improvement has not been seen in some patients before six months. When cartilage and bone damage has already occurred, gold cannot reverse structural damage to joints caused by previous disease. The greatest potential benefit occurs in patients with active synovitis, particularly in its early stage. In controlled clinical trials comparing RIDAURA with injectable gold, RIDAURA was associated with fewer dropouts due to adverse reactions, while injectable gold was associated with fewer dropouts for inadequate or poor therapeutic effect. Physicians should consider these findings when deciding on the use of RIDAURA in patients who are candidates for chrysotherapy."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA018689"
+    ],
+    "brand_name": [
+      "RIDAURA"
+    ],
+    "generic_name": [
+      "AURANOFIN"
+    ],
+    "manufacturer_name": [
+      "Sebela Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "54766-093"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AURANOFIN"
+    ],
+    "rxcui": [
+      "197386",
+      "213510"
+    ],
+    "spl_id": [
+      "431445cb-3625-82d8-e063-6394a90aeaea"
+    ],
+    "spl_set_id": [
+      "43ba3de1-ab2e-06f6-e054-00144ff8d46c"
+    ],
+    "package_ndc": [
+      "54766-093-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0354766093067"
+    ],
+    "unii": [
+      "3H04W2810V"
+    ]
+  }
+}

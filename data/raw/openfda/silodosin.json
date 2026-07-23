@@ -1,0 +1,76 @@
+{
+  "drug_name": "Silodosin",
+  "drug_id": 1354,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Postural hypotension, with or without symptoms (e.g., dizziness), may develop when beginning silodosin treatment. ( 5.1 ) In patients with moderate renal impairment, silodosin dose should be reduced to 4 mg once daily. ( 5.2 ) Silodosin should not be used in combination with other alpha-blockers. ( 5.5 ) Examine patients thought to have BPH prior to starting therapy with silodosin to rule out the presence of carcinoma of the prostate. ( 5.6 ) Inform patients planning cataract surgery to notify their ophthalmologist that they are taking silodosin because of the possibility of Intraoperative Floppy Iris Syndrome (IFIS). ( 5.7 ) 5.1 Orthostatic Effects Postural hypotension, with or without symptoms (e.g., dizziness) may develop when beginning silodosin treatment. As with other alpha-blockers, there is potential for syncope. Patients should be cautioned about driving, operating machinery, or performing hazardous tasks when initiating therapy [ see ADVERSE REACTIONS ( 6 ), USE IN SPECIFIC POPULATIONS ( 8.5 ), CLINICAL PHARMACOLOGY ( 12.2 ), and PATIENT COUNSELING INFORMATION ( 17 ) ] . 5.2 Renal Impairment In a clinical pharmacology study, plasma concentrations (AUC and C max ) of silodosin were approximately three times higher in subjects with moderate renal impairment compared with subjects with normal renal function, while half-lives of silodosin doubled in duration. The dose of silodosin should be reduced to 4 mg in patients with moderate renal impairment. Exercise caution and monitor such patients for adverse events [see USE IN SPECIFIC POPULATIONS ( 8.6 ) and CLINICAL PHARMACOLOGY ( 12.3 )] . Silodosin is contraindicated in patients with severe renal impairment [see CONTRAINDICATIONS ( 4 )]. 5.3 Hepatic Impairment Silodosin has not been tested in patients with severe hepatic impairment, and therefore, should not be prescribed to such patients [see CONTRAINDICATIONS ( 4 ), USE IN SPECIFIC POPULATIONS ( 8.7 ) and CLINICAL PHARMACOLOGY ( 12.3 )] . 5.4 Pharmacokinetic Drug-Drug Interactions In a drug interaction study, co-administration of a single 8 mg dose of silodosin with 400 mg ketoconazole, a strong CYP3A4 inhibitor, caused a 3.8-fold increase in maximum plasma silodosin concentrations and 3.2-fold increase in silodosin exposure (i.e., AUC). Concomitant use of ketoconazole or other strong CYP3A4 inhibitors (e.g., itraconazole, clarithromycin, ritonavir) is therefore contraindicated [see DRUG INTERACTIONS ( 7.1 )]. 5.5 Pharmacodynamic Drug-Drug Interactions The pharmacodynamic interactions between silodosin and other alpha-blockers have not been determined. However, interactions may be expected, and silodosin should not be used in combination with other alpha-blockers [see DRUG INTERACTIONS ( 7.3 )]. A specific pharmacodynamic interaction study between silodosin and antihypertensive agents has not been performed. However, patients in the Phase 3 clinical studies taking concomitant antihypertensive medications with silodosin did not experience a significant increase in the incidence of syncope, dizziness, or orthostasis. Nevertheless, exercise caution during concomitant use with antihypertensives and monitor patients for possible adverse events [see ADVERSE REACTIONS ( 6.1 ) and DRUG INTERACTIONS ( 7.6 )]. Caution is also advised when alpha-adrenergic blocking agents including silodosin are co-administered with PDE5 inhibitors. Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure. Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see DRUG INTERACTIONS ( 7.5 )]. 5.6 Carcinoma of the Prostate Carcinoma of the prostate and BPH cause many of the same symptoms. These two diseases frequently co-exist. Therefore, patients thought to have BPH should be examined prior to starting therapy with silodosin to rule out the presence of carcinoma of the prostate. 5.7 Intraoperative Floppy Iris Syndrome Intraoperative Floppy Iris Syndrome has been observed during cataract surgery in some patients on alpha-1 blockers or previously treated with alpha-1 blockers. This variant of small pupil syndrome is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents; progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs; and potential prolapse of the iris toward the phacoemulsification incisions. Patients planning cataract surgery should be told to inform their ophthalmologist that they are taking silodosin [see ADVERSE REACTIONS ( 6.1 )]. 5.8 Laboratory Test Interactions No laboratory test interactions were observed during clinical evaluations. Treatment with silodosin for up to 52 weeks had no significant effect on prostate-specific antigen (PSA).",
+    "drug_interactions": "7 DRUG INTERACTIONS Strong P-glycoprotein inhibitors (e.g., cyclosporine): Co-administration may increase plasma silodosin concentration. Concomitant use is not recommended. ( 7.2 ) Alpha-blockers: Interactions involving concomitant use have not been determined. However, interactions are expected and concomitant use is not recommended. ( 7.3 ) Concomitant use of PDE5 inhibitors with alpha-blockers including silodosin can potentially cause symptomatic hypotension. ( 5.5 , 7.5 ) 7.1 Moderate and Strong CYP3A4 Inhibitors In a clinical metabolic inhibition study, a 3.8-fold increase in silodosin maximum plasma concentrations and 3.2-fold increase in silodosin exposure were observed with concurrent administration of a strong CYP3A4 inhibitor, 400 mg ketoconazole. Use of strong CYP3A4 inhibitors such as itraconazole or ritonavir may cause plasma concentrations of silodosin to increase. Concomitant administration of strong CYP3A4 inhibitors and silodosin is contraindicated [see CONTRAINDICATIONS ( 4 ), WARNINGS AND PRECAUTIONS ( 5.4 ) and CLINICAL PHARMACOLOGY ( 12.3 )]. The effect of moderate CYP3A4 inhibitors on the pharmacokinetics of silodosin has not been evaluated. Concomitant administration with moderate CYP3A4 inhibitors (e.g., diltiazem, erythromycin, verapamil) may increase concentration of silodosin. Exercise caution and monitor patients for adverse events when co-administering silodosin with moderate CYP3A4 inhibitors. 7.2 Strong P-glycoprotein (P-gp) Inhibitors In vitro studies indicated that silodosin is a P-gp substrate. Ketoconazole, a CYP3A4 inhibitor that also inhibits P-gp, caused significant increase in exposure to silodosin. Inhibition of P-gp may lead to increased silodosin concentration. Silodosin is therefore not recommended in patients taking strong P-gp inhibitors such as cyclosporine [see CLINICAL PHARMACOLOGY ( 12.3 ) ]. 7.3 Alpha-Blockers The pharmacodynamic interactions between silodosin and other alpha-blockers have not been determined. However, interactions may be expected, and silodosin should not be used in combination with other alpha-blockers [see WARNINGS AND PRECAUTIONS ( 5.5 )] . 7.4 Digoxin The effect of co-administration of silodosin and digoxin 0.25 mg/day for 7 days was evaluated in a clinical trial in 16 healthy males, aged 18 years to 45 years. Concomitant administration of silodosin and digoxin did not significantly alter the steady state pharmacokinetics of digoxin. No dose adjustment is required. 7.5 PDE5 Inhibitors Co-administration of silodosin with a single dose of 100 mg sildenafil or 20 mg tadalafil was evaluated in a placebo-controlled clinical study that included 24 healthy male subjects, 45 years to 78 years of age. Orthostatic vital signs were monitored in the 12-hour period following concomitant dosing. During this period, the total number of positive orthostatic test results was greater in the group receiving silodosin plus a PDE5 inhibitor compared with silodosin alone. No events of symptomatic orthostasis or dizziness were reported in subjects receiving silodosin with a PDE5 inhibitor. 7.6 Other Concomitant Drug Therapy Antihypertensives The pharmacodynamic interactions between silodosin and antihypertensives have not been rigorously investigated in a clinical study. However, approximately one-third of the patients in clinical studies used concomitant antihypertensive medications with silodosin. The incidence of dizziness and orthostatic hypotension in these patients was higher than in the general silodosin population (4.6% versus 3.8% and 3.4% versus 3.2%, respectively). Exercise caution during concomitant use with antihypertensives and monitor patients for possible adverse events [see WARNINGS AND PRECAUTIONS ( 5.5 )]. Metabolic Interactions In vitro data indicate that silodosin does not have the potential to inhibit or induce cytochrome P450 enzyme systems. 7.7 Food Interactions The effect of a moderate fat, moderate calorie meal on silodosin pharmacokinetics was variable and decreased silodosin maximum plasma concentration (C max ) by approximately 18% to 43% and exposure (AUC) by 4% to 49% across three different studies. Safety and efficacy clinical trials for silodosin were always conducted in the presence of food intake. Patients should be instructed to take silodosin with a meal to reduce risk of adverse events [see CLINICAL PHARMACOLOGY ( 12.3 )].",
+    "contraindications": "4 CONTRAINDICATIONS Patients with severe renal impairment [Creatinine Clearance (CCr < 30 mL/min)]. ( 4 ) Patients with severe hepatic impairment (Child-Pugh score \u2265 10). ( 4 ) Concomitant administration with strong Cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ketoconazole, clarithromycin, itraconazole, ritonavir). ( 4 ) Patients with a history of hypersensitivity to silodosin or any of the ingredients of silodosin capsules. ( 4 ) Severe renal impairment (CCr < 30 mL/min) Severe hepatic impairment (Child-Pugh score \u2265 10) Concomitant administration with strong Cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ketoconazole, clarithromycin, itraconazole, ritonavir) [see DRUG INTERACTIONS ( 7.1 )] Patients with a history of hypersensitivity to silodosin or any of the ingredients of silodosin capsules [see ADVERSE REACTIONS ( 6.2 ) and DESCRIPTION ( 11 )]",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION 8 mg capsules taken orally once daily with a meal. ( 2.1 ) 4 mg capsules taken orally once daily with a meal for those with moderate renal impairment [Creatinine Clearance (CCr) 30 mL/min to 50 mL/min]. ( 2.2 ) 2.1 Dosing Information The recommended dose is 8 mg orally once daily with a meal. Patients who have difficulty swallowing pills and capsules may carefully open the silodosin capsule and sprinkle the powder inside on a tablespoonful of applesauce. The applesauce should be swallowed immediately (within 5 minutes) without chewing and followed with an 8 oz glass of cool water to ensure complete swallowing of the powder. The applesauce used should not be hot, and it should be soft enough to be swallowed without chewing. Any powder/applesauce mixture should be used immediately (within 5 minutes) and not stored for future use. Subdividing the contents of a silodosin capsule is not recommended [see CLINICAL PHARMACOLOGY ( 12.3 )] . 2.2 Dosage Adjustment in Special Populations Renal impairment: Silodosin capsule is contraindicated in patients with severe renal impairment (CCr < 30 mL/min). In patients with moderate renal impairment (CCr 30 mL/min to 50 mL/min), the dose should be reduced to 4 mg once daily taken with a meal. No dosage adjustment is needed in patients with mild renal impairment (CCr 50 mL/min to 80 mL/min) [see CONTRAINDICATIONS ( 4 ), WARNINGS AND PRECAUTIONS ( 5.2 ), USE IN SPECIFIC POPULATIONS ( 8.6 ) and CLINICAL PHARMACOLOGY ( 12.3 )]. Hepatic impairment: Silodosin capsule has not been studied in patients with severe hepatic impairment (Child-Pugh score \u2265 10) and is therefore contraindicated in these patients. No dosage adjustment is needed in patients with mild or moderate hepatic impairment [see CONTRAINDICATIONS ( 4 ), WARNINGS AND PRECAUTIONS ( 5.3 ), USE IN SPECIFIC POPULATIONS ( 8.7 ) and CLINICAL PHARMACOLOGY ( 12.3 )] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Silodosin capsules, an alpha-1 adrenergic receptor antagonist, is indicated for the treatment of the signs and symptoms of benign prostatic hyperplasia (BPH). Silodosin capsule is not indicated for the treatment of hypertension. ( 1 ) Silodosin capsule, a selective alpha-1 adrenergic receptor antagonist, is indicated for the treatment of the signs and symptoms of benign prostatic hyperplasia (BPH) [see CLINICAL STUDIES ( 14 )] . Silodosin capsule is not indicated for the treatment of hypertension."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA206541"
+    ],
+    "brand_name": [
+      "Silodosin"
+    ],
+    "generic_name": [
+      "SILODOSIN"
+    ],
+    "manufacturer_name": [
+      "Lupin Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "68180-740",
+      "68180-741"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SILODOSIN"
+    ],
+    "rxcui": [
+      "809477",
+      "826612"
+    ],
+    "spl_id": [
+      "9a808ee1-339e-42a3-b55c-b655c9d1fcb8"
+    ],
+    "spl_set_id": [
+      "2300db48-477f-4357-8de9-f723737071b4"
+    ],
+    "package_ndc": [
+      "68180-740-06",
+      "68180-740-09",
+      "68180-740-02",
+      "68180-741-02",
+      "68180-741-09",
+      "68180-741-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0368180741091",
+      "0368180740063"
+    ],
+    "nui": [
+      "N0000000099",
+      "N0000175553"
+    ],
+    "pharm_class_moa": [
+      "Adrenergic alpha-Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "alpha-Adrenergic Blocker [EPC]"
+    ],
+    "unii": [
+      "CUZ39LUY82"
+    ]
+  }
+}

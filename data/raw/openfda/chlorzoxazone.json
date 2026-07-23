@@ -1,0 +1,70 @@
+{
+  "drug_name": "Chlorzoxazone",
+  "drug_id": 1457,
+  "sections": {
+    "warnings": "WARNINGS Serious (including fatal) hepatocellular toxicity has been reported rarely in patients receiving chlorzoxazone. The mechanism is unknown but appears to be idiosyncratic and unpredictable. Factors predisposing patients to this rare event are not known. Patients should be instructed to report early signs and/or symptoms of hepatotoxicity such as fever, rash, anorexia, nausea, vomiting, fatigue, right upper quadrant pain, dark urine, or jaundice. Chlorzoxazone should be discontinued immediately and a physician consulted if any of these signs or symptoms develop. Chlorzoxazone use should also be discontinued if a patient develops abnormal liver enzymes (e.g., AST, ALT, alkaline phosphatase and bilirubin.) The concomitant use of alcohol or other central nervous system depressants may have an additive effect. Usage in Pregnancy The safe use of chlorzoxazone has not been established with respect to the possible adverse effects upon fetal development. Therefore, it should be used in women of childbearing potential only when, in the judgment of the physician, the potential benefits outweigh the possible risks.",
+    "contraindications": "CONTRAINDICATIONS Chlorzoxazone is contraindicated in patients with known intolerance to the drug.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Usual Adult Dosage One tablet three or four times daily. If adequate response is not obtained with this dose, it may be increased to one and one-half tablets (750 mg) three or four times daily. As improvement occurs dosage can usually be reduced.",
+    "indications_and_usage": "INDICATIONS Chlorzoxazone is indicated as an adjunct to rest, physical therapy, and other measures for the relief of discomfort associated with acute, painful musculoskeletal conditions. The mode of action of this drug has not been clearly identified, but may be related to its sedative properties. Chlorzoxazone does not directly relax tense skeletal muscles in man."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA089853"
+    ],
+    "brand_name": [
+      "CHLORZOXAZONE"
+    ],
+    "generic_name": [
+      "CHLORZOXAZONE"
+    ],
+    "manufacturer_name": [
+      "Proficient Rx LP"
+    ],
+    "product_ndc": [
+      "71205-711"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CHLORZOXAZONE"
+    ],
+    "rxcui": [
+      "197502"
+    ],
+    "spl_id": [
+      "8b8a3310-04e1-4930-8c69-9f8d470b8925"
+    ],
+    "spl_set_id": [
+      "0a8ee5fa-f393-4568-81bd-269f9a4cecd6"
+    ],
+    "package_ndc": [
+      "71205-711-20",
+      "71205-711-30",
+      "71205-711-60",
+      "71205-711-90"
+    ],
+    "original_packager_product_ndc": [
+      "59651-306"
+    ],
+    "upc": [
+      "0371205711306"
+    ],
+    "nui": [
+      "N0000175730",
+      "N0000175737"
+    ],
+    "pharm_class_pe": [
+      "Centrally-mediated Muscle Relaxation [PE]"
+    ],
+    "pharm_class_epc": [
+      "Muscle Relaxant [EPC]"
+    ],
+    "unii": [
+      "H0DE420U8G"
+    ]
+  }
+}

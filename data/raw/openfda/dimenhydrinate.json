@@ -1,0 +1,58 @@
+{
+  "drug_name": "Dimenhydrinate",
+  "drug_id": 1374,
+  "sections": {
+    "warnings": "Warnings Do not use for children under 2 years of age unless directed by a doctor. Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness use caution when driving a motor vehicle or operating machinery avoid alcoholic beverages If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "dosage_and_administration": "Directions to prevent motion sickness, the first dose should be taken one-half to one hour before starting activity adults and children 12 years and over 1 to 2 tablets every 4-6 hours; do not exceed 8 tablets in 24 hours, or as directed by a doctor children 6 to under 12 years 1/2 to 1 tablet every 6-8 hours; do not exceed 3 tablets in 24 hours, or as directed by a doctor children 2 to under 6 years 1/2 tablet every 6-8 hours; do not exceed 1&1/2 tablets in 24 hours, or as directed by a doctor",
+    "dosage_and_administration_table": "<table width=\"400px\"><col/><col/><tbody><tr><td styleCode=\" Botrule Toprule Lrule Rrule\">adults and children 12 years and over</td><td styleCode=\" Botrule Toprule Lrule Rrule\">1 to 2 tablets every 4-6 hours; do not exceed 8 tablets in 24 hours, or as directed by a doctor</td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\">children 6 to under 12 years</td><td styleCode=\" Botrule Toprule Lrule Rrule\">1/2 to 1 tablet every 6-8 hours; do not exceed 3 tablets in 24 hours, or as directed by a doctor</td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\">children 2 to under 6 years</td><td styleCode=\" Botrule Toprule Lrule Rrule\">1/2 tablet every 6-8 hours; do not exceed 1&amp;1/2 tablets in 24 hours, or as directed by a doctor</td></tr></tbody></table>",
+    "indications_and_usage": "Uses for prevention and treatment of these symptoms associated with motion sickness: nausea vomiting dizziness"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M009"
+    ],
+    "brand_name": [
+      "Motion Sickness Relief"
+    ],
+    "generic_name": [
+      "DIMENHYDRINATE"
+    ],
+    "manufacturer_name": [
+      "Chain Drug Marketing Association, Inc."
+    ],
+    "product_ndc": [
+      "83324-032"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMENHYDRINATE"
+    ],
+    "rxcui": [
+      "198603"
+    ],
+    "spl_id": [
+      "f4abe759-9295-4fc5-8af3-bd322c3fb338"
+    ],
+    "spl_set_id": [
+      "00a327c6-6b86-4702-8c04-55c405c1404c"
+    ],
+    "package_ndc": [
+      "83324-032-12",
+      "83324-032-24"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0635515997134"
+    ],
+    "unii": [
+      "JB937PER5C"
+    ]
+  }
+}

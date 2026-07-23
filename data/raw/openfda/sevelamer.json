@@ -1,0 +1,61 @@
+{
+  "drug_name": "Sevelamer",
+  "drug_id": 1184,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Serious cases of dysphagia, bowel obstruction, bleeding gastrointestinal ulcers, colitis, ulceration, necrosis, and perforation have been associated with sevelamer use, some requiring hospitalization and surgery. ( 5.1 ) 5.1 Gastrointestinal Adverse Events Patients with dysphagia, swallowing disorders, severe gastrointestinal (GI) motility disorders including severe constipation, or major GI tract surgery were not included in the sevelamer carbonate clinical studies. Cases of dysphagia and esophageal tablet retention have been reported in association with use of the tablet formulation of sevelamer, some requiring hospitalization and intervention. Consider using sevelamer suspension in patients with a history of swallowing disorders. Cases of bowel obstruction, bleeding gastrointestinal ulcers, colitis, ulceration, necrosis, and perforation have also been reported with sevelamer use [see Adverse Reactions ( 6.2 )] . Inflammatory disorders may resolve upon sevelamer discontinuation. Treatment with sevelamer should be re-evaluated in patients who develop severe gastrointestinal symptoms. 5.2 Reductions in Vitamins D, E, K (clotting factors) and Folic Acid Levels In preclinical studies in rats and dogs, sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate, reduced vitamins D, E, and K (coagulation parameters) and folic acid levels at doses of 6 to 10 times the recommended human dose. In short-term clinical trials, there was no evidence of reduction in serum levels of vitamins. However, in a one-year clinical trial, 25-hydroxyvitamin D (normal range 10 to 55 ng/mL) fell from 39 \u00b1 22 ng/mL to 34 \u00b1 22 ng/mL (p<0.01) with sevelamer hydrochloride treatment. Most (approximately 75%) patients in sevelamer hydrochloride clinical trials were receiving vitamin supplements.",
+    "drug_interactions": "7 DRUG INTERACTIONS There are no empirical data on avoiding drug interactions between sevelamer carbonate and most concomitant oral drugs. For oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy (e.g., cyclosporine, tacrolimus, levothyroxine), consider separation of the timing of the administration of the two drugs [see Clinical Pharmacology ( 12.3 )]. The duration of separation depends upon the absorption characteristics of the medication concomitantly administered, such as the time to reach peak systemic levels and whether the drug is an immediate release or an extended release product. Where possible consider monitoring clinical responses and/or blood levels of concomitant drugs that have a narrow therapeutic range. Table 5. Sevelamer Drug Interactions Oral drugs for which sevelamer did not alter the pharmacokinetics when administered concomitantly Digoxin Enalapril Iron Metoprolol Warfarin Oral drugs that have demonstrated interaction with sevelamer and are to be dosed separately from sevelamer carbonate Ciprofloxacin Mycophenolate mofetil Dosing Recommendations Take at least 2 hours before or 6 hours after sevelamer Take at least 2 hours before sevelamer \u2022 For oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy consider separation of the timing of administration and/or monitor clinical responses or blood levels of the concomitant medication. ( 7 ) \u2022 Sevelamer did not alter the pharmacokinetics of digoxin, enalapril, iron, metoprolol and warfarin. ( 7 ) \u2022 Sevelamer has demonstrated interaction with ciprofloxacin, mycophenolate mofetil, and therefore these drugs should be dosed separately from sevelamer carbonate. ( 7 )",
+    "drug_interactions_table": "<table frame=\"border\" rules=\"all\"><tbody><tr><td colspan=\"2\"><content styleCode=\"bold\">Oral drugs for which sevelamer did not alter the pharmacokinetics when administered concomitantly </content></td></tr><tr><td colspan=\"2\">Digoxin  Enalapril  Iron  Metoprolol  Warfarin </td></tr><tr><td colspan=\"2\"><content styleCode=\"bold\">Oral drugs that have demonstrated interaction with sevelamer and are to be dosed separately from </content><content styleCode=\"bold\">sevelamer carbonate </content></td></tr><tr><td>Ciprofloxacin  Mycophenolate mofetil </td><td><content styleCode=\"bold\">Dosing Recommendations </content> Take at least 2 hours before or 6 hours after sevelamer  Take at least 2 hours before sevelamer </td></tr></tbody></table>",
+    "contraindications": "4 CONTRAINDICATIONS Sevelamer carbonate tablets are contraindicated in patients with bowel obstruction. Sevelamer carbonate tablets are contraindicated in patients with known hypersensitivity to sevelamer carbonate, sevelamer hydrochloride, or to any of the excipients. Bowel obstruction. ( 4 ) Known hypersensitivity to sevelamer carbonate,sevelamer hydrochloride, or to any of the excipients. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Starting dose of sevelamer carbonate tablet is 0.8 or 1.6 grams administered orally three times per day with meals based on serum phosphorus levels for adult patients and based on body surface area (BSA) category for pediatric patients ( 2.1 ) Titrate by 0.8 grams per meal in two week intervals for adult patients as needed to obtain serum phosphorus target. ( 2.1 ) Titrate based on BSA category for pediatric patients in two week intervals for 6 weeks and then every 4 weeks as needed to obtain serum phosphorus target. ( 2.1 ) 2.1 General Dosing Information Starting Dose for Adult Patients Not Taking a Phosphate Binder . The recommended starting dose of sevelamer carbonate tablets are 0.8 to 1.6 grams taken orally with meals based on serum phosphorus level. Table 1 provides recommended starting doses of sevelamer carbonate tablets for adult patients not taking a phosphate binder. Table 1. Starting Dose for Adult Dialysis Patients Not Taking a Phosphate Binder Serum Phosphorus Sevelamer Carbonate > 5.5 and < 7.5 mg/dL 0.8 grams three times daily with meals \u2265 7.5 mg/dL 1.6 grams three times daily with meals Dose Titration for Adult Patients Taking Sevelamer Carbonate Tablets . Titrate the sevelamer carbonate tablets dose by 0.8 grams three times per day with meals at two-week intervals as necessary to achieve target serum phosphorus levels. Based on clinical studies, the average prescribed adult daily dose of sevelamer carbonate is approximately 7.2 grams per day. The highest daily adult dose of sevelamer carbonate studied was 14 grams in CKD patients on dialysis. Starting Dose for Pediatric Patients Not Taking a Phosphate Binder. The recommended starting dose for pediatric patients 6 years of age and older is 0.8 to 1.6 grams taken three times per day with meals based on the patient\u2019s body surface area (BSA) category; see Table 2. Table 2: Recommended Starting Dosage and Titration Increment Based on Pediatric Patient\u2019s Body Surface Area (m 2 ) BSA (m 2 ) Starting Dose Per Meal/Snack Titration Increases/ Decreases Per Dose \u22650.75 to <1.2 0.8 grams Titrate by 0.4 grams \u22651.2 1.6 grams Titrate by 0.8 grams Dose Titration for Pediatric Patients Taking Sevelamer Carbonate Tablets . Titrate the sevelamer caronate dose as needed to achieve target levels at two-week intervals based on BSA category, as shown in Table 2. Switching from Sevelamer Hydrochloride Tablets . For adult patients switching from sevelamer hydrochloride tablets to sevelamer carbonate tablets or powder, use the same dose in grams. Switching between Sevelamer Carbonate Tablets and Powder . Use the same dose in grams. Switching from Calcium Acetate . Table 3 gives recommended starting doses of sevelamer carbonate tablets based on a patient\u2019s current calcium acetate dose. Table 3. Starting Dose for Dialysis Patients Switching from Calcium Acetate to Sevelamer carbonate Tablets Calcium Acetate 667 mg (Tablets per meal) Sevelamer Carbonate 1 tablet 0.8 grams 2 tablets 1.6 grams 3 tablets 2.4 grams",
+    "dosage_and_administration_table": "<table frame=\"border\" rules=\"all\"><tbody><tr align=\"center\"><td><content styleCode=\"bold\">Serum Phosphorus</content></td><td><content styleCode=\"bold\">Sevelamer Carbonate</content></td></tr><tr align=\"center\"><td align=\"center\">&gt; 5.5 and &lt; 7.5 mg/dL</td><td align=\"center\">0.8 grams three times daily with meals</td></tr><tr align=\"left\"><td align=\"center\">&#x2265; 7.5 mg/dL</td><td align=\"center\">1.6 grams three times daily with meals</td></tr></tbody></table> <table frame=\"border\" rules=\"all\"><tbody><tr><td><content styleCode=\"bold\">BSA (m</content><content styleCode=\"bold\"><sup>2</sup></content><content styleCode=\"bold\">)</content></td><td align=\"center\"><content styleCode=\"bold\">Starting Dose Per </content> <content styleCode=\"bold\">Meal/Snack</content></td><td align=\"center\"><content styleCode=\"bold\">Titration Increases/</content> <content styleCode=\"bold\">Decreases Per Dose</content></td></tr><tr align=\"center\"><td align=\"center\">&#x2265;0.75 to &lt;1.2</td><td>0.8 grams</td><td>Titrate by 0.4 grams</td></tr><tr align=\"center\"><td>&#x2265;1.2</td><td>1.6 grams</td><td>Titrate by 0.8 grams</td></tr></tbody></table> <table frame=\"border\" rules=\"all\"><tbody align=\"center\"><tr><td align=\"center\"><content styleCode=\"bold\">Calcium Acetate 667 mg</content><content styleCode=\"bold\">(Tablets per meal) </content></td><td align=\"center\"><content styleCode=\"bold\">Sevelamer Carbonate </content></td></tr><tr><td>1 tablet</td><td>0.8 grams</td></tr><tr><td>2 tablets</td><td>1.6 grams</td></tr><tr><td>3 tablets</td><td>2.4 grams</td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Sevelamer carbonate tablets are indicated for the control of serum phosphorus in adults and children 6 years of age and older with chronic kidney disease (CKD) on dialysis. Sevelamer carbonate tablet is a phosphate binder indicated for the control of serum phosphorus in adults and children 6 years of age and older with chronic kidney disease on dialysis. (1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA206094"
+    ],
+    "brand_name": [
+      "Sevelamer Carbonate"
+    ],
+    "generic_name": [
+      "SEVELAMER CARBONATE"
+    ],
+    "manufacturer_name": [
+      "DR. REDDY'S LABORATORIES LIMITED"
+    ],
+    "product_ndc": [
+      "55111-789"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SEVELAMER CARBONATE"
+    ],
+    "rxcui": [
+      "749206"
+    ],
+    "spl_id": [
+      "f4b7a1eb-7592-27f3-1316-50b7d2538cd1"
+    ],
+    "spl_set_id": [
+      "0085356d-5fec-3cce-2bd3-108be70e515d"
+    ],
+    "package_ndc": [
+      "55111-789-30",
+      "55111-789-90",
+      "55111-789-27",
+      "55111-789-48",
+      "55111-789-11"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "9YCX42I8IU"
+    ]
+  }
+}

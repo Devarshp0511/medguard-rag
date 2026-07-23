@@ -1,0 +1,58 @@
+{
+  "drug_name": "Ciprofloxacin",
+  "drug_id": 452,
+  "sections": {
+    "warnings_and_cautions": "WARNINGS NOT FOR INJECTION INTO THE EYE. Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving systemic quinolone therapy. Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching. Only a few patients had a history of hypersensitivity reactions. Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines and airway management, as clinically indicated. Remove contact lenses before using.",
+    "drug_interactions": "Drug Interactions: Specific drug interaction studies have not been conducted with ophthalmic ciprofloxacin. However, the systemic administration of some quinolones has been shown to elevate plasma concentrations of theophylline, interfere with the metabolism of caffeine, enhance the effects of the oral anticoagulant, warfarin, and its derivatives, and has been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly.",
+    "contraindications": "CONTRAINDICATIONS A history of hypersensitivity to ciprofloxacin or any other component of the medication is a contraindication to its use. A history of hypersensitivity to other quinolones may also contraindicate the use of ciprofloxacin.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Corneal Ulcers: The recommended dosage regimen for the treatment of corneal ulcers is two drops into the affected eye every 15 minutes for the first six hours and then two drops into the affected eye every 30 minutes for the remainder of the first day. On the second day, instill two drops in the affected eye hourly. On the third through the fourteenth day, place two drops in the affected eye every four hours. Treatment may be continued after 14 days if corneal re-epithelialisation has not occurred. Bacterial Conjunctivitis: The recommended dosage regimen for the treatment of bacterial conjunctivitis is one or two drops instilled into the conjunctival sac(s) every two hours while awake for two days and one or two drops every four hours while awake for the next five days.",
+    "indications_and_usage": "INDICATIONS AND USAGE Ciprofloxacin Ophthalmic Solution is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions listed below: Corneal Ulcers: Pseudomonas aeruginosa Serratia marcescens * Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae Streptococcus (Viridans Group) * Conjunctivitis: Haemophilus influenzae Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae *Efficacy for this organism was studied in fewer than 10 infections."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077568"
+    ],
+    "brand_name": [
+      "ciprofloxacin"
+    ],
+    "generic_name": [
+      "CIPROFLOXACIN"
+    ],
+    "manufacturer_name": [
+      "Proficient Rx LP"
+    ],
+    "product_ndc": [
+      "71205-300"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "CIPROFLOXACIN HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "309307"
+    ],
+    "spl_id": [
+      "a797de06-c8be-4417-9bac-137dc4931c8b"
+    ],
+    "spl_set_id": [
+      "05b2836d-cd3d-4d7f-970c-66ec2d788667"
+    ],
+    "package_ndc": [
+      "71205-300-05"
+    ],
+    "original_packager_product_ndc": [
+      "69315-308"
+    ],
+    "upc": [
+      "0371205300050"
+    ],
+    "unii": [
+      "4BA73M5E37"
+    ]
+  }
+}

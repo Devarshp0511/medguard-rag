@@ -1,0 +1,72 @@
+{
+  "drug_name": "Vasopressin",
+  "drug_id": 371,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Can worsen cardiac function. ( 5.1 ) \u2022 Reversible diabetes insipidus ( 5.2 ) 5.1 Worsening Cardiac Function A decrease in cardiac index may be observed with the use of vasopressin. 5.2 Reversible Diabetes Insipidus Patients may experience reversible diabetes insipidus, manifested by the development of polyuria, a dilute urine, and hypernatremia, after cessation of treatment with vasopressin. Monitor serum electrolytes, fluid status and urine output after vasopressin discontinuation. Some patients may require readministration of vasopressin or administration of desmopressin to correct fluid and electrolyte shifts.",
+    "drug_interactions": "7 DRUG INTERACTIONS \u2022 Pressor effects of catecholamines and Vasopressin injection are expected to be additive. ( 7.1 ) \u2022 Indomethacin may prolong effects of Vasopressin injection. ( 7.2 ) \u2022 Co-administration of ganglionic blockers or drugs causing SIADH may increase the pressor response. ( 7.3 , 7.4 ) \u2022 Co-administration of drugs causing diabetes insipidus may decrease the pressor response. ( 7.5 ) 7.1 Catecholamines Use with catecholamines is expected to result in an additive effect on mean arterial blood pressure and other hemodynamic parameters. Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed. 7.2 Indomethacin Use with indomethacin may prolong the effect of Vasopressin injection on cardiac index and systemic vascular resistance. Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed [see Clinical Pharmacology ( 12.3 )]. 7.3 Ganglionic Blocking Agents Use with ganglionic blocking agents may increase the effect of Vasopressin injection on mean arterial blood pressure. Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed [see Clinical Pharmacology ( 12.3 )]. 7.4 Drugs Suspected of Causing SIADH Use with drugs suspected of causing SIADH (e.g., SSRIs, tricyclic antidepressants, haloperidol, chlorpropamide, enalapril, methyldopa, pentamidine, vincristine, cyclophosphamide, ifosfamide, felbamate) may increase the pressor effect in addition to the antidiuretic effect of Vasopressin injection. Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed. 7.5 Drugs Suspected of Causing Diabetes Insipidus Use with drugs suspected of causing diabetes insipidus (e.g., demeclocycline, lithium, foscarnet, clozapine) may decrease the pressor effect in addition to the antidiuretic effect of Vasopressin injection. Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed.",
+    "contraindications": "4 CONTRAINDICATIONS Vasopressin injection 1 mL single dose vial does not contain chlorobutanol and is therefore contraindicated only in patients with a known allergy or hypersensitivity to 8-L-arginine vasopressin. \u2022 Vasopressin injection 1 mL single dose vial does not contain chlorobutanol and is therefore contraindicated only in patients with a known allergy or hypersensitivity to 8-L-arginine vasopressin. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION \u2022 Dilute 20 units/mL single dose vial contents with normal saline (0.9% sodium chloride) or 5% dextrose in water (D5W) to either 0.1 units/mL or 1 unit/mL for intravenous administration. Discard unused diluted solution after 18 hours at room temperature or 24 hours under refrigeration. ( 2.1 ) \u2022 Post-cardiotomy shock: 0.03 to 0.1 units/minute ( 2.2 ) \u2022 Septic shock: 0.01 to 0.07 units/minute ( 2.2 ) 2.1 Preparation of Solution Inspect parenteral drug products for particulate matter and discoloration prior to use, whenever solution and container permit. Vasopressin Injection Solution for Dilution, 20 units/mL Dilute Vasopressin injection in normal saline (0.9% sodium chloride) or 5% dextrose in water (D5W) prior to use for intravenous administration. Discard unused diluted solution after 18 hours at room temperature or 24 hours under refrigeration. Table 1 Preparation of diluted solutions Fluid restriction? Final concentration Mix Vasopressin injection Diluent No 0.1 units/mL 2.5 mL (50 units) 500 mL Yes 1 unit/mL 5 mL (100 units) 100 mL 2.2 Administration In general, titrate to the lowest dose compatible with a clinically acceptable response. The recommended starting dose is: Post-cardiotomy shock: 0.03 units/minute Septic Shock: 0.01 units/minute Titrate up by 0.005 units/minute at 10- to 15-minute intervals until the target blood pressure is reached. There are limited data for doses above 0.1 units/minute for postcardiotomy shock and 0.07 units/minute for septic shock. Adverse reactions are expected to increase with higher doses. After target blood pressure has been maintained for 8 hours without the use of catecholamines, taper vasopressin injection by 0.005 units/minute every hour as tolerated to maintain target blood pressure.",
+    "dosage_and_administration_table": "<table ID=\"_Reft1\" width=\"100%\"><caption>Table 1 Preparation of diluted solutions </caption><col width=\"25%\"/><col width=\"25%\"/><col width=\"26%\"/><col width=\"25%\"/><tbody><tr><td rowspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Fluid restriction?</paragraph></td><td rowspan=\"2\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph>Final concentration </paragraph></td><td align=\"center\" colspan=\"2\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph>Mix </paragraph></td></tr><tr><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Vasopressin injection </paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Diluent </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>No </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>0.1 units/mL </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>2.5 mL (50 units) </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>500 mL </paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>Yes </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>1 unit/mL </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>5 mL (100 units) </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>100 mL </paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Vasopressin injection is indicated to increase blood pressure in adults with vasodilatory shock who remain hypotensive despite fluids and catecholamines. \u2022 Vasopressin injection is indicated to increase blood pressure in adults with vasodilatory shock who remain hypotensive despite fluids and catecholamines. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA213206"
+    ],
+    "brand_name": [
+      "VASOPRESSIN"
+    ],
+    "generic_name": [
+      "VASOPRESSIN"
+    ],
+    "manufacturer_name": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "product_ndc": [
+      "63323-930"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "VASOPRESSIN"
+    ],
+    "rxcui": [
+      "2103182"
+    ],
+    "spl_id": [
+      "2d123e0c-8440-410e-b3f2-c30769ad72b6"
+    ],
+    "spl_set_id": [
+      "04e0c406-6b49-4c0b-abc5-9a1a75532485"
+    ],
+    "package_ndc": [
+      "63323-930-00",
+      "63323-930-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0363323930004"
+    ],
+    "nui": [
+      "M0022562",
+      "N0000009908",
+      "N0000175360"
+    ],
+    "pharm_class_cs": [
+      "Vasopressins [CS]"
+    ],
+    "pharm_class_pe": [
+      "Vasoconstriction [PE]",
+      "Decreased Diuresis [PE]"
+    ],
+    "unii": [
+      "Y4907O6MFD"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "drug_name": "Relugolix",
+  "drug_id": 998,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS QT/QTc Interval Prolongation: Androgen deprivation therapy may prolong the QT interval ( 5.1 ). Hypersensitivity: ORGOVYX can cause hypersensitivity reactions, including angioedema. Withhold ORGOVYX in patients who experience symptoms of hypersensitivity. Discontinue ORGOVYX for severe hypersensitivity reactions and manage as clinically indicated ( 5.2 ). Embryo-Fetal Toxicity: ORGOVYX can cause fetal harm. Advise males with female partners of reproductive potential to use effective contraception ( 5.3 , 8.1 , 8.3 ). 5.1 QT/QTc Interval Prolongation Androgen deprivation therapy, such as ORGOVYX, may prolong the QT/QTc interval. Providers should consider whether the benefits of androgen deprivation therapy outweigh the potential risks in patients with congenital long QT syndrome, congestive heart failure, or frequent electrolyte abnormalities and in patients taking drugs known to prolong the QT interval. Electrolyte abnormalities should be corrected. Consider periodic monitoring of electrocardiograms and electrolytes [see Clinical Pharmacology ( 12.2 )]. 5.2 Hypersensitivity Reactions ORGOVYX is contraindicated in patients with severe hypersensitivity to relugolix or any of the product components [see Contraindications ( 4 )] . Hypersensitivity reactions, including pharyngeal edema and other serious cases of angioedema, have been reported postmarketing in patients treated with ORGOVYX. In HERO, patients treated with relugolix reported angioedema (0.2%) [see Clinical Trials Experience ( 6.1 )] . Advise patients who experience any symptoms of hypersensitivity to temporarily discontinue ORGOVYX and promptly seek medical care. Discontinue ORGOVYX for severe hypersensitivity reactions and manage as clinically indicated. 5.3 Embryo-Fetal Toxicity The safety and efficacy of ORGOVYX have not been established in females. Based on findings in animals and mechanism of action, ORGOVYX can cause fetal harm and loss of pregnancy when administered to a pregnant female. In an animal reproduction study, oral administration of relugolix to pregnant rabbits during the period of organogenesis caused embryo-fetal lethality at maternal exposures that were 0.3 times the human exposure at the recommended dose of 120 mg daily based on area under the curve (AUC). Advise males with female partners of reproductive potential to use effective contraception during treatment and for 2 weeks after the last dose of ORGOVYX [see Use in Specific Populations ( 8.1 , 8.3 ) and Clinical Pharmacology ( 12.1 )] . 5.4 Laboratory Testing Therapy with ORGOVYX results in suppression of the pituitary gonadal system. Results of diagnostic tests of the pituitary gonadotropic and gonadal functions conducted during and after ORGOVYX may be affected. The therapeutic effect of ORGOVYX should be monitored by measuring serum concentrations of prostate specific antigen (PSA) periodically. If PSA increases, serum concentrations of testosterone should be measured.",
+    "drug_interactions": "7 DRUG INTERACTIONS P-gp Inhibitors: Avoid co-administration. If unavoidable, take ORGOVYX first, separate dosing by at least 6 hours, and monitor patients more frequently for adverse reactions ( 2.2 , 7.1 ). Combined P-gp and Strong CYP3A Inducers: Avoid co-administration. If unavoidable, increase the ORGOVYX dose to 240 mg once daily ( 2.3 , 7.1 ). 7.1 Effect of Other Drugs on ORGOVYX P-gp Inhibitors Relugolix is a P-gp substrate. Co-administration of ORGOVYX with an oral P-gp inhibitor increases relugolix exposure [see Clinical Pharmacology ( 12.3 )], which may increase the risk of adverse reactions associated with ORGOVYX. Avoid co-administration of ORGOVYX with oral P-gp inhibitors. If co-administration with an oral P-gp inhibitor cannot be avoided, take ORGOVYX first and separate dosing by at least 6 hours. Monitor patients for increased adverse reactions [see Dosage and Administration ( 2.2 )] . Treatment with ORGOVYX may be interrupted for up to two weeks if a short course of treatment with a P-gp inhibitor is required. Resume ORGOVYX after the P-gp inhibitor is discontinued. If treatment with ORGOVYX is interrupted for greater than 7 days, restart ORGOVYX with a loading dose of 360 mg on the first day and continue with a dose of 120 mg once daily. Combined P-gp and Strong CYP3A Inducers Relugolix is a P-gp and CYP3A substrate. Co-administration of ORGOVYX with a combined P-gp and strong CYP3A inducer decreases relugolix exposure, which may reduce the effects of ORGOVYX [see Clinical Pharmacology ( 12.3 )]. Avoid co-administration of ORGOVYX with combined P-gp and strong CYP3A inducers. If co-administration cannot be avoided, increase the ORGOVYX dose. After discontinuation of the combined P-gp and strong CYP3A inducer, resume ORGOVYX once daily at the same dose [see Dosage and Administration ( 2.3 )] .",
+    "contraindications": "4 CONTRAINDICATIONS ORGOVYX is contraindicated in patients with severe hypersensitivity to relugolix or to any of the product components. Known severe hypersensitivity to relugolix or to any of the product components ( 4 ).",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Recommended Dosage: A loading dose of 360 mg on the first day of treatment followed by 120 mg taken orally once daily, at approximately the same time each day ( 2.1 ). ORGOVYX can be taken with or without food ( 2.1 , 12.3 ). Instruct patients to swallow tablets whole and not to crush or chew tablets ( 2.1 ). 2.1 Recommended Dosage Initiate treatment of ORGOVYX with a loading dose of 360 mg on the first day and continue treatment with a 120 mg dose taken orally once daily at approximately the same time each day. ORGOVYX can be taken with or without food [see Clinical Pharmacology ( 12.3 )] . Instruct patients to swallow tablets whole and not to crush or chew tablets. Advise patients to take a missed dose of ORGOVYX as soon as they remember. If the dose was missed by more than 12 hours, patients should not take the missed dose and resume with the next scheduled dose. If treatment with ORGOVYX is interrupted for greater than 7 days, restart ORGOVYX with a loading dose of 360 mg on the first day, and continue with a dose of 120 mg once daily. In patients treated with GnRH receptor agonists and antagonists for prostate cancer, treatment is usually continued upon development of nonmetastatic or metastatic castration-resistant prostate cancer. 2.2 Dosage Modifications for P-gp Inhibitors Avoid co-administration of ORGOVYX with oral P-gp inhibitors. If co-administration is unavoidable, take ORGOVYX first and separate dosing by at least 6 hours [ see Drug Interactions ( 7.1 ) and Clinical Pharmacology ( 12.3 ) ] . Monitor patients for increased adverse reactions. Treatment with ORGOVYX may be interrupted for up to two weeks if a short course of treatment with a P-gp inhibitor is required. Resume ORGOVYX after the P-gp inhibitor is discontinued. If treatment with ORGOVYX is interrupted for greater than 7 days, restart ORGOVYX with a loading dose of 360 mg on the first day and continue with a dose of 120 mg once daily. 2.3 Dosage Modifications for Combined P-gp and Strong CYP3A Inducers Avoid co-administration of ORGOVYX with combined P-gp and strong CYP3A inducers. If co-administration is unavoidable, increase the ORGOVYX dose to 240 mg once daily. After discontinuation of the combined P-gp and strong CYP3A inducer, resume the recommended ORGOVYX dose of 120 mg once daily [see Drug Interactions ( 7.1 ) and Clinical Pharmacology ( 12.3 )] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ORGOVYX is indicated for the treatment of adult patients with advanced prostate cancer. ORGOVYX is a gonadotropin-releasing hormone (GnRH) receptor antagonist indicated for the treatment of adult patients with advanced prostate cancer ( 1 )."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA214621"
+    ],
+    "brand_name": [
+      "Orgovyx"
+    ],
+    "generic_name": [
+      "RELUGOLIX"
+    ],
+    "manufacturer_name": [
+      "Sumitomo Pharma America, Inc."
+    ],
+    "product_ndc": [
+      "72974-120"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "RELUGOLIX"
+    ],
+    "rxcui": [
+      "2472783",
+      "2472789"
+    ],
+    "spl_id": [
+      "0d9200dd-878e-4e93-98af-e1149e84c21f"
+    ],
+    "spl_set_id": [
+      "077a92f6-9f1b-479a-87c7-c92b5db6aa9c"
+    ],
+    "package_ndc": [
+      "72974-120-01",
+      "72974-120-97",
+      "72974-120-95"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175839",
+      "N0000175084",
+      "N0000008638",
+      "N0000190118",
+      "N0000187064",
+      "N0000190113",
+      "N0000185503"
+    ],
+    "pharm_class_epc": [
+      "Gonadotropin Releasing Hormone Receptor Antagonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Gonadotropin Releasing Hormone Receptor Antagonists [MoA]",
+      "Cytochrome P450 3A Inducers [MoA]",
+      "Cytochrome P450 2B6 Inducers [MoA]",
+      "Breast Cancer Resistance Protein Inhibitors [MoA]",
+      "P-Glycoprotein Inhibitors [MoA]"
+    ],
+    "pharm_class_pe": [
+      "Decreased GnRH Secretion [PE]"
+    ],
+    "unii": [
+      "P76B05O5V6"
+    ]
+  }
+}

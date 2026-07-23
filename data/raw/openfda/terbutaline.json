@@ -1,0 +1,72 @@
+{
+  "drug_name": "Terbutaline",
+  "drug_id": 355,
+  "sections": {
+    "boxed_warning": "WARNING: TOCOLYSIS Oral terbutaline sulfate has not been approved and should not be used for acute or maintenance tocolysis. In particular, terbutaline sulfate should not be used for maintenance tocolysis in the outpatient or home setting. Serious adverse reactions, including death, have been reported after administration of terbutaline sulfate to pregnant women. In the mother, these adverse reactions include increased heart rate, transient hyperglycemia, hypokalemia, cardiac arrhythmias, pulmonary edema and myocardial ischemia. Increased fetal heart rate and neonatal hypoglycemia may occur as a result of maternal administration. [see Contraindications, Tocolysis . ]",
+    "warnings": "WARNINGS Deterioration of Asthma Asthma may deteriorate acutely over a period of hours or chronically over several days or longer. If the patient needs more doses of terbutaline sulfate than usual, this may be a marker of destabilization of asthma and requires reevaluation of the patient and the treatment regimen, giving special consideration to the possible need for anti-inflammatory treatment, e.g., corticosteroids. Use of Anti-Inflammatory Agents The use of beta-adrenergic agonist bronchodilators alone may not be adequate to control asthma in many patients. Early consideration should be given to adding anti-inflammatory agents, e.g., corticosteroids. Cardiovascular Effects Terbutaline sulfate, like all other beta-adrenergic agonists, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms. Although such effects are uncommon after administration of terbutaline sulfate at recommended doses, if they occur, the drug may need to be discontinued. In addition, beta-agonists have been reported to produce electrocardiogram (ECG) changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression. The clinical significance of these findings is unknown. Therefore, terbutaline sulfate, like all sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension. Seizures There have been rare reports of seizures in patients receiving terbutaline; seizures did not recur in these patients after the drug was discontinued.",
+    "drug_interactions": "Drug Interactions The concomitant use of terbutaline sulfate with other sympathomimetic agents is not recommended, since the combined effect on the cardiovascular system may be deleterious to the patient. However, this does not preclude the use of an aerosol bronchodilator of the adrenergic-stimulant type for the relief of an acute bronchospasm in patients receiving chronic oral therapy with terbutaline sulfate.",
+    "contraindications": "CONTRAINDICATIONS 1. Tocolysis Oral terbutaline sulfate has not been approved and should not be used for acute or maintenance tocolysis. [see Boxed Warning: Tocolysis . ] 2. Hypersensitivity Terbutaline sulfate is contraindicated in patients known to be hypersensitive to sympathomimetic amines or any component of this drug product.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Adults The usual oral dose of terbutaline sulfate for adults is 5 mg administered at approximately six-hour intervals, three times daily, during the hours the patient is usually awake. If side effects are particularly disturbing, the dose may be reduced to 2.5 mg three times daily, and still provide a clinically significant improvement in pulmonary function. The total dose within 24 hours should not exceed 15 mg. Children Terbutaline sulfate is not recommended for use in children below the age of 12 years. A dosage of 2.5 mg three times daily is recommended for children 12-15 years of age. The total dose within 24 hours should not exceed 7.5 mg. If a previously effective dosage regimen fails to provide the usual relief, medical advice should be sought immediately as this is often a sign of seriously worsening asthma that would require reassessment of therapy.",
+    "indications_and_usage": "INDICATIONS AND USAGE Terbutaline sulfate is indicated for the prevention and reversal of bronchospasm in patients 12 years of age and older with asthma and reversible bronchospasm associated with bronchitis and emphysema."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA211832"
+    ],
+    "brand_name": [
+      "Terbutaline Sulfate"
+    ],
+    "generic_name": [
+      "TERBUTALINE SULFATE"
+    ],
+    "manufacturer_name": [
+      "Proficient Rx LP"
+    ],
+    "product_ndc": [
+      "71205-938",
+      "71205-939"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "TERBUTALINE SULFATE"
+    ],
+    "rxcui": [
+      "857677",
+      "857683"
+    ],
+    "spl_id": [
+      "9f8ee6b8-61e1-478a-90de-57358fdb5905"
+    ],
+    "spl_set_id": [
+      "0a95bc4f-34d3-4b5e-841b-6839e1c1e0c7"
+    ],
+    "package_ndc": [
+      "71205-938-30",
+      "71205-938-60",
+      "71205-938-90",
+      "71205-938-00",
+      "71205-938-55",
+      "71205-939-30",
+      "71205-939-60",
+      "71205-939-90",
+      "71205-939-00",
+      "71205-939-55"
+    ],
+    "original_packager_product_ndc": [
+      "24979-132",
+      "24979-133"
+    ],
+    "upc": [
+      "0371205939304",
+      "0371205938307"
+    ],
+    "unii": [
+      "576PU70Y8E"
+    ]
+  }
+}

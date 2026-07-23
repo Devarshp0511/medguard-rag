@@ -1,0 +1,70 @@
+{
+  "drug_name": "Etoposide",
+  "drug_id": 1244,
+  "sections": {
+    "boxed_warning": "WARNINGS Etoposide injection should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. Severe myelosuppression with resulting infection or bleeding may occur.",
+    "warnings": "WARNINGS Patients being treated with etoposide injection must be frequently observed for myelosuppression both during and after therapy. Myelosuppression resulting in death has been reported. Dose-limiting bone marrow suppression is the most significant toxicity associated with etoposide injection therapy. Therefore, the following studies should be obtained at the start of therapy and prior to each subsequent cycle of etoposide injection: platelet count, hemoglobin, white blood cell count, and differential. The occurrence of a platelet count below 50,000/mm 3 or an absolute neutrophil count below 500/mm 3 is an indication to withhold further therapy until the blood counts have sufficiently recovered. Physicians should be aware of the possible occurrence of an anaphylactic reaction manifested by chills, fever, tachycardia, bronchospasm, dyspnea, and hypotension. Higher rates of anaphylactic-like reactions have been reported in children who received infusions at concentrations higher than those recommended. The role that concentration of infusion (or rate of infusion) plays in the development of anaphylactic-like reactions is uncertain (see ADVERSE REACTIONS section). Treatment is symptomatic. The infusion should be terminated immediately, followed by the administration of pressor agents, corticosteroids, antihistamines, or volume expanders at the discretion of the physician. For parenteral administration, etoposide injection should be given only by slow intravenous infusion (usually over a 30- to 60-minute period) since hypotension has been reported as a possible side effect of rapid intravenous injection. Pregnancy Etoposide Injection can cause fetal harm when administered to a pregnant woman. Etoposide has been shown to be teratogenic in mice and rats. In rats, an intravenous etoposide dose of 0.4 mg/kg/day (about 1/20 th of the human dose on a mg/m 2 basis) during organogenesis caused maternal toxicity, embryotoxicity, and teratogenicity (skeletal abnormalities, exencephaly, encephalocele, and anophthalmia); higher doses of 1.2 and 3.6 mg/kg/day (about 1/7 th and 1/2 of human dose on a mg/m 2 basis) resulted in 90 and 100% embryonic resorptions. In mice, a single 1 mg/kg (1/16 th of human dose on a mg/m 2 basis) dose of etoposide administered intraperitoneally on days 6, 7, or 8 of gestation caused embryotoxicity, cranial abnormalities, and major skeletal malformations. An I.P. dose of 1.5 mg/kg (about 1/10 th of human dose on a mg/m 2 basis) on day 7 of gestation caused an increase in the incidence of intrauterine death and fetal malformations and a significant decrease in the average fetal body weight. Women of childbearing potential should be advised to avoid becoming pregnant. If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be warned of the potential hazard to the fetus. Etoposide injection should be considered a potential carcinogen in humans. The occurrence of acute leukemia with or without a preleukemic phase has been reported in rare instances in patients treated with etoposide alone or in association with other neoplastic agents. The risk of development of a preleukemic or leukemic syndrome is unclear. Carcinogenicity tests with etoposide injection have not been conducted in laboratory animals.",
+    "drug_interactions": "Drug Interactions High-dose cyclosporin A resulting in concentrations above 2000 ng/mL administered with oral etoposide has led to an 80% increase in etoposide exposure with a 38% decrease in total body clearance of etoposide compared to etoposide alone.",
+    "contraindications": "CONTRAINDICATIONS Etoposide injection is contraindicated in patients who have demonstrated a previous hypersensitivity to etoposide or any component of the formulation.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Note: Plastic devices made of acrylic or ABS (a polymer composed of acrylonitrile, butadiene, and styrene) have been reported to crack and leak when used with undiluted etoposide injection. Etoposide Injection The usual dose of etoposide injection in testicular cancer in combination with other approved chemotherapeutic agents ranges from 50 to 100 mg/m 2 /day on days 1 through 5 to 100 mg/m 2 /day on days 1, 3, and 5. In small cell lung cancer, the etoposide injection dose in combination with other approved chemotherapeutic drugs ranges from 35 mg/m 2 /day for 4 days to 50 mg/m 2 /day for 5 days. For recommended dosing adjustments in patients with renal impairment see PRECAUTIONS section. Chemotherapy courses are repeated at 3- to 4-week intervals after adequate recovery from any toxicity. The dosage should be modified to take into account the myelosuppressive effects of other drugs in the combination or the effects of prior x-ray therapy or chemotherapy which may have compromised bone marrow reserve. Administration Precautions As with other potentially toxic compounds, caution should be exercised in handling and preparing the solution of etoposide injection. Skin reactions associated with accidental exposure to etoposide injection may occur. The use of gloves is recommended. If etoposide injection solution contacts the skin or mucosa, immediately and thoroughly wash the skin with soap and water and flush the mucosa with water. Preparation for Intravenous Administration Etoposide injection must be diluted prior to use with either 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP, to give a final concentration of 0.2 to 0.4 mg/mL. If solutions are prepared at concentrations above 0.4 mg/mL, precipitation may occur. Hypotension following rapid intravenous administration has been reported, hence, it is recommended that the etoposide injection solution be administered over a 30- to 60-minute period. A longer duration of administration may be used if the volume of fluid to be infused is a concern. Etoposide injection should not be given by rapid intravenous injection. Parenteral drug products should be inspected visually for particulate matter and discoloration (see DESCRIPTION section) prior to administration whenever solution and container permit. Stability Unopened vials of etoposide injection are stable until the date indicated on the package at room temperature (25\u00b0C). Vials diluted as recommended to a concentration of 0.2 to 0.4 mg/mL are stable for 96 and 24 hours, respectively, at room temperature (25\u00b0C) under normal room fluorescent light in both glass and plastic containers. Procedures for proper handling and disposal of anticancer drugs should be considered. Several guidelines on this subject have been published. 1-8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.",
+    "indications_and_usage": "INDICATIONS AND USAGE Etoposide Injection is indicated in the management of the following neoplasms: Refractory Testicular Tumors Etoposide Injection in combination therapy with other approved chemotherapeutic agents in patients with refractory testicular tumors who have already received appropriate surgical, chemotherapeutic, and radiotherapeutic therapy. Small Cell Lung Cancer Etoposide Injection and/or capsules in combination with other approved chemotherapeutic agents as first line treatment in patients with small cell lung cancer."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA074529"
+    ],
+    "brand_name": [
+      "Etoposide"
+    ],
+    "generic_name": [
+      "ETOPOSIDE"
+    ],
+    "manufacturer_name": [
+      "BluePoint Laboratories"
+    ],
+    "product_ndc": [
+      "68001-681",
+      "68001-682",
+      "68001-683"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "ETOPOSIDE"
+    ],
+    "rxcui": [
+      "310248"
+    ],
+    "spl_id": [
+      "52475e80-bf46-f251-e063-6294a90a0e10"
+    ],
+    "spl_set_id": [
+      "0dddbe44-b4f4-431f-9011-8a54abbd4cbf"
+    ],
+    "package_ndc": [
+      "68001-681-25",
+      "68001-682-26",
+      "68001-683-27"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175609",
+      "N0000000176"
+    ],
+    "pharm_class_epc": [
+      "Topoisomerase Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Topoisomerase Inhibitors [MoA]"
+    ],
+    "unii": [
+      "6PLQ3CP4P3"
+    ]
+  }
+}

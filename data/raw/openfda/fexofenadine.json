@@ -1,0 +1,53 @@
+{
+  "drug_name": "Fexofenadine",
+  "drug_id": 1077,
+  "sections": {
+    "warnings": "Severe Allergy Warning: Get emergency help immediately if you have hives along with any of the following symptoms: \uf06e trouble swallowing \uf06e dizziness or loss of consciousness \uf06e swelling of tongue \uf06e swelling in or around mouth \uf06e trouble speaking \uf06e wheezing or problems breathing \uf06e drooling These symptoms may be signs of anaphylactic shock. This condition can be life threatening if not treated by a health professional immediately. Symptoms of anaphylactic shock may occur when hives first appear or up to a few hours later Not a Substitute for Epinephrine. If your doctor has prescribed an epinephrine injector for \u201canaphylaxis\u201d or severe allergy symptoms that could occur with your hives, never use this product as a substitute for the epinephrine injector. If you have been prescribed an epinephrine injector, you should carry it with you at all times.",
+    "dosage_and_administration": "Directions adults and children 12 years of age and over: take one 180 mg tablet with water every once a day; do not take more than 1 tablet in 24 hours children under 12 years of age: do not use adults 65 years of age and older: ask a doctor consumers with kidney disease: ask a doctor",
+    "indications_and_usage": "Uses reduces hives and relieves itching due to hives (urticaria). This product will not prevent hives or an allergic skin reaction from occurring."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA211075"
+    ],
+    "brand_name": [
+      "Fexofenadine HCL"
+    ],
+    "generic_name": [
+      "FEXOFENADINE HCL"
+    ],
+    "manufacturer_name": [
+      "CVS"
+    ],
+    "product_ndc": [
+      "51316-767"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FEXOFENADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "997420"
+    ],
+    "spl_id": [
+      "46540fb6-3247-8ddd-e063-6394a90ae0cb"
+    ],
+    "spl_set_id": [
+      "00ef8467-30a0-7579-e063-6294a90a75af"
+    ],
+    "package_ndc": [
+      "51316-767-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "2S068B75ZU"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "drug_name": "Sulfadiazine",
+  "drug_id": 885,
+  "sections": {
+    "warnings": "WARNINGS Absorption of silver sulfadiazine varies depending upon the percent of body surface area and the extent of the tissue damage. Although few have been reported, it is possible that any adverse reaction associated with sulfonamides may occur. Some of the reactions which have been associated with sulfonamides are as follows: blood dyscrasias including agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, and hemolytic anemia; dermatologic and allergic reactions, including life-threatening cutaneous reactions [Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) and exfoliative dermatitis]; gastrointestinal reactions, hepatitis and hepatocellular necrosis; CNS reactions; and toxic nephrosis. There is a potential cross-sensitivity between silver sulfadiazine and other sulfonamides. If allergic reactions attributable to treatment with silver sulfadiazine occur, continuation of therapy must be weighed against the potential hazards of the particular allergic reaction. Fungal proliferation in and below the eschar may occur. However, the incidence of clinically reported fungal superinfection is low. The use of silver sulfadiazine cream, USP 1% in some cases of glucose-6-phosphate dehydrogenase-deficient individuals may be hazardous, as hemolysis may occur.",
+    "contraindications": "CONTRAINDICATIONS Silver sulfadiazine cream, USP 1% is contraindicated in patients who are hypersensitive to silver sulfadiazine or any of the other ingredients in the preparation. Because sulfonamide therapy is known to increase the possibility of kernicterus, silver sulfadiazine cream, USP 1% should not be used on pregnant women approaching or at term, on premature infants, or on newborn infants during the first 2 months of life.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Prompt institution of appropriate regimens for care of the burned patient is of prime importance and includes the control of shock and pain. The burn wounds are then cleansed and debrided; silver sulfadiazine cream, USP 1% is then applied under sterile conditions. The burn areas should be covered with silver sulfadiazine cream, USP 1% at all times. The cream should be applied once to twice daily to a thickness of approximately one sixteenth of an inch. Whenever necessary, the cream should be reapplied to any areas from which it has been removed by patient activity. Administration may be accomplished in minimal time because dressings are not required. However, if individual patient requirements make dressings necessary, they may be used. Reapply immediately after hydrotherapy. Treatment with silver sulfadiazine cream, USP 1% should be continued until satisfactory healing has occurred or until the burn site is ready for grafting. The drug should not be withdrawn from the therapeutic regimen while there remains the possibility of infection except if a significant adverse reaction occurs.",
+    "indications_and_usage": "INDICATIONS AND USAGE Silver sulfadiazine cream, USP 1% is a topical antimicrobial drug indicated as an adjunct for the prevention and treatment of wound sepsis in patients with second and third degree burns."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA018810"
+    ],
+    "brand_name": [
+      "Silver Sulfadiazine"
+    ],
+    "generic_name": [
+      "SILVER SULFADIAZINE"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "63629-8773"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SILVER SULFADIAZINE"
+    ],
+    "rxcui": [
+      "106351"
+    ],
+    "spl_id": [
+      "f63c800f-63a1-498e-9814-28b41de0c3b2"
+    ],
+    "spl_set_id": [
+      "0084786a-09a3-4612-9afc-6733cc0cc56a"
+    ],
+    "package_ndc": [
+      "63629-8773-1"
+    ],
+    "original_packager_product_ndc": [
+      "67877-124"
+    ],
+    "nui": [
+      "N0000175503",
+      "M0020790"
+    ],
+    "pharm_class_epc": [
+      "Sulfonamide Antibacterial [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Sulfonamides [CS]"
+    ],
+    "unii": [
+      "W46JY43EJR"
+    ]
+  }
+}

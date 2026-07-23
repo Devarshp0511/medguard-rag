@@ -1,0 +1,57 @@
+{
+  "drug_name": "Phentolamine",
+  "drug_id": 1182,
+  "sections": {
+    "warnings_and_cautions": "5. WARNINGS AND PRECAUTIONS Myocardial infarction, cerebrovascular spasm, and cerebrovascular occlusion have been reported to occur following the intravenous or intramuscular administration of phentolamine, usually in association with marked hypotensive episodes or shock-like states which occasionally follow parenteral administration. Tachycardia and cardiac arrhythmiasmay occur with the use of phentolamine or other alpha-adrenergic blocking agents. ( 5.1 ) 5.1 Cardiovascular Events Myocardial infarction, cerebrovascular spasm, and cerebrovascular occlusion have been reported to occur following the parenteral administration of phentolamine. These events usually occurred in association with marked hypotensive episodes producing shock-like states. Tachycardia and cardiac arrhythmias may occur with the use of phentolamine or other alpha-adrenergic blocking agents. Although such effects are uncommon after administration of OraVerse, clinicians should be alert to the signs and symptoms of these events, particularly in patients with a prior history of cardiovascular disease.",
+    "drug_interactions": "7. DRUG INTERACTIONS There are no known drug interactions with OraVerse. 7.1 Lidocaine and Epinephrine When OraVerse was administered as an intraoral submucosal injection 30 minutes after injection of a local anesthetic, 2% lidocaine HCl with 1:100,000 epinephrine, the lidocaine concentration increased immediately after OraVerse intraoral injection. Lidocaine AUC and Cmax values were not affected by administration of OraVerse. OraVerse administration did not affect the PK of epinephrine.",
+    "contraindications": "4. CONTRAINDICATIONS OraVerse is contraindicated in patients with: Hypersensitivity to the active substance or to any ingredients in the formulation OraVerse is contraindicated in patients with: Hypersensitivity to the active substance or to any ingredients in the formulation. ( 4 )",
+    "dosage_and_administration": "2. DOSAGE AND ADMINISTRATION Amount of Local Anesthetic Administered Dose of OraVerse 1 / 4 Cartridge 1 / 4 Cartridge (0.1 mg) \u00bd Cartridge \u00bd Cartridge (0.2 mg) 1 Cartridge 1 Cartridge (0.4 mg) 2 Cartridges 2 Cartridges (0.8 mg) OraVerse is administered using the same location(s) and same technique(s) (infiltration or block injection) used for the administration of local anesthetic. ( 2.1 ) 2.1 General Dosing information The recommended dose of OraVerse is based on the number of cartridges of local anesthetic with vasoconstrictor administered: Amount of Local Anesthetic Administered Dose of OraVerse [mg] Dose of OraVerse [Cartridge(s)] 1 / 4 Cartridge 0.1 1 / 4 \u00bd Cartridge 0.2 \u00bd 1 Cartridge 0.4 1 2 Cartridges 0.8 2 OraVerse should be administered following the dental procedure using the same location(s) and technique(s) (infiltration or block injection) employed for the administration of the local anesthetic. Chemically disinfect the carpule cap by wiping with either isopropyl alcohol (91%) or ethyl alcohol (70%). Many commercially available brands of isopropyl (rubbing) alcohol, as well as solutions of ethyl alcohol not of U.S.P. grade, contain denaturants that are injurious to rubber and therefore are not to be used. Inspect carpules visually prior to administration and do not use if particulate matter, discoloration, cracks in the glass, protruding plungers or other defects are observed. Note: Do not administer OraVerse if particulate matter, discoloration, cracks in the glass, protruding plungers or other defects are observed. 2.2 Dosing in Special Populations In pediatric patients weighing between \u226515 kg and <30 kg, the maximum dose of OraVerse recommend is \u00bd cartridge (0.2 mg). (Note: Use in pediatric patients under 3years of age or weighing less than15 kg (33 lbs) is not recommended. A dose of more than 1 cartridge [0.4 mg] of OraVerse has not been studied in children less than 4 years of age.)",
+    "dosage_and_administration_table": "<table width=\"55%\"> <colgroup> <col width=\"60%\" align=\"center\" valign=\"top\"/> <col width=\"40%\" align=\"center\" valign=\"top\"/> </colgroup> <thead> <tr styleCode=\"First Last\"> <th styleCode=\"Lrule Rrule\" align=\"center\">Amount of Local Anesthetic Administered</th> <th styleCode=\"Rrule\" align=\"center\">Dose of OraVerse</th> </tr> </thead> <tbody> <tr styleCode=\"Botrule First\"> <td styleCode=\"Lrule Rrule\" align=\"center\"> <paragraph> <content> <sup>1</sup>/<sub>4</sub> Cartridge</content> </paragraph> </td> <td styleCode=\"Rrule\" align=\"center\"> <sup>1</sup>/<sub>4</sub> Cartridge (0.1 mg)</td> </tr> <tr styleCode=\"Botrule First\"> <td styleCode=\"Lrule Rrule\" align=\"center\"> <paragraph> <content>&#xBD; Cartridge</content> </paragraph> </td> <td styleCode=\"Rrule\" align=\"center\">&#xBD; Cartridge (0.2 mg)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"center\">1 Cartridge</td> <td styleCode=\"Rrule\" align=\"center\">1 Cartridge (0.4 mg)</td> </tr> <tr> <td styleCode=\"Lrule Rrule\" align=\"center\">2 Cartridges</td> <td styleCode=\"Rrule\" align=\"center\">2 Cartridges (0.8 mg)</td> </tr> </tbody> </table> <table width=\"100%\"> <colgroup> <col width=\"33%\" align=\"center\" valign=\"top\"/> <col width=\"34%\" align=\"center\" valign=\"top\"/> <col width=\"33%\" align=\"center\" valign=\"top\"/> </colgroup> <thead> <tr styleCode=\"First Last\"> <th styleCode=\"Lrule Rrule\" align=\"center\">Amount of Local Anesthetic Administered</th> <th styleCode=\"Rrule\" align=\"center\">Dose of OraVerse [mg]</th> <th styleCode=\"Rrule\" align=\"center\">Dose of OraVerse [Cartridge(s)]</th> </tr> </thead> <tbody> <tr styleCode=\"Botrule First\"> <td styleCode=\"Lrule Rrule\" align=\"center\"> <sup>1</sup>/<sub>4</sub> Cartridge</td> <td styleCode=\"Rrule\" align=\"center\">0.1</td> <td styleCode=\"Rrule\" align=\"center\"> <sup>1</sup>/<sub>4</sub> </td> </tr> <tr styleCode=\"Botrule First\"> <td styleCode=\"Lrule Rrule\" align=\"center\">&#xBD; Cartridge</td> <td styleCode=\"Rrule\" align=\"center\">0.2</td> <td styleCode=\"Rrule\" align=\"center\">&#xBD;</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"center\">1 Cartridge</td> <td styleCode=\"Rrule\" align=\"center\">0.4</td> <td styleCode=\"Rrule\" align=\"center\">1</td> </tr> <tr> <td styleCode=\"Lrule Rrule\" align=\"center\">2 Cartridges</td> <td styleCode=\"Rrule\" align=\"center\">0.8</td> <td styleCode=\"Rrule\" align=\"center\">2</td> </tr> </tbody> </table>",
+    "indications_and_usage": "1. INDICATONS AND USAGE OraVerse an alpha adrenergic blocker, is indicated for adult and pediatric patients ages 3 years and older for the reversal of soft-tissue anesthesia, i.e., anesthesia of the lip and tongue, and the associated functional deficits resulting from an intraoral submucosal injection of a local anesthetic containing a vasoconstrictor. OraVerse, an alpha adrenergic blocker, is indicated for adult and pediatric patients ages 3 years and older for the reversal of soft-tissue anesthesia, i.e., anesthesia of the lip and tongue, and the associated functional deficits resulting from an intraoral submucosal injection of a local anesthetic containing a vasoconstrictor. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA022159"
+    ],
+    "brand_name": [
+      "Oraverse"
+    ],
+    "generic_name": [
+      "PHENTOLAMINE MESYLATE"
+    ],
+    "manufacturer_name": [
+      "Septodont, Inc."
+    ],
+    "product_ndc": [
+      "0362-0101"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "SUBMUCOSAL"
+    ],
+    "substance_name": [
+      "PHENTOLAMINE MESYLATE"
+    ],
+    "rxcui": [
+      "1361019",
+      "1361021"
+    ],
+    "spl_id": [
+      "f0465990-acce-46dc-9290-344dab1e4f2f"
+    ],
+    "spl_set_id": [
+      "4025cf98-ea87-4531-b0fc-6283c84f63f3"
+    ],
+    "package_ndc": [
+      "0362-0101-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "Y7543E5K9T"
+    ]
+  }
+}

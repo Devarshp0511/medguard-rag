@@ -1,0 +1,54 @@
+{
+  "drug_name": "Orphenadrine",
+  "drug_id": 1174,
+  "sections": {
+    "warnings": "WARNINGS Some patients may experience transient episodes of light-headedness, dizziness or syncope. Orphenadrine may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or driving a motor vehicle; ambulatory patients should therefore be cautioned accordingly.",
+    "contraindications": "CONTRAINDICATIONS Orphenadrine citrate extended-release tablets are contraindicated in patients with glaucoma, pyloric or duodenal obstruction, stenosing peptic ulcers, prostatic hypertrophy or obstruction of the bladder neck, cardio-spasm (mega-esophagus) and myasthenia gravis. Orphenadrine citrate tablets are contraindicated in patients who have demonstrated a previous hypersensitivity to the drug.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Adults Two tablets per day; one in the morning and one in the evening.",
+    "indications_and_usage": "INDICATIONS AND USAGE Orphenadrine citrate extended-release tablets are indicated as an adjunct to rest, physical therapy, and other measures for the relief of discomfort associated with acute painful musculoskeletal conditions."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA040284"
+    ],
+    "brand_name": [
+      "ORPHENADRINE CITRATE"
+    ],
+    "generic_name": [
+      "ORPHENADRINE CITRATE"
+    ],
+    "manufacturer_name": [
+      "Northwind Health Company, LLC"
+    ],
+    "product_ndc": [
+      "82868-040"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ORPHENADRINE CITRATE"
+    ],
+    "rxcui": [
+      "994521"
+    ],
+    "spl_id": [
+      "47f8f308-ca39-d280-e063-6394a90a49e9"
+    ],
+    "spl_set_id": [
+      "106be130-b4f8-5ca1-e063-6294a90a1590"
+    ],
+    "package_ndc": [
+      "82868-040-14"
+    ],
+    "original_packager_product_ndc": [
+      "43386-480"
+    ],
+    "unii": [
+      "X0A40N8I4S"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "drug_name": "Cetirizine",
+  "drug_id": 505,
+  "sections": {
+    "warnings": "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding if breast-feeding: not recommended if pregnant: ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "dosage_and_administration": "Directions may be taken with or without water chew or crush tablets completely before swallowing children 2 to under 6 years of age Chew and swallow 1 tablet (2.5 mg) once daily; If needed, dose can be increased to a maximum of 2 tablets (5 mg) once daily or 1 tablet (2.5 mg) every 12 hours. Do not give more than 2 tablets (5 mg) in 24 hours. adults and children 6 years and over Chew and swallow 2 tablets (5 mg) or 4 tablets (10 mg) once daily depending upon severity of symptoms; do not take more than 4 tablets (10 mg) in 24 hours. adults 65 years and over Chew and swallow 2 tablets (5 mg) once daily; do not take more than 2 tablets (5 mg) in 24 hours. children under 2 years of age ask a doctor consumers with liver or kidney disease ask a doctor",
+    "dosage_and_administration_table": "<table width=\"50%\" styleCode=\"Noautorules\"><colgroup><col align=\"left\" valign=\"top\" width=\"50%\"/><col align=\"left\" valign=\"top\" width=\"50%\"/></colgroup><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Toprule Rrule\">children 2 to under 6 years of age</td><td styleCode=\"Toprule\">Chew and swallow 1 tablet (2.5 mg) once daily; If needed, dose can be increased to a maximum of 2 tablets (5 mg) once daily or 1 tablet (2.5 mg) every 12 hours. Do not give more than 2 tablets (5 mg) in 24 hours.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">adults and children 6 years and over</td><td>Chew and swallow 2 tablets (5 mg) or 4 tablets (10 mg) once daily depending upon severity of symptoms; do not take more than 4 tablets (10 mg) in 24 hours.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">adults 65 years and over</td><td>Chew and swallow 2 tablets (5 mg) once daily; do not take more than 2 tablets (5 mg) in 24 hours.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children under 2 years of age</td><td>ask a doctor</td></tr><tr><td styleCode=\"Rrule\">consumers with liver or kidney disease</td><td>ask a doctor</td></tr></tbody></table>",
+    "indications_and_usage": "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA021621"
+    ],
+    "brand_name": [
+      "Childrens Zyrtec"
+    ],
+    "generic_name": [
+      "CETIRIZINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Kenvue Brands LLC"
+    ],
+    "product_ndc": [
+      "50580-790"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CETIRIZINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "2558501",
+      "2558503"
+    ],
+    "spl_id": [
+      "322eb217-089d-e92d-e063-6394a90a6566"
+    ],
+    "spl_set_id": [
+      "013ce40e-37c9-4b84-b530-ed895f60ce0e"
+    ],
+    "package_ndc": [
+      "50580-790-01",
+      "50580-790-02",
+      "50580-790-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0300450239129"
+    ],
+    "unii": [
+      "64O047KTOA"
+    ]
+  }
+}

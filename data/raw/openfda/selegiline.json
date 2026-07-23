@@ -1,0 +1,55 @@
+{
+  "drug_name": "Selegiline",
+  "drug_id": 348,
+  "sections": {
+    "warnings": "WARNINGS Selegiline should not be used at daily doses exceeding those recommended (10 mg/day) because of the risks associated with non-selective inhibition of MAO. (See CLINICAL PHARMACOLOGY .) The selectivity of selegiline for MAO B may not be absolute even at the recommended daily dose of 10 mg a day. Rare cases of hypertensive reactions associated with ingestion of tyramine-containing foods have been reported in patients taking the recommended daily dose of selegiline. The selectivity is further diminished with increasing daily doses. The precise dose at which selegiline becomes a non-selective inhibitor of all MAO is unknown, but may be in the range of 30 to 40 mg a day. Severe CNS toxicity associated with hyperpyrexia and death have been reported with the combination of tricyclic antidepressants and non-selective MAOIs (Phenelzine, Tranylcypromine). A similar reaction has been reported for a patient on amitriptyline and selegiline. Another patient receiving protriptyline and selegiline developed tremors, agitation, and restlessness followed by unresponsiveness and death two weeks after selegiline was added. Related adverse events including hypertension, syncope, asystole, diaphoresis, seizures, changes in behavioral and mental status, and muscular rigidity have also been reported in some patients receiving selegiline and various tricyclic antidepressants. Serious, sometimes fatal, reactions with signs and symptoms that may include hyperthermia, rigidity, myoclonus, autonomic instability with rapid fluctuations of the vital signs, and mental status changes that include extreme agitation progressing to delirium and coma have been reported with patients receiving a combination of fluoxetine hydrochloride and non-selective MAOIs. Similar signs have been reported in some patients on the combination of selegiline (10 mg a day) and selective serotonin reuptake inhibitors including fluoxetine, sertraline and paroxetine. Since the mechanisms of these reactions are not fully understood, it seems prudent, in general, to avoid this combination of selegiline and tricyclic antidepressants as well as selegiline and selective serotonin reuptake inhibitors. At least 14 days should elapse between discontinuation of selegiline and initiation of treatment with a tricyclic antidepressant or selective serotonin reuptake inhibitors. Because of the long half lives of fluoxetine and its active metabolite, at least five weeks (perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses) should elapse between discontinuation of fluoxetine and initiation of treatment with selegiline.",
+    "drug_interactions": "Drug Interactions The occurrence of stupor, muscular rigidity, severe agitation, and elevated temperature has been reported in some patients receiving the combination of selegiline and meperidine. Symptoms usually resolve over days when the combination is discontinued. This is typical of the interaction of meperidine and MAOIs. Other serious reactions (including severe agitation, hallucinations, and death) have been reported in patients receiving this combination (see CONTRAINDICATIONS ). Severe toxicity has also been reported in patients receiving the combination of tricyclic antidepressants and selegiline and selective serotonin reuptake inhibitors and selegiline. (See WARNINGS for details.) One case of hypertensive crisis has been reported in a patient taking the recommended doses of selegiline and a sympathomimetic medication (ephedrine).",
+    "contraindications": "CONTRAINDICATIONS Selegiline hydrochloride is contraindicated in patients with a known hypersensitivity to this drug. Selegiline is contraindicated for use with meperidine. This contraindication is often extended to other opioids. (See Drug Interactions .)",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Selegiline hydrochloride tablets USP are intended for administration to Parkinsonian patients receiving levodopa/carbidopa therapy who demonstrate a deteriorating response to this treatment. The recommended regimen for the administration of Selegiline Hydrochloride Tablets USP is 10 mg per day administered as divided doses of 5 mg each taken at breakfast and lunch. There is no evidence that additional benefit will be obtained from the administration of higher doses. Moreover, higher doses should ordinarily be avoided because of the increased risk of side effects. After two to three days of selegiline treatment, an attempt may be made to reduce the dose of levodopa/carbidopa. A reduction of 10 to 30% was achieved with the typical participant in the domestic placebo controlled trials who was assigned to selegiline treatment. Further reductions of levodopa/carbidopa may be possible during continued selegiline therapy.",
+    "indications_and_usage": "INDICATIONS AND USAGE Selegiline Hydrochloride Tablets USP are indicated as an adjunct in the management of Parkinsonian patients being treated with levodopa/carbidopa who exhibit deterioration in the quality of their response to this therapy. There is no evidence from controlled studies that selegiline has any beneficial effect in the absence of concurrent levodopa therapy. Evidence supporting this claim was obtained in randomized controlled clinical investigations that compared the effects of added selegiline or placebo in patients receiving levodopa/carbidopa. Selegiline was significantly superior to placebo on all three principal outcome measures employed: change from baseline in daily levodopa/carbidopa dose, the amount of 'off' time, and patient self-rating of treatment success. Beneficial effects were also observed on other measures of treatment success (e.g., measures of reduced end of dose akinesia, decreased tremor and sialorrhea, improved speech and dressing ability and improved overall disability as assessed by walking and comparison to previous state)."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA074871"
+    ],
+    "brand_name": [
+      "Selegiline Hydrochloride"
+    ],
+    "generic_name": [
+      "SELEGILINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Golden State Medical Supply, Inc."
+    ],
+    "product_ndc": [
+      "60429-176"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SELEGILINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "859193"
+    ],
+    "spl_id": [
+      "445cd6b2-2a0f-5f90-e063-6294a90ab877"
+    ],
+    "spl_set_id": [
+      "040a97e5-efd1-4a2f-b737-2f13e5366d70"
+    ],
+    "package_ndc": [
+      "60429-176-60"
+    ],
+    "original_packager_product_ndc": [
+      "60505-3438"
+    ],
+    "unii": [
+      "6W731X367Q"
+    ]
+  }
+}

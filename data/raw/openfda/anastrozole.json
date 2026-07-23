@@ -1,0 +1,71 @@
+{
+  "drug_name": "Anastrozole",
+  "drug_id": 418,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS In women with pre-existing ischemic heart disease, an increased incidence of ischemic cardiovascular events occurred with anastrozole use compared to tamoxifen use. Consider risks and benefits. ( 5.1 , 6.1 ) Decreases in bone mineral density may occur. Consider bone mineral density monitoring. ( 5.2 , 6.1 ) Increases in total cholesterol may occur. Consider cholesterol monitoring. ( 5.3 , 6.1 ) Embryo-Fetal Toxicity: Anastrozole may cause fetal harm. Advise patients of the potential risk to a fetus and to use effective contraception. ( 5.4 , 8.1 ) 5.1 Ischemic Cardiovascular Events In women with pre-existing ischemic heart disease, an increased incidence of ischemic cardiovascular events was observed with anastrozole in the ATAC trial (17% of patients on anastrozole and 10% of patients on tamoxifen). Consider risk and benefits of anastrozole therapy in patients with pre-existing ischemic heart disease [see Adverse Reactions ( 6.1 )]. 5.2 Bone Effects Results from the ATAC trial bone substudy at 12 and 24 months demonstrated that patients receiving anastrozole had a mean decrease in both lumbar spine and total hip bone mineral density (BMD) compared to baseline. Patients receiving tamoxifen had a mean increase in both lumbar spine and total hip BMD compared to baseline. Consider bone mineral density monitoring in patients treated with anastrozole [see Adverse Reactions ( 6.1 )] . 5.3 Cholesterol During the ATAC trial, more patients receiving anastrozole were reported to have elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively) [see Adverse Reactions ( 6.1 )]. 5.4 Embryo-Fetal Toxicity Based on findings from animal studies and its mechanism of action, anastrozole can cause fetal harm when administered to a pregnant woman. Anastrozole caused embryo-fetal toxicities in rats at maternal exposure that were 9 times the human clinical exposure, based on area under the curve (AUC). In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 16 times the recommended human dose on a mg/m 2 basis. Advise pregnant women and females of reproductive potential of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during therapy with anastrozole and for at least 3 weeks after the last dose [see Use in Specific Populations ( 8.1 , 8.3 ) and Clinical Pharmacology ( 12.1 )].",
+    "drug_interactions": "7 DRUG INTERACTIONS Tamoxifen: Do not use in combination with anastrozole. No additional benefit seen over tamoxifen monotherapy ( 7.1 , 14.1 ). Estrogen-containing products: Combination use may diminish activity of anastrozole ( 7.2 ). 7.1 Tamoxifen Co-administration of anastrozole and tamoxifen in breast cancer patients reduced anastrozole plasma concentration by 27%. However, the co-administration of anastrozole and tamoxifen did not affect the pharmacokinetics of tamoxifen or N-desmethyltamoxifen. At a median follow-up of 33 months, the combination of anastrozole and tamoxifen did not demonstrate any efficacy benefit when compared with tamoxifen in all patients as well as in the hormone receptor-positive subpopulation. This treatment arm was discontinued from the trial. [see Clinical Studies ( 14.1 )] . Based on clinical and pharmacokinetic results from the ATAC trial, tamoxifen should not be administered with anastrozole. 7.2 Estrogen Estrogen-containing therapies should not be used with anastrozole as they may diminish its pharmacological action. 7.3 Warfarin In a study conducted in 16 male volunteers, anastrozole did not alter the exposure (as measured by C max and AUC), and anticoagulant activity (as measured by prothrombin time, activated partial thromboplastin time, and thrombin time) of both R- and S-warfarin. 7.4 Cytochrome P450 Based on in vitro and in vivo results, it is unlikely that co-administration of anastrozole 1 mg will affect other drugs as a result of inhibition of cytochrome P450 [see Clinical Pharmacology ( 12.3 )].",
+    "contraindications": "4 CONTRAINDICATIONS Hypersensitivity Anastrozole is contraindicated in any patient who has shown a hypersensitivity reaction to the drug or to any of the excipients. Observed reactions include anaphylaxis, angioedema, and urticaria [see Adverse Reactions ( 6.2 )]. Patients with demonstrated hypersensitivity to anastrozole or any excipient ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION One 1 mg tablet taken once daily ( 2.1 ) 2.1 Recommended Dose The dose of anastrozole tablet is one 1 mg tablet taken once a day. For patients with advanced breast cancer, anastrozole tablets should be continued until tumor progression. Anastrozole tablets can be taken with or without food. For adjuvant treatment of early breast cancer in postmenopausal women, the optimal duration of therapy is unknown. In the ATAC trial, anastrozole was administered for five years [see Clinical Studies ( 14.1 )]. No dosage adjustment is necessary for patients with renal impairment or for elderly patients [see Use in Specific Populations ( 8.6 )]. 2.2 Patients with Hepatic Impairment No changes in dose are recommended for patients with mild-to-moderate hepatic impairment. Anastrozole has not been studied in patients with severe hepatic impairment [see Use in Specific Populations ( 8.7 )].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Anastrozole is an aromatase inhibitor indicated for: Adjuvant treatment of postmenopausal women with hormone receptor-positive early breast cancer ( 1.1 ) First-line treatment of postmenopausal women with hormone receptor-positive or hormone receptor unknown locally advanced or metastatic breast cancer ( 1.2 ) Treatment of advanced breast cancer in postmenopausal women with disease progression following tamoxifen therapy. Patients with ER-negative disease and patients who did not respond to previous tamoxifen therapy rarely responded to anastrozole ( 1.3 ) 1.1 Adjuvant Treatment Anastrozole tablets are indicated for adjuvant treatment of postmenopausal women with hormone receptor-positive early breast cancer. 1.2 First-Line Treatment Anastrozole tablets are indicated for the first-line treatment of postmenopausal women with hormone receptor-positive or hormone receptor unknown locally advanced or metastatic breast cancer. 1.3 Second-Line Treatment Anastrozole tablets are indicated for the treatment of advanced breast cancer in postmenopausal women with disease progression following tamoxifen therapy. Patients with ER-negative disease and patients who did not respond to previous tamoxifen therapy rarely responded to anastrozole tablets."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA090568"
+    ],
+    "brand_name": [
+      "Anastrozole"
+    ],
+    "generic_name": [
+      "ANASTROZOLE"
+    ],
+    "manufacturer_name": [
+      "Accord Healthcare Inc."
+    ],
+    "product_ndc": [
+      "16729-035"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ANASTROZOLE"
+    ],
+    "rxcui": [
+      "199224"
+    ],
+    "spl_id": [
+      "4a900d2c-12d3-6bfa-e063-6294a90af009"
+    ],
+    "spl_set_id": [
+      "03586c40-eb32-45c5-beb7-6762a6b78790"
+    ],
+    "package_ndc": [
+      "16729-035-10",
+      "16729-035-15",
+      "16729-035-16",
+      "16729-035-17"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0316729035101"
+    ],
+    "nui": [
+      "N0000175563",
+      "N0000175080"
+    ],
+    "pharm_class_epc": [
+      "Aromatase Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Aromatase Inhibitors [MoA]"
+    ],
+    "unii": [
+      "2Z07MYW1AZ"
+    ]
+  }
+}

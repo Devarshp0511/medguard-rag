@@ -1,0 +1,58 @@
+{
+  "drug_name": "Lusutrombopag",
+  "drug_id": 151,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Thrombotic/Thromboembolic Complications: MULPLETA is a thrombopoietin (TPO) receptor agonist, and TPO receptor agonists have been associated with thrombotic and thromboembolic complications in patients with chronic liver disease. Monitor platelet counts and for thromboembolic events and institute treatment promptly. ( 5.1 ) 5.1 Thrombotic/Thromboembolic Complications MULPLETA is a thrombopoietin (TPO) receptor agonist, and TPO receptor agonists have been associated with thrombotic and thromboembolic complications in patients with chronic liver disease. Portal vein thrombosis has been reported in patients with chronic liver disease treated with TPO receptor agonists. Portal vein thrombosis was reported in 1% (2 of 171) of MULPLETA-treated patients and 1% (2 of 170) of placebo-treated patients in 3 randomized, double-blind trials and was identified post-procedure in protocol-specified imaging. The thromboses were not associated with a marked increase in platelet count. Consider the potential increased thrombotic risk when administering MULPLETA to patients with known risk factors for thromboembolism, including genetic pro-thrombotic conditions (Factor V Leiden, Prothrombin 20210A, Antithrombin deficiency, or Protein C or S deficiency). In patients with ongoing or prior thrombosis or absence of hepatopetal blood flow, MULPLETA should only be used if the potential benefit to the patient justifies the potential risk. MULPLETA should not be administered to patients with chronic liver disease in an attempt to normalize platelet counts.",
+    "contraindications": "4 CONTRAINDICATIONS None. None.",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Begin MULPLETA dosing 8-14 days prior to a scheduled procedure. ( 2.1 ) Patients should undergo their procedure 2-8 days after the last dose. ( 2.1 ) Recommended Dosage: 3 mg orally once daily with or without food for 7 days. ( 2.1 ) 2.1 Recommended Dosage Begin MULPLETA dosing 8-14 days prior to a scheduled procedure. Patients should undergo their procedure 2-8 days after the last dose. The recommended dosage of MULPLETA is 3 mg taken orally once daily with or without food for 7 days. In the case of a missed dose of MULPLETA, patients should take the missed dose as soon as possible on the same day and return to the normal schedule the following day. MULPLETA has been investigated only as a single 7-day once daily dosing regimen in clinical trials in patients with chronic liver disease [see Clinical Studies (14) ] . MULPLETA should not be administered to patients with chronic liver disease in an attempt to normalize platelet counts. 2.2 Monitoring Obtain a platelet count prior to initiation of MULPLETA therapy and not more than 2 days before the procedure.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE MULPLETA is indicated for the treatment of thrombocytopenia in adult patients with chronic liver disease who are scheduled to undergo a procedure. MULPLETA is a thrombopoietin receptor agonist indicated for the treatment of thrombocytopenia in adult patients with chronic liver disease who are scheduled to undergo a procedure. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA210923"
+    ],
+    "brand_name": [
+      "Mulpleta"
+    ],
+    "generic_name": [
+      "LUSUTROMBOPAG"
+    ],
+    "manufacturer_name": [
+      "Eddingpharm (U. S. ) Inc."
+    ],
+    "product_ndc": [
+      "85320-551"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LUSUTROMBOPAG"
+    ],
+    "rxcui": [
+      "2054989",
+      "2054995"
+    ],
+    "spl_id": [
+      "450774dd-f9dc-b934-e063-6294a90a9a6e"
+    ],
+    "spl_set_id": [
+      "3f6b72db-3abc-4169-9bee-8dc3078357e6"
+    ],
+    "package_ndc": [
+      "85320-551-07"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0385320551075"
+    ],
+    "unii": [
+      "6LL5JFU42F"
+    ]
+  }
+}

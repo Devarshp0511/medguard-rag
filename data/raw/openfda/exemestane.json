@@ -1,0 +1,65 @@
+{
+  "drug_name": "Exemestane",
+  "drug_id": 1378,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Reductions in bone mineral density (BMD) over time are seen with exemestane use ( 5.1 ). Routine assessment of 25-hydroxy vitamin D levels prior to the start of aromatase inhibitor treatment should be performed ( 5.2 ). Embryo-Fetal Toxicity: Can cause fetal harm. Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception ( 5.6 , 8.1 , 8.3 ). 5.1 Reductions in Bone Mineral Density (BMD) Reductions in bone mineral density (BMD) over time are seen with exemestane use. Table 1 describes changes in BMD from baseline to 24 months in patients receiving exemestane compared to patients receiving tamoxifen (IES) or placebo (027). Concomitant use of bisphosphonates, vitamin D supplementation, and calcium was not allowed. Table 1. Percent Change in BMD from Baseline to 24 months, Exemestane vs. Control 1 IES 027 BMD Exemestane N=29 Tamoxifen 1 N=38 Exemestane N=59 Placebo 1 N=65 Lumbar spine (%) -3.1 -0.2 -3.5 -2.4 Femoral neck (%) -4.2 -0.3 -4.6 -2.6 During adjuvant treatment with exemestane, women with osteoporosis or at risk of osteoporosis should have their bone mineral density formally assessed by bone densitometry at the commencement of treatment. Monitor patients for bone mineral density loss and treat as appropriate. 5.2 Vitamin D Assessment Routine assessment of 25-hydroxy vitamin D levels prior to the start of aromatase inhibitor treatment should be performed, due to the high prevalence of vitamin D deficiency in women with early breast cancer (EBC). Women with vitamin D deficiency should receive supplementation with vitamin D. 5.3 Administration with Estrogen-Containing Agents Exemestane tablets should not be coadministered with systemic estrogen-containing agents as these could interfere with its pharmacologic action. 5.4 Laboratory Abnormalities In patients with early breast cancer, the incidence of hematological abnormalities of Common Toxicity Criteria (CTC) grade \u22651 was lower in the exemestane treatment group, compared with tamoxifen. Incidence of CTC grade 3 or 4 abnormalities was low (approximately 0.1%) in both treatment groups. Approximately 20% of patients receiving exemestane in clinical studies in advanced breast cancer experienced CTC grade 3 or 4 lymphocytopenia. Of these patients, 89% had a pre-existing lower grade lymphopenia. Forty percent of patients either recovered or improved to a lesser severity while on treatment. Patients did not have a significant increase in viral infections, and no opportunistic infections were observed. Elevations of serum levels of AST, ALT, alkaline phosphatase, and gamma glutamyl transferase >5 times the upper value of the normal range (i.e., \u2265 CTC grade 3) have been rarely reported in patients treated for advanced breast cancer but appear mostly attributable to the underlying presence of liver and/or bone metastases. In the comparative study in advanced breast cancer patients, CTC grade 3 or 4 elevation of gamma glutamyl transferase without documented evidence of liver metastasis was reported in 2.7% of patients treated with exemestane tablets and in 1.8% of patients treated with megestrol acetate. In patients with early breast cancer, elevations in bilirubin, alkaline phosphatase, and creatinine were more common in those receiving exemestane than either tamoxifen or placebo. Treatment-emergent bilirubin elevations (any CTC grade) occurred in 5% of exemestane patients and 0.8% of tamoxifen patients on the Intergroup Exemestane Study (IES), and in 7% of exemestane treated patients vs. 0% of placebo treated patients in the 027 study. CTC grade 3\u20134 increases in bilirubin occurred in 0.9% of exemestane treated patients compared to 0.1% of tamoxifen treated patients. Alkaline phosphatase elevations of any CTC grade occurred in 15% of exemestane treated patients on the IES compared to 2.6% of tamoxifen treated patients, and in 14% of exemestane treated patients compared to 7% of placebo treated patients in study 027. Creatinine elevations occurred in 6% of exemestane treated patients and 4.3% of tamoxifen treated patients on the IES and in 6% of exemestane treated patients and 0% of placebo treated patients in study 027. 5.5 Use in Premenopausal Women Exemestane tablets are not indicated for the treatment of breast cancer in premenopausal women. 5.6 Embryo-Fetal Toxicity Based on findings from animal studies and its mechanism of action, exemestane tablets can cause fetal harm when administered to a pregnant woman. In animal reproduction studies, administration of exemestane to pregnant rats and rabbits caused increased incidence of abortions and embryo-fetal toxicity. Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with exemestane tablets and for 1 month after the last dose [see Use in Specific Populations (8.1) , (8.3) and Clinical Pharmacology (12.1) ] .",
+    "drug_interactions": "7 DRUG INTERACTIONS Strong CYP 3A4 inducers: Concomitant use of strong CYP 3A4 inducers decreases exemestane exposure. Increase the exemestane tablets dose to 50 mg ( 2.2 , 7 ). Drugs That Induce CYP 3A4 Co-medications that induce CYP 3A4 (e.g., rifampicin, phenytoin, carbamazepine, phenobarbital, or St. John's Wort) may significantly decrease exposure to exemestane. Dose modification is recommended for patients who are also receiving a strong CYP 3A4 inducer [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3) ] .",
+    "contraindications": "4 CONTRAINDICATIONS Exemestane tablets are contraindicated in patients with a known hypersensitivity to the drug or to any of the excipients. Patients with a known hypersensitivity to the drug or to any of the excipients ( 4 ).",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Recommended Dose: One 25 mg tablet once daily after a meal ( 2.1 ). 2.1 Recommended Dose The recommended dose of exemestane tablets in early and advanced breast cancer is one 25 mg tablet once daily after a meal. adjuvant treatment of postmenopausal women with estrogen-receptor positive early breast cancer who have received two to three years of tamoxifen and are switched to exemestane tablets for completion of a total of five consecutive years of adjuvant hormonal therapy. the treatment of advanced breast cancer in postmenopausal women whose disease has progressed following tamoxifen therapy. 2.2 Dose Modifications Concomitant use of strong CYP 3A4 inducers decreases exemestane exposure. For patients receiving exemestane tablets with a strong CYP 3A4 inducer such as rifampicin or phenytoin, the recommended dose of exemestane tablets is 50 mg once daily after a meal [see Drug Interactions (7) and Clinical Pharmacology (12.3) ].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Exemestane tablets are an aromatase inhibitor indicated for: adjuvant treatment of postmenopausal women with estrogen-receptor positive early breast cancer who have received two to three years of tamoxifen and are switched to exemestane tablets for completion of a total of five consecutive years of adjuvant hormonal therapy ( 14.1 ). treatment of advanced breast cancer in postmenopausal women whose disease has progressed following tamoxifen therapy ( 14.2 ). 1.1 Adjuvant Treatment of Postmenopausal Women Exemestane tablets are indicated for adjuvant treatment of postmenopausal women with estrogen-receptor positive early breast cancer who have received two to three years of tamoxifen and are switched to exemestane tablets for completion of a total of five consecutive years of adjuvant hormonal therapy [see Clinical Studies (14.1) ]. 1.2 Advanced Breast Cancer in Postmenopausal Women Exemestane tablets are indicated for the treatment of advanced breast cancer in postmenopausal women whose disease has progressed following tamoxifen therapy [see Clinical Studies (14.2) ]."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA211031"
+    ],
+    "brand_name": [
+      "Exemestane"
+    ],
+    "generic_name": [
+      "EXEMESTANE"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "63629-2056"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "EXEMESTANE"
+    ],
+    "rxcui": [
+      "310261"
+    ],
+    "spl_id": [
+      "24b13a97-81f9-47f1-8c49-64e63ea12bd4"
+    ],
+    "spl_set_id": [
+      "1841ec12-3f4f-4b87-b719-fd0b4d9eaffb"
+    ],
+    "package_ndc": [
+      "63629-2056-1"
+    ],
+    "original_packager_product_ndc": [
+      "51991-005"
+    ],
+    "nui": [
+      "N0000175563",
+      "N0000175080"
+    ],
+    "pharm_class_epc": [
+      "Aromatase Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Aromatase Inhibitors [MoA]"
+    ],
+    "unii": [
+      "NY22HMQ4BX"
+    ]
+  }
+}

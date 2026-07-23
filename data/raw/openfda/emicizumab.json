@@ -1,0 +1,77 @@
+{
+  "drug_name": "Emicizumab",
+  "drug_id": 375,
+  "sections": {
+    "boxed_warning": "WARNING: THROMBOTIC MICROANGIOPATHY AND THROMBOEMBOLISM Cases of thrombotic microangiopathy and thrombotic events were reported when on average a cumulative amount of >100 U/kg/24 hours of activated prothrombin complex concentrate was administered for 24 hours or more to patients receiving HEMLIBRA prophylaxis. Monitor for the development of thrombotic microangiopathy and thrombotic events if aPCC is administered. Discontinue aPCC and suspend dosing of HEMLIBRA if symptoms occur. WARNING: THROMBOTIC MICROANGIOPATHY and THROMBOEMBOLISM See full prescribing information for complete boxed warning. Cases of thrombotic microangiopathy and thrombotic events were reported when on average a cumulative amount of >100 U/kg/24 hours of activated prothrombin complex concentrate (aPCC) was administered for 24 hours or more to patients receiving HEMLIBRA prophylaxis. Monitor for the development of thrombotic microangiopathy and thrombotic events if aPCC is administered. Discontinue aPCC and suspend dosing of HEMLIBRA if symptoms occur.",
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Immunogenicity: Anti-emicizumab antibodies (including neutralizing antibodies) have developed in HEMLIBRA-treated patients. In case of clinical signs of loss of efficacy, promptly assess the etiology and consider a change in treatment if neutralizing antibodies are suspected. ( 5.3 , 12.6 , 14.3 ) Laboratory Coagulation Test Interference: HEMLIBRA interferes with activated clotting time (ACT), activated partial thromboplastin time (aPTT), and coagulation laboratory tests based on aPTT, including one-stage aPTT-based single-factor assays, aPTT-based Activated Protein C Resistance (APC-R), and Bethesda assays (clotting-based) for factor VIII (FVIII) inhibitor titers. Intrinsic pathway clotting-based laboratory tests should not be used. ( 5.4 , 7.2 ) 5.1 Thrombotic Microangiopathy Associated with HEMLIBRA and aPCC Cases of thrombotic microangiopathy (TMA) were reported from clinical trials when on average a cumulative amount of >100 U/kg/24 hours of activated prothrombin complex concentrate (aPCC) was administered for 24 hours or more to patients receiving HEMLIBRA prophylaxis. In clinical trials, thrombotic microangiopathy was reported in 0.8% of patients (3/391) and in 8.1% of patients (3/37) who received at least one dose of aPCC. Patients presented with thrombocytopenia, microangiopathic hemolytic anemia, and acute kidney injury, without severe deficiencies in ADAMTS13 activity. Evidence of improvement was seen within one week following discontinuation of aPCC. One patient resumed HEMLIBRA following resolution of TMA. Consider the benefits and risks if aPCC must be used in a patient receiving HEMLIBRA prophylaxis. Due to the long half-life of HEMLIBRA, the potential for an interaction with aPCC may persist for up to 6 months after the last dose. Monitor for the development of TMA when administering aPCC. Immediately discontinue aPCC and interrupt HEMLIBRA prophylaxis if clinical symptoms and/or laboratory findings consistent with TMA occur, and manage as clinically indicated. Consider the benefits and risks of resuming HEMLIBRA prophylaxis following complete resolution of TMA on a case-by-case basis. 5.2 Thromboembolism Associated with HEMLIBRA and aPCC Thrombotic events were reported from clinical trials when on average a cumulative amount of >100 U/kg/24 hours of aPCC was administered for 24 hours or more to patients receiving HEMLIBRA prophylaxis. In clinical trials, thrombotic events were reported in 0.5% of patients (2/391) and in 5.4% of patients (2/37) who received at least one dose of aPCC. No thrombotic event required anticoagulation therapy. Evidence of improvement or resolution was seen within one month following discontinuation of aPCC. One patient resumed HEMLIBRA following resolution of thrombotic event. Consider the benefits and risks if aPCC must be used in a patient receiving HEMLIBRA prophylaxis. Due to the long half-life of HEMLIBRA, the potential for an interaction with aPCC may persist for up to 6 months after the last dose. Monitor for the development of thromboembolism when administering aPCC. Immediately discontinue aPCC and interrupt HEMLIBRA prophylaxis if clinical symptoms, imaging, or laboratory findings consistent with thromboembolism occur, and manage as clinically indicated. Consider the benefits and risks of resuming HEMLIBRA prophylaxis following complete resolution of thrombotic events on a case-by-case basis. 5.3 Immunogenicity Treatment with HEMLIBRA may induce anti-drug antibodies. Anti-emicizumab-kxwh antibodies were reported in 5.1% of patients (34/668) treated with HEMLIBRA in clinical trials. Most patients with anti-emicizumab-kxwh antibodies did not experience a change in HEMLIBRA plasma concentrations or an increase in bleeding events; however, in uncommon cases (incidence < 1%), the presence of neutralizing antibodies with decreasing plasma concentration may be associated with loss of efficacy [see Clinical Pharmacology (12.6) , Clinical Studies (14.3) ] . Monitor for clinical signs of loss of efficacy (e.g., increase in breakthrough bleeding events) and if observed, promptly assess the etiology and consider a change in treatment if neutralizing anti-emicizumab-kxwh antibodies are suspected. 5.4 Laboratory Coagulation Test Interference HEMLIBRA affects intrinsic pathway clotting-based laboratory tests, including activated clotting time (ACT), activated partial thromboplastin time (aPTT), and all assays based on aPTT, such as one-stage factor VIII (FVIII) activity ( Table 1 ). Therefore, intrinsic pathway clotting-based laboratory test results in patients treated with HEMLIBRA should not be used to monitor HEMLIBRA activity, determine dosing for factor replacement or anti-coagulation, or measure FVIII inhibitor titers [see Drug Interactions (7.2) ]. Laboratory tests affected and unaffected by HEMLIBRA are shown in Table 1 . Table 1 Coagulation Test Results Affected and Unaffected by HEMLIBRA Results Affected by HEMLIBRA Results Unaffected by HEMLIBRA Activated partial thromboplastin time (aPTT) Bethesda assays (clotting-based) for FVIII inhibitor titers One-stage, aPTT-based, single-factor assays aPTT-based Activated Protein C Resistance (APC-R) Activated clotting time (ACT) Bethesda assays (bovine chromogenic) for FVIII inhibitor titers Thrombin time (TT) One-stage, prothrombin time (PT)-based, single-factor assays Chromogenic-based single-factor assays other than FVIII For important considerations regarding FVIII chromogenic activity assays, see Drug Interactions (7.2) . Immuno-based assays (i.e., ELISA, turbidimetric methods) Genetic tests of coagulation factors (e.g., Factor V Leiden, Prothrombin 20210)",
+    "drug_interactions": "7 DRUG INTERACTIONS 7.1 Hypercoagulability with Concomitant Use of aPCC Clinical experience suggests that a drug interaction exists with HEMLIBRA and aPCC [see Warnings and Precautions (5.1 , 5.2) ] . 7.2 Drug-Laboratory Test Interactions HEMLIBRA restores the tenase cofactor activity of missing activated factor VIII (FVIIIa). Coagulation laboratory tests based on intrinsic clotting (i.e., aPTT) measure the total clotting time including time needed for activation of FVIII to FVIIIa by thrombin. Such intrinsic pathway-based tests will yield overly shortened clotting times with HEMLIBRA, which does not require activation by thrombin. The overly shortened intrinsic clotting time will then disturb all single-factor assays based on aPTT, such as the one-stage FVIII activity assay; however, single-factor assays utilizing chromogenic or immuno-based methods are unaffected by HEMLIBRA and may be used to monitor coagulation parameters during treatment, with specific considerations for FVIII chromogenic activity assays as described below. Chromogenic FVIII activity tests may be manufactured with either human or bovine coagulation proteins. Assays containing human coagulation factors are responsive to HEMLIBRA but may overestimate the clinical hemostatic potential of HEMLIBRA. In contrast, assays containing bovine coagulation factors are insensitive to HEMLIBRA (no activity measured) and can be used to monitor endogenous or infused FVIII activity, or to measure anti-FVIII inhibitors. HEMLIBRA remains active in the presence of inhibitors against FVIII, so it will produce a false-negative result in clotting-based Bethesda assays for functional inhibition of FVIII. Instead, a chromogenic Bethesda assay utilizing a bovine-based FVIII chromogenic test that is insensitive to HEMLIBRA may be used. Due to the long half-life of HEMLIBRA, effects on coagulation assays may persist for up to 6 months after the last dose [see Clinical Pharmacology (12.3) ] .",
+    "contraindications": "4 CONTRAINDICATIONS None. None ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Recommended loading dose is 3 mg/kg by subcutaneous injection once weekly for the first 4 weeks, followed by a maintenance dose of: 1.5 mg/kg once every week, or 3 mg/kg once every two weeks, or 6 mg/kg once every four weeks. ( 2.1 ) See Full Prescribing Information for important preparation and administration instructions. ( 2.2 ) 2.1 Recommended Dosage For subcutaneous use only. The recommended loading dose is 3 mg/kg by subcutaneous injection once weekly for the first 4 weeks, followed by a maintenance dose of: 1.5 mg/kg once every week, or 3 mg/kg once every two weeks, or 6 mg/kg once every four weeks. The selection of a maintenance dose should be based on healthcare provider preference with consideration of regimens that may increase patient adherence. Discontinue the prophylactic use of bypassing agents the day before starting HEMLIBRA prophylaxis. The prophylactic use of factor VIII (FVIII) products may be continued during the first week of HEMLIBRA prophylaxis. Missed Dose If a dose of HEMLIBRA is missed administer as soon as possible and then resume usual dosing schedule. Do not administer two doses on the same day to make up for a missed dose. 2.2 Preparation and Administration HEMLIBRA is intended for use under the guidance of a healthcare provider. After proper training in subcutaneous injection technique, a patient may self-inject, or the patient's caregiver may administer HEMLIBRA, if a healthcare provider determines that it is appropriate. Self-administration is not recommended for children less than 7 years of age. The HEMLIBRA \"Instructions for Use\" contains more detailed instructions on the preparation and administration of HEMLIBRA [see Instructions for Use ] . Visually inspect HEMLIBRA for particulate matter and discoloration before administration. HEMLIBRA for subcutaneous administration is a colorless to slightly yellow solution. Do not use if particulate matter is visible or product is discolored. A syringe, a transfer needle with filter and an injection needle are needed to withdraw HEMLIBRA solution from the vial and inject it subcutaneously. Refer to the HEMLIBRA \" Instructions for Use \" for handling instructions when combining vials. Do not combine HEMLIBRA vials of different concentrations (i.e. 30 mg/mL and 150 mg/mL) in a single injection. Please see below the selection criteria for the recommended device options: Administer doses of HEMLIBRA up to 1 mL with a 1 mL syringe. A 1 mL syringe fulfilling the following criteria may be used: Transparent polypropylene or polycarbonate syringe with Luer-Lock tip, graduation 0.01 mL, sterile, for injection only, single-use, latex-free and non-pyrogenic, commercially available in the US. Administer doses of HEMLIBRA greater than 1 mL and up to 2 mL with a 2 mL or 3 mL syringe. A 2 mL or 3 mL syringe fulfilling the following criteria may be used: Transparent polypropylene or polycarbonate syringe with Luer-Lock tip, graduation 0.1 mL, sterile, for injection only, single-use, latex-free, and non-pyrogenic, commercially available in the US. A transfer needle with a filter fulfilling the following criteria should be used: Stainless steel needle with Luer-Lock connection, sterile, 18 gauge, length 1 to 1\u00bd inch, single bevel or semi-blunted tip, single-use, latex-free, containing a 5-micron filter and non-pyrogenic, commercially available in the US. An injection needle fulfilling the following criteria may be used: Stainless steel with Luer-Lock connection, sterile, 26 gauge (acceptable range: 25 \u2013 27 gauge), length preferably \u215c inch or maximal length \u00bd inch, single-use, latex-free and non-pyrogenic, including needle safety feature, commercially available in the US. Administer each injection at a different anatomic location (upper outer arms, thighs, or any quadrant of abdomen) than the previous injection. An injection should never be given into moles, scars, or areas where the skin is tender, bruised, red, hard, or not intact. Administration of HEMLIBRA in the upper outer arm should only be performed by a caregiver or healthcare provider. Discard any unused HEMLIBRA remaining in the single-dose vial.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE HEMLIBRA is indicated for routine prophylaxis to prevent or reduce the frequency of bleeding episodes in adult and pediatric patients ages newborn and older with hemophilia A (congenital factor VIII deficiency) with or without factor VIII inhibitors. HEMLIBRA is a bispecific factor IXa- and factor X-directed antibody indicated for routine prophylaxis to prevent or reduce the frequency of bleeding episodes in adult and pediatric patients ages newborn and older with hemophilia A (congenital factor VIII deficiency) with or without factor VIII inhibitors. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "BLA761083"
+    ],
+    "brand_name": [
+      "Hemlibra"
+    ],
+    "generic_name": [
+      "EMICIZUMAB"
+    ],
+    "manufacturer_name": [
+      "Genentech, Inc."
+    ],
+    "product_ndc": [
+      "50242-920",
+      "50242-921",
+      "50242-922",
+      "50242-923",
+      "50242-930",
+      "50242-927"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "SUBCUTANEOUS"
+    ],
+    "substance_name": [
+      "EMICIZUMAB"
+    ],
+    "rxcui": [
+      "1989799",
+      "1989804",
+      "1989809",
+      "1989811",
+      "1989814",
+      "1989815",
+      "1989816",
+      "1989817",
+      "2632728",
+      "2632729",
+      "2675567",
+      "2675568"
+    ],
+    "spl_id": [
+      "8f25ff10-e9d1-46a1-9889-e2c3f6e0d432"
+    ],
+    "spl_set_id": [
+      "2483adba-fab6-4d1b-96c5-c195577ed071"
+    ],
+    "package_ndc": [
+      "50242-920-01",
+      "50242-921-01",
+      "50242-922-01",
+      "50242-923-01",
+      "50242-930-01",
+      "50242-927-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "7NL2E3F6K3"
+    ]
+  }
+}

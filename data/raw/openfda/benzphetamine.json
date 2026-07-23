@@ -1,0 +1,58 @@
+{
+  "drug_name": "Benzphetamine",
+  "drug_id": 209,
+  "sections": {
+    "warnings": "WARNINGS Benzphetamine hydrochloride tablets should not be used in combination with other anorectic agents, including prescribed drugs, over-the-counter preparations and herbal products. In a case-control epidemiological study, the use of anorectic agents was associated with an increased risk of developing pulmonary hypertension, a rare, but often fatal disorder. The use of anorectic agents for longer than three months was associated with a 23-fold increase in the risk of developing pulmonary hypertension. Increased risk of pulmonary hypertension with repeated courses of therapy cannot be excluded. It should be noted that benzphetamine was not specifically studied in this case-control study. The onset or aggravation of exertional dyspnea, or unexplained symptoms of angina pectoris, syncope, or lower extremity edema suggest the possibility of occurrence of pulmonary hypertension. Under these circumstances, Benzphetamine hydrochloride tablets should be immediately discontinued, and the patient should be evaluated for the possible presence of pulmonary hypertension. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine has been reported. Possible contributing factors include use for extended periods of time, higher than recommended dose, and/or use in combination with other anorectic drugs. However, no cases of this valvulopathy have been reported when benzphetamine has been used alone. The potential risk of possible serious adverse effects such as valvular heart disease and pulmonary hypertension should be assessed carefully against the potential benefit of weight loss. Baseline cardiac evaluation should be considered to detect pre-existing valvular heart diseases or pulmonary hypertension prior to initiation of benzphetamine treatment. Benzphetamine hydrochloride tablets are not recommended in patients with known heart murmur or valvular heart disease. Echocardiogram during and after treatment could be useful for detecting any valvular disorders which may occur. To limit unwarranted exposure and risks, treatment with benzphetamine hydrochloride tablets should be continued only if the patient has satisfactory weight loss within the first 4 weeks of treatment (i.e., weight loss of at least 4 pounds, or as determined by the physician and patient). When tolerance to the anorectic effect develops, the recommended dose should not be exceeded in an attempt to increase the effect; rather, the drug should be discontinued. Benzphetamine hydrochloride tablets are not recommended for severely hypertensive patients or for patients with symptomatic cardiovascular disease including arrhythmias. Benzphetamine hydrochloride tablets are not recommended for patients who used any anorectic agents within the prior year.",
+    "drug_interactions": "Drug Interactions Efficacy of benzphetamine hydrochloride tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine hydrochloride tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines.",
+    "contraindications": "CONTRAINDICATIONS Benzphetamine hydrochloride tablets are contraindicated in patients with advanced arteriosclerosis, symptomatic cardiovascular disease, moderate to severe hypertension, hyperthyroidism, known hypersensitivity or idiosyncrasy to sympathomimetic amines, and glaucoma. Benzphetamine should not be given to patients who are in an agitated state or who have a history of drug abuse. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine hydrochloride tablets should not be used concomitantly with other CNS stimulants. Benzphetamine hydrochloride tablets may cause fetal harm when administered to a pregnant woman. Amphetamines have been shown to be teratogenic and embryotoxic in mammals at high multiples of the human dose. Benzphetamine hydrochloride tablets are contraindicated in women who are or may become pregnant. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Dosage should be individualized according to the response of the patient. The suggested dosage ranges from 25 to 50 mg one to three times daily. Treatment should begin with 25 to 50 mg once daily with subsequent increase in individual dose or frequency according to response. A single daily dose is preferably given in mid-morning or mid-afternoon, according to the patient\u2019s eating habits. In an occasional patient it may be desirable to avoid late afternoon administration. Use of benzphetamine hydrochloride is not recommended in individuals under 17 years of age.",
+    "indications_and_usage": "INDICATIONS AND USAGE Benzphetamine hydrochloride tablets are indicated in the management of exogenous obesity as a short term (a few weeks) adjunct in a regimen of weight reduction based on caloric restriction in patients with an initial body mass index (BMI) of 30 kg/m2 or higher who have not responded to appropriate weight reducing regimen (diet and/or exercise) alone. Below is a chart of Body Mass Index (BMI) based on various heights and weights. BMI is calculated by taking the patient's weight, in kilograms (kg), divided by the patient's height, in meters (m), squared. Metric conversions are as follows: pounds \u00f72.2 = kg; inches \u00d7 0.0254 = meters. The limited usefulness of agents of this class (See CLINICAL PHARMACOLOGY ) should be weighed against possible risks inherent in their use such as those described below. Benzphetamine hydrochloride tablets are indicated for use as monotherapy only. BMI Table"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA090968"
+    ],
+    "brand_name": [
+      "BENZPHETAMINE HYDROCHLORIDE"
+    ],
+    "generic_name": [
+      "BENZPHETAMINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "KVK-TECH, INC"
+    ],
+    "product_ndc": [
+      "10702-040"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BENZPHETAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "904368"
+    ],
+    "spl_id": [
+      "15d75638-8ac7-e610-e063-6394a90af99c"
+    ],
+    "spl_set_id": [
+      "14d4589d-7f1c-4b6e-9557-59dad39b0960"
+    ],
+    "package_ndc": [
+      "10702-040-03",
+      "10702-040-01",
+      "10702-040-50",
+      "10702-040-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "43DWT87QT7"
+    ]
+  }
+}

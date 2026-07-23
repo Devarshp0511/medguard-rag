@@ -1,0 +1,66 @@
+{
+  "drug_name": "Cilostazol",
+  "drug_id": 15,
+  "sections": {
+    "boxed_warning": "WARNING: CONTRAINDICATED IN HEART FAILURE PATIENTS Cilostazol tablets are contraindicated in patients with heart failure of any severity. Cilostazol and several of its metabolites are inhibitors of phosphodiesterase III. Several drugs with this pharmacologic effect have caused decreased survival compared to placebo in patients with class III-IV heart failure [see Contraindications ( 4 )] . WARNING: CONTRAINDICATED IN HEART FAILURE PATIENTS See full prescribing information for complete boxed warning. Cilostazol tablets is contraindicated in patients with heart failure of any severity. Cilostazol and several of its metabolites are inhibitors of phosphodiesterase III. Several drugs with the pharmacologic effect have caused decreased survival compared to placebo patients with class III-IV heart failure. (4)",
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Risks of tachycardia, palpitation, tachyarrhythmia or hypotension. Risks of exacerbations of angina pectoris or myocardial infarction in patients with a history of ischemic heart disease ( 5.2 ) Left ventricular outflow tract obstruction has been reported in patients with sigmoid shaped interventricular septum ( 5.1 ) Risks of thrombocytopenia or leukopenia progressing to agranulocytosis-monitor platelets and white blood cell counts ( 5.3 ) Avoid use in patients with hemostatic disorders or active pathologic bleeding ( 5.4 ) 5.1 Tachycardia Cilostazol may induce tachycardia, palpitation, tachyarrhythmia or hypotension. The increase in heart rate associated with cilostazol is approximately 5 to 7 bpm. Patients with a history of ischemic heart disease may be at risk for exacerbations of angina pectoris or myocardial infarction. 5.2 Left Ventricular Outflow Tract Obstruction Left ventricular outflow tract obstruction has been reported in patients with sigmoid shaped interventricular septum. Monitor patients for the development of a new systolic murmur or cardiac symptoms after starting cilostazol. 5.3 Hematologic Adverse Reactions Cases of thrombocytopenia or leukopenia progressing to agranulocytosis when cilostazol was not immediately discontinued have been reported. Agranulocytosis is reversible on discontinuation of cilostazol. Monitor platelets and white blood cell counts periodically. 5.4 Hemostatic Disorders or Active Pathologic Bleeding Cilostazol inhibits platelet aggregation in a reversible manner. Cilostazol has not been studied in patients with hemostatic disorders or active pathologic bleeding. Avoid use of cilostazol tablets in these patients.",
+    "drug_interactions": "7 DRUG INTERACTIONS Strong and moderate CYP3A4 and CYP2C19 inhibitors: Increase exposure to cilostazol. Reduce cilostazol tablets dose ( 2.2 , 7.1 ) 7.1 Inhibitors of CYP3A4 or CYP2C19 Inhibitors of CYP3A4 Coadministration of strong (e.g., ketoconazole) and moderate (e.g., erythromycin, diltiazem and grapefruit juice) CYP3A4 inhibitors can increase exposure to cilostazol. Reduce cilostazol dose to 50 mg twice daily when coadministered with strong or moderate inhibitors of CYP3A4 [see Dosage and Administration ( 2.2 ) and Clinical Pharmacology ( 12.3 )]. Inhibitors of CYP2C19 Coadministration with CYP2C19 inhibitors (e.g., omeprazole) increases systemic exposure of cilostazol active metabolites. Reduce cilostazol dose to 50 mg twice daily when coadministered with strong or moderate inhibitors of CYP2C19 [see Dosage and Administration ( 2.2 ) and Clinical Pharmacology ( 12.3 )].",
+    "contraindications": "4 CONTRAINDICATIONS Cilostazol is contraindicated in patients with: Heart failure of any severity: Cilostazol and several of its metabolites are inhibitors of phosphodiesterase III. Several drugs with this pharmacologic effect have caused decreased survival compared to placebo in patients with class III-IV heart failure. Hypersensitivity to cilostazol or any components of cilostazol tablets (e.g., anaphylaxis, angioedema) Heart failure of any severity ( 4 ) Hypersensitivity to cilostazol or any components of cilostazol tablets ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended dosage of cilostazol is 100 mg twice daily taken at least half an hour before or two hours after breakfast and dinner ( 2.1 ) Reduce the dose to 50 mg twice daily when coadministered with CYP3A4 inhibitors such as ketoconazole, itraconazole, erythromycin, and diltiazem, or CYP2C19 inhibitors such as ticlopidine, fluconazole, and omeprazole ( 2.2 ) 2.1 Recommended dosage The recommended dosage of cilostazol is 100 mg twice daily taken at least half an hour before or two hours after breakfast and dinner. Patients may respond as early as 2 to 4 weeks after the initiation of therapy, but treatment for up to 12 weeks may be needed before a beneficial effect is experienced. If symptoms are unimproved after 3 months, discontinue cilostazol. 2.2 Dose Reduction with CYP3A4 and CYP2C19 Inhibitors Reduce dose to 50 mg twice daily when coadministered with strong or moderate inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, erythromycin, and diltiazem) or inhibitors of CYP2C19 (e.g., ticlopidine, fluconazole, and omeprazole) [see Drug Interactions ( 7.1 )] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Cilostazol tablets are indicated for the reduction of symptoms of intermittent claudication, as demonstrated by an increased walking distance. Cilostazol is a phosphodiesterase III inhibitor (PDE III inhibitor) indicated for the reduction of symptoms of intermittent claudication, as demonstrated by an increased walking distance ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077030"
+    ],
+    "brand_name": [
+      "cilostazol"
+    ],
+    "generic_name": [
+      "CILOSTAZOL"
+    ],
+    "manufacturer_name": [
+      "Aphena Pharma Solutions - Tennessee, LLC"
+    ],
+    "product_ndc": [
+      "71610-813"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CILOSTAZOL"
+    ],
+    "rxcui": [
+      "242461"
+    ],
+    "spl_id": [
+      "1547a408-12a9-fadd-e063-6394a90a4ce0"
+    ],
+    "spl_set_id": [
+      "15478d90-312f-014e-e063-6294a90ae838"
+    ],
+    "package_ndc": [
+      "71610-813-26"
+    ],
+    "original_packager_product_ndc": [
+      "42291-453"
+    ],
+    "nui": [
+      "N0000175598",
+      "N0000175086"
+    ],
+    "pharm_class_epc": [
+      "Phosphodiesterase 3 Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Phosphodiesterase 3 Inhibitors [MoA]"
+    ],
+    "unii": [
+      "N7Z035406B"
+    ]
+  }
+}

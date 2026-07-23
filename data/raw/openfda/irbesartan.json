@@ -1,0 +1,65 @@
+{
+  "drug_name": "Irbesartan",
+  "drug_id": 775,
+  "sections": {
+    "boxed_warning": "WARNING: FETAL TOXICITY When pregnancy is detected, discontinue irbesartan tablets as soon as possible [see Warnings and Precautions ( 5.1 ) and Use in Specific Populations ( 8.1 )]. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 ) and Use in Specific Populations ( 8.1 ) ]. WARNING: FETAL TOXICITY See full prescribing information for complete boxed warning. When pregnancy is detected, discontinue irbesartan tablets as soon as possible. ( 5.1 , 8.1 ) Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. ( 5.1 , 8.1 )",
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Hypotension: Correct volume or salt depletion prior to administration. ( 5.2 ) Monitor renal function and serum potassium. ( 5.3 ) 5.1 Fetal Toxicity Irbesartan tablets can cause fetal harm when administered to a pregnant woman. Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue irbesartan tablets as soon as possible [see Use in Specific Populations (8.1) ]. 5.2 Hypotension in Volume or Salt-Depleted Patients In patients with an activated renin-angiotensin system, such as volume or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initialization of treatment with irbesartan tablets. Correct volume or salt depletion prior to administration of irbesartan tablets or use a lower starting dose [see Dosage and Administration (2.4) ]. 5.3 Impaired Renal Function Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe heart failure, or volume depletion) may be at particular risk of developing acute renal failure or death on irbesartan tablets. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on irbesartan tablets [see Drug Interactions (7.3) ].",
+    "drug_interactions": "7 DRUG INTERACTIONS Lithium: Risk of lithium toxicity. ( 7 ) Nonsteroidal Anti-inflammatory Drugs (NSAIDs) and COX-2 inhibitors: Increased risk of renal impairment. Reduced antihypertensive effects. ( 7 ) Dual blockade of the renin-angiotensin system: Increased risk of renal impairment, hypotension, and hyperkalemia. ( 7 ) 7.1 Agents Increasing Serum Potassium Coadministration of irbesartan tablets with other drugs that raise serum potassium levels may result in hyperkalemia, sometimes severe. Monitor serum potassium in such patients. 7.2 Lithium Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of irbesartan and lithium. Monitor lithium levels in patients receiving irbesartan and lithium. 7.3 Nonsteroidal Anti-inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including irbesartan) may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving irbesartan and NSAID therapy. The antihypertensive effect of angiotensin II receptor antagonists, including irbesartan, may be attenuated by NSAIDs including selective COX-2 inhibitors. 7.4 Dual Blockade of the Renin-Angiotensin System (RAS) Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy. In general, avoid combined use of RAS inhibitors. Closely monitor blood pressure, renal function and electrolytes in patients on irbesartan tablets and other agents that affect the RAS. Do not coadminister aliskiren with irbesartan tablets in patients with diabetes. Avoid use of aliskiren with irbesartan tablets in patients with renal impairment (GFR <60 mL/min). 1",
+    "contraindications": "4 CONTRAINDICATIONS Irbesartan tablets are contraindicated in patients who are hypersensitive to any component of this product. Do not coadministrate aliskiren with irbesartan tablets in patients with diabetes. Hypersensitivity to any component of this product. ( 4 ) Coadministration with aliskiren in patients with diabetes. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Indication Dose Hypertension ( 2.2 ) 150 to 300 mg once daily Diabetic Nephropathy ( 2.3 ) 300 mg once daily 2.1 General Considerations Irbesartan tablets may be administered with other antihypertensive agents and with or without food. 2.2 Hypertension The recommended initial dose of irbesartan tablets is 150 mg once daily. The dosage can be increased to a maximum dose of 300 mg once daily as needed to control blood pressure [see Clinical Studies (14.1) ]. 2.3 Nephropathy in Type 2 Diabetic Patients The recommended dose is 300 mg once daily [see Clinical Studies (14.2) ]. 2.4 Dose Adjustment in Volume and Salt-Depleted Patients The recommended initial dose is 75 mg once daily in patients with depletion of intravascular volume or salt (e.g., patients treated vigorously with diuretics or on hemodialysis) [see Warnings and Precautions (5.2) ].",
+    "dosage_and_administration_table": "<table width=\"100%\"><col width=\"50%\"/><col width=\"50%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Indication</content></paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\"> Dose</content></paragraph></td></tr><tr><td styleCode=\"Rrule \" valign=\"top\"><paragraph> Hypertension ( <linkHtml href=\"#L213b90ba-4973-4678-8dcf-9879158f3d01\">2.2</linkHtml>) </paragraph></td><td valign=\"top\"><paragraph> 150 to 300 mg once daily</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph> Diabetic Nephropathy ( <linkHtml href=\"#Lfeee54da-001f-43b4-864c-10cb5b1992b4\">2.3</linkHtml>) </paragraph></td><td styleCode=\"Botrule \" valign=\"top\"><paragraph> 300 mg once daily</paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Irbesartan tablets are an angiotensin II receptor blocker (ARB) indicated for: Treatment of hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. ( 1.1 ) Treatment of diabetic nephropathy in hypertensive patients with type 2 diabetes, an elevated serum creatinine, and proteinuria. ( 1.2 ) 1.1 Hypertension Irbesartan tablets are indicated for the treatment of hypertension, to lower blood pressure. Lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular (CV) events, primarily strokes and myocardial infarction. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including this drug. Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than 1 drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program\u2019s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC). Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly. Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal. Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease). These considerations may guide selection of therapy. Irbesartan tablets may be used alone or in combination with other antihypertensive agents. 1.2 Nephropathy in Type 2 Diabetic Patients Irbesartan tablets are indicated for the treatment of diabetic nephropathy in patients with type 2 diabetes and hypertension, an elevated serum creatinine, and proteinuria (>300 mg/day). In this population, irbesartan tablets reduce the rate of progression of nephropathy as measured by the occurrence of doubling of serum creatinine or end-stage renal disease (need for dialysis or renal transplantation) [see Clinical Studies (14.2) ]."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA203071"
+    ],
+    "brand_name": [
+      "Irbesartan"
+    ],
+    "generic_name": [
+      "IRBESARTAN"
+    ],
+    "manufacturer_name": [
+      "REMEDYREPACK INC."
+    ],
+    "product_ndc": [
+      "70518-1690"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "IRBESARTAN"
+    ],
+    "spl_id": [
+      "5640ca24-7db7-0273-e063-6294a90aaf67"
+    ],
+    "spl_set_id": [
+      "029a90b6-0722-49be-8400-3ec29526aafd"
+    ],
+    "package_ndc": [
+      "70518-1690-0",
+      "70518-1690-1"
+    ],
+    "original_packager_product_ndc": [
+      "43547-375"
+    ],
+    "nui": [
+      "N0000000070",
+      "N0000175561"
+    ],
+    "pharm_class_moa": [
+      "Angiotensin 2 Receptor Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Angiotensin 2 Receptor Blocker [EPC]"
+    ],
+    "unii": [
+      "J0E2756Z7N"
+    ]
+  }
+}

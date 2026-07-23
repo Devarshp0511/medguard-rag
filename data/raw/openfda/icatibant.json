@@ -1,0 +1,57 @@
+{
+  "drug_name": "Icatibant",
+  "drug_id": 540,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Laryngeal attacks: Following treatment of laryngeal attacks with SAJAZIR, advise patients to seek immediate medical attention. ( 5.1 ) 5.1 Laryngeal Attacks Given the potential for airway obstruction during acute laryngeal HAE attacks, patients should be advised to seek medical attention in an appropriate healthcare facility immediately in addition to treatment with SAJAZIR.",
+    "drug_interactions": "7 DRUG INTERACTIONS 7.1 ACE Inhibitors Icatibant is a bradykinin B2 receptor antagonist and thereby has the potential to have a pharmacodynamic interaction with ACE inhibitors where icatibant may attenuate the antihypertensive effect of ACE inhibitors. Clinical trials to date have excluded subjects taking ACE inhibitors.",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION 30 mg injected subcutaneously in the abdominal area. ( 2.1 ) If response is inadequate or symptoms recur, additional injections of 30 mg may be administered at intervals of at least 6 hours. ( 2.1 ) Do not administer more than 3 injections in 24 hours. ( 2.1 ) Patients may self-administer upon recognition of an HAE attack. ( 2.2 ) 2.1 Recommended Dosing The recommended dose of SAJAZIR is 30 mg administered by subcutaneous (SC) injection in the abdominal area. Additional doses may be administered at intervals of at least 6 hours if response is inadequate or if symptoms recur. No more than 3 doses may be administered in any 24 hour period. 2.2 Administration Instructions SAJAZIR should be inspected visually for particulate matter and discoloration prior to administration. The drug solution should be clear and colorless. Do not administer if the product contains particulates or is discolored. Attach the provided 25 gauge needle to the syringe hub and screw on securely. Do not use a different needle. Disinfect the injection site and administer SAJAZIR by subcutaneous injection over at least 30 seconds. Patients may self-administer SAJAZIR upon recognition of symptoms of an HAE attack after training under the guidance of a healthcare professional [see Patient Counseling Information ( 17 )] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE SAJAZIR (icatibant) injection is indicated for the treatment of acute attacks of hereditary angioedema (HAE) in adults 18 years of age and older. SAJAZIR (icatibant) injection is a bradykinin B2 receptor antagonist indicated for treatment of acute attacks of hereditary angioedema (HAE) in adults 18 years of age and older. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA212446"
+    ],
+    "brand_name": [
+      "SAJAZIR"
+    ],
+    "generic_name": [
+      "ICATIBANT"
+    ],
+    "manufacturer_name": [
+      "Cycle Pharmaceuticals Ltd-Uk"
+    ],
+    "product_ndc": [
+      "70709-013"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "SUBCUTANEOUS"
+    ],
+    "substance_name": [
+      "ICATIBANT ACETATE"
+    ],
+    "rxcui": [
+      "1148141",
+      "2569480"
+    ],
+    "spl_id": [
+      "98f58ca8-04a0-4453-adf0-b000d3bcfae1"
+    ],
+    "spl_set_id": [
+      "1756aca0-21a1-4898-8d6c-9666738db45c"
+    ],
+    "package_ndc": [
+      "70709-013-03",
+      "70709-013-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "325O8467XK"
+    ]
+  }
+}

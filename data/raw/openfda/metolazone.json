@@ -1,0 +1,64 @@
+{
+  "drug_name": "Metolazone",
+  "drug_id": 1263,
+  "sections": {
+    "warnings": "WARNINGS Rapid Onset Hyponatremia and/or Hypokalemia Rarely, the rapid onset of severe hyponatremia and/or hypokalemia has been reported following initial doses of thiazide and non-thiazide diuretics. When symptoms consistent with severe electrolyte imbalance appear rapidly, drug should be discontinued and supportive measures should be initiated immediately. Parenteral electrolytes may be required. Appropriateness of therapy with this class of drugs should be carefully reevaluated. Hypokalemia Hypokalemia may occur with consequent weakness, cramps and cardiac dysrhythmias. Serum potassium should be determined at regular and appropriate intervals and dose reduction, potassium supplementation or addition of a potassium-sparing diuretic instituted whenever indicated. Hypokalemia is a particular hazard in patients who are digitalized or who have or have had a ventricular arrhythmia; dangerous or fatal arrhythmias may be precipitated. Hypokalemia is dose related. Concomitant Therapy Lithium In general, diuretics should not be given concomitantly with lithium because they reduce its renal clearance and add a high risk of lithium toxicity. Read prescribing information for lithium preparations before use of such concomitant therapy. Furosemide Unusually large or prolonged losses of fluids and electrolytes may result when metolazone is administered concomitantly to patients receiving furosemide (see PRECAUTIONS, Drug Interactions ). Other Antihypertensive Drugs When metolazone is used with other antihypertensive drugs, particular care must be taken to avoid excessive reduction of blood pressure, especially during initial therapy. Cross-Allergy Cross-allergy may occur when metolazone is given to patients known to be allergic to sulfonamide-derived drugs, thiazides, or quinethazone. Sensitivity Reactions Sensitivity reactions (e.g., angioedema, bronchospasm) may occur with or without a history of allergy or bronchial asthma and may occur with the first dose of metolazone.",
+    "contraindications": "CONTRAINDICATIONS Anuria, hepatic coma or precoma, known allergy or hypersensitivity to metolazone.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Effective dosage of metolazone tablets should be individualized according to indication and patient response. A single daily dose is recommended. Therapy with metolazone tablets should be titrated to gain an initial therapeutic response and to determine the minimal dose possible to maintain the desired therapeutic response. Usual Single Daily Dosage Schedules Suitable initial dosages will usually fall in the ranges given. Edema of cardiac failure: Metolazone tablets, 5 mg to 20 mg once daily. Edema of renal disease: Metolazone tablets, 5 mg to 20 mg once daily. Mild to moderate essential hypertension: Metolazone tablets, 2.5 mg to 5 mg once daily. New patients - If considered desirable to switch patients currently on Zaroxolyn \u00ae tablets and other formulations of metolazone that share its slow and incomplete bioavailability to Mykrox \u00ae , the dose should be determined by titration starting at one tablet (0.5 mg) once daily and increasing to two tablets (1 mg) once daily if needed. Treatment of Edematous States The time interval required for the initial dosage to produce an effect may vary. Diuresis and saluresis usually begin within one hour and persist for 24 hours or longer. When a desired therapeutic effect has been obtained, it may be advisable to reduce the dose if possible. The daily dose depends on the severity of the patient's condition, sodium intake, and responsiveness. A decision to change the daily dose should be based on the results of thorough clinical and laboratory evaluations. If antihypertensive drugs or diuretics are given concurrently with metolazone, more careful dosage adjustment may be necessary. For patients who tend to experience paroxysmal nocturnal dyspnea, it may be advisable to employ a larger dose to ensure prolongation of diuresis and saluresis for a full 24-hour period. Treatment of Hypertension The time interval required for the initial dosage regimen to show effect may vary from three or four days to three to six weeks in the treatment of elevated blood pressure. Doses should be adjusted at appropriate intervals to achieve maximum therapeutic effect.",
+    "indications_and_usage": "INDICATIONS AND USAGE Metolazone is indicated for the treatment of salt and water retention including: \u2022 edema accompanying congestive heart failure; \u2022 edema accompanying renal diseases, including the nephrotic syndrome and states of diminished renal function. Metolazone is also indicated for the treatment of hypertension, alone or in combination with other antihypertensive drugs of a different class. Mykrox \u00ae tablets, a more rapidly available form of metolazone, are intended for the treatment of new patients with mild to moderate hypertension. A dose titration is necessary if Mykrox \u00ae tablets are to be substituted for Zaroxolyn \u00ae tablets and other formulations of metolazone that share its slow and incomplete bioavailability, in the treatment of hypertension. Usage In Pregnancy The routine use of diuretics in an otherwise healthy woman is inappropriate and exposes mother and fetus to unnecessary hazard. Diuretics do not prevent development of toxemia of pregnancy and there is no evidence that they are useful in the treatment of developed toxemia. Edema during pregnancy may arise from pathologic causes or from the physiologic and mechanical consequence of pregnancy. Metolazone is indicated in pregnancy when edema is due to pathologic causes, just as it is in the absence of pregnancy (see PRECAUTIONS ). Dependent edema in pregnancy resulting from restriction of venous return by the expanded uterus is properly treated through elevation of the lower extremities and use of support hose; use of diuretics to lower intravascular volume in this case is illogical and unnecessary. There is hypervolemia during normal pregnancy which is harmful to neither the fetus nor the mother (in the absence of cardiovascular disease), but which is associated with edema, including generalized edema, in the majority of pregnant women. If this edema produces discomfort, increased recumbency will often provide relief. In rare instances, this edema may cause extreme discomfort which is not relieved by rest. In these cases, a short course of diuretics may be appropriate."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA076466"
+    ],
+    "brand_name": [
+      "Metolazone"
+    ],
+    "generic_name": [
+      "METOLAZONE"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "72162-1050"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "METOLAZONE"
+    ],
+    "rxcui": [
+      "311671"
+    ],
+    "spl_id": [
+      "194df449-f51d-462b-a916-d892e1cf1217"
+    ],
+    "spl_set_id": [
+      "08cb093a-b8ec-40d9-b292-2513b488d14c"
+    ],
+    "package_ndc": [
+      "72162-1050-1"
+    ],
+    "original_packager_product_ndc": [
+      "0185-0055"
+    ],
+    "nui": [
+      "N0000175359",
+      "N0000175420"
+    ],
+    "pharm_class_pe": [
+      "Increased Diuresis [PE]"
+    ],
+    "pharm_class_epc": [
+      "Thiazide-like Diuretic [EPC]"
+    ],
+    "unii": [
+      "TZ7V40X7VX"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "drug_name": "Nateglinide",
+  "drug_id": 311,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Hypoglycemia: Nateglinide may cause hypoglycemia. Administer before meals to reduce the risk of hypoglycemia. Skip the scheduled dose of nateglinide if a meal is skipped to reduce the risk of hypoglycemia. (5.1) Macrovascular Outcomes: There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with nateglinide. (5.2) 5.1 Hypoglycemia All glinides, including nateglinide, can cause hypoglycemia [see Adverse Reactions (6.1)] . Severe hypoglycemia can cause seizures, may be life-threatening, or cause death. Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery). Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual. Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic neuropathy (nerve disease), in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)] , or in patients who experience recurrent hypoglycemia. Factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content), changes in level of physical activity, changes to coadministered medication [see Drug Interactions (7)] , and concomitant use with other antidiabetic agents. Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)] . Patients should take nateglinide before meals and be instructed to skip the dose of nateglinide if a meal is skipped [see Dosage and Administration (2)] . Patients and caregivers must be educated to recognize and manage hypoglycemia. Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia. In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended. 5.2 Macrovascular Outcomes There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with nateglinide.",
+    "drug_interactions": "7 DRUG INTERACTIONS Table 2 includes a list of drugs with clinically important drug interactions when concomitantly administered or withdrawn with nateglinide and instructions for managing or preventing them. Table 2: Clinically Significant Drug Interactions with Nateglinide Drugs That May Increase the Blood-Glucose-Lowering Effect of Nateglinide and Susceptibility to Hypoglycemia Drugs: Nonsteroidal anti-inflammatory drugs (NSAIDs), salicylates, monoamine oxidase inhibitors, non-selective beta-adrenergic-blocking agents, anabolic hormones (e.g., methandrostenolone), guanethidine, gymnema sylvestre, glucomannan, thioctic acid, and inhibitors of CYP2C9 (e.g., amiodarone, fluconazole, voriconazole, sulfinpyrazone) or in patients known to be poor metabolizers of CYP2C9 substrates, alcohol. Intervention: Dose reductions and increased frequency of glucose monitoring may be required when nateglinide is coadministered with these drugs. Drugs and Herbals That May Reduce the Blood-Glucose-Lowering Effect of Nateglinide and Increase Susceptibility to Hyperglycemia Drugs: Thiazides, corticosteroids, thyroid products, sympathomimetics, somatropin, somatostatin analogues (e.g., lanreotide, octreotide), and CYP inducers (e.g., rifampin, phenytoin and St John's Wort). Intervention: Dose increases and increased frequency of glucose monitoring may be required when nateglinide is coadministered with these drugs. Drugs That May Blunt Signs and Symptoms of Hypoglycemia Drugs: beta-blockers, clonidine, guanethidine, and reserpine Intervention: Increased frequency of glucose monitoring may be required when nateglinide is coadministered with these drugs. Drugs That May Increase the Potential for Hypoglycemia : Nateglinide dose reductions and increased frequency of glucose monitoring may be required when co-administered (7) Drugs That May Increase the Potential for Hyperglycemia : Nateglinide dose increases and increased frequency of glucose monitoring may be required when co-administered (7) Drugs That May Blunt Signs and Symptoms of Hypoglycemia : Increased frequency of glucose monitoring may be required when co-administered (7)",
+    "drug_interactions_table": "<table ID=\"ID35\" width=\"68%\" styleCode=\"Noautorules\"><caption> Table 2: Clinically Significant Drug Interactions with Nateglinide </caption><col width=\"21%\"/><col width=\"78%\"/><tbody><tr><td colspan=\"2\" valign=\"top\" styleCode=\"Lrule Toprule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Drugs That May Increase the Blood-Glucose-Lowering Effect of Nateglinide and Susceptibility to Hypoglycemia</content> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Drugs: </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Nonsteroidal anti-inflammatory drugs (NSAIDs), salicylates, monoamine oxidase inhibitors, non-selective beta-adrenergic-blocking agents, anabolic hormones (e.g., methandrostenolone), guanethidine, gymnema sylvestre, glucomannan, thioctic acid, and inhibitors of CYP2C9 (e.g., amiodarone, fluconazole, voriconazole, sulfinpyrazone) or in patients known to be poor metabolizers of CYP2C9 substrates, alcohol. </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Intervention: </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Dose reductions and increased frequency of glucose monitoring may be required when nateglinide is coadministered with these drugs. </td></tr><tr><td colspan=\"2\" valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Drugs and Herbals That May Reduce the Blood-Glucose-Lowering Effect of Nateglinide and Increase Susceptibility to Hyperglycemia</content> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Drugs: </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Thiazides, corticosteroids, thyroid products, sympathomimetics, somatropin, somatostatin analogues (e.g., lanreotide, octreotide), and CYP inducers (e.g., rifampin, phenytoin and St John&apos;s Wort). </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Intervention: </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Dose increases and increased frequency of glucose monitoring may be required when nateglinide is coadministered with these drugs. </td></tr><tr><td colspan=\"2\" valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Drugs That May Blunt Signs and Symptoms of Hypoglycemia</content> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Drugs: </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> beta-blockers, clonidine, guanethidine, and reserpine </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Intervention: </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Increased frequency of glucose monitoring may be required when nateglinide is coadministered with these drugs. </td></tr></tbody></table>",
+    "contraindications": "4 CONTRAINDICATIONS Nateglinide tablets are contraindicated in patients with a history of hypersensitivity to nateglinide or its inactive ingredients. History of hypersensitivity to nateglinide or its inactive ingredients (4)",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended dose of nateglinide is 120 mg orally three times daily before meals. The recommended dose of nateglinide is 60 mg orally three times daily before meals in patients who are near glycemic goal when treatment is initiated. Instruct patients to take nateglinide 1 to 30 minutes before meals. In patients who skip meals, instruct patients to skip the scheduled dose of nateglinide to reduce the risk of hypoglycemia [see Warnings and Precautions (5.1)] . Recommended dose is 120 mg three times daily (2) In patients who are near glycemic goal when treatment is initiated, 60 mg three times daily may be administered. (2) Administer 1 to 30 minutes before meals (2) If a meal is skipped, skip the scheduled dose to reduce the risk of hypoglycemia. (2, 5.1)",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Nateglinide is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Limitations of Use: Nateglinide should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis. Nateglinide is a glinide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. (1) Limitations of Use : Not for treating type 1 diabetes mellitus or diabetes ketoacidosis (1)"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077463"
+    ],
+    "brand_name": [
+      "Nateglinide"
+    ],
+    "generic_name": [
+      "NATEGLINIDE"
+    ],
+    "manufacturer_name": [
+      "Strides Pharma Science Limited"
+    ],
+    "product_ndc": [
+      "64380-167",
+      "64380-168"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NATEGLINIDE"
+    ],
+    "rxcui": [
+      "311919",
+      "314142"
+    ],
+    "spl_id": [
+      "774c246f-3d18-40d4-882f-4786d9382883"
+    ],
+    "spl_set_id": [
+      "0ccf9b07-3c21-482d-abeb-a06ceb482c7b"
+    ],
+    "package_ndc": [
+      "64380-167-01",
+      "64380-167-02",
+      "64380-168-01",
+      "64380-168-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175428",
+      "N0000175448"
+    ],
+    "pharm_class_epc": [
+      "Glinide [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Potassium Channel Antagonists [MoA]"
+    ],
+    "unii": [
+      "41X3PWK4O2"
+    ]
+  }
+}

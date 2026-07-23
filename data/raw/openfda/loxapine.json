@@ -1,0 +1,56 @@
+{
+  "drug_name": "Loxapine",
+  "drug_id": 289,
+  "sections": {
+    "boxed_warning": "WARNING Increased Mortality in Elderly Patients with Dementia-Related Psychosis Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Analyses of seventeen placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients. Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group. Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature. Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality. The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear. Loxapine is not approved for the treatment of patients with dementia-related psychosis ( see WARNINGS ).",
+    "warnings": "WARNINGS Increased Mortality in Elderly Patients with Dementia-Related Psychosis Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Loxapine is not approved for the treatment of patients with dementia-related psychosis ( see BOXED WARNING ). Tardive Dyskinesia Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with antipsychotic drugs. Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome. Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown. Both the risk of developing the syndrome and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase. However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses. There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn. Antipsychotic treatment itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying disease process. The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown. Given these considerations, antipsychotics should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia. Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to antipsychotic drugs, and 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate. In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought. The need for continued treatment should be reassessed periodically. If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered. However, some patients may require treatment despite the presence of the syndrome. (See ADVERSE REACTIONS and Information for Patients sections). Neuroleptic Malignant Syndrome (NMS) A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias). The diagnostic evaluation of patients with this syndrome is complicated. In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS). Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system (CNS) pathology. The management of NMS should include: 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available. There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS. If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered. The patient should be carefully monitored, since recurrences of NMS have been reported. Loxapine, like other antipsychotics, may impair mental and/or physical abilities, especially during the first few days of therapy. Therefore, ambulatory patients should be warned about activities requiring alertness (e.g., operating vehicles or machinery) and about concomitant use of alcohol and other CNS depressants. Loxapine has not been evaluated for the management of behavioral complications in patients with mental retardation, and therefore, it cannot be recommended. Falls Loxapine may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries. For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.",
+    "drug_interactions": "Drug Interactions There have been rare reports of significant respiratory depression, stupor and/or hypotension with the concomitant use of loxapine and lorazepam. The risk of using loxapine in combination with CNS-active drugs has not been systematically evaluated. Therefore, caution is advised if the concomitant administration of loxapine and CNS-active drugs is required.",
+    "contraindications": "CONTRAINDICATIONS Loxapine is contraindicated in comatose or severe drug-induced depressed states (alcohol, barbiturates, narcotics, etc.). Loxapine is contraindicated in individuals with known hypersensitivity to dibenzoxazepines.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Loxapine Capsules, USP are administered, usually in divided doses, two to four times a day. Daily dosage (in terms of base equivalents) should be adjusted to the individual patient's needs as assessed by the severity of symptoms and previous history of response to antipsychotic drugs. Oral Administration Initial dosage of 10 mg twice daily is recommended, although in severely disturbed patients initial dosage up to a total of 50 mg daily may be desirable. Dosage should then be increased fairly rapidly over the first seven to ten days until there is effective control of symptoms of schizophrenia. The usual therapeutic and maintenance range is 60 mg to 100 mg daily. However, as with other drugs used to treat schizophrenia, some patients respond to lower dosage and others require higher dosage for optimal benefit. Daily dosage higher than 250 mg is not recommended. Maintenance Therapy For maintenance therapy, dosage should be reduced to the lowest level compatible with symptom control; many patients have been maintained satisfactorily at dosages in the range of 20 to 60 mg daily.",
+    "indications_and_usage": "INDICATIONS AND USAGE Loxapine Capsules, USP are indicated for the treatment of schizophrenia. The efficacy of loxapine in schizophrenia was established in clinical studies which enrolled newly hospitalized and chronically hospitalized acutely ill schizophrenic patients as subjects."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA090695"
+    ],
+    "brand_name": [
+      "Loxapine"
+    ],
+    "generic_name": [
+      "LOXAPINE"
+    ],
+    "manufacturer_name": [
+      "Coupler LLC"
+    ],
+    "product_ndc": [
+      "67046-1485"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LOXAPINE SUCCINATE"
+    ],
+    "rxcui": [
+      "314078"
+    ],
+    "spl_id": [
+      "2ce01253-f1e1-9553-e063-6394a90aeccd"
+    ],
+    "spl_set_id": [
+      "2ce01a5d-b9bc-af4d-e063-6394a90af9e4"
+    ],
+    "package_ndc": [
+      "67046-1485-3"
+    ],
+    "original_packager_product_ndc": [
+      "0527-1395"
+    ],
+    "unii": [
+      "X59SG0MRYU"
+    ]
+  }
+}

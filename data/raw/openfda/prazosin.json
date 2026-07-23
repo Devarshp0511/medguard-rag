@@ -1,0 +1,64 @@
+{
+  "drug_name": "Prazosin",
+  "drug_id": 805,
+  "sections": {
+    "warnings": "WARNINGS As with all alpha-blockers, prazosin hydrochloride may cause syncope with sudden loss of consciousness. In most cases, this is believed to be due to an excessive postural hypotensive effect, although occasionally the syncopal episode has been preceded by a bout of severe tachycardia with heart rates of 120 to 160 beats per minute. Syncopal episodes have usually occurred within 30 to 90 minutes of the initial dose of the drug; occasionally, they have been reported in association with rapid dosage increases or the introduction of another antihypertensive drug into the regimen of a patient taking high doses of prazosin hydrochloride. The incidence of syncopal episodes is approximately 1% in patients given an initial dose of 2 mg or greater. Clinical trials conducted during the investigational phase of this drug suggest that syncopal episodes can be minimized by limiting the initial dose of the drug to 1 mg, by subsequently increasing the dosage slowly, and by introducing any additional antihypertensive drugs into the patient\u2019s regimen with caution (see DOSAGE AND ADMINISTRATION ) . Hypotension may develop in patients given prazosin hydrochloride who are also receiving a beta-blocker such as propranolol. If syncope occurs, the patient should be placed in the recumbent position and treated supportively as necessary. This adverse effect is self-limiting and in most cases does not recur after the initial period of therapy or during subsequent dose titration. Patients should always be started on the 1 mg capsules of prazosin hydrochloride. The 2 mg and 5 mg capsules are not indicated for initial therapy. More common than loss of consciousness are the symptoms often associated with lowering of the blood pressure, namely, dizziness and lightheadedness. The patient should be cautioned about these possible adverse effects and advised what measures to take should they develop. The patient should also be cautioned to avoid situations where injury could result should syncope occur during the initiation of prazosin hydrochloride therapy. Priapism Prolonged erections and priapism have been reported with alpha-1 blockers including prazosin in post marketing experience. In the event of an erection that persists longer than 4 hours, seek immediate medical assistance. If priapism is not treated immediately, penile tissue damage and permanent loss of potency could result.",
+    "drug_interactions": "Drug Interactions Prazosin hydrochloride has been administered without any adverse drug interaction in limited clinical experience to date with the following: (1) cardiac glycosides\u2013 digitalis and digoxin; (2) hypoglycemics\u2013insulin, chlorpropamide, phenformin, tolazamide, and tolbutamide; (3) tranquilizers and sedatives\u2013chlordiazepoxide, diazepam, and phenobarbital; (4) antigout\u2013 allopurinol, colchicine, and probenecid; (5) antiarrhythmics\u2013procainamide, propranolol ( see WARNINGS however), and quinidine; and (6) analgesics, antipyretics and anti-inflammatories\u2013 propoxyphene, aspirin, indomethacin, and phenylbutazone. Addition of a diuretic or other antihypertensive agent to prazosin hydrochloride has been shown to cause an additive hypotensive effect. This effect can be minimized by reducing the prazosin hydrochloride dose to 1 mg to 2 mg three times a day, by introducing additional antihypertensive drugs cautiously, and then by retitrating prazosin hydrochloride based on clinical response. Concomitant administration of prazosin hydrochloride with a phosphodiesterase-5 (PDE-5) inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension (see DOSAGE AND ADMINISTRATION ) .",
+    "contraindications": "CONTRAINDICATIONS Prazosin hydrochloride capsules are contraindicated in patients with known sensitivity to quinazolines, prazosin, or any of the inert ingredients.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The dose of prazosin hydrochloride capsules should be adjusted according to the patient\u2019s individual blood pressure response. The following is a guide to its administration: Initial Dose 1 mg two or three times a day (see WARNINGS. ) Maintenance Dose Dosage may be slowly increased to a total daily dose of 20 mg given in divided doses. The therapeutic dosages most commonly employed have ranged from 6 mg to 15 mg daily given in divided doses. Doses higher than 20 mg usually do not increase efficacy, however a few patients may benefit from further increases up to a daily dose of 40 mg given in divided doses. After initial titration some patients can be maintained adequately on a twice daily dosage regimen. Use With Other Drugs When adding a diuretic or other antihypertensive agent, the dose of prazosin hydrochloride capsules should be reduced to 1 mg or 2 mg three times a day and retitration then carried out. Concomitant administration of prazosin hydrochloride capsules with a PDE-5 inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension; therefore, PDE-5 inhibitor therapy should be initiated at the lowest dose in patients taking prazosin hydrochloride capsules.",
+    "indications_and_usage": "INDICATIONS AND USAGE Prazosin hydrochloride capsules are indicated for the treatment of hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes, including this drug. Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than one drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program\u2019s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC). Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly. Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal. Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease). These considerations may guide selection of therapy. Prazosin hydrochloride capsules can be used alone or in combination with other antihypertensive drugs such as diuretics or beta-adrenergic blocking agents."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA213052"
+    ],
+    "brand_name": [
+      "Prazosin Hydrochloride"
+    ],
+    "generic_name": [
+      "PRAZOSIN HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Aurobindo Pharma Limited"
+    ],
+    "product_ndc": [
+      "59651-271",
+      "59651-272",
+      "59651-273"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PRAZOSIN HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "198141",
+      "312593",
+      "312594"
+    ],
+    "spl_id": [
+      "08114092-fa12-4f58-b08e-03cadf9f726b"
+    ],
+    "spl_set_id": [
+      "08114092-fa12-4f58-b08e-03cadf9f726b"
+    ],
+    "package_ndc": [
+      "59651-271-01",
+      "59651-271-99",
+      "59651-272-01",
+      "59651-272-99",
+      "59651-273-01",
+      "59651-273-25"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "X0Z7454B90"
+    ]
+  }
+}

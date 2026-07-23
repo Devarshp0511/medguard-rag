@@ -1,0 +1,55 @@
+{
+  "drug_name": "Cycloserine",
+  "drug_id": 1044,
+  "sections": {
+    "warnings": "WARNINGS Administration of cycloserine should be discontinued or the dosage reduced if the patient develops allergic dermatitis or symptoms of CNS toxicity, such as convulsions, psychosis, somnolence, depression, confusion, hyperreflexia, headache, tremor, vertigo paresis, or dysarthria. The toxicity of cycloserine is closely related to excessive blood levels (above 30 mcg/mL), as determined by high dosage or inadequate renal clearance. The ratio of toxic dose to effective dose in tuberculosis is small. The risk of convulsions is increased in chronic alcoholics. Patients should be monitored by hematologic, renal excretion, blood level, and liver function studies.",
+    "contraindications": "CONTRAINDICATIONS Administration is contraindicated in patients with any of the following: \u2022 Hypersensitivity to cycloserine \u2022 Epilepsy \u2022 Depression, severe anxiety, or psychosis \u2022 Severe renal insufficiency \u2022 Excessive concurrent use of alcoho",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Cycloserine is effective orally and is currently administered only by this route. The usual dosage is 500 mg to 1 g daily in divided doses monitored by blood levels. 1 The initial adult dosage most frequently given is 250 mg twice daily at 12-hour intervals for the first 2 weeks. A daily dosage of 1 g should not be exceeded.",
+    "indications_and_usage": "INDICATIONS AND USAGE Cycloserine is indicated in the treatment of active pulmonary and extrapulmonary tuberculosis (including renal disease) when the causative organisms are susceptible to this drug and when treatment with the primary medications (streptomycin, isoniazid, rifampin, and ethambutol) has proved inadequate. Like all antituberculosis drugs, cycloserine should be administered in conjunction with other effective chemotherapy and not as the sole therapeutic agent. Cycloserine may be effective in the treatment of acute urinary tract infections caused by susceptible strains of gram-positive and gram- negative bacteria. Use of cycloserine in these infections should be considered only when more conventional therapy has failed and when the organism has been demonstrated to be susceptible to the drug"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA060593"
+    ],
+    "brand_name": [
+      "Cycloserine"
+    ],
+    "generic_name": [
+      "CYCLOSERINE"
+    ],
+    "manufacturer_name": [
+      "Dr. Reddys Laboratories, Inc."
+    ],
+    "product_ndc": [
+      "43598-235"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CYCLOSERINE"
+    ],
+    "rxcui": [
+      "197551"
+    ],
+    "spl_id": [
+      "426b2c99-759d-647a-420f-fc11b205486b"
+    ],
+    "spl_set_id": [
+      "8e7e2665-7a3d-3f54-9f92-5fe845f02ef9"
+    ],
+    "package_ndc": [
+      "43598-235-10",
+      "43598-235-31"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "95IK5KI84Z"
+    ]
+  }
+}

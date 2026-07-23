@@ -1,0 +1,52 @@
+{
+  "drug_name": "Papaverine",
+  "drug_id": 987,
+  "sections": {
+    "contraindications": "CONTRAINDICATIONS Intravenous injection of papaverine is contraindicated in the presence of complete atrioventricular heart block. When conduction is depressed, the drug may produce transient ectopic rhythms of ventricular origin, either premature beats or paroxysmal tachycardia. Papaverine Hydrochloride is not indicated for the treatment of impotence by intracorporeal injection. The intracorporeal injection of papaverine hydrochloride has been reported to have resulted in persistent priapism requiring medical and surgical intervention.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Papaverine Hydrochloride may be administered intravenously or intramuscularly. The intravenous route is recommended when an immediate effect is desired, but the drug must be injected slowly over the course of 1 or 2 minutes to avoid uncomfortable or alarming side effects. Parenteral administration of papaverine hydrochloride in doses of 1 to 4 mL is repeated every 3 hours as indicated. In the treatment of cardiac extrasystoles, 2 doses may be given 10 minutes apart.",
+    "indications_and_usage": "INDICATIONS AND USAGE Papaverine is recommended in various conditions accompanied by spasm of smooth muscle, such as vascular spasm associated with acute myocardial infarction (coronary occlusion), angina pectoris, peripheral and pulmonary embolism, peripheral vascular disease in which there is a vasospastic element, or certain cerebral angiospastic states; and visceral spasm, as in ureteral, biliary, or gastrointestinal colic."
+  },
+  "openfda_meta": {
+    "brand_name": [
+      "Papaverine Hydrochloride"
+    ],
+    "generic_name": [
+      "PAPAVERINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Nexus Pharmaceuticals, LLC"
+    ],
+    "product_ndc": [
+      "14789-121"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAMUSCULAR",
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "PAPAVERINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1789947"
+    ],
+    "spl_id": [
+      "28dc648b-5306-8daf-e063-6294a90a9b44"
+    ],
+    "spl_set_id": [
+      "1e76839f-82eb-42a8-abc2-e7fbc533082d"
+    ],
+    "package_ndc": [
+      "14789-121-07",
+      "14789-121-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "23473EC6BQ"
+    ]
+  }
+}

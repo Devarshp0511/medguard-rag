@@ -1,0 +1,69 @@
+{
+  "drug_name": "Nystatin",
+  "drug_id": 1412,
+  "sections": {
+    "contraindications": "CONTRAINDICATIONS Nyamyc\u00ae (Nystatin Topical Powder, USP) is contraindicated in patients with a history of hypersensitivity to any of its components.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Very moist lesions are best treated with the topical dusting powder. Adults and Pediatric Patients (Neonates and Older) Apply to candidal lesions two or three times daily until healing is complete. For fungal infection of the feet caused by Candida species, the powder should be dusted on the feet, as well as, in all foot wear.",
+    "indications_and_usage": "INDICATIONS AND USAGE Nyamyc\u00ae (Nystatin Topical Powder, USP) is indicated in the treatment of cutaneous or mucocutaneous mycotic infections caused by Candida albicans and other susceptible Candida species. Nyamyc\u00ae (Nystatin Topical Powder, USP) is not indicated for systemic, oral, intravaginal or ophthalmic use."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA065183"
+    ],
+    "brand_name": [
+      "Nyamyc"
+    ],
+    "generic_name": [
+      "NYSTATIN"
+    ],
+    "manufacturer_name": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "product_ndc": [
+      "0832-0465"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "NYSTATIN"
+    ],
+    "rxcui": [
+      "584414",
+      "646456"
+    ],
+    "spl_id": [
+      "3984f88f-d61f-1fa9-e063-6394a90acb11"
+    ],
+    "spl_set_id": [
+      "01b44f91-9b68-464a-9693-b5d3e793bf3c"
+    ],
+    "package_ndc": [
+      "0832-0465-15",
+      "0832-0465-30",
+      "0832-0465-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0308320465159"
+    ],
+    "nui": [
+      "N0000175498",
+      "M0017172"
+    ],
+    "pharm_class_epc": [
+      "Polyene Antifungal [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Polyenes [CS]"
+    ],
+    "unii": [
+      "BDF1O1C72E"
+    ]
+  }
+}

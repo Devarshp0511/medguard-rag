@@ -1,0 +1,54 @@
+{
+  "drug_name": "Brompheniramine",
+  "drug_id": 893,
+  "sections": {
+    "warnings": "Warnings Do not use to sedate a child or to make a child sleepy Ask a doctor before use if you have trouble urinating due to an enlarged prostate gland glaucoma a breathing problem such as emphysema, or chronic bronchitis. Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product do not use more than directed drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222.",
+    "dosage_and_administration": "Directions do not take more than 6 doses in any 24-hour period measure only with dosage cup provided keep dosage cup with product ml = milliliter age Dose adults and children 12 years and over 20 ml every 4 hours children 6 to under 12 years 10 ml every 4 hours children under 6 years do not use",
+    "dosage_and_administration_table": "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"40%\"/><col width=\"43%\"/><thead><tr><th align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"bottom\"><content styleCode=\"bold\">age</content></th><th align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"bottom\"><content styleCode=\"bold\">Dose</content></th></tr></thead><tbody><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>adults and children 12 years and over</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>20 ml every 4 hours</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>children 6 to under 12 years</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>10 ml every 4 hours</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>children under 6 years</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>do not use</paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "Uses temporarily relieves: runny nose sneezing itchy, watery eyes due to hay fever itching of the nose or throat"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "CVS PHARMACY Childrens Cold and Allergy"
+    ],
+    "generic_name": [
+      "BROMPHENIRAMINE MALEATE"
+    ],
+    "manufacturer_name": [
+      "CVS PHARMACY, INC."
+    ],
+    "product_ndc": [
+      "51316-693"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BROMPHENIRAMINE MALEATE"
+    ],
+    "rxcui": [
+      "2685263"
+    ],
+    "spl_id": [
+      "36a84a46-7142-f5e6-e063-6294a90a5f3b"
+    ],
+    "spl_set_id": [
+      "004e104b-d6ff-48d5-8685-cd1bff45399a"
+    ],
+    "package_ndc": [
+      "51316-693-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "IXA7C9ZN03"
+    ]
+  }
+}

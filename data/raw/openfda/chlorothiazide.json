@@ -1,0 +1,55 @@
+{
+  "drug_name": "Chlorothiazide",
+  "drug_id": 934,
+  "sections": {
+    "warnings": "WARNINGS Intravenous use in infants and children has been limited and is not generally recommended. Use with caution in severe renal disease. In patients with renal disease, thiazides may precipitate azotemia. Cumulative effects of the drug may develop in patients with impaired renal function. Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma. Thiazides may add to or potentiate the action of other antihypertensive drugs. Sensitivity reactions may occur in patients with or without a history of allergy or bronchial asthma. The possibility of exacerbation or activation of systemic lupus erythematosus has been reported. Lithium generally should not be given with diuretics (see PRECAUTIONS, Drug Interactions ).",
+    "drug_interactions": "Drug Interactions When given concurrently the following drugs may interact with thiazide diuretics. Alcohol, barbiturates, or narcotics - potentiation of orthostatic hypotension may occur. Antidiabetic drugs - (oral agents and insulin) - dosage adjustment of the antidiabetic drug may be required. Other antihypertensive drugs - additive effect or potentiation. Corticosteroids, ACTH - intensified electrolyte depletion, particularly hypokalemia. Pressor amines (e.g., norepinephrine) - possible decreased response to pressor amines but not sufficient to preclude their use. Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) - possible increased responsiveness to the muscle relaxant. Lithium - generally should not be given with diuretics. Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such preparations with chlorothiazide sodium. Non-steroidal Anti-inflammatory Drugs - In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics. Therefore, when chlorothiazide sodium and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.",
+    "contraindications": "CONTRAINDICATIONS Anuria. Hypersensitivity to any component of this product or to other sulfonamide-derived drugs.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Chlorothiazide sodium for injection should be reserved for patients unable to take oral medication or for emergency situations. Therapy should be individualized according to patient response. Use the smallest dosage necessary to achieve the required response. Intravenous use in infants and children has been limited and is not generally recommended. When medication can be taken orally, therapy with chlorothiazide tablets or oral suspension may be substituted for intravenous therapy, using the same dosage schedule as for the parenteral route. Chlorothiazide sodium for injection may be given slowly by direct intravenous injection or by intravenous infusion. Extravasation must be rigidly avoided. Do not give subcutaneously or intramuscularly. The usual adult dosage is 500 mg to 1 g once or twice a day. Many patients with edema respond to intermittent therapy, i.e., administration on alternate days or on three to five days each week. With an intermittent schedule, excessive response and the resulting undesirable electrolyte imbalance are less likely to occur. Directions for Reconstitution Use aseptic technique. Because chlorothiazide sodium for injection contains no preservative, a fresh solution should be prepared immediately prior to each administration, and the unused portion should be discarded. Add 18 mL of Sterile Water for Injection to the vial to form an isotonic solution for intravenous injection. Never add less than 18 mL. When reconstituted with 18 mL of Sterile Water, the final concentration of intravenous chlorothiazide sodium is 28 mg/mL. The reconstituted solution is clear and essentially free from visible particles. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to use whenever solution and container permit. The solution is compatible with dextrose or sodium chloride solutions for intravenous infusion. Avoid simultaneous administration of solutions of chlorothiazide with whole blood or its derivatives.",
+    "indications_and_usage": "INDICATIONS AND USAGE Chlorothiazide sodium for injection is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. Chlorothiazide sodium for injection has also been found useful in edema due to various forms of renal dysfunction such as nephrotic syndrome, acute glomerulonephritis, and chronic renal failure. Use in Pregnancy Routine use of diuretics during normal pregnancy is inappropriate and exposes mother and fetus to unnecessary hazard. Diuretics do not prevent development of toxemia of pregnancy and there is no satisfactory evidence that they are useful in the treatment of toxemia. Edema during pregnancy may arise from pathologic causes or from the physiologic and mechanical consequences of pregnancy. Thiazides are indicated in pregnancy when edema is due to pathologic causes, just as they are in the absence of pregnancy (see PRECAUTIONS, Pregnancy ). Dependent edema in pregnancy, resulting from restriction of venous return by the gravid uterus, is properly treated through elevation of the lower extremities and use of support stockings. Use of diuretics to lower intravascular volume in this instance is illogical and unnecessary. During normal pregnancy there is hypervolemia which is not harmful to the fetus or the mother in the absence of cardiovascular disease. However, it may be associated with edema, rarely generalized edema. If such edema causes discomfort, increased recumbency will often provide relief. Rarely this edema may cause extreme discomfort which is not relieved by rest. In these instances, a short course of diuretic therapy may provide relief and be appropriate."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA091546"
+    ],
+    "brand_name": [
+      "CHLOROTHIAZIDE SODIUM"
+    ],
+    "generic_name": [
+      "CHLOROTHIAZIDE SODIUM"
+    ],
+    "manufacturer_name": [
+      "Sun Pharmaceutical Industries, Inc."
+    ],
+    "product_ndc": [
+      "47335-330"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "CHLOROTHIAZIDE SODIUM"
+    ],
+    "rxcui": [
+      "484152"
+    ],
+    "spl_id": [
+      "dda0054a-e39b-4667-addf-e999a34806d8"
+    ],
+    "spl_set_id": [
+      "187240e9-1eed-45ec-befb-18647d175112"
+    ],
+    "package_ndc": [
+      "47335-330-40"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SN86FG7N2K"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "drug_name": "Carisoprodol",
+  "drug_id": 1459,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Due to sedative properties, may impair ability to perform hazardous tasks such as driving or operating machinery (5.1) Additive sedative effects when used with other CNS depressants including alcohol (5.1) Cases of abuse, dependence and withdrawal ( 5.2 , 9.2 , 9.3 ) Seizures (5.3) 5.1 Sedation Carisoprodol has sedative properties (in the low back pain trials, 13% to 17% of patients who received carisoprodol experienced sedation compared to 6% of patients who received placebo) [ see ADVERSE REACTIONS (6.1) ] and may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a motor vehicle or operating machinery. There have been post-marketing reports of motor vehicle accidents associated with the use of carisoprodol. Since the sedative effects of carisoprodol and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive, appropriate caution should be exercised with patients who take more than one of these CNS depressants simultaneously. 5.2 Abuse, Dependence, and Withdrawal Carisoprodol, the active ingredient, has been subject to abuse, dependence, and withdrawal, misuse and criminal diversion. [ see Drug Abuse and Dependence (9.1 , 9.2 , 9.3) ]. Abuse of carisoprodol poses a risk of overdosage which may lead to death, CNS and respiratory depression, hypotension, seizures and other disorders [ see Overdosage (10) ]. Post-marketing experience cases of carisoprodol abuse and dependence have been reported in patients with prolonged use and a history of drug abuse. Although most of these patients took other drugs of abuse, some patients solely abused carisoprodol. Withdrawal symptoms have been reported following abrupt cessation of carisoprodol after prolonged use. Reported withdrawal symptoms included insomnia, vomiting, abdominal cramps, headache, tremors, muscle twitching, ataxia, hallucinations, and psychosis. One of carisoprodol\u2019s metabolites, meprobamate (a controlled substance), may also cause dependence [ see Clinical Pharmacology (12.3) ]. To reduce the risk of carisoprodol abuse assess the risk of abuse prior to prescribing. After prescribing, limit the length of treatment to three weeks for the relief of acute musculoskeletal discomfort, keep careful prescription records, monitor for signs of abuse and overdose, and educate patients and their families about abuse and on proper storage and disposal. 5.3 Seizures There have been post-marketing reports of seizures in patients who received carisoprodol. Most of these cases have occurred in the setting of multiple drug overdoses (including drugs of abuse, illegal drugs, and alcohol) [ see Overdosage (10) ].",
+    "drug_interactions": "7 DRUG INTERACTIONS CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) - additive sedative effects ( 5.1 , 7.1 ) 7.1 CNS Depressants The sedative effects of carisoprodol and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously. Concomitant use of carisoprodol and meprobamate, a metabolite of carisoprodol, is not recommended [ see Warnings and Precautions (5.1) ]. 7.2 CYP2C19 Inhibitors and Inducers Carisoprodol is metabolized in the liver by CYP2C19 to form meprobamate [ see Clinical Pharmacology (12.3) ]. Co-administration of CYP2C19 inhibitors, such as omeprazole or fluvoxamine, with carisoprodol could result in increased exposure of carisoprodol and decreased exposure of meprobamate. Co-administration of CYP2C19 inducers, such as rifampin or St. John\u2019s Wort, with carisoprodol could result in decreased exposure of carisoprodol and increased exposure of meprobamate. Low dose aspirin also showed an induction effect on CYP2C19. The full pharmacological impact of these potential alterations of exposures in terms of either efficacy or safety of carisoprodol is unknown.",
+    "contraindications": "4 CONTRAINDICATIONS Carisoprodol is contraindicated in patients with a history of acute intermittent porphyria or a hypersensitivity reaction to a carbamate such as meprobamate. Acute intermittent porphyria (4) Hypersensitivity reactions to a carbamate such as meprobamate (4)",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended dose of carisoprodol is 350 mg three times a day and at bedtime. The recommended maximum duration of carisoprodol use is up to two or three weeks. Recommended dose is 350 mg three times a day and at bedtime. (2)",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Carisoprodol is indicated for the relief of discomfort associated with acute, painful musculoskeletal conditions in adults. Limitation of Use Carisoprodol should only be used for short periods (up to two or three weeks) because adequate evidence of effectiveness for more prolonged use has not been established and because acute, painful musculoskeletal conditions are generally of short duration. [ see Dosage and Administration (2) ]. Carisoprodol is a muscle relaxant indicated for the relief of discomfort associated with acute, painful musculoskeletal conditions in adults. (1) Limitations of Use Should only be used for acute treatment periods up to two or three weeks ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA040188"
+    ],
+    "brand_name": [
+      "Carisoprodol"
+    ],
+    "generic_name": [
+      "CARISOPRODOL"
+    ],
+    "manufacturer_name": [
+      "Oxford Pharmaceuticals, LLC"
+    ],
+    "product_ndc": [
+      "69584-111"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CARISOPRODOL"
+    ],
+    "rxcui": [
+      "197446"
+    ],
+    "spl_id": [
+      "c2798091-3c51-4962-b72d-f11592ec00f5"
+    ],
+    "spl_set_id": [
+      "03c3455f-e217-4a7e-908f-609333dc35fc"
+    ],
+    "package_ndc": [
+      "69584-111-10",
+      "69584-111-50",
+      "69584-111-90"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175730",
+      "N0000175737"
+    ],
+    "pharm_class_pe": [
+      "Centrally-mediated Muscle Relaxation [PE]"
+    ],
+    "pharm_class_epc": [
+      "Muscle Relaxant [EPC]"
+    ],
+    "unii": [
+      "21925K482H"
+    ]
+  }
+}

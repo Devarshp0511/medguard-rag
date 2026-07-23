@@ -1,0 +1,67 @@
+{
+  "drug_name": "Brinzolamide",
+  "drug_id": 1480,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Sulfonamide hypersensitivity reactions. ( 5.1 ) \u2022 Corneal edema may occur in patients with low endothelial cell counts. ( 5.2 ) 5.1 Sulfonamide Hypersensitivity Reactions AZOPT is a sulfonamide and although administered topically, it is absorbed systemically. Therefore, the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration of AZOPT. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides, including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias. Sensitization may recur when a sulfonamide is readministered irrespective of the route of administration. If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation immediately. 5.2 Corneal Endothelium Carbonic anhydrase activity has been observed in both the cytoplasm and around the plasma membranes of the corneal endothelium. There is an increased potential for developing corneal edema in patients with low endothelial cell counts. Caution should be used when prescribing AZOPT to this group of patients. 5.3 Severe Renal Impairment AZOPT has not been studied in patients with severe renal impairment [creatinine clearance (CrCl) less than 30 mL/min]. Because AZOPT and its metabolite are excreted predominantly by the kidney, AZOPT is not recommended in such patients. 5.4 Acute Angle-Closure Glaucoma The management of patients with acute angle-closure glaucoma requires therapeutic interventions in addition to ocular hypotensive agents. AZOPT has not been studied in patients with acute angle-closure glaucoma. 5.5 Risk of Contamination Avoid allowing the tip of the dispensing container to contact the eye or surrounding structures or other surfaces, since the product can become contaminated by common bacteria known to cause ocular infections. Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions. 5.6 Contact Lens Wear The preservative in AZOPT, benzalkonium chloride, may be absorbed by soft contact lenses. Contact lenses should be removed during instillation of AZOPT, but may be reinserted 15 minutes after instillation.",
+    "drug_interactions": "7 DRUG INTERACTIONS \u2022 There is a potential additive effect of the known systemic effects of carbonic anhydrase inhibition in patients receiving both oral and topical carbonic anhydrase inhibitors. ( 7.1 ) \u2022 Rare instances of acid-base alterations have occurred with high-dose salicylate therapy. ( 7.2 ) 7.1 Oral Carbonic Anhydrase Inhibitors There is a potential for an additive effect on the known systemic effects of carbonic anhydrase inhibition in patients receiving an oral carbonic anhydrase inhibitor and AZOPT. The concomitant administration of AZOPT and oral carbonic anhydrase inhibitors is not recommended. 7.2 High-Dose Salicylate Therapy Carbonic anhydrase inhibitors may produce acid-base and electrolyte alterations. These alterations were not reported in the clinical trials with brinzolamide. However, in patients treated with oral carbonic anhydrase inhibitors, rare instances of acid-base alterations have occurred with high-dose salicylate therapy. Therefore, the potential for such drug interactions should be considered in patients receiving AZOPT.",
+    "contraindications": "4 CONTRAINDICATIONS AZOPT is contraindicated in patients who are hypersensitive to any component of this product. Hypersensitivity to any component of this product. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended dose is one drop of AZOPT in the affected eye(s) 3 times daily. Shake well before use. AZOPT may be used concomitantly with other topical ophthalmic drug products to lower IOP. If more than one topical ophthalmic drug is being used, the drugs should be administered at least 10 minutes apart. \u2022 Instill one drop in the affected eye(s) 3 times daily. ( 2 ) \u2022 If more than one topical ophthalmic drug is being used, the drugs should be administered at least 10 minutes apart. ( 2 )",
+    "indications_and_usage": "1 INDICATIONS AND USAGE AZOPT is a carbonic anhydrase inhibitor indicated in the treatment of elevated intraocular pressure (IOP) in patients with ocular hypertension or open-angle glaucoma. AZOPT is a carbonic anhydrase inhibitor indicated for the treatment of elevated intraocular pressure (IOP) in patients with ocular hypertension or open-angle glaucoma. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA020816"
+    ],
+    "brand_name": [
+      "Azopt"
+    ],
+    "generic_name": [
+      "BRINZOLAMIDE"
+    ],
+    "manufacturer_name": [
+      "Sandoz Inc"
+    ],
+    "product_ndc": [
+      "66758-085"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "BRINZOLAMIDE"
+    ],
+    "rxcui": [
+      "213272",
+      "308805"
+    ],
+    "spl_id": [
+      "0afb6589-51ba-432c-aed1-20a12d5d3455"
+    ],
+    "spl_set_id": [
+      "0afb6589-51ba-432c-aed1-20a12d5d3455"
+    ],
+    "package_ndc": [
+      "66758-085-70",
+      "66758-085-85"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175517",
+      "N0000000235"
+    ],
+    "pharm_class_epc": [
+      "Carbonic Anhydrase Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Carbonic Anhydrase Inhibitors [MoA]"
+    ],
+    "unii": [
+      "9451Z89515"
+    ]
+  }
+}

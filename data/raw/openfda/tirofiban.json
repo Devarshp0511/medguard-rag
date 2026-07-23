@@ -1,0 +1,59 @@
+{
+  "drug_name": "Tirofiban",
+  "drug_id": 135,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Tirofiban hydrochloride injection can cause serious bleeding. If bleeding cannot be controlled discontinue tirofiban hydrochloride injection. ( 5.1 ) Thrombocytopenia: Discontinue tirofiban hydrochloride injection and heparin. ( 5.2 ) 5.1 General Risk of Bleeding Bleeding is the most common complication encountered during therapy with tirofiban hydrochloride injection. Most bleeding associated with tirofiban hydrochloride injection occurs at the arterial access site for cardiac catheterization. Minimize the use of traumatic or potentially traumatic procedures such as arterial and venous punctures, intramuscular injections, nasotracheal intubation, etc. Concomitant use of fibrinolytics, anticoagulants and antiplatelet drugs increases the risk of bleeding. 5.2 Thrombocytopenia Profound thrombocytopenia has been reported with tirofiban hydrochloride injection. Monitor platelet counts beginning about 6 hours after treatment initiation and daily thereafter. If the platelet count decreases to < 90,000/mm 3 , monitor platelet counts to exclude pseudothrombocytopenia. If thrombocytopenia is confirmed, discontinue tirofiban hydrochloride injection and heparin. Previous exposure to a glycoprotein (GP) IIb/IIIa receptor antagonist may increase the risk of developing thrombocytopenia [see Adverse Reactions ( 6.1 )] .",
+    "drug_interactions": "7 DRUG INTERACTIONS Concomitant use of fibrinolytics, anticoagulants and antiplatelet drugs increases the risk of bleeding. Coadministration of fibrinolytics, anticoagulants and antiplatelet agents, increases the risk of bleeding. ( 7 )",
+    "contraindications": "4 CONTRAINDICATIONS Tirofiban hydrochloride injection is contraindicated in patients with: Severe hypersensitivity reaction to tirofiban hydrochloride injection (i.e., anaphylactic reactions) [see Adverse Reactions ( 6.2 )] . A history of thrombocytopenia following prior exposure to tirofiban hydrochloride injection [see Adverse Reactions ( 6.1 )] . Active internal bleeding or a history of bleeding diathesis, major surgical procedure or severe physical trauma within the previous month [see Adverse Reactions ( 6.1 )] . Known hypersensitivity to any component of tirofiban hydrochloride injection. ( 4 ) History of thrombocytopenia with prior exposure to tirofiban hydrochloride injection. ( 4 ) Active internal bleeding, or history of bleeding diathesis, major surgical procedure or severe physical trauma within the previous month. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Administer intravenously 25 mcg/kg within 5 minutes and then 0.15 mcg/kg/min for up to 18 hours. In patients with creatinine clearance \u2264 60 mL/min, give 25 mcg/kg within 5 minutes and then 0.075 mcg/kg/min. ( 2 ) 2.1 Recommended Dosage The recommended dosage is 25 mcg/kg administered intravenously within 5 minutes and then 0.15 mcg/kg/min for up to 18 hours. 2.2 Administration For intravenous use only. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit. To open the 250 mL premixed bag, first tear off its foil overpouch. The plastic may be somewhat opaque because of moisture absorption during sterilization; the opacity will diminish gradually. Check for leaks by squeezing the inner bag firmly; if any leaks are found or sterility is suspect then the solution should be discarded. Do not use unless the solution is clear and the seal is intact. Administration Instructions The bolus dose of tirofiban hydrochloride injection may be administered from the 250 mL premixed bag. Do not dilute. Administer the bolus dose within 5 minutes via IV pump. Immediately following the bolus dose administration, administer the maintenance infusion from the 250 mL premixed bag via an IV pump. Discard any unused portion left in the bag. The recommended bolus volume using 250 mL premixed bag can be calculated using the following equation: Bolus Volume (mL) = 25 mcg/kg X body weight (kg) 50 mcg/mL The recommended infusion rate for patients with CrCl (Creatinine Clearance) > 60 mL/min using the 250 mL premixed bag can be calculated using the following equation: Infusion Rate for CrCl > 60 mL/min (mL/h) = 0.15 mcg/kg/min x body weight (kg) x 60 min/h 50 mcg/mL Example calculation of infusion rate for 60 kg patient with CrCl > 60 mL/min using the 250 mL premixed bag: Infusion Rate for CrCl > 60 mL/min (mL/h) = 0.15 mcg/kg/min x 60 kg x 60 min/h =10.8 mL/h 50 mcg/mL Drug Compatibilities Tirofiban hydrochloride injection can be administered in the same intravenous line as heparin, atropine sulfate, dobutamine, dopamine, epinephrine hydrochloride (HCl), famotidine injection, furosemide, lidocaine, midazolam HCl, morphine sulfate, nitroglycerin, potassium chloride, and propranolol HCl. Do not administer tirofiban hydrochloride injection through the same IV line as diazepam. Do not add other drugs or remove solution directly from bag with a syringe. 2.3 Dose Adjustment for Renal Impairment The recommended dosage in patients with CrCl \u2264 60 mL/min (calculated using the Cockcroft-Gault equation with actual body weight) is 25 mcg/kg intravenously within 5 minutes and then 0.075 mcg/kg/min, for up to 18 hours. The recommended infusion rate for patients with CrCl \u2264 60 mL/min using the 250 mL premixed bag can be calculated using the following equation: Infusion Rate for CrCl \u2264 60 mL/min (mL/h) = 0.075 mcg/kg/min x body weight (kg) x 60 min/h 50 mcg/mL",
+    "dosage_and_administration_table": "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"15.000%\" align=\"left\"/><col width=\"85.000%\" align=\"left\"/><tbody><tr><td rowspan=\"2\" align=\"left\" valign=\"middle\">Bolus Volume (mL) = </td><td align=\"justify\" valign=\"top\"><content styleCode=\"underline\"> 25 mcg/kg X body weight (kg) </content></td></tr><tr><td align=\"left\" valign=\"top\"> 50 mcg/mL </td></tr></tbody></table> <table width=\"100%\" styleCode=\"Noautorules\"><col width=\"25.000%\" align=\"left\"/><col width=\"75.000%\" align=\"left\"/><tbody><tr><td rowspan=\"2\" align=\"left\" valign=\"middle\">Infusion Rate for CrCl &gt; 60 mL/min (mL/h) = </td><td align=\"left\" valign=\"top\"><content styleCode=\"underline\"> 0.15 mcg/kg/min x body weight (kg) x 60 min/h </content></td></tr><tr><td align=\"justify\" valign=\"top\"> 50 mcg/mL </td></tr></tbody></table> <table width=\"100%\" styleCode=\"Noautorules\"><col width=\"25.000%\" align=\"left\"/><col width=\"30.000%\" align=\"left\"/><col width=\"45.000%\" align=\"left\"/><tbody><tr><td rowspan=\"2\" align=\"left\" valign=\"middle\">Infusion Rate for CrCl &gt; 60 mL/min (mL/h) = </td><td align=\"left\" valign=\"top\"><content styleCode=\"underline\"> 0.15 mcg/kg/min x 60 kg x 60 min/h </content></td><td rowspan=\"2\" align=\"left\" valign=\"middle\">=10.8 mL/h </td></tr><tr><td align=\"justify\" valign=\"top\"> 50 mcg/mL </td></tr></tbody></table> <table width=\"100%\" styleCode=\"Noautorules\"><col width=\"25.000%\" align=\"left\"/><col width=\"75.000%\" align=\"left\"/><tbody><tr><td rowspan=\"2\" align=\"left\" valign=\"middle\">Infusion Rate for CrCl &#x2264; 60 mL/min (mL/h) = </td><td align=\"justify\" valign=\"top\"><content styleCode=\"underline\"> 0.075 mcg/kg/min x body weight (kg) x 60 min/h </content></td></tr><tr><td align=\"left\" valign=\"top\"> 50 mcg/mL </td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Tirofiban hydrochloride injection is indicated to reduce the rate of thrombotic cardiovascular events (combined endpoint of death, myocardial infarction, or refractory ischemia/repeat cardiac procedure) in patients with non-ST elevation acute coronary syndrome (NSTE-ACS). Tirofiban hydrochloride injection is a platelet aggregation inhibitor indicated to reduce the rate of thrombotic cardiovascular events (combined endpoint of death, myocardial infarction, or refractory ischemia/repeat cardiac procedure) in patients with non-ST elevation acute coronary syndrome (NSTE-ACS). ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA206888"
+    ],
+    "brand_name": [
+      "Tirofiban Hydrochloride"
+    ],
+    "generic_name": [
+      "TIROFIBAN HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Sagent Pharmaceuticals"
+    ],
+    "product_ndc": [
+      "25021-417"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "TIROFIBAN HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1737471"
+    ],
+    "spl_id": [
+      "42fc0d8a-6595-491f-aedb-6451129d239d"
+    ],
+    "spl_set_id": [
+      "13ea7fb8-4b01-4286-9464-26c0b624bc3b"
+    ],
+    "package_ndc": [
+      "25021-417-84"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0325021417843"
+    ],
+    "unii": [
+      "6H925F8O5J"
+    ]
+  }
+}

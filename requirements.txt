@@ -1,0 +1,26 @@
+# Core
+sqlalchemy>=2.0
+pydantic-settings>=2.0
+
+# Data ingestion
+requests>=2.30
+
+# Embeddings & vector store
+sentence-transformers>=2.2
+qdrant-client>=1.9
+
+# LLM generation
+anthropic>=0.30
+
+# API
+fastapi>=0.110
+uvicorn[standard]>=0.29
+
+# UI
+streamlit>=1.35
+
+# Evaluation (optional — only needed for running app.eval.run_eval)
+ragas>=0.1
+datasets>=2.0
+langchain-anthropic>=0.1
+langchain-huggingface>=0.0.1

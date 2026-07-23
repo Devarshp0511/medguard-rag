@@ -1,0 +1,67 @@
+{
+  "drug_name": "Calcitriol",
+  "drug_id": 905,
+  "sections": {
+    "warnings": "WARNINGS Overdosage of any form of vitamin D is dangerous (see OVERDOSAGE ). Progressive hypercalcemia due to overdosage of vitamin D and its metabolites may be so severe as to require emergency attention. Chronic hypercalcemia can lead to generalized vascular calcification, nephrocalcinosis and other soft-tissue calcification. The serum calcium times phosphate (Ca x P) product should not be allowed to exceed 70 mg 2 /dL 2 . Radiographic evaluation of suspect anatomical regions may be useful in the early detection of this condition. Calcitriol Oral Solution is the most potent metabolite of vitamin D available. The administration of Calcitriol Oral Solution to patients in excess of their daily requirements can cause hypercalcemia, hypercalciuria, and hyperphosphatemia. Therefore, pharmacologic doses of vitamin D and its derivatives should be withheld during Calcitriol Oral Solution treatment to avoid possible additive effects and hypercalcemia. If treatment is switched from ergocalciferol (vitamin D 2 ) to calcitriol, it may take several months for the ergocalciferol level in the blood to return to the baseline value (see OVERDOSAGE ). Calcitriol increases inorganic phosphate levels in serum. While this is desirable in patients with hypophosphatemia, caution is called for in patients with renal failure because of the danger of ectopic calcification. A nonaluminum phosphate-binding compound and a low-phosphate diet should be used to control serum phosphorus levels in patients undergoing dialysis. Magnesium-containing preparations (eg, antacids) and Calcitriol Oral Solution should not be used concomitantly in patients on chronic renal dialysis because such use may lead to the development of hypermagnesemia. Studies in dogs and rats given calcitriol for up to 26 weeks have shown that small increases of calcitriol above endogenous levels can lead to abnormalities of calcium metabolism with the potential for calcification of many tissues in the body.",
+    "contraindications": "CONTRAINDICATIONS Calcitriol Oral Solution should not be given to patients with hypercalcemia or evidence of vitamin D toxicity. Use of Calcitriol Oral Solution in patients with known hypersensitivity to Calcitriol Oral Solution (or drugs of the same class) or any of the inactive ingredients is contraindicated.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The optimal daily dose of Calcitriol Oral Solution must be carefully determined for each patient. Calcitriol Oral Solution can be administered as an oral solution (1 mcg/mL). Calcitriol Oral Solution therapy should always be started at the lowest possible dose and should not be increased without careful monitoring of serum calcium. The effectiveness of Calcitriol Oral Solution therapy is predicated on the assumption that each patient is receiving an adequate but not excessive daily intake of calcium. Patients are advised to have a dietary intake of calcium at a minimum of 600 mg daily. The U.S. RDA for calcium in adults is 800 mg to 1200 mg. To ensure that each patient receives an adequate daily intake of calcium, the physician should either prescribe a calcium supplement or instruct the patient in proper dietary measures. Because of improved calcium absorption from the gastrointestinal tract, some patients on Calcitriol Oral Solution may be maintained on a lower calcium intake. Patients who tend to develop hypercalcemia may require only low doses of calcium or no supplementation at all. During the titration period of treatment with Calcitriol Oral Solution, serum calcium levels should be checked at least twice weekly. When the optimal dosage of Calcitriol Oral Solution has been determined, serum calcium levels should be checked every month (or as given below for individual indications). Samples for serum calcium estimation should be taken without a tourniquet. Dialysis Patients The recommended initial dose of Calcitriol Oral Solution is 0.25 mcg/day. If a satisfactory response in the biochemical parameters and clinical manifestations of the disease state is not observed, dosage may be increased by 0.25 mcg/day at 4- to 8-week intervals. During this titration period, serum calcium levels should be obtained at least twice weekly, and if hypercalcemia is noted, the drug should be immediately discontinued until normocalcemia ensues (see PRECAUTIONS: GENERAL ). Phosphorus, magnesium, and alkaline phosphatase should be determined periodically. Patients with normal or only slightly reduced serum calcium levels may respond to Calcitriol Oral Solution doses of 0.25 mcg every other day. Most patients undergoing hemodialysis respond to doses between 0.5 and 1 mcg/day. Calcitriol Oral Solution may normalize plasma-ionized calcium in some uremic patients, yet fail to suppress parathyroid hyperfunction. In these individuals with autonomous parathyroid hyper-function, Calcitriol Oral Solution may be useful to maintain normocalcemia, but has not been shown to be adequate treatment for hyperparathyroidism. Hypoparathyroidism The recommended initial dosage of Calcitriol Oral Solution is 0.25 mcg/day given in the morning. If a satisfactory response in the biochemical parameters and clinical manifestations of the disease is not observed, the dose may be increased at 2- to 4-week intervals. During the dosage titration period, serum calcium levels should be obtained at least twice weekly and, if hypercalcemia is noted, Calcitriol Oral Solution should be immediately discontinued until normocalcemia ensues (see PRECAUTIONS: GENERAL ). Careful consideration should also be given to lowering the dietary calcium intake. Serum calcium, phosphorus, and 24-hour urinary calcium should be determined periodically. Most adult patients and pediatric patients age 6 years and older have responded to dosages in the range of 0.5 mcg to 2 mcg daily. Pediatric patients in the 1- to 5-year age group with hypoparathyroidism have usually been given 0.25 mcg to 0.75 mcg daily. The number of treated patients with pseudohypoparathyroidism less than 6 years of age is too small to make dosage recommendations. Malabsorption is occasionally noted in patients with hypoparathyroidism; hence, larger doses of Calcitriol Oral Solution may be needed. Predialysis Patients The recommended initial dosage of Calcitriol Oral Solution is 0.25 mcg/day in adults and pediatric patients 3 years of age and older. This dosage may be increased if necessary to 0.5 mcg/day. For pediatric patients less than 3 years of age, the recommended initial dosage of Calcitriol Oral Solution is 10 to 15 ng/kg/day.",
+    "indications_and_usage": "INDICATIONS AND USAGE Predialysis Patients Calcitriol Oral Solution is indicated in the management of secondary hyperparathyroidism and resultant metabolic bone disease in patients with moderate to severe chronic renal failure (Ccr 15 to 55 mL/min) not yet on dialysis. In children, the creatinine clearance value must be corrected for a surface area of 1.73 square meters. A serum iPTH level of \u2265 100 pg/mL is strongly suggestive of secondary hyperparathyroidism. Dialysis Patients Calcitriol Oral Solution is indicated in the management of hypocalcemia and the resultant metabolic bone disease in patients undergoing chronic renal dialysis. In these patients, Calcitriol Oral Solution administration enhances calcium absorption, reduces serum alkaline phosphatase levels, and may reduce elevated parathyroid hormone levels and the histological manifestations of osteitis fibrosa cystica and defective mineralization. Hypoparathyroidism Patients Calcitriol Oral Solution is also indicated in the management of hypocalcemia and its clinical manifestations in patients with postsurgical hypoparathyroidism, idiopathic hypoparathyroidism, and pseudohypoparathyroidism."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA209798"
+    ],
+    "brand_name": [
+      "Calcitriol"
+    ],
+    "generic_name": [
+      "CALCITRIOL"
+    ],
+    "manufacturer_name": [
+      "Rising Pharma Holdings, Inc."
+    ],
+    "product_ndc": [
+      "64980-447"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCITRIOL"
+    ],
+    "rxcui": [
+      "313932"
+    ],
+    "spl_id": [
+      "9f3e830b-274e-43f4-b056-b607fec13df8"
+    ],
+    "spl_set_id": [
+      "1bd717a4-5fdf-4697-a6b2-9df55c6517bb"
+    ],
+    "package_ndc": [
+      "64980-447-15"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0364980447157"
+    ],
+    "nui": [
+      "M0004229",
+      "N0000175908"
+    ],
+    "pharm_class_cs": [
+      "Cholecalciferol [CS]"
+    ],
+    "pharm_class_epc": [
+      "Vitamin D3 Analog [EPC]"
+    ],
+    "unii": [
+      "FXC9231JVH"
+    ]
+  }
+}

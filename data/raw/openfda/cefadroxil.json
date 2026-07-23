@@ -1,0 +1,55 @@
+{
+  "drug_name": "Cefadroxil",
+  "drug_id": 914,
+  "sections": {
+    "warnings": "BEFORE THERAPY WITH CEFADROXIL IS INSTITUTED, CAREFUL INQUIRY SHOULD BE MADE TO DETERMINE WHETHER THE PATIENT HAS HAD PREVIOUS HYPERSENSITIVITY REACTIONS TO CEFADROXIL, CEPHALOSPORINS, PENICILLINS, OR OTHER DRUGS. IF THIS PRODUCT IS TO BE GIVEN TO PENICILLIN-SENSITIVE PATIENTS, CAUTION SHOULD BE EXERCISED BECAUSE CROSS-SENSITIVITY AMONG BETA-LACTAM ANTIBIOTICS HAS BEEN CLEARLY DOCUMENTED AND MAY OCCUR IN UP TO 10% OF PATIENTS WITH A HISTORY OF PENICILLIN ALLERGY. IF AN ALLERGIC REACTION TO CEFADROXIL OCCURS, DISCONTINUE THE DRUG. SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE TREATMENT WITH EPINEPHRINE AND OTHER EMERGENCY MEASURES, INCLUDING OXYGEN, INTRAVENOUS FLUIDS, INTRAVENOUS ANTIHISTAMINES, CORTICOSTEROIDS, PRESSOR AMINES, AND AIRWAY MANAGEMENT, AS CLINICALLY INDICATED. Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cefadroxil, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile. C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.",
+    "contraindications": "Cefadroxil is contraindicated in patients with known allergy to the cephalosporin group of antibiotics.",
+    "dosage_and_administration": "Cefadroxil is acid-stable and may be administered orally without regard to meals. Administration with food may be helpful in diminishing potential gastrointestinal complaints occasionally associated with oral cephalosporin therapy. Adults Urinary Tract Infections: For uncomplicated lower urinary tract infections (i.e., cystitis) the usual dosage is 1 or 2 g per day in a single (q.d.) or divided doses (b.i.d.). For all other urinary tract infections the usual dosage is 2 g per day in divided doses (b.i.d.). Skin and Skin Structure Infections: For skin and skin structure infections the usual dosage is 1 g per day in single (q.d.) or divided doses (b.i.d.). Pharyngitis and Tonsillitis: Treatment of group A beta-hemolytic streptococcal pharyngitis and tonsillitis\u20141 g per day in single (q.d.) or divided doses (b.i.d.) for 10 days. Children For urinary tract infections, the recommended daily dosage for children is 30 mg/kg/day in divided doses every 12 hours. For pharyngitis, tonsillitis, and impetigo, the recommended daily dosage for children is 30 mg/kg/day in a single dose or in equally divided doses every 12 hours. For other skin and skin structure infections, the recommended daily dosage is 30 mg/kg/day in equally divided doses every 12 hours. In the treatment of beta-hemolytic streptococcal infections, a therapeutic dosage of cefadroxil should be administered for at least 10 days. Renal Impairment In patients with renal impairment, the dosage of cefadroxil should be adjusted according to creatinine clearance rates to prevent drug accumulation. The following schedule is suggested. In adults, the initial dose is 1000 mg of cefadroxil and the maintenance dose (based on the creatinine clearance rate [mL/min/1.73 m2]) is 500 mg at the time intervals listed below. Creatinine Clearances Dosage Interval 0 to 10 mL/min 36 hours 10 to 25 mL/min 24 hours 25 to 50 mL/min 12 hours Patients with creatinine clearance rates over 50 mL/min may be treated as if they were patients having normal renal function.",
+    "indications_and_usage": "Cefadroxil is indicated for the treatment of patients with infection caused by susceptible strains of the designated organisms in the following diseases: Urinary tract infections caused by E. coli, P. mirabilis, and Klebsiella species. Skin and skin structure infections caused by staphylococci and/or streptococci. Pharyngitis and/or tonsillitis caused by Streptococcus pyogenes (Group A beta-hemolytic streptococci). Note: Only penicillin by the intramuscular route of administration has been shown to be effective in the prophylaxis of rheumatic fever. Cefadroxil is generally effective in the eradication of streptococci from the oropharynx. However, data establishing the efficacy of cefadroxil for the prophylaxis of subsequent rheumatic fever are not available. Note: Culture and susceptibility tests should be initiated prior to and during therapy. Renal function studies should be performed when indicated. To reduce the development of drug-resistant bacteria and maintain the effectiveness of cefadroxil and other antibacterial drugs, cefadroxil should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemology and susceptibility patterns may contribute to the empiric selection of therapy."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA065352"
+    ],
+    "brand_name": [
+      "Cefadroxil"
+    ],
+    "generic_name": [
+      "CEFADROXIL"
+    ],
+    "manufacturer_name": [
+      "Direct_Rx"
+    ],
+    "product_ndc": [
+      "72189-506"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CEFADROXIL"
+    ],
+    "rxcui": [
+      "309049"
+    ],
+    "spl_id": [
+      "1bcfe18a-6a47-6239-e063-6294a90af8d1"
+    ],
+    "spl_set_id": [
+      "02566385-46f3-255a-e063-6294a90a1d1c"
+    ],
+    "package_ndc": [
+      "72189-506-20",
+      "72189-506-06"
+    ],
+    "original_packager_product_ndc": [
+      "65862-085"
+    ],
+    "unii": [
+      "280111G160"
+    ]
+  }
+}

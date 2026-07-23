@@ -1,0 +1,79 @@
+{
+  "drug_name": "Dipyridamole",
+  "drug_id": 64,
+  "sections": {
+    "drug_interactions": "Drug Interactions No pharmacokinetic drug-drug interaction studies were conducted with dipyridamole tablets. The following information was obtained from the literature. Adenosinergic agents (e.g., adenosine, regadenoson) Dipyridamole has been reported to increase the plasma levels and cardiovascular effects of adenosine. Adjustment of adenosine dosage may be necessary. Dipyridamole also increases the cardiovascular effects of regadenoson, an adenosine A 2A -receptor agonist. The potential risk of cardiovascular side effects with intravenous adenosinergic agents may be increased during the testing period when dipyridamole is not held 48 hours prior to stress testing. Cholinesterase Inhibitors Dipyridamole may counteract the anticholinesterase effect of cholinesterase inhibitors, thereby potentially aggravating myasthenia gravis.",
+    "contraindications": "CONTRAINDICATIONS Hypersensitivity to dipyridamole and any of the other components.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Adjunctive Use in Prophylaxis of Thromboembolism after Cardiac Valve Replacement The recommended dose is 75 to 100 mg four times daily as an adjunct to the usual warfarin therapy. Please note that aspirin is not to be administered concomitantly with coumarin anticoagulants.",
+    "indications_and_usage": "INDICATIONS AND USAGE Dipyridamole tablets are indicated as an adjunct to coumarin anticoagulants in the prevention of postoperative thromboembolic complications of cardiac valve replacement."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA040874"
+    ],
+    "brand_name": [
+      "Dipyridamole"
+    ],
+    "generic_name": [
+      "DIPYRIDAMOLE"
+    ],
+    "manufacturer_name": [
+      "Zydus Pharmaceuticals USA Inc."
+    ],
+    "product_ndc": [
+      "68382-187",
+      "68382-188",
+      "68382-189"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIPYRIDAMOLE"
+    ],
+    "rxcui": [
+      "197622",
+      "309952",
+      "309955"
+    ],
+    "spl_id": [
+      "8b638b19-214a-4a58-a336-656d690130e3"
+    ],
+    "spl_set_id": [
+      "004bada0-dbf7-4a94-8792-6833d7eeda2b"
+    ],
+    "package_ndc": [
+      "68382-187-01",
+      "68382-187-05",
+      "68382-187-10",
+      "68382-187-77",
+      "68382-188-01",
+      "68382-188-05",
+      "68382-188-10",
+      "68382-188-77",
+      "68382-189-01",
+      "68382-189-05",
+      "68382-189-10",
+      "68382-189-77"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000008832",
+      "N0000175578"
+    ],
+    "pharm_class_pe": [
+      "Decreased Platelet Aggregation [PE]"
+    ],
+    "pharm_class_epc": [
+      "Platelet Aggregation Inhibitor [EPC]"
+    ],
+    "unii": [
+      "64ALC7F90C"
+    ]
+  }
+}

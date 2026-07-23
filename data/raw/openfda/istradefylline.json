@@ -1,0 +1,66 @@
+{
+  "drug_name": "Istradefylline",
+  "drug_id": 656,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Dyskinesia: Monitor patients for dyskinesia or exacerbation of existing dyskinesia ( 5.1 ). Hallucinations / Psychotic Behavior: Consider dosage reduction or stopping NOURIANZ if occurs ( 5.2 ). Impulse Control / Compulsive Behaviors: Consider dosage reduction or stopping NOURIANZ if occurs ( 5.3 ). 5.1 Dyskinesia NOURIANZ in combination with levodopa may cause dyskinesia or exacerbate pre-existing dyskinesia. In controlled clinical trials (Studies 1, 2, 3, and 4) [see Clinical Studies (14) ] , the incidence of dyskinesia was 15% for NOURIANZ 20 mg, 17% for NOURIANZ 40 mg, and 8% for placebo, in combination with levodopa. One percent of patients treated with either NOURIANZ 20 mg or 40 mg discontinued treatment because of dyskinesia, compared to 0% for placebo. 5.2 Hallucinations / Psychotic Behavior Because of the potential risk of exacerbating psychosis, patients with a major psychotic disorder should not be treated with NOURIANZ. Consider dosage reduction or discontinuation if a patient develops hallucinations or psychotic behaviors while taking NOURIANZ. In controlled clinical trials (Studies 1, 2, 3, and 4) [see Clinical Studies (14) ] , the incidence of hallucinations was 2% for NOURIANZ 20 mg, 6% for NOURIANZ 40 mg, and 3% for placebo. In patients treated with NOURIANZ 40 mg, 1% discontinued because of hallucinations, compared to 0% for placebo and 0% for patients treated with NOURIANZ 20 mg. The incidence of \"abnormal thinking and behavior\" (paranoid ideation, delusions, confusion, mania, disorientation, aggressive behavior, agitation, or delirium) reported as an adverse reaction was 1% for NOURIANZ 20 mg, 2% for NOURIANZ 40 mg, and 1% for placebo. 5.3 Impulse Control / Compulsive Behaviors Patients treated with NOURIANZ and one or more medication(s) for the treatment of Parkinson's disease (including levodopa) may experience intense urges to gamble, increased sexual urges, intense urges to spend money, binge or compulsive eating, and/or other intense urges, and the inability to control these urges. In controlled clinical trials (Studies 1, 2, 3 and 4) [see Clinical Studies (14) ] , one patient treated with NOURIANZ 40 mg was reported to have impulse control disorder, compared to no patient on placebo or NOURIANZ 20 mg. In some postmarketing cases, these urges were reported to have stopped when the dose was reduced, or the medication was discontinued. Because patients may not recognize these behaviors as abnormal, it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending, binge or compulsive eating, or other urges while being treated with NOURIANZ. Consider dose reduction or discontinuation if a patient develops such urges while taking NOURIANZ [see Adverse Reactions (6.2) ] .",
+    "drug_interactions": "7 DRUG INTERACTIONS Strong CYP3A4 inhibitors: Recommended maximum dosage with concomitant use is 20 mg once daily ( 2.2 , 7.1 ). Strong CYP3A4 inducers: Avoid use ( 2.3 , 7.1 ). 7.1 Effect of Other Drugs on NOURIANZ Strong CYP3A4 Inhibitors Coadministration of NOURIANZ with a strong CYP3A4 inhibitor (ketoconazole) increased istradefylline AUC inf by 2.5-fold [see Clinical Pharmacology (12.3) ] . Therefore, the recommended maximum dosage of NOURIANZ in patients concomitantly using strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, clarithromycin) is 20 mg once daily [see Dosage and Administration (2.2) ]. Strong CYP3A4 Inducers Coadministration of NOURIANZ with a strong CYP3A4 inducer (rifampin) decreased istradefylline C max and AUC inf by 45% and 81%, respectively [see Clinical Pharmacology (12.3) ] . Therefore, it is recommended to avoid use of NOURIANZ with strong CYP3A4 inducers (e.g., carbamazepine, rifampin, phenytoin, St. John's wort) [see Dosage and Administration (2.3) ]. 7.2 Effect of NOURIANZ on Other Drugs CYP3A4 Substrates Coadministration of NOURIANZ 20 mg with a CYP3A4 substrate (midazolam) did not affect the CYP3A4 substrate exposure, while concomitant administration of NOURIANZ 40 mg increased the CYP3A4 substrate (atorvastatin) C max and AUC inf by 1.5-fold [see Clinical Pharmacology (12.3) ] . Monitor for an increase in adverse reactions of concomitant drugs that are CYP3A4 substrates when coadministering with NOURIANZ 40 mg. P-glycoprotein (P-gp) Substrates Coadministration of NOURIANZ with a P-gp substrate (digoxin) increased the P-gp substrate C max and AUC inf by 33% and 21%, respectively [see Clinical Pharmacology (12.3) ] . Monitor for an increase in adverse reactions of concomitant drugs that are P-gp substrates when coadministering with NOURIANZ.",
+    "contraindications": "4 CONTRAINDICATIONS None. None ( 4 ).",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended dosage is 20 mg orally once daily. The dosage may be increased to a maximum of 40 mg once daily ( 2.1 ). May be taken with or without food ( 2.1 ). Patients with hepatic impairment: Maximum recommended dosage with moderate hepatic impairment is 20 mg once daily; use of NOURIANZ in patients with severe hepatic impairment should be avoided ( 2.4 , 8.7 ). Patients who smoke 20 or more cigarettes per day (or the equivalent of another tobacco product): Recommended dosage is 40 mg once daily ( 2.5 , 8.8 ). 2.1 Dosing Information The recommended dosage of NOURIANZ is 20 mg administered orally once daily. The dosage may be increased to a maximum of 40 mg once daily, based on individual need and tolerability. Initial dose titration is not required. NOURIANZ can be taken with or without food [see Clinical Pharmacology (12.3) ] . 2.2 Dosage Adjustment with Strong CYP3A4 Inhibitors The maximum recommended dosage of NOURIANZ with concomitant use of strong CYP3A4 inhibitors is 20 mg once daily [see Drug Interactions (7.1) ] . 2.3 Dosing with Strong CYP3A4 Inducers Avoid use of NOURIANZ with strong CYP3A4 inducers [see Drug Interactions (7.1) ] . 2.4 Dosage Adjustment in Patients with Hepatic Impairment The maximum recommended dosage of NOURIANZ in patients with moderate hepatic impairment (Child-Pugh Class B) is 20 mg once daily. Closely monitor patients with moderate hepatic impairment for adverse reactions when on NOURIANZ treatment [see Adverse Reactions (6.1) ] . Avoid use of NOURIANZ in patients with severe hepatic impairment (Child-Pugh Class C) [see Use in Specific Populations (8.7) ] . 2.5 Dosage Adjustment for Tobacco Smokers The recommended dosage of NOURIANZ in patients who use tobacco in amounts of 20 or more cigarettes per day (or the equivalent of another tobacco product) is 40 mg once daily [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3) ] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE NOURIANZ is indicated as adjunctive treatment to levodopa/carbidopa in adult patients with Parkinson's disease (PD) experiencing \"off\" episodes. NOURIANZ is an adenosine receptor antagonist indicated as adjunctive treatment to levodopa/carbidopa in adult patients with Parkinson's disease (PD) experiencing \"off\" episodes ( 1 )."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA022075"
+    ],
+    "brand_name": [
+      "NOURIANZ"
+    ],
+    "generic_name": [
+      "ISTRADEFYLLINE"
+    ],
+    "manufacturer_name": [
+      "Kyowa Kirin, Inc."
+    ],
+    "product_ndc": [
+      "42747-602",
+      "42747-604"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ISTRADEFYLLINE"
+    ],
+    "rxcui": [
+      "2199020",
+      "2199026",
+      "2199028",
+      "2199030"
+    ],
+    "spl_id": [
+      "607b4223-661d-45e0-8209-99c5ba62d5c0"
+    ],
+    "spl_set_id": [
+      "a7d008cb-b273-4049-a5d2-9c6902910d58"
+    ],
+    "package_ndc": [
+      "42747-602-90",
+      "42747-602-07",
+      "42747-604-90",
+      "42747-604-07"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0342747604906",
+      "0342747602902"
+    ],
+    "unii": [
+      "2GZ0LIK7T4"
+    ]
+  }
+}

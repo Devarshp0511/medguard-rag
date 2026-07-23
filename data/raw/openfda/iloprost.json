@@ -1,0 +1,65 @@
+{
+  "drug_name": "Iloprost",
+  "drug_id": 90,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS AURLUMYN may cause symptomatic hypotension. Monitor vital signs while initiating AURLUMYN. Correct hypotension prior to administration of AURLUMYN ( 5.1 ). 5.1 Hypotension AURLUMYN is a systemic vasodilator and may cause symptomatic hypotension. Correct hypotension prior to administration of AURLUMYN. Monitor vital signs while administering AURLUMYN. Consider temporary discontinuation of concomitant vasodilator or other antihypertensive medications while administering AURLUMYN to reduce potential additive hypotensive effects. Consider down-titration or discontinuation of AURLUMYN if hypotension persists despite discontinuation of other antihypertensives and fluid resuscitation.",
+    "contraindications": "4 CONTRAINDICATIONS None. None ( 4 ).",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Initiate intravenous infusion at 0.5 ng/kg/minute and titrate in 0.5 ng/kg/minute increments based on tolerability at intervals of 30 minutes to a maximum of 2 ng/kg/minute ( 2.1 ). Administer as continuous infusion for 6 hours each day up to a maximum of 8 consecutive days ( 2.1 ). Patients with moderate or severe hepatic impairment (Child-Pugh Class B or C): initiate infusion at 0.25 ng/kg/minute and titrate as described above ( 2.3 ). Patients with renal impairment with eGFR less than 30 mL/min: initiate infusion at 0.5 ng/kg/minute and titrate as described above. If the patient cannot tolerate the starting dose of 0.5 ng/kg/minute, the dose can be decreased to 0.25 ng/kg/minute ( 2.4 ). See Full Prescribing Information for instructions on preparation and administration ( 2.2 ). 2.1 Recommended Dosage Monitor vital signs prior to the start of the infusion and with every dose increase. Administer AURLUMYN as a continuous intravenous infusion over 6 hours each day for up to a maximum of 8 consecutive days. Start the initial infusion on day 1 at a rate of 0.5 ng/kg/minute and increase in increments of 0.5 ng/kg/minute every 30 minutes according to tolerability up to 2 ng/kg/minute. Dosage is based on actual patient body weight (kg). Repeat dose titration steps on day 2 and day 3. From day 4 onward, start the infusion at the highest tolerated dose from the previous day, and adjust the rate as needed, based on tolerability. Adverse reactions such as headache, flushing, jaw pain, myalgia, nausea, and vomiting may be dose-limiting. If dose-limiting adverse reactions occur that cannot be tolerated by the patient, then decrease the dose in a stepwise manner by 0.5 ng/kg/min every 30 minutes, until a tolerated dose is reached. If a dose-limiting adverse reaction occurs during administration of AURLUMYN at the starting dose, the infusion should be discontinued, and re-initiation of the infusion can be attempted after the event has resolved or been treated. If infusion is stopped at any point for a dose-limiting adverse event, infusion can be reinitiated at a previously tolerated dose/infusion rate once the event has resolved. The maximum tolerated dose should be maintained for the remaining 6-hour daily infusion. 2.2 Preparation and Administration Preparation: Use aseptic technique to prepare AURLUMYN. Inspect the vial for particulate matter prior to administration. Do not use if the solution is discolored or cloudy or if foreign particles are present. Dilution: AURLUMYN should only be diluted using 0.9% Sodium Chloride Injection, USP. Do not dilute or mix AURLUMYN with any other parenteral medications or solutions prior to or during administration. Withdraw 1 mL (100 mcg) of AURLUMYN solution from the vial and transfer into 100 mL of 0.9% Sodium Chloride Injection, USP polyvinyl chloride (PVC) infusion bag to make a final concentration of 1 mcg/mL (1,000 ng/mL). AURLUMYN can be added to commercially available infusion bags labeled to contain 100 mL of 0.9% Sodium Chloride Injection, USP. Gently mix the intravenous bag by slowly inverting the bag. Do not shake. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not use if visibly opaque particles, discoloration, or foreign particles are observed. Immediately use diluted AURLUMYN infusion solution. If not used immediately, the diluted solution can be stored at room temperature (20\u00b0C to 25\u00b0C [68\u00b0F to 77\u00b0F]) for up to 4 hours. Administration Administer AURLUMYN as an intravenous infusion through a peripheral line or peripherally inserted central catheter using an infusion pump. Use an infusion set with an in-line 0.22- or 0.2-micron filter. Once diluted, AURLUMYN should be administered with an infusion pump that can support the minimum and maximum flow rates. The infusion pump used to administer AURLUMYN should: (1) be able to deliver rates 0.1 to 99.9 mL per hour, (2) adjust infusions rates with increments of 0.1 mL per hour, (3) be accurate to within 5% of programmed rate, and (4) be positive pressure-driven (continuous or pulsatile). The reservoir and infusion line set should be made of polyvinyl chloride. Infusion rates may be calculated using the following formula: Infusion Rate (mL/hr) = [Dose (ng/kg/min) \u00d7 Weight (kg) \u00d7 60 min/hr] Final Concentration (1,000 ng/mL) Avoid inadvertent administration of a bolus of the drug. Do not flush the catheter without withdrawing residual drug from the catheter system. Discard any unused portion. 2.3 Use in Patients with Hepatic Impairment Patients with moderate or severe hepatic impairment (Child-Pugh Class B or C): Initiate dosage at 0.25 ng/kg/minute for 30 minutes then continue titration in 0.5 ng/kg/minutes increments every 30 minutes according to tolerability to a maximum dose of 2 ng/kg/minute [see Use in Specific Populations ( 8.6 )] . 2.4 Use in Patients with Renal Impairment Patients with renal impairment with eGFR less than 30 mL/min: Initiate and titrate dosing per recommended dosage. If patient cannot tolerate the starting dose of 0.5 ng/kg/minute the dose can be lowered to 0.25 ng/kg/minute. The effect of dialysis on iloprost exposure has not been evaluated. For patients requiring intermittent hemodialysis, consider iloprost administration after the end of hemodialysis. Alternatively, hemodialysis can be started at least one hour after the end of iloprost infusion.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE AURLUMYN is a prostacyclin mimetic indicated for the treatment of severe frostbite in adults to reduce the risk of digit amputations. Effectiveness was established in young, healthy adults who suffered frostbite at high altitudes ( 1.1 ). 1.1 Frostbite AURLUMYN is indicated for the treatment of severe frostbite in adults to reduce the risk of digit amputations. Effectiveness was established in young, healthy adults who suffered frostbite at high altitudes."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA217933"
+    ],
+    "brand_name": [
+      "AURLUMYN"
+    ],
+    "generic_name": [
+      "ILOPROST"
+    ],
+    "manufacturer_name": [
+      "BTG International Inc"
+    ],
+    "product_ndc": [
+      "50633-340"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "ILOPROST"
+    ],
+    "rxcui": [
+      "2680303",
+      "2680309"
+    ],
+    "spl_id": [
+      "53bfb343-c101-4d75-e063-6294a90ad027"
+    ],
+    "spl_set_id": [
+      "34036fc0-6832-d066-e063-6394a90a18a4"
+    ],
+    "package_ndc": [
+      "50633-340-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175603",
+      "M0017817"
+    ],
+    "pharm_class_epc": [
+      "Prostacycline [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Prostaglandins I [CS]"
+    ],
+    "unii": [
+      "JED5K35YGL"
+    ]
+  }
+}

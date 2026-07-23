@@ -1,0 +1,70 @@
+{
+  "drug_name": "Midodrine",
+  "drug_id": 307,
+  "sections": {
+    "boxed_warning": "Warning: Because midodrine can cause marked elevation of supine blood pressure, it should be used in patients whose lives are considerably impaired despite standard clinical care. The indication for use of midodrine in the treatment of symptomatic orthostatic hypotension is based primarily on a change in a surrogate marker of effectiveness, an increase in systolic blood pressure measured one minute after standing, a surrogate marker considered likely to correspond to a clinical benefit. At present, however, clinical benefits of midodrine, principally improved ability to carry out activities of daily living, have not been verified.",
+    "warnings": "WARNINGS Supine Hypertension: The most potentially serious adverse reaction associated with midodrine therapy is marked elevation of supine arterial blood pressure (supine hypertension). Systolic pressure of about 200 mmHg were seen overall in about 13.4% of patients given 10 mg of midodrine . Systolic elevations of this degree were most likely to be observed in patients with relatively elevated pre-treatment systolic blood pressures (mean 170 mmHg). There is no experience in patients with initial supine systolic pressure above 180 mmHg, as those patients were excluded from the clinical trials. Use of midodrine in such patients is not recommended. Sitting blood pressures were also elevated by midodrine therapy. It is essential to monitor supine and sitting blood pressures in patients maintained on midodrine . Uncontrolled hypertension increases the risk of cardiovascular events, particularly stroke.",
+    "drug_interactions": "Drug Interactions When administered concomitantly with midodrine, cardiac glycosides may enhance or precipitate bradycardia, A.V. block or arrhythmia. The risk of hypertension increases with concomitant administration of drugs that increase blood pressure (phenylephrine, pseudoephedrine, ephedrine, dihydroergotamine, thyroid hormones, or droxidopa). Avoid concomitant use of drugs that increase blood pressure. If concomitant use cannot be avoided, monitor blood pressure closely. Avoid use of MAO inhibitors or linezolid with midodrine. Midodrine has been used in patients concomitantly treated with salt-retaining steroid therapy (i.e., fludrocortisone acetate), with or without salt supplementation. The potential for supine hypertension should be carefully monitored in these patients and may be minimized by either reducing the dose of fludrocortisone acetate or decreasing the salt intake prior to initiation of treatment with midodrine. Alpha-adrenergic blocking agents, such as prazosin, terazosin, and doxazosin, can antagonize the effects of midodrine. Potential for Drug Interaction It appears possible, although there is no supporting experimental evidence, that the high renal clearance of desyglymidodrine (a base) is due to active tubular secretion by the base-secreting system also responsible for the secretionof such drugs as metformin, cimetidine, ranitidine, procainamide, triamterene, flecainide, and quinidine. Thus there may be a potential for drug-drug interactions with these drugs.",
+    "contraindications": "CONTRAINDICATIONS Midodrine hydrochloride tablets are contraindicated in patients with severe organic heart disease, acute renal disease, urinary retention, pheochromocytoma or thyrotoxicosis. Midodrine should not be used in patients with persistent and excessive supine hypertension.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The recommended dose of midodrine hydrochloride tablet is 10 mg, 3 times daily. Dosing should take place during the daytime hours when the patient needs to be upright, pursuing the activities of daily living. A suggested dosing schedule of approximately 4-hour intervals is as follows: shortly before, or upon arising in the morning, midday and late afternoon (not later than 6 P.M.). Doses may be given in 3-hour intervals, if required, to control symptoms, but not more frequently. Single doses as high as 20 mg have been given to patients, but severe and persistent systolic supine hypertension occurs at a high rate (about 45%) at this dose. In order to reduce the potential for supine hypertension during sleep, midodrine hydrochloride tablets should not be given after the evening meal or less than 4 hours before bedtime. Total daily doses greater than 30 mg have been tolerated by some patients, but their safety and usefulness have not been studied systematically or established. Because of the risk of supine hypertension, midodrine hydrochloride tablets should be continued only in patients who appear to attain symptomatic improvement during initial treatment. The supine and standing blood pressure should be monitored regularly, and the administration of midodrine hydrochloride tablets should be stopped if supine blood pressure increases excessively. Because desglymidodrine is excreted renally, dosing in patients with abnormal renal function should be cautious; although this has not been systematically studied, it is recommended that treatment of these patients be initiated using 2.5 mg doses. Dosing in children has not been adequately studied. Blood levels of midodrine and desglymidodrine were similar when comparing levels in patients 65 or older vs. younger than 65 and when comparing males vs. females, suggesting dose modifications for these groups are not necessary.",
+    "indications_and_usage": "INDICATIONS AND USAGE Midodrine hydrochloride tablets are indicated for the treatment of symptomatic orthostatic hypotension (OH). Because midodrine hydrochloride tablets can cause marked elevation of supine blood pressure (BP>200 mmHg systolic), it should be used in patients whose lives are considerably impaired despite standard clinical care, including non-pharmacologic treatment (such as support stockings), fluid expansion, and lifestyle alterations. The indication is based on midodrine\u2019s effect on increases in 1-minute standing systolic blood pressure, a surrogate marker considered likely to correspond to a clinical benefit. At present, however, clinical benefits of midodrine hydrochloride tablets, principally improved ability to perform life activities, have not been established. Further clinical trials are underway to verify and describe the clinical benefits of midodrine hydrochloride tablets. After initiation of treatment, midodrine hydrochloride tablets should be continued only for patients who report significant symptomatic improvement."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA214734"
+    ],
+    "brand_name": [
+      "MIDODRINE HYDROCHLORIDE"
+    ],
+    "generic_name": [
+      "MIDODRINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Alembic Pharmaceuticals Limited"
+    ],
+    "product_ndc": [
+      "46708-338",
+      "46708-339",
+      "46708-340"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MIDODRINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "993462",
+      "993466",
+      "993470"
+    ],
+    "spl_id": [
+      "38173ca4-7b7e-4c91-b12c-7cce5bfaba84"
+    ],
+    "spl_set_id": [
+      "03b54024-2a26-4abe-bd8b-b66bb6781fa7"
+    ],
+    "package_ndc": [
+      "46708-338-31",
+      "46708-338-71",
+      "46708-339-31",
+      "46708-339-71",
+      "46708-340-31",
+      "46708-340-71"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0346708339319",
+      "0346708340315",
+      "0346708338312"
+    ],
+    "unii": [
+      "59JV96YTXV"
+    ]
+  }
+}

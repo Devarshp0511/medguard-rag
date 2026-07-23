@@ -1,0 +1,64 @@
+{
+  "drug_name": "Acebutolol",
+  "drug_id": 168,
+  "sections": {
+    "warnings": "WARNINGS Cardiac Failure Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by \u03b2-adrenergic receptor blockade may precipitate more severe failure. Although \u03b2-blockers should be avoided in overt cardiac failure, acebutolol can be used with caution in patients with a history of heart failure who are controlled with digitalis and/or diuretics. Both digitalis and acebutolol impair AV conduction. If cardiac failure persists, therapy with acebutolol should be withdrawn. In Patients Without a History of Cardiac Failure In patients with aortic or mitral valve disease or compromised left ventricular function, continued depression of the myocardium with \u03b2-blocking agents over a period of time may lead to cardiac failure. At the first signs of failure, patients should be digitalized and/or be given a diuretic and the response observed closely. If cardiac failure continues despite adequate digitalization and/or diuretic, acebutolol therapy should be withdrawn. Exacerbation of Ischemic Heart Disease Following Abrupt Withdrawal Following abrupt cessation of therapy with certain \u03b2-blocking agents in patients with coronary artery disease, exacerbation of angina pectoris and, in some cases, myocardial infarction and death have been reported. Therefore, such patients should be cautioned against interruption of therapy without a physician\u2019s advice. Even in the absence of overt ischemic heart disease, when discontinuation of acebutolol is planned, the patient should be carefully observed, and should be advised to limit physical activity to a minimum while acebutolol is gradually withdrawn over a period of about two weeks. (If therapy with an alternative \u03b2-blocker is desired, the patient may be transferred directly to comparable doses of another agent without interruption of \u03b2-blocking therapy.) If an exacerbation of angina pectoris occurs, antianginal therapy should be restarted immediately in full doses and the patient hospitalized until his condition stabilizes. Peripheral Vascular Disease Treatment with \u03b2-antagonists reduces cardiac output and can precipitate or aggravate the symptoms of arterial insufficiency in patients with peripheral or mesenteric vascular disease. Caution should be exercised with such patients, and they should be observed closely for evidence of progression of arterial obstruction. Bronchospastic Disease PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE A \u03b2-BLOCKER. Because of its relative \u03b21-selectivity, however, low doses of acebutolol may be used with caution in patients with bronchospastic disease who do not respond to, or who cannot tolerate, alternative treatment. Since \u03b21-selectivity is not absolute and is dose-dependent, the lowest possible dose of acebutolol should be used initially, preferably in divided doses to avoid the higher plasma levels associated with the longer dose-interval. A bronchodilator, such as theophylline or a \u03b22-stimulant, should be made available in advance with instructions concerning its use. WARNINGS, Major Surgery Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures. Diabetes and Hypoglycemia \u03b2-blockers may potentiate insulin-induced hypoglycemia and mask some of its manifestations such as tachycardia; however, dizziness and sweating are usually not significantly affected. Diabetic patients should be warned of the possibility of masked hypoglycemia. Thyrotoxicosis \u03b2-adrenergic blockade may mask certain clinical signs (tachycardia) of hyperthyroidism. Abrupt withdrawal of \u03b2-blockade may precipitate a thyroid storm; therefore, patients suspected of developing thyrotoxicosis from whom acebutolol therapy is to be withdrawn should be monitored closely.",
+    "contraindications": "CONTRAINDICATIONS Acebutolol HCl, USP is contraindicated in: 1) persistently severe bradycardia; 2) second- and third-degree heart block; 3) overt cardiac failure; and 4) cardiogenic shock (see WARNINGS ).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Hypertension The initial dosage of acebutolol in uncomplicated mild-to-moderate hypertension is 400 mg. This can be given as a single daily dose, but in occasional patients twice daily dosing may be required for adequate 24-hour blood-pressure control. An optimal response is usually achieved with dosages of 400 to 800 mg per day, although some patients have been maintained on as little as 200 mg per day. Patients with more severe hypertension or who have demonstrated inadequate control may respond to a total of 1200 mg daily (administered b.i.d.), or to the addition of a second antihypertensive agent. Beta-1 selectivity diminishes as dosage is increased. Ventricular Arrhythmia The usual initial dose of acebutolol is 400 mg daily given as 200 mg b.i.d. Dosage should be increased gradually until an optimal clinical response is obtained, generally at 600 to 1200 mg per day. If treatment is to be discontinued, the dosage should be reduced gradually over a period of about two weeks. Use in Older Patients Older patients have an approximately 2-fold increase in bioavailability and may require lower maintenance doses. Doses above 800 mg/day should be avoided in the elderly.",
+    "indications_and_usage": "INDICATIONS AND USAGE Hypertension Acebutolol hydrochloride capsules, USP are indicated for the management of hypertension in adults. It may be used alone or in combination with other antihypertensive agents, especially thiazide-type diuretics. Ventricular Arrhythmias Acebutolol hydrochloride capsules, USP are indicated in the management of ventricular premature beats; it reduces the total number of premature beats, as well as the number of paired and multiform ventricular ectopic beats, and R-on-T beats."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA075047"
+    ],
+    "brand_name": [
+      "Acebutolol Hydrochloride"
+    ],
+    "generic_name": [
+      "ACEBUTOLOL HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Amneal Pharmaceuticals LLC"
+    ],
+    "product_ndc": [
+      "65162-669",
+      "65162-670"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACEBUTOLOL HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "998685",
+      "998689"
+    ],
+    "spl_id": [
+      "6e350ff3-ef29-4f7b-acc2-5f4bfe188233"
+    ],
+    "spl_set_id": [
+      "28f8c26c-a1e1-4485-a45f-05c82f7a34b5"
+    ],
+    "package_ndc": [
+      "65162-669-10",
+      "65162-669-50",
+      "65162-670-03",
+      "65162-670-10",
+      "65162-670-50"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0365162670103",
+      "0365162669107"
+    ],
+    "unii": [
+      "B025Y34C54"
+    ]
+  }
+}

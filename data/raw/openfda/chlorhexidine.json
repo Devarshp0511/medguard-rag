@@ -1,0 +1,65 @@
+{
+  "drug_name": "Chlorhexidine",
+  "drug_id": 1454,
+  "sections": {
+    "warnings": "Warnings For external use only Allergy alert: This product may cause a severe allergic reaction. Symptoms may include: wheezing/difficulty breathing shock facial swelling hives rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you are allergic to chlorhexidine gluconate or any other ingredient in this product When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums. if solution should contact these areas, rinse out promptly and thoroughly with water do not use routinely if you have wounds which involve more than the superficial layers of the skin Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "dosage_and_administration": "Directions use with care in premature infants and infants under 2 months of age. These products may cause irritation or chemical burns. Healthcare personnel handwash: wet hands with water dispense about 5 mL of product into cupped hands and wash in a vigorous manner for 30 seconds rinse and dry thoroughly Healthcare personnel handwash: wet hands with water dispense about 5 mL of product into cupped hands and wash in a vigorous manner for 30 seconds rinse and dry thoroughly",
+    "indications_and_usage": "Use healthcare personnel handwash: helps reduce bacteria that potentially can cause disease"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA020111"
+    ],
+    "brand_name": [
+      "Chlorhexidine Gluconate Solution 0.75% Antiseptic"
+    ],
+    "generic_name": [
+      "CHLORHEXIDINE GLUCONATE SOLUTION 0.75% ANTISEPTIC"
+    ],
+    "manufacturer_name": [
+      "Bajaj Medical, LLC"
+    ],
+    "product_ndc": [
+      "61037-414"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CHLORHEXIDINE GLUCONATE"
+    ],
+    "spl_id": [
+      "f0b7b337-be39-2e5f-e053-2995a90a3c8c"
+    ],
+    "spl_set_id": [
+      "014a5f36-0396-498b-901f-9a86df4e11fe"
+    ],
+    "package_ndc": [
+      "61037-414-01",
+      "61037-414-02",
+      "61037-414-05",
+      "61037-414-06",
+      "61037-414-07",
+      "61037-414-03",
+      "61037-414-04",
+      "61037-414-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0361037414070",
+      "0361037414087",
+      "0361037414063",
+      "0361037414032",
+      "0361037414049",
+      "0361037414025"
+    ],
+    "unii": [
+      "MOR84MUD8E"
+    ]
+  }
+}

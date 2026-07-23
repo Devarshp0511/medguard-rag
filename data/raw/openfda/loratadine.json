@@ -1,0 +1,67 @@
+{
+  "drug_name": "Loratadine",
+  "drug_id": 385,
+  "sections": {
+    "warnings": "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "dosage_and_administration": "Directions adults and children 6 years and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor",
+    "dosage_and_administration_table": "<table width=\"100%\"><col width=\"38%\"/><col width=\"62%\"/><tbody><tr><td styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph>adults and children 6 years and over</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>1 tablet daily; not more than 1 tablet in 24 hours</paragraph></td></tr><tr><td styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>children under 6 years of age</paragraph></td><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule \" valign=\"top\"><paragraph>consumers with liver or kidney disease</paragraph></td><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>ask a doctor</paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: \u2022 runny nose \u2022 itchy, watery eyes \u2022 sneezing \u2022 itching of the nose or throat"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA076301"
+    ],
+    "brand_name": [
+      "allergy relief"
+    ],
+    "generic_name": [
+      "LORATADINE"
+    ],
+    "manufacturer_name": [
+      "CVS Pharmacy"
+    ],
+    "product_ndc": [
+      "59779-612"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LORATADINE"
+    ],
+    "rxcui": [
+      "311372"
+    ],
+    "spl_id": [
+      "4fd50f17-7237-4659-bad6-a9e6189fa37c"
+    ],
+    "spl_set_id": [
+      "0038bc38-c205-4d8d-ab78-1abbcd76829e"
+    ],
+    "package_ndc": [
+      "59779-612-46",
+      "59779-612-72",
+      "59779-612-75",
+      "59779-612-58",
+      "59779-612-39",
+      "59779-612-76",
+      "59779-612-70",
+      "59779-612-95",
+      "59779-612-49",
+      "59779-612-03",
+      "59779-612-88",
+      "59779-612-65",
+      "59779-612-60",
+      "59779-612-78"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "7AJO3BO7QN"
+    ]
+  }
+}

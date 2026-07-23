@@ -1,0 +1,54 @@
+{
+  "drug_name": "Alteplase",
+  "drug_id": 25,
+  "sections": {
+    "warnings": "WARNINGS None.",
+    "drug_interactions": "Drug Interactions The interaction of Cathflo Activase with other drugs has not been formally studied. Concomitant use of drugs affecting coagulation and/or platelet function has not been studied.",
+    "contraindications": "CONTRAINDICATIONS Cathflo Activase should not be administered to patients with known hypersensitivity to Alteplase or any component of the formulation (see DESCRIPTION ).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Cathflo \u00ae Activase \u00ae (Alteplase) is for instillation into the dysfunctional catheter at a concentration of 1 mg/mL. \u2022 Patients weighing \u226530 kg: 2 mg in 2 mL \u2022 Patients weighing <30 kg: 110% of the internal lumen volume of the catheter, not to exceed 2 mg in 2 mL If catheter function is not restored at 120 minutes after 1 dose of Cathflo Activase, a second dose may be instilled (see Instructions for Administration ). There is no efficacy or safety information on dosing in excess of 2 mg per dose for this indication. Studies have not been performed with administration of total doses greater than 4 mg (two 2\u2011mg doses). Instructions for Administration Preparation of Solution Reconstitute Cathflo Activase to a final concentration of 1 mg/mL: Aseptically withdraw 2.2 mL of Sterile Water for Injection, USP (diluent is not provided). Do not use Bacteriostatic Water for Injection. Inject the 2.2 mL of Sterile Water for Injection, USP, into the Cathflo Activase vial, directing the diluent stream into the powder. Slight foaming is not unusual; let the vial stand undisturbed to allow large bubbles to dissipate. Mix by gently swirling until the contents are completely dissolved. Complete dissolution should occur within 3 minutes. DO NOT SHAKE. The reconstituted preparation results in a colorless to pale yellow transparent solution containing 1 mg/mL Cathflo Activase at a pH of approximately 7.3. Cathflo Activase contains no antibacterial preservatives and should be reconstituted immediately before use. The solution may be used for intracatheter instillation within 8 hours following reconstitution when stored at 2\u201330\u00b0C (36\u201386\u00b0F). No other medication should be added to solutions containing Cathflo Activase. Instillation of Solution into the Catheter Inspect the product prior to administration for foreign matter and discoloration. Withdraw 2 mL (2 mg) of solution from the reconstituted vial. Instill the appropriate dose of Cathflo Activase (see DOSAGE AND ADMINISTRATION ) into the occluded catheter. After 30 minutes of dwell time, assess catheter function by attempting to aspirate blood. If the catheter is functional, go to Step 7. If the catheter is not functional, go to Step 5. After 120 minutes of dwell time, assess catheter function by attempting to aspirate blood and catheter contents. If the catheter is functional, go to Step 7. If the catheter is not functional, go to Step 6. If catheter function is not restored after one dose of Cathflo Activase, a second dose of equal amount may be instilled. Repeat the procedure beginning with Step 1 under Preparation of Solution. If catheter function has been restored, aspirate 4\u20135 mL of blood in patients \u226510 kg or 3 mL in patients <10 kg to remove Cathflo Activase and residual clot, and gently irrigate the catheter with 0.9% Sodium Chloride Injection, USP. Any unused solution should be discarded . Stability and Storage Store lyophilized Cathflo Activase at refrigerated temperature (2\u20138\u00b0C/36\u201346\u00b0F). Do not use beyond the expiration date on the vial. Protect the lyophilized material during extended storage from excessive exposure to light.",
+    "dosage_and_administration_table": "<table width=\"68%\"><col width=\"33%\"/><col width=\"35%\"/><tbody><tr><td><paragraph>&#x2022; Patients weighing &#x2265;30 kg:</paragraph></td><td>2 mg in 2 mL</td></tr><tr><td><paragraph>&#x2022; Patients weighing &lt;30 kg:</paragraph></td><td>110% of the internal lumen volume of the catheter, not to exceed 2 mg in 2 mL</td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE Cathflo \u00ae Activase \u00ae (Alteplase) is indicated for the restoration of function to central venous access devices as assessed by the ability to withdraw blood."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "BLA103172"
+    ],
+    "brand_name": [
+      "Cathflo Activase"
+    ],
+    "generic_name": [
+      "ALTEPLASE"
+    ],
+    "manufacturer_name": [
+      "Genentech, Inc."
+    ],
+    "product_ndc": [
+      "50242-041"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "ALTEPLASE"
+    ],
+    "spl_id": [
+      "0c2938dd-2978-411f-bd76-208fc8754838"
+    ],
+    "spl_set_id": [
+      "91ecdef2-95ff-42dd-a31c-c8a09cab3ad9"
+    ],
+    "package_ndc": [
+      "50242-041-64",
+      "50242-041-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "1RXS4UE564"
+    ]
+  }
+}

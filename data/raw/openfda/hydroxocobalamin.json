@@ -1,0 +1,57 @@
+{
+  "drug_name": "Hydroxocobalamin",
+  "drug_id": 744,
+  "sections": {
+    "warnings_and_cautions": "Warnings and Precautions Hypersensitivity reactions, including anaphylactic shock, rash, pruritus, urticaria, and edema, have been reported following parenteral administration of vitamin B12 products, including hydroxocobalamin. Patients with known sensitivity to hydroxocobalamin, cobalt, benzyl alcohol, or any component of the formulation may be at increased risk for serious allergic reactions. This product contains benzyl alcohol as a preservative. Benzyl alcohol has been associated with serious and fatal adverse reactions, including \u201cgasping syndrome,\u201d in premature infants and neonates. Administer under appropriate medical supervision. Monitor patients for signs and symptoms of hypersensitivity during administration. Do not use if the solution is cloudy, discolored, or contains particulate matter. Use aseptic technique during handling and administration. Protect from light. Not for intravenous administration.",
+    "contraindications": "Contraindications Hydroxocobalamin Injection is contraindicated in patients with known hypersensitivity to hydroxocobalamin, vitamin B12 preparations, cobalt, benzyl alcohol, or any component of the formulation. Hypersensitivity reactions, including anaphylactic shock and serious allergic reactions, have been reported following parenteral administration of hydroxocobalamin and other vitamin B12 products. Administration to patients with hereditary optic nerve atrophy (Leber\u2019s disease) may result in severe and rapid optic nerve atrophy."
+  },
+  "openfda_meta": {
+    "brand_name": [
+      "Hydroxocobalamin"
+    ],
+    "generic_name": [
+      "HYDROXOCOBALAMIN"
+    ],
+    "manufacturer_name": [
+      "Xseer Pharmaceuticals"
+    ],
+    "product_ndc": [
+      "85551-125"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAMUSCULAR",
+      "INTRAVENOUS",
+      "SUBCUTANEOUS"
+    ],
+    "substance_name": [
+      "HYDROXOCOBALAMIN"
+    ],
+    "rxcui": [
+      "317106"
+    ],
+    "spl_id": [
+      "51e3535b-dc11-abe8-e063-6394a90a0c61"
+    ],
+    "spl_set_id": [
+      "3be23e83-4a7f-3854-e063-6294a90acb7a"
+    ],
+    "package_ndc": [
+      "85551-125-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175429"
+    ],
+    "pharm_class_epc": [
+      "Antidote [EPC]"
+    ],
+    "unii": [
+      "Q40X8H422O"
+    ]
+  }
+}

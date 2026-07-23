@@ -1,0 +1,54 @@
+{
+  "drug_name": "Meclizine",
+  "drug_id": 1304,
+  "sections": {
+    "warnings": "Warnings Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an elarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product you may get drowsy avoid alcoholic drinks alcohol, sedatives and tranquilizers may increse drowsiness be careful when driving a moor vehicle or operating machinery",
+    "dosage_and_administration": "Directions take dose one hour before travel starts tablets can be chewed or swallowed whole with water adults & children 12 years and over: take 1-2 tablets once daily children under 12 years: ask a doctor",
+    "indications_and_usage": "Uses For the prevention and treatment of nausea, vomiting or dizziness associated with motion sickness. For other uses consult your doctor"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Meclizine HCL"
+    ],
+    "generic_name": [
+      "MECLIZINE HCL 25MG CHEWABLE TABLETS"
+    ],
+    "manufacturer_name": [
+      "Aphena Pharma Solutions - Tennessee, LLC"
+    ],
+    "product_ndc": [
+      "71610-528"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MECLIZINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "995632"
+    ],
+    "spl_id": [
+      "2b4cfbd3-496d-100d-e063-6294a90aba52"
+    ],
+    "spl_set_id": [
+      "02d1af4d-d97d-4019-a5bf-3ec391238676"
+    ],
+    "package_ndc": [
+      "71610-528-30",
+      "71610-528-60"
+    ],
+    "original_packager_product_ndc": [
+      "54738-025"
+    ],
+    "unii": [
+      "HDP7W44CIO"
+    ]
+  }
+}

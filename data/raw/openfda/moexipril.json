@@ -1,0 +1,62 @@
+{
+  "drug_name": "Moexipril",
+  "drug_id": 519,
+  "sections": {
+    "boxed_warning": "WARNING FETAL TOXICITY See full prescribing information for complete boxed warning. When pregnancy is detected, discontinue moexipril hydrochloride tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. See WARNINGS: Fetal Toxicity",
+    "warnings": "WARNINGS",
+    "contraindications": "CONTRAINDICATIONS Moexipril hydrochloride tablets are contraindicated in patients who are hypersensitive to this product and in patients with a history of angioedema related to previous treatment with an ACE inhibitor. Do not co-administer aliskiren with moexipril hydrochloride tablets in patients with diabetes (see PRECAUTIONS, Drug Interactions ).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION",
+    "indications_and_usage": "INDICATIONS AND USAGE Moexipril hydrochloride tablets are indicated for treatment of patients with hypertension. It may be used alone or in combination with thiazide diuretics. In using moexipril hydrochloride tablets, consideration should be given to the fact that another ACE inhibitor, captopril, has caused agranulocytosis, particularly in patients with renal impairment or collagen-vascular disease. Available data are insufficient to show that moexipril hydrochloride tablets do not have a similar risk (see WARNINGS ). In considering use of moexipril hydrochloride tablets, it should be noted that in controlled trials ACE inhibitors have an effect on blood pressure that is less in black patients than in non-blacks. In addition, ACE inhibitors (for which adequate data are available) cause a higher rate of angioedema in black than in non-black patients (see WARNINGS, Angioedema )."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077536"
+    ],
+    "brand_name": [
+      "Moexipril Hydrochloride"
+    ],
+    "generic_name": [
+      "MOEXIPRIL HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Chartwell RX, LLC"
+    ],
+    "product_ndc": [
+      "62135-967",
+      "62135-969"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MOEXIPRIL HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1299896",
+      "1299897"
+    ],
+    "spl_id": [
+      "3001c14d-1545-86fb-e063-6294a90a035f"
+    ],
+    "spl_set_id": [
+      "5c24072c-9769-4cb5-b8da-bf814d21391d"
+    ],
+    "package_ndc": [
+      "62135-967-90",
+      "62135-969-90"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0362135967901",
+      "0362135969905"
+    ],
+    "unii": [
+      "Q1UMG3UH45"
+    ]
+  }
+}

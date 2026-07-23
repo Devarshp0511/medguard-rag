@@ -1,0 +1,72 @@
+{
+  "drug_name": "Caffeine",
+  "drug_id": 170,
+  "sections": {
+    "warnings": "Warnings For occasional use only Caffeine warning: The recommended dose of this product contains about as much caffeine as a cup of coffee. Limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and, occasionally, rapid heart beat. Do not use for children under 12 years of age as a substitute for sleep Stop use and ask a doctor if fatigue or drowsiness persists or continues to recur. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "dosage_and_administration": "Directions adults and children 12 years and over: take 1 tablet not more often than every 3 to 4 hours children under 12 years: do not use",
+    "indications_and_usage": "Use helps restore mental alertness or wakefulness when experiencing fatigue or drowsiness"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M011"
+    ],
+    "brand_name": [
+      "Stay Awake"
+    ],
+    "generic_name": [
+      "CAFFEINE"
+    ],
+    "manufacturer_name": [
+      "Kroger Company"
+    ],
+    "product_ndc": [
+      "30142-726"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CAFFEINE"
+    ],
+    "rxcui": [
+      "198520"
+    ],
+    "spl_id": [
+      "4aaef558-2517-4e1a-b15e-2fb47859eb48"
+    ],
+    "spl_set_id": [
+      "00cc94fa-23b7-4148-87a3-669111267522"
+    ],
+    "package_ndc": [
+      "30142-726-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0041260003479"
+    ],
+    "nui": [
+      "N0000175739",
+      "N0000175729",
+      "N0000175790",
+      "M0023046"
+    ],
+    "pharm_class_epc": [
+      "Central Nervous System Stimulant [EPC]",
+      "Methylxanthine [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Central Nervous System Stimulation [PE]"
+    ],
+    "pharm_class_cs": [
+      "Xanthines [CS]"
+    ],
+    "unii": [
+      "3G6A5W338E"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "drug_name": "Clemastine",
+  "drug_id": 1017,
+  "sections": {
+    "warnings": "WARNINGS Antihistamines should be used with considerable caution in patients with: narrow angle glaucoma, stenosing peptic ulcer, pyloroduodenal obstruction, symptomatic prostatic hypertrophy, and bladder neck obstruction. Use with CNS Depressants Clemastine has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc.). Use in Activities Requiring Mental Alertness Patients should be warned about engaging in activities requiring mental alertness such as driving a car or operating appliances, machinery, etc. Use in the Elderly (approximately 60 years or older) Antihistamines are more likely to cause dizziness, sedation, and hypotension in elderly patients.",
+    "drug_interactions": "Drug Interactions Additive CNS depression may occur when antihistamines are administered concomitantly with other CNS depressants including barbiturates, tranquilizers, and alcohol. Patients receiving antihistamines should be advised against the concurrent use of other CNS depressant drugs. Monoamine oxidase (MAO) inhibitors prolong and intensify the anticholinergic effects of antihistamines.",
+    "contraindications": "CONTRAINDICATIONS Antihistamines are contraindicated in patients hypersensitive to the drug or to other antihistamines of similar chemical structure (see PRECAUTIONS- Drug Interactions ). Antihistamines should not be used in newborn or premature infants . Because of the higher risk of antihistamines for infants generally and for newborns and prematures in particular, antihistamine therapy is contraindicated in nursing mothers (see PRECAUTIONS-Nursing Mothers ).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION DOSAGE SHOULD BE INDIVIDUALIZED ACCORDING TO THE NEEDS AND RESPONSE OF THE PATIENT. Pediatric Children aged 6 to 12 years For Symptoms of Allergic Rhinitis The starting dose is 1 teaspoonful (0.5 mg clemastine) twice daily. Since single doses of up to 2.25 mg clemastine were well tolerated by this age group, dosage may be increased as required, but not to exceed 6 teaspoonfuls daily (3 mg clemastine). For Urticaria and Angioedema The starting dose is 2 teaspoonfuls (1 mg clemastine) twice daily, not to exceed 6 teaspoonfuls daily (3 mg clemastine). Adults and Children 12 Years and Over For Symptoms of Allergic Rhinitis The starting dose is 2 teaspoonfuls (1 mg clemastine) twice daily. Dosage may be increased as required, but not to exceed 12 teaspoonfuls daily (6 mg clemastine). For Urticaria and Angioedema The starting dose is 4 teaspoonfuls (2 mg clemastine) twice daily, not to exceed 12 teaspoonfuls daily (6 mg clemastine).",
+    "indications_and_usage": "INDICATIONS AND USAGE Clemastine Fumarate Syrup is indicated for the relief of symptoms associated with allergic rhinitis such as sneezing, rhinorrhea, pruritus and lacrimation. Clemastine Fumarate Syrup is indicated for use in pediatric populations (age 6 years through 12) and adults (see DOSAGE AND ADMINISTRATION ). It should be noted that clemastine is indicated for the relief of mild uncomplicated allergic skin manifestations of urticaria and angioedema at the 2 mg dosage level only."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA073399"
+    ],
+    "brand_name": [
+      "Clemastine Fumarate"
+    ],
+    "generic_name": [
+      "CLEMASTINE FUMARATE"
+    ],
+    "manufacturer_name": [
+      "Genus Lifesciences"
+    ],
+    "product_ndc": [
+      "64950-324"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CLEMASTINE FUMARATE"
+    ],
+    "rxcui": [
+      "857430"
+    ],
+    "spl_id": [
+      "1c00b77a-2510-443b-9ecc-dc6f953b50b0"
+    ],
+    "spl_set_id": [
+      "5c99e7af-86a5-4c17-82d5-2d4119e4fe72"
+    ],
+    "package_ndc": [
+      "64950-324-12"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "19259EGQ3D"
+    ]
+  }
+}

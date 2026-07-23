@@ -1,0 +1,69 @@
+{
+  "drug_name": "Mechlorethamine",
+  "drug_id": 1257,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Mucosal or eye injury: VALCHLOR exposure to mucous membranes, especially of the eyes, can cause mucosal injury which may be severe. Eye injury may lead to blindness. Immediately irrigate for at least 15 minutes followed by immediate medical consultation ( 5.1 ). Secondary exposure to VALCHLOR: individuals other than the patient must avoid skin contact with VALCHLOR ( 2.2 , 5.2 ). Dermatitis: Monitor patients for redness, swelling, inflammation, itchiness, blisters, ulceration, and secondary skin infections. Stop treatment or reduce dose frequency ( 2.1 , 5.3 ). Non-melanoma skin cancer: Monitor patients during and after treatment ( 5.4 ). Embryo-fetal toxicity: May cause fetal harm ( 5.5 ). Flammable gel: VALCHLOR is an alcohol-based gel. Avoid fire, flame, and smoking until the gel has dried ( 2.2 , 5.6 ). 5.1 Mucosal or Eye Injury Exposure of the eyes to mechlorethamine causes pain, burns, inflammation, photophobia, and blurred vision. Blindness and severe irreversible anterior eye injury may occur. Advise patients that if eye exposure occurs, (1) immediately irrigate for at least 15 minutes with copious amounts of water, normal saline, or a balanced salt ophthalmic irrigating solution and (2) obtain immediate medical care (including ophthalmologic consultation). Exposure of mucous membranes such as the oral mucosa or nasal mucosa causes pain, redness, and ulceration, which may be severe. Should mucosal contact occur, immediately irrigate for at least 15 minutes with copious amounts of water, followed by immediate medical consultation. 5.2 Secondary Exposure to VALCHLOR Avoid direct skin contact with VALCHLOR in individuals other than the patient. Risks of secondary exposure include dermatitis, mucosal injury, and secondary cancers. Follow recommended application instructions to prevent secondary exposure [ see Dosage and Administration ( 2.2 ) ]. 5.3 Dermatitis The most common adverse reaction was dermatitis, which occurred in 56% of the patients [ see Adverse Reactions ( 6.1 ) ]. Dermatitis was moderately severe or severe in 23% of patients. Monitor patients for redness, swelling, inflammation, itchiness, blisters, ulceration, and secondary skin infections. The face, genitalia, anus, and intertriginous skin are at increased risk of dermatitis. Follow dose modification instructions for dermatitis [ see Dosage and Administration ( 2.1 ) ]. 5.4 Non-Melanoma Skin Cancer Four percent (4%, 11/255) of patients developed a non-melanoma skin cancer during the clinical trial or during one year of post-treatment follow-up: 2% (3/128) of patients receiving VALCHLOR, and 6% (8/127) of patients receiving the mechlorethamine ointment comparator. Some of these non-melanoma skin cancers occurred in patients who had received prior therapies known to cause non-melanoma skin cancer. Monitor patients for non-melanoma skin cancers during and after treatment with VALCHLOR. Non-melanoma skin cancer may occur on any area of the skin, including untreated areas. 5.5 Embryo-fetal Toxicity Based on case reports in humans, findings in animal reproduction studies, its mechanism of action, and genotoxicity findings, mechlorethamine may cause fetal harm. There are case reports of children born with malformations in pregnant women systemically administered mechlorethamine. Mechlorethamine was teratogenic and embryo-lethal after a single subcutaneous administration to animals. Advise women to avoid becoming pregnant while using VALCHLOR. If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [ see Use in Specific Populations ( 8.1 ) ]. 5.6 Flammable Gel Alcohol-based products, including VALCHLOR, are flammable. Follow recommended application instructions [ see Dosage and Administration ( 2.2 ) ].",
+    "drug_interactions": "7 DRUG INTERACTIONS No drug interaction studies have been performed with VALCHLOR. Systemic exposure has not been observed with topical administration of VALCHLOR; therefore, systemic drug interactions are not likely.",
+    "contraindications": "4 CONTRAINDICATIONS The use of VALCHLOR is contraindicated in patients with known severe hypersensitivity to mechlorethamine. Hypersensitivity reactions, including anaphylaxis, have occurred with topical formulations of mechlorethamine. Severe hypersensitivity to mechlorethamine ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION For topical dermatological use only ( 2.1 ). Apply a thin film once daily to affected areas of the skin ( 2.1 , 2.2 ). 2.1 Dosing and Dose Modification For Topical Dermatological Use Only Apply a thin film of VALCHLOR gel once daily to affected areas of the skin. Stop treatment with VALCHLOR for any grade of skin ulceration, blistering, or moderately-severe or severe dermatitis (i.e., marked skin redness with edema) [ see Warnings and Precautions ( 5.3 ) ]. Upon improvement, treatment with VALCHLOR can be restarted at a reduced frequency of once every 3 days. If reintroduction of treatment is tolerated for at least one week, the frequency of application can be increased to every other day for at least one week and then to once daily application if tolerated. 2.2 Application Instructions VALCHLOR is a cytotoxic drug. Follow applicable special handling and disposal procedures. 1 Patients must wash hands thoroughly with soap and water after handling or applying VALCHLOR. Caregivers must wear disposable nitrile gloves when applying VALCHLOR to patients and wash hands thoroughly with soap and water after removal of gloves. If there is accidental skin exposure to VALCHLOR, caregivers must immediately wash exposed areas thoroughly with soap and water for at least 15 minutes and remove contaminated clothing [ see Warnings and Precautions ( 5.2 ) ]. Patients or caregivers should follow these instructions when applying VALCHLOR: Apply immediately or within 30 minutes after removal from the refrigerator. Return VALCHLOR to the refrigerator immediately after each use. Apply to completely dry skin at least 4 hours before or 30 minutes after showering or washing. Allow treated areas to dry for 5 to 10 minutes after application before covering with clothing. Emollients (moisturizers) may be applied to the treated areas 2 hours before or 2 hours after application. Do not use occlusive dressings on areas of the skin where VALCHLOR was applied. Avoid fire, flame, and smoking until VALCHLOR has dried [ see Warnings and Precautions ( 5.6 ) ].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE VALCHLOR is indicated for the topical treatment of Stage IA and IB mycosis fungoides-type cutaneous T-cell lymphoma in patients who have received prior skin-directed therapy. VALCHLOR is an alkylating drug indicated for the topical treatment of Stage IA and IB mycosis fungoides-type cutaneous T-cell lymphoma in patients who have received prior skin-directed therapy ( 1 )."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA202317"
+    ],
+    "brand_name": [
+      "VALCHLOR"
+    ],
+    "generic_name": [
+      "MECHLORETHAMINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Helsinn Therapeutics (U.S.), Inc."
+    ],
+    "product_ndc": [
+      "69639-120"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MECHLORETHAMINE"
+    ],
+    "rxcui": [
+      "1437711",
+      "1437713"
+    ],
+    "spl_id": [
+      "942707af-a16c-4a62-b733-103e0fac915e"
+    ],
+    "spl_set_id": [
+      "6a52e4c2-6a9f-4ebb-bc77-046b4f8bcd57"
+    ],
+    "package_ndc": [
+      "69639-120-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0369639120016"
+    ],
+    "nui": [
+      "N0000000236",
+      "N0000175558"
+    ],
+    "pharm_class_moa": [
+      "Alkylating Activity [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Alkylating Drug [EPC]"
+    ],
+    "unii": [
+      "50D9XSG0VR"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "drug_name": "Pyrimethamine",
+  "drug_id": 884,
+  "sections": {
+    "warnings": "WARNINGS The dosage of pyrimethamine required for the treatment of toxoplasmosis has a narrow therapeutic window . If signs of folate deficiency develop (see ADVERSE REACTIONS ), reduce the dosage or discontinue the drug according to the response of the patient. Folinic acid (leucovorin) should be administered in a dosage of 5 to 15 mg daily (orally, intravenous, or intramuscular) until normal hematopoiesis is restored. Data in 2 humans indicate that pyrimethamine may be carcinogenic; a 51-year-old female who developed chronic granulocytic leukemia after taking pyrimethamine for 2 years for toxoplasmosis 3 and a 56-year-old patient who developed reticulum cell sarcoma after 14 months of pyrimethamine for toxoplasmosis. 4 Pyrimethamine has been reported to produce a significant increase in the number of lung tumors in mice when given intraperitoneally at doses of 25 mg/kg. 5 Pyrimethamine tablets should be kept out of the reach of infants and children as they are extremely susceptible to adverse effects from an overdose. Deaths in pediatric patients have been reported after accidental ingestion.",
+    "drug_interactions": "Drug Interactions Pyrimethamine may be used with sulfonamides, quinine and other antimalarials, and with other antibiotics. However, the concomitant use of other antifolic drugs or agents associated with myelosuppression including sulfonamides or trimethoprim-sulfamethoxazole combinations, proguanil, zidovudine, or cytostatic agents (e.g., methotrexate), while the patient is receiving pyrimethamine, may increase the risk of bone marrow suppression. If signs of folate deficiency develop, pyrimethamine should be discontinued. Folinic acid (leucovorin) should be administered until normal hematopoiesis is restored (see WARNINGS ). Mild hepatotoxicity has been reported in some patients when lorazepam and pyrimethamine were administered concomitantly.",
+    "contraindications": "CONTRAINDICATIONS Use of pyrimethamine tablets are contraindicated in patients with known hypersensitivity to pyrimethamine or to any component of the formulation. Use of the drug is also contraindicated in patients with documented megaloblastic anemia due to folate deficiency.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION For Treatment of Toxoplasmosis : The dosage of pyrimethamine tablets for the treatment of toxoplasmosis must be carefully adjusted so as to provide maximum therapeutic effect and a minimum of side effects. At the dosage required, there is a marked variation in the tolerance to the drug. Young patients may tolerate higher doses than older individuals. Concurrent administration of folinic acid is strongly recommended in all patients. The adult starting dose is 50 to 75 mg of the drug daily, together with 1 to 4 g daily of a sulfonamide of the sulfapyrimidine type, e.g. sulfadoxine. This dosage is ordinarily continued for 1 to 3 weeks, depending on the response of the patient and tolerance to therapy. The dosage may then be reduced to about one half that previously given for each drug and continued for an additional 4 to 5 weeks. The pediatric dosage of pyrimethamine tablets is 1 mg/kg/day divided into 2 equal daily doses; after 2 to 4 days this dose may be reduced to one half and continued for approximately 1 month. The usual pediatric sulfonamide dosage is used in conjunction with pyrimethamine tablets.",
+    "indications_and_usage": "INDICATIONS AND USAGE Treatment of Toxoplasmosis : Pyrimethamine tablets are indicated for the treatment of toxoplasmosis when used conjointly with a sulfonamide, since synergism exists with this combination."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA215506"
+    ],
+    "brand_name": [
+      "Pyrimethamine"
+    ],
+    "generic_name": [
+      "PYRIMETHAMINE"
+    ],
+    "manufacturer_name": [
+      "Teva Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "0480-3720"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PYRIMETHAMINE"
+    ],
+    "rxcui": [
+      "198182"
+    ],
+    "spl_id": [
+      "90ea4054-7c0a-4971-be57-d72e482491b8"
+    ],
+    "spl_set_id": [
+      "2c57a992-619b-40ce-9395-f12ac47a2c67"
+    ],
+    "package_ndc": [
+      "0480-3720-56",
+      "0480-3720-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0304803720562"
+    ],
+    "nui": [
+      "N0000175934",
+      "N0000000191"
+    ],
+    "pharm_class_epc": [
+      "Dihydrofolate Reductase Inhibitor Antimalarial [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Dihydrofolate Reductase Inhibitors [MoA]"
+    ],
+    "unii": [
+      "Z3614QOX8W"
+    ]
+  }
+}

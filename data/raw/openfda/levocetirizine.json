@@ -1,0 +1,55 @@
+{
+  "drug_name": "Levocetirizine",
+  "drug_id": 1079,
+  "sections": {
+    "warnings": "Warnings Do not use if you have kidney disease if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing cetirizine Ask a doctor before use if you have ever had trouble urinating or emptying your bladder When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery Stop use and ask doctor if you have trouble urinating or emptying your bladder an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: if breast-feeding: not recommended if pregnant: ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).",
+    "dosage_and_administration": "Directions adults 65 years of age and older ask a doctor adults and children 12-64 years of age take 1 tablet (5 mg) once daily in the evening do not take more than 1 tablet (5 mg) in 24 hours 1/2 tablet (2.5 mg) once daily in the evening may be appropriate for less severe symptoms children 6-11 years of age take 1/2 tablet (2.5 mg) once daily in the evening do not take more than 1/2 tablet (2.5 mg) in 24 hours children under 6 years of age do not use consumers with kidney disease do not use",
+    "dosage_and_administration_table": "<table border=\"1\" cellpadding=\"3\" width=\"85%\"><tbody><tr><td> adults 65 years of age and older </td><td><list><item>ask a doctor</item></list></td></tr><tr><td> adults and children 12-64 years of age </td><td><list><item> take 1 tablet (5 mg) once daily in the evening</item><item>do not take more than 1 tablet (5 mg) in 24 hours</item><item> 1/2 tablet (2.5 mg) once daily in the evening may be appropriate for less severe symptoms</item></list></td></tr><tr><td> children 6-11 years of age </td><td><list><item>take 1/2 tablet (2.5 mg) once daily in the evening</item><item>do not take more than 1/2 tablet (2.5 mg) in 24 hours</item></list></td></tr><tr><td> children under 6 years of age </td><td><list><item>do not use</item></list></td></tr><tr><td> consumers with kidney disease </td><td><list><item>do not use</item></list></td></tr></tbody></table>",
+    "indications_and_usage": "Uses temporarily relieves these symptoms due to hay fever or other respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA210375"
+    ],
+    "brand_name": [
+      "levocetirizine dihydrochloride"
+    ],
+    "generic_name": [
+      "LEVOCETIRIZINE DIHYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "BJWC (Berkley & Jensen / BJ'S)"
+    ],
+    "product_ndc": [
+      "68391-955"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LEVOCETIRIZINE DIHYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "855172"
+    ],
+    "spl_id": [
+      "6098f8c4-4502-287f-cd05-06e17d773116"
+    ],
+    "spl_set_id": [
+      "0216f644-767c-ae88-f48f-cd29ac1547ed"
+    ],
+    "package_ndc": [
+      "68391-955-55",
+      "68391-955-11"
+    ],
+    "original_packager_product_ndc": [
+      "43598-735"
+    ],
+    "unii": [
+      "SOD6A38AGA"
+    ]
+  }
+}

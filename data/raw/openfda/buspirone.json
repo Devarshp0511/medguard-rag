@@ -1,0 +1,72 @@
+{
+  "drug_name": "Buspirone",
+  "drug_id": 440,
+  "sections": {
+    "warnings": "WARNINGS The administration of buspirone hydrochloride tablets to a patient taking a monoamine oxidase inhibitor (MAOI) may pose a hazard. There have been reports of the occurrence of elevated blood pressure when buspirone hydrochloride has been added to a regimen including an MAOI. Therefore, it is recommended that buspirone hydrochloride tablets not be used concomitantly with an MAOI. Serotonin Syndrome The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs SSRIs, and other serotonergic drugs, including buspirone, alone but particularly with concomitant use of other serotonergic drugs (including triptans), with drugs that impair metabolism of serotonin (in particular, MAOIs, including reversible MAOIs such as linezolid and intravenous methylene blue), or with antipsychotics or other dopamine antagonists. Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea). Patients should be monitored for emergence of serotonin syndrome. The concomitant use of buspirone with MAOIs intended to treat depression is contraindicated. Buspirone should also not be started in a patient who is being treated with reversible MAOIs such as linezolid or intravenous methylene blue. All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg. There have been no reports involving the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses. There may be circumstances when it is necessary to initiate treatment with a reversible MAOI such as linezolid or intravenous methylene blue in a patient taking buspirone. Buspirone should be discontinued before initiating treatment with the reversible MAOI [see CONTRAINDICATIONS , DOSAGE AND ADMINISTRATION AND DRUG INTERACTIONS ]. If concomitant use of buspirone with a 5-hydroxytryptmine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases. The concomitant use of buspirone with serotonin precursors (such as tryptophan) is not recommended. Treatment with buspirone and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated. Because buspirone hydrochloride tablets have no established antipsychotic activity, it should not be employed in lieu of appropriate antipsychotic treatment.",
+    "drug_interactions": "Drug Interactions",
+    "contraindications": "CONTRAINDICATIONS Buspirone hydrochloride tablets are contraindicated in patients hypersensitive to buspirone hydrochloride. The use of monoamine oxidase inhibitors (MAOIs) intended to treat depression with buspirone or within 14 days of stopping treatment with buspirone is contraindicated because of an increased risk of serotonin syndrome and/or elevated blood pressure. The use of buspirone within 14 days of stopping an MAOI intended to treat depression is also contraindicated. Starting buspirone in a patient who is being treated with reversible MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome. (see WARNINGS , DOSAGE AND ADMINISTRATION AND DRUG INTERACTIONS )",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The recommended initial dose is 15 mg daily (7.5 mg b.i.d.). To achieve an optimal therapeutic response, at intervals of 2 to 3 days the dosage may be increased 5 mg per day, as needed. The maximum daily dosage should not exceed 60 mg per day. In clinical trials allowing dose titration, divided doses of 20 to 30 mg per day were commonly employed. The bioavailability of buspirone is increased when given with food as compared to the fasted state (see CLINICAL PHARMACOLOGY ). Consequently, patients should take buspirone in a consistent manner with regard to the timing of dosing; either always with or always without food. When buspirone is to be given with a potent inhibitor of CYP3A4, the dosage recommendations described in the PRECAUTIONS, Drug Interactions section should be followed. Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with buspirone hydrochloride tablets. Conversely, at least 14 days should be allowed after stopping buspirone hydrochloride tablets before starting an MAOI antidepressant (see CONTRAINDICATIONS and DRUG INTERACTIONS ). Use of Buspirone with (Reversible) MAOIs, Such as Linezolid or Methylene Blue Do not start buspirone hydrochloride tablets in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome. In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered (see CONTRAINDIATIONS and DRUG INTERACTIONS ). In some cases, a patient already receiving therapy with buspirone hydrochloride tablets may require urgent treatment with linezolid or intravenous methylene blue. If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, buspirone hydrochloride tablets should be stopped promptly, and linezolid or intravenous methylene blue can be administered. The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first. Therapy with buspirone hydrochloride tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS ). The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg per kg with buspirone hydrochloride tablets is unclear. The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see CONTRAINDICATIONS , WARNINGS and DRUG INTERACTIONS ).",
+    "indications_and_usage": "INDICATIONS AND USAGE Buspirone hydrochloride tablets are indicated for the management of anxiety disorders or the short-term relief of the symptoms of anxiety. Anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic. The efficacy of buspirone hydrochloride tablets has been demonstrated in controlled clinical trials of outpatients whose diagnosis roughly corresponds to Generalized Anxiety Disorder (GAD). Many of the patients enrolled in these studies also had coexisting depressive symptoms and buspirone hydrochloride tablets relieved anxiety in the presence of these coexisting depressive symptoms. The patients evaluated in these studies had experienced symptoms for periods of 1 month to over 1 year prior to the study, with an average symptom duration of 6 months. Generalized Anxiety Disorder (300.02) is described in the American Psychiatric Association\u2019s Diagnostic and Statistical Manual, III 1 as follows: Generalized, persistent anxiety (of at least 1 month continual duration), manifested by symptoms from three of the four following categories: 1. Motor tension: shakiness, jitteriness, jumpiness, trembling, tension, muscle aches, fatigability, inability to relax, eyelid twitch, furrowed brow, strained face, fidgeting, restlessness, easy startle. 2. Autonomic hyperactivity: sweating, heart pounding or racing, cold, clammy hands, dry mouth, dizziness, lightheadedness, paresthesias (tingling in hands or feet), upset stomach, hot or cold spells, frequent urination, diarrhea, discomfort in the pit of the stomach, lump in the throat, flushing, pallor, high resting pulse and respiration rate. 3. Apprehensive expectation: anxiety, worry, fear, rumination, and anticipation of misfortune to self or others. 4. Vigilance and scanning: hyperattentiveness resulting in distractibility, difficulty in concentrating, insomnia, feeling \u201con edge,\u201d irritability, impatience. The above symptoms would not be due to another mental disorder, such as a depressive disorder or schizophrenia. However, mild depressive symptoms are common in GAD. The effectiveness of buspirone hydrochloride tablets in long-term use, that is, for more than 3 to 4 weeks, has not been demonstrated in controlled trials. There is no body of evidence available that systematically addresses the appropriate duration of treatment for GAD. However, in a study of long-term use, 264 patients were treated with buspirone hydrochloride tablets for 1 year without ill effect. Therefore, the physician who elects to use buspirone hydrochloride tablets for extended periods should periodically reassess the usefulness of the drug for the individual patient."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA208972"
+    ],
+    "brand_name": [
+      "Buspirone Hydrochloride"
+    ],
+    "generic_name": [
+      "BUSPIRONE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Epic Pharma, LLC"
+    ],
+    "product_ndc": [
+      "42806-082",
+      "42806-083",
+      "42806-084",
+      "42806-085",
+      "42806-086"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BUSPIRONE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "866018",
+      "866083",
+      "866090",
+      "866094",
+      "866111"
+    ],
+    "spl_id": [
+      "02628a0c-bfdb-4a58-8e48-bcd8ca12d53b"
+    ],
+    "spl_set_id": [
+      "02628a0c-bfdb-4a58-8e48-bcd8ca12d53b"
+    ],
+    "package_ndc": [
+      "42806-082-01",
+      "42806-082-05",
+      "42806-083-01",
+      "42806-083-05",
+      "42806-084-01",
+      "42806-084-05",
+      "42806-085-01",
+      "42806-085-05",
+      "42806-086-60",
+      "42806-086-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "207LT9J9OC"
+    ]
+  }
+}

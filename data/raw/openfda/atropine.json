@@ -1,0 +1,57 @@
+{
+  "drug_name": "Atropine",
+  "drug_id": 827,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS 5.1 Tachycardia When the recurrent use of atropine is essential in patients with coronary artery disease, the total dose should be restricted to 2 to 3 mg (maximum 0.03 to 0.04 mg/kg) to avoid the detrimental effects of atropine-induced tachycardia on myocardial oxygen demand. 5.2 Acute Glaucoma Atropine may precipitate acute glaucoma. 5.3 Pyloric Obstruction Atropine may convert partial organic pyloric stenosis into complete obstruction. 5.4 Complete Urinary Retention Atropine may lead to complete urinary retention in patients with prostatic hypertrophy. 5.5 Viscid Plugs Atropine may cause inspissation of bronchial secretions and formation of viscid plugs in patients with chronic lung disease.",
+    "drug_interactions": "7 DRUG INTERACTIONS 7.1 Mexiletine Atropine Sulfate Injection decreased the rate of mexiletine absorption without altering the relative oral bioavailability; this delay in mexiletine absorption was reversed by the combination of atropine and intravenous metoclopramide during pretreatment for anesthesia.",
+    "contraindications": "4 CONTRAINDICATIONS None.",
+    "dosage_and_administration": "2 DOSAGE & ADMINISTRATION 2.1 General Administration Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not administer unless solution is clear and seal is intact. Each vial is intended for single dose only. Discard unused portion. For Intravenous administration. Titrate based on heart rate, PR interval, blood pressure and symptoms. 2.2 Adult Dosage 2.3 Pediatric Dosage Dosing in pediatric populations has not been well studied. Usual initial dose is 0.01 to 0.03 mg/kg. 2.4 Dosing in Patients with Coronary Artery Disease Limit the total dose of atropine sulfate to 0.03 to 0.04 mg/kg [see WARNINGS AND PRECAUTIONS (5.1 )]. DOSAGE",
+    "indications_and_usage": "1 INDICATIONS & USAGE Atropine Sulfate Injection, USP, is indicated for temporary blockade of severe or life threatening muscarinic effects, e.g., as an antisialagogue, an antivagal agent, an antidote for organophosphorus or muscarinic mushroom poisoning, and to treat bradyasystolic cardiac arrest."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA216120"
+    ],
+    "brand_name": [
+      "ATROPINE SULFATE"
+    ],
+    "generic_name": [
+      "ATROPINE SULFATE"
+    ],
+    "manufacturer_name": [
+      "HF Acquisition Co LLC, DBA HealthFirst"
+    ],
+    "product_ndc": [
+      "51662-1626"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "ATROPINE SULFATE"
+    ],
+    "rxcui": [
+      "1190795"
+    ],
+    "spl_id": [
+      "100be173-227f-a802-e063-6294a90ae92e"
+    ],
+    "spl_set_id": [
+      "0060b971-19bd-2849-e063-6294a90afca8"
+    ],
+    "package_ndc": [
+      "51662-1626-1",
+      "51662-1626-2",
+      "51662-1626-3"
+    ],
+    "original_packager_product_ndc": [
+      "0517-1001"
+    ],
+    "unii": [
+      "03J5ZE7KA5"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "drug_name": "Brimonidine",
+  "drug_id": 1461,
+  "sections": {
+    "warnings": "Warnings For external use only Do not use if solution changes color or becomes cloudy Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye condition worsens or persists for more than 3 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "dosage_and_administration": "Directions adults and children 5 years of age and over: instill 1 drop in the affected eye(s) every 6-8 hours do not use more than 4 times daily remove contact lenses before use wait at least 10 minutes before re-inserting contact lenses after use if using other ophthalmic products while using this product, wait at least 5 minutes between each product to avoid contamination, do not touch tip of container to any surface replace cap after each use children under 5 years of age: consult a doctor",
+    "indications_and_usage": "Use relieves redness of the eye due to minor eye irritations"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA208144"
+    ],
+    "brand_name": [
+      "LUMIFY Redness Reliever Eye Drops"
+    ],
+    "generic_name": [
+      "BRIMONIDINE TARTRATE"
+    ],
+    "manufacturer_name": [
+      "Bausch & Lomb Incorporated"
+    ],
+    "product_ndc": [
+      "24208-537"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "BRIMONIDINE TARTRATE"
+    ],
+    "rxcui": [
+      "1999016",
+      "1999021"
+    ],
+    "spl_id": [
+      "4e5af967-1d35-5b67-e063-6294a90a9296"
+    ],
+    "spl_set_id": [
+      "022de945-0b26-40ae-8e88-d3fe2464d106"
+    ],
+    "package_ndc": [
+      "24208-537-25",
+      "24208-537-08",
+      "24208-537-99",
+      "24208-537-75",
+      "24208-537-10",
+      "24208-537-01",
+      "24208-537-15",
+      "24208-537-05",
+      "24208-537-35"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "4S9CL2DY2H"
+    ]
+  }
+}

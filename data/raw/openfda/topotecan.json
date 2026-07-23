@@ -1,0 +1,55 @@
+{
+  "drug_name": "Topotecan",
+  "drug_id": 1143,
+  "sections": {
+    "boxed_warning": "WARNING: MYELOSUPPRESSION Topotecan can cause severe myelosuppression. Administer first cycle only to patients with baseline neutrophil counts of greater than or equal to 1,500/mm 3 and platelet counts greater than or equal to 100,000/mm 3 . Monitor blood cell counts [see Warnings and Precautions (5.1) ] . WARNING: MYELOSUPPRESSION See full prescribing information for complete boxed warning. Topotecan can cause severe myelosuppression. Administer first cycle only to patients with baseline neutrophil counts greater than or equal to 1,500/mm 3 and platelet count greater than or equal to 100,000/mm 3 . Monitor blood cell counts. ( 2.2 , 5.1 )",
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Interstitial lung disease (ILD): Fatal cases have occurred. Permanently discontinue if ILD confirmed. ( 5.2 ) Extravasation and tissue injury : Severe cases have occurred. If extravasation occurs, immediately stop administration and institute recommended management procedures. ( 5.3 ) Embryo-fetal toxicity : Can cause fetal harm. Advise women of potential risk to the fetus. ( 5.4 , 8.1 , 8.3 ) 5.1 Myelosuppression Topotecan can cause severe myelosuppression. Grade 4 neutropenia occurred in 78% of 879 patients, with a median duration of 7 days and was most common during Cycle 1 (58% of patients). Grade 4 neutropenia associated with infection occurred in 13% and febrile neutropenia occurred in 5%. Sepsis occurred in 4% and was fatal in 1%. Grade 4 thrombocytopenia occurred in 27%, with a median duration of 5 days. Grade 3 or 4 anemia occurred in 37% of patients. Topotecan can cause fatal typhlitis (neutropenic enterocolitis). Consider the possibility of typhlitis in patients presenting with fever, neutropenia, and abdominal pain. Administer the first cycle of Topotecan Injection only to patients with a baseline neutrophil count of greater than or equal to 1,500/mm 3 and a platelet count greater than or equal to 100,000/mm 3 . Monitor blood counts frequently during treatment. Withhold and reduce dose of Topotecan Injection based on neutrophil counts, platelet counts and hemoglobin levels [see Dosage and Administration (2.3) ] . 5.2 Interstitial Lung Disease Interstitial lung disease (ILD), including fatalities, has occurred with topotecan [see Adverse Reactions (6.2) ] . Underlying risk factors include history of ILD, pulmonary fibrosis, lung cancer, thoracic radiation, and use of pneumotoxic drugs and/or colony stimulating factors. Monitor patients for pulmonary symptoms indicative of ILD (e.g., cough, fever, dyspnea, and/or hypoxia), and discontinue Topotecan Injection if a new diagnosis of ILD is confirmed. 5.3 Extravasation and Tissue Injury Extravasation with topotecan has been observed; severe cases have been reported. If signs or symptoms of extravasation occur, immediately stop administration of Topotecan Injection and institute recommended management procedures [see Adverse Reactions (6.2) ] . 5.4 Embryo-Fetal Toxicity Based on animal data, topotecan can cause fetal harm when administered to a pregnant woman. Topotecan caused embryolethality, fetotoxicity, and teratogenicity in rats and rabbits when administered during organogenesis. Advise women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of Topotecan Injection. Advise males with a female partner of reproductive potential to use effective contraception during treatment with Topotecan Injection and for 3 months after the last dose [see Use in Specific Populations (8.1 , 8.3) , Nonclinical Toxicology (13.1) ] .",
+    "contraindications": "4 CONTRAINDICATIONS Topotecan Injection is contraindicated in patients who have a history of severe hypersensitivity reactions to topotecan. Reactions have included anaphylactoid reactions [see Adverse Reactions (6.2) ] . History of severe hypersensitivity reactions to topotecan. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Recommended dosage : 1.5 mg/m 2 by intravenous infusion over 30 minutes daily for 5 consecutive days, starting on Day 1 of a 21-day cycle. ( 2.2 ) Renal impairment : Reduce dose for creatinine clearance (CLcr) of 20 to 39 mL/min. ( 2.4 ) 2.1 Important Safety Information Verify dosage using body surface area. Do not exceed a single dose of 4 mg intravenously. 2.2 Recommended Dosage for Small Cell Lung Cancer The recommended dosage of Topotecan Injection is 1.5 mg/m 2 by intravenous infusion over 30 minutes daily for 5 consecutive days, starting on Day 1 of a 21-day cycle. 2.3 Dosage Modifications for Adverse Reactions Hematologic Do not administer subsequent cycles of Topotecan Injection until neutrophils recover to greater than 1,000/mm 3 , platelets recover to greater than 100,000/mm 3 , and hemoglobin levels recover to greater than or equal to 9 g/dL (with transfusion if necessary). Reduce the dose of Topotecan Injection to 1.25 mg/m 2 /day for: neutrophil counts of less than 500/mm 3 or administer granulocyte-colony stimulating factor (G-CSF) starting no sooner than 24 hours following the last dose platelet counts less than 25,000/mm 3 during previous cycle 2.4 Dosage Modification for Renal Impairment Reduce the dose of Topotecan Injection to 0.75 mg/m 2 /day for patients with creatinine clearance (CLcr) of 20 to 39 mL/min (calculated with the Cockcroft-Gault method using ideal body weight) [see Clinical Pharmacology (12.3) ] . 2.5 Preparation and Administration Topotecan Injection is a cytotoxic drug. Follow applicable special handling and disposable procedures. 1 Withdraw the appropriate volume from the vial and discard any unused portion. Dilute Topotecan Injection in a minimum of 50 mL of 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP prior to administration. Infuse diluted Topotecan Injection over 30 minutes. Store diluted Topotecan Injection at 20\u00b0C and 25\u00b0C (68\u00b0F and 77\u00b0F) in ambient lighting conditions for no more than 24 hours. Discard unused portion after 24 hours. Visually inspect for particulate matter and discoloration prior to administration, whenever solution and container permit. Discard if particulate matter or discoloration is observed.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Topotecan Injection is indicated for the treatment of patients with small cell lung cancer (SCLC) with platinum-sensitive disease who progressed at least 60 days after initiation of first-line chemotherapy. Topotecan Injection is a topoisomerase inhibitor indicated for treatment of small cell lung cancer (SCLC) platinum-sensitive disease in patients who progressed at least 60 days after initiation of first-line chemotherapy. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA200582"
+    ],
+    "brand_name": [
+      "Topotecan"
+    ],
+    "generic_name": [
+      "TOPOTECAN"
+    ],
+    "manufacturer_name": [
+      "Hospira, Inc."
+    ],
+    "product_ndc": [
+      "0409-0302"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "TOPOTECAN HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1799424"
+    ],
+    "spl_id": [
+      "293334d4-88f2-4ec2-9eed-20975ff65c0a"
+    ],
+    "spl_set_id": [
+      "1d4e1cce-c57e-4a8b-be96-f95a2778e221"
+    ],
+    "package_ndc": [
+      "0409-0302-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "956S425ZCY"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "drug_name": "Ranitidine",
+  "drug_id": 178,
+  "sections": {
+    "warnings": "Warnings Allergy alert: Do not use if you are allergic to ranitidine or other acid reducers Do not use if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools.These may be signs of a serious condition. See your doctor. with other acid reducers Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. heartburn with lightheadedness, sweating or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain kidney disease Ask a doctor or pharmacist before use if you are \u2022 taking a prescription drug. Acid reducers may interact with certain prescription drugs. Stop use and ask doctor if your heartburn continues or worsens you need to take this product for more than 14 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).",
+    "dosage_and_administration": "Directions adults and children 12 years and over: to relieve symptoms, swallow 1 tablet with a glass of water to prevent symptoms, swallow 1 tablet with a glass of water 30 to 60 minutes before eating food or drinking beverages that cause heartburn can be used up to twice daily (do not take more than 2 tablets in 24 hours) children under 12 years: ask a doctor",
+    "indications_and_usage": "Use(s) relieves heartburn associated with acid indigestion and sour stomach prevents heartburn associated with acid indigestion and sour stomach brought on by eating or drinking certain foods and beverages"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA078192"
+    ],
+    "brand_name": [
+      "Ranitidine"
+    ],
+    "generic_name": [
+      "RANITIDINE"
+    ],
+    "manufacturer_name": [
+      "Dr. Reddy's Laboratories Limited"
+    ],
+    "product_ndc": [
+      "55111-404"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "RANITIDINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "198191"
+    ],
+    "spl_id": [
+      "c47f1d10-c4d9-5df4-84e8-55956b47568b"
+    ],
+    "spl_set_id": [
+      "00df8a42-296f-80dd-98af-ee8b30eb38cc"
+    ],
+    "package_ndc": [
+      "55111-404-34",
+      "55111-404-32",
+      "55111-404-36",
+      "55111-404-50",
+      "55111-404-61",
+      "55111-404-55",
+      "55111-404-62",
+      "55111-404-90",
+      "55111-404-02",
+      "55111-404-65",
+      "55111-404-17",
+      "55111-404-24",
+      "55111-404-38",
+      "55111-404-40"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "BK76465IHM"
+    ]
+  }
+}

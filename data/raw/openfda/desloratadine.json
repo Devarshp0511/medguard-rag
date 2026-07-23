@@ -1,0 +1,67 @@
+{
+  "drug_name": "Desloratadine",
+  "drug_id": 1072,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Hypersensitivity reactions including rash, pruritus, urticaria, edema, dyspnea, and anaphylaxis have been reported. In such cases, stop Desloratadine Tablets at once and consider alternative treatments. ( 5.1 ) 5.1 Hypersensitivity Reactions Hypersensitivity reactions including rash, pruritus, urticaria, edema, dyspnea, and anaphylaxis have been reported after administration of desloratadine. If such a reaction occurs, therapy with Desloratadine Tablets should be stopped and alternative treatment should be considered. [ See Adverse Reactions (6.2) .]",
+    "drug_interactions": "7 DRUG INTERACTIONS 7.1 Inhibitors of Cytochrome P450 3A4 In controlled clinical studies co-administration of desloratadine with ketoconazole, erythromycin, or azithromycin resulted in increased plasma concentrations of desloratadine and 3 hydroxydesloratadine, but there were no clinically relevant changes in the safety profile of desloratadine. [ See Clinical Pharmacology (12.3) .] 7.2 Fluoxetine In controlled clinical studies co-administration of desloratadine with fluoxetine, a selective serotonin reuptake inhibitor (SSRI), resulted in increased plasma concentrations of desloratadine and 3 hydroxydesloratadine, but there were no clinically relevant changes in the safety profile of desloratadine. [ See Clinical Pharmacology (12.3) .] 7.3 Cimetidine In controlled clinical studies co-administration of desloratadine with cimetidine, a histamine H 2 -receptor antagonist, resulted in increased plasma concentrations of desloratadine and 3 hydroxydesloratadine, but there were no clinically relevant changes in the safety profile of desloratadine. [ See Clinical Pharmacology (12.3) . ]",
+    "contraindications": "4 CONTRAINDICATIONS Desloratadine Tablets are contraindicated in patients who are hypersensitive to this medication or to any of its ingredients or to loratadine [ see Warnings and Precautions (5.1) and Adverse Reactions (6.2) ]. \u2022 Hypersensitivity ( 4 , 6.2 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Desloratadine Tablets may be taken without regard to meals. Dosage (by age): Adults and Adolescents 12 Years of Age and Over: \u2022 Desloratadine Tablets - one 5 mg tablet once daily ( 2 ) 2.1 Adults and Adolescents 12 Years of Age and Over The recommended dose of Desloratadine Tablets is one 5-mg tablet once daily. 2.5 Adults with Hepatic or Renal Impairment In adult patients with liver or renal impairment, a starting dose of one 5 mg tablet every other day is recommended based on pharmacokinetic data. Dosing recommendation for children with liver or renal impairment cannot be made due to lack of data [ see Clinical Pharmacology (12.3) ].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Desloratadine Tablets are a histamine-1 (H1) receptor antagonist indicated for: \u2022 Seasonal Allergic Rhinitis: relief of nasal and non-nasal symptoms in patients 12 years of age and older. ( 1.1 ) \u2022 Perennial Allergic Rhinitis: relief of nasal and non-nasal symptoms in patients 12 years of age and older. ( 1.2 ) \u2022 Chronic Idiopathic Urticaria: symptomatic relief of pruritus, reduction in the number of hives, and size of hives in patients 12 years of age and older. ( 1.3 ) 1.1 Seasonal Allergic Rhinitis Desloratadine Tablets are indicated for the relief of the nasal and non-nasal symptoms of seasonal allergic rhinitis in patients 12 years of age and older. 1.2 Perennial Allergic Rhinitis Desloratadine Tablets are indicated for the relief of the nasal and non-nasal symptoms of perennial allergic rhinitis in patients 12 years of age and older. 1.3 Chronic Idiopathic Urticaria Desloratadine Tablets are indicated for the symptomatic relief of pruritus, reduction in the number of hives, and size of hives, in patients with chronic idiopathic urticaria 12 years of age and older."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA078355"
+    ],
+    "brand_name": [
+      "Desloratadine"
+    ],
+    "generic_name": [
+      "DESLORATADINE"
+    ],
+    "manufacturer_name": [
+      "Virtus Pharmaceuticals, LLC"
+    ],
+    "product_ndc": [
+      "69543-107"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DESLORATADINE"
+    ],
+    "rxcui": [
+      "349420"
+    ],
+    "spl_id": [
+      "7c658c72-2694-49dd-9950-0aed03e3d7dc"
+    ],
+    "spl_set_id": [
+      "0fe374d0-c14b-4102-b568-eb79165fc7ef"
+    ],
+    "package_ndc": [
+      "69543-107-30",
+      "69543-107-10",
+      "69543-107-50"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000000190",
+      "N0000175587"
+    ],
+    "pharm_class_moa": [
+      "Histamine H1 Receptor Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Histamine-1 Receptor Antagonist [EPC]"
+    ],
+    "unii": [
+      "FVF865388R"
+    ]
+  }
+}

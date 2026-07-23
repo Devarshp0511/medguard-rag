@@ -1,0 +1,56 @@
+{
+  "drug_name": "Doxylamine",
+  "drug_id": 1089,
+  "sections": {
+    "warnings": "Warnings Do not use in children under 12 years of age with any other product containing doxylamine unless you have time for a full night\u2019s sleep Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or any other sleep-aid tranquilizers any other antihistamines any other drugs When using this product avoid alcoholic beverages do not drive a motor vehicle or operate machinery take only at bedtime Stop use and ask a doctor if sleeplessness persists continuously for more than two weeks. Insomnia may be a symptom of serious underlying medical illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "dosage_and_administration": "Directions adults and children 12 years of age and over: take one tablet 30 minutes before going to bed; take once daily or as directed by a doctor children under 12 years of age: do not use",
+    "indications_and_usage": "Use helps to reduce difficulty in falling asleep"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA040564"
+    ],
+    "brand_name": [
+      "Sleep Aid"
+    ],
+    "generic_name": [
+      "DOXYLAMINE SUCCINATE"
+    ],
+    "manufacturer_name": [
+      "United Natural Foods, Inc. dba UNFI"
+    ],
+    "product_ndc": [
+      "41163-986"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DOXYLAMINE SUCCINATE"
+    ],
+    "rxcui": [
+      "1101446"
+    ],
+    "spl_id": [
+      "67863f1b-c028-41f8-8980-05c9452c215a"
+    ],
+    "spl_set_id": [
+      "005b5ad8-d762-46b5-a7a5-e0ff11ba936a"
+    ],
+    "package_ndc": [
+      "41163-986-22"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0041163256354"
+    ],
+    "unii": [
+      "V9BI9B5YI2"
+    ]
+  }
+}

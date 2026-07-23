@@ -1,0 +1,67 @@
+{
+  "drug_name": "Pentoxifylline",
+  "drug_id": 114,
+  "sections": {
+    "drug_interactions": "Drug Interactions Bleeding has been reported in patients treated with pentoxifylline with or without concomitant NSAIDs, anticoagulants, or platelet aggregation inhibitors. Increased prothrombin time has been reported in patients concomitantly treated with pentoxifylline and vitamin K antagonists. Monitoring of anticoagulant activity in these patients is recommended when pentoxifylline is introduced or the dose is changed. Concomitant administration of pentoxifylline and theophylline-containing drugs leads to increased theophylline levels and theophylline toxicity in some individuals. Monitor theophylline levels when starting pentoxifylline or changing dose. Concomitant administration of strong CYP1A2 inhibitors (including e.g. ciprofloxacin or fluvoxamine) may increase the exposure to pentoxifylline (see ADVERSE REACTIONS ). Pentoxifylline has been used concurrently with antihypertensive drugs, beta blockers, digitalis, diuretics, and antiarrhythmics, without observed problems. Small decreases in blood pressure have been observed in some patients treated with pentoxifylline plus nifedipine or captopril; periodic systemic blood pressure monitoring is recommended for patients receiving concomitant antihypertensive therapy. If indicated, dosage of the antihypertensive agents should be reduced. Postmarketing cases of increased anticoagulant activity have been reported in patients concomitantly treated with pentoxifylline and vitamin K antagonists. Monitoring of anticoagulant activity in these patients is recommended when pentoxifylline is introduced or the dose is changed. Concomitant administration with cimetidine is reported to increase the average steady state plasma concentration of pentoxifylline (~25%) and the Metabolite I (~30%).",
+    "contraindications": "CONTRAINDICATIONS Pentoxifylline should not be used in patients with recent cerebral and/or retinal hemorrhage or in patients who have previously exhibited intolerance to this product or methylxanthines such as caffeine, theophylline, and theobromine.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The usual dosage of pentoxifylline in extended-release tablet form is one tablet (400 mg) three times a day with meals. While the effect of pentoxifylline may be seen within 2 to 4 weeks, it is recommended that treatment be continued for at least 8 weeks. Efficacy has been demonstrated in double-blind clinical studies of 6 months duration. Digestive and central nervous system side effects are dose related. If patients develop these effects it is recommended that the dosage be lowered to one tablet twice a day (800 mg/day). If side effects persist at this lower dosage, the administration of pentoxifylline should be discontinued. In patients with severe renal impairment (creatinine clearance below 30 mL/min) reduce dose to 400 mg once a day. Dosing information cannot be provided for patients with hepatic impairment.",
+    "indications_and_usage": "INDICATIONS AND USAGE Pentoxifylline extended-release tablets are indicated for the treatment of patients with intermittent claudication on the basis of chronic occlusive arterial disease of the limbs. Pentoxifylline can improve function and symptoms but is not intended to replace more definitive therapy, such as surgical bypass, or removal of arterial obstructions when treating peripheral vascular disease."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA075191"
+    ],
+    "brand_name": [
+      "PENTOXIFYLLINE"
+    ],
+    "generic_name": [
+      "PENTOXIFYLLINE"
+    ],
+    "manufacturer_name": [
+      "Apotex Corp."
+    ],
+    "product_ndc": [
+      "60505-0033"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PENTOXIFYLLINE"
+    ],
+    "rxcui": [
+      "312301"
+    ],
+    "spl_id": [
+      "e67bdb49-8c37-8b4f-c982-67d024d3f2aa"
+    ],
+    "spl_set_id": [
+      "40ae2d9a-0d95-640d-0640-f76e7e1a13cb"
+    ],
+    "package_ndc": [
+      "60505-0033-6",
+      "60505-0033-7",
+      "60505-0033-9",
+      "60505-0033-8"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175895",
+      "N0000009065"
+    ],
+    "pharm_class_epc": [
+      "Blood Viscosity Reducer [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Hematologic Activity Alteration [PE]"
+    ],
+    "unii": [
+      "SD6QCT3TSU"
+    ]
+  }
+}

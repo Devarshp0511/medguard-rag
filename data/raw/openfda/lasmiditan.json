@@ -1,0 +1,67 @@
+{
+  "drug_name": "Lasmiditan",
+  "drug_id": 664,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Driving Impairment: Advise patients not to drive or operate machinery until at least 8 hours after taking each dose of REYVOW. Patients who cannot follow this advice should not take REYVOW. Patients may not be able to assess their own driving competence and the degree of impairment caused by REYVOW. ( 5.1 ) Central Nervous System (CNS) Depression: REYVOW may cause CNS depression and should be used with caution if used in combination with alcohol or other CNS depressants. ( 5.2 , 7.1 ) Serotonin Syndrome: Reactions consistent with serotonin syndrome were reported in patients treated with REYVOW. Discontinue REYVOW if symptoms of serotonin syndrome occur. ( 5.3 ) Medication Overuse Headache: Detoxification may be necessary. ( 5.4 ) 5.1 Driving Impairment REYVOW may cause significant driving impairment. In a driving study, administration of single 50 mg, 100 mg, or 200 mg doses of REYVOW significantly impaired subjects' ability to drive [see Clinical Studies ( 14.2 )] . Additionally, more sleepiness was reported at 8 hours following a single dose of REYVOW compared to placebo. Advise patients not to engage in potentially hazardous activities requiring complete mental alertness, such as driving a motor vehicle or operating machinery, for at least 8 hours after each dose of REYVOW. Patients who cannot follow this advice should not take REYVOW. Prescribers and patients should be aware that patients may not be able to assess their own driving competence and the degree of impairment caused by REYVOW. 5.2 Central Nervous System Depression REYVOW may cause central nervous system (CNS) depression, including dizziness and sedation [see Adverse Reactions ( 6.1 )] . Because of the potential for REYVOW to cause sedation, other cognitive and/or neuropsychiatric adverse reactions, and driving impairment, REYVOW should be used with caution if used in combination with alcohol or other CNS depressants [see Drug Interactions ( 7.1 )] . Patients should be warned against driving and other activities requiring complete mental alertness for at least 8 hours after REYVOW is taken [see Warnings and Precautions ( 5.1 )] . 5.3 Serotonin Syndrome In clinical trials, reactions consistent with serotonin syndrome were reported in patients treated with REYVOW who were not taking any other drugs associated with serotonin syndrome. Serotonin syndrome may also occur with REYVOW during coadministration with serotonergic drugs [e.g., selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), and monoamine oxidase (MAO) inhibitors]. Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular signs (e.g., hyperreflexia, incoordination), and/or gastrointestinal signs and symptoms (e.g., nausea, vomiting, diarrhea). The onset of symptoms usually occurs within minutes to hours of receiving a new or a greater dose of a serotonergic medication. Discontinue REYVOW if serotonin syndrome is suspected. 5.4 Medication Overuse Headache Overuse of acute migraine drugs (e.g., ergotamines, triptans, opioids, or a combination of these drugs for 10 or more days per month) may lead to exacerbation of headache (i.e., medication overuse headache). Medication overuse headache may present as migraine-like daily headaches or as a marked increase in frequency of migraine attacks. Detoxification of patients including withdrawal of the overused drugs and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.",
+    "drug_interactions": "7 DRUG INTERACTIONS REYVOW may further lower heart rate when administered with heart rate lowering drugs. ( 7.3 ) 7.1 CNS Depressants Concomitant administration of REYVOW and alcohol or other CNS depressant drugs has not been evaluated in clinical studies. Because of the potential of REYVOW to cause sedation, as well as other cognitive and/or neuropsychiatric adverse reactions, REYVOW should be used with caution if used in combination with alcohol or other CNS depressants [see Warnings and Precautions ( 5.2 )] . 7.2 Serotonergic Drugs Concomitant administration of REYVOW and drugs (e.g., SSRIs, SNRIs, TCAs, MAO inhibitors, trazodone, etc.), over-the counter medications (e.g., dextromethorphan), or herbal supplements (e.g., St. John's Wort) that increase serotonin may increase the risk of serotonin syndrome [see Warnings and Precautions ( 5.3 )] . Use REYVOW with caution in patients taking medications that increase serotonin. 7.3 Heart Rate Lowering Drugs REYVOW has been associated with a lowering of heart rate [see Adverse Reactions ( 6.1 )] . In a drug interaction study, addition of a single 200 mg dose of REYVOW to propranolol decreased heart rate by an additional 5 beats per minute compared to propranolol alone, for a mean maximum of 19 beats per minute. Use REYVOW with caution in patients taking concomitant medications that lower heart rate if this magnitude of heart rate decrease may pose a concern. 7.4 P-glycoprotein (P-gp) Transporter Substrates Coadministration of REYVOW with P-gp substrates where a small change in substrate plasma concentration may lead to serious toxicities (e.g., digoxin) is not recommended [see Clinical Pharmacology ( 12.3 )] .",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended dose of REYVOW is 50 mg, 100 mg, or 200 mg taken orally, as needed. No more than one dose should be taken in 24 hours, and REYVOW should not be taken unless the patient can wait at least 8 hours between dosing and driving or operating machinery [see Warnings and Precautions ( 5.1 )] . A second dose of REYVOW has not been shown to be effective for the same migraine attack. The safety of treating an average of more than 4 migraine attacks in a 30-day period has not been established. REYVOW may be taken with or without food. Administer tablets whole; do not split, crush, or chew. The recommended dose is 50 mg, 100 mg, or 200 mg taken orally, as needed. ( 2 ) No more than one dose should be taken in 24 hours. ( 2 , 5.1 ) Administer tablets whole. ( 2 )",
+    "indications_and_usage": "1 INDICATIONS AND USAGE REYVOW \u00ae is indicated for the acute treatment of migraine with or without aura in adults. REYVOW \u00ae is a serotonin (5-HT) 1F receptor agonist indicated for the acute treatment of migraine with or without aura in adults. ( 1 ) Limitations of Use REYVOW is not indicated for the preventive treatment of migraine. ( 1 ) Limitations of Use REYVOW is not indicated for the preventive treatment of migraine."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA211280"
+    ],
+    "brand_name": [
+      "Reyvow"
+    ],
+    "generic_name": [
+      "LASMIDITAN"
+    ],
+    "manufacturer_name": [
+      "Eli Lilly and Company"
+    ],
+    "product_ndc": [
+      "0002-4312",
+      "0002-4491"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LASMIDITAN"
+    ],
+    "rxcui": [
+      "2256937",
+      "2256943",
+      "2256945",
+      "2256947"
+    ],
+    "spl_id": [
+      "75a13e98-3736-4256-8277-6c05bcaddcf5"
+    ],
+    "spl_set_id": [
+      "aea3358c-ff41-4490-9e6d-c7bf7b3de13f"
+    ],
+    "package_ndc": [
+      "0002-4312-08",
+      "0002-4312-61",
+      "0002-4312-62",
+      "0002-4491-08",
+      "0002-4491-61",
+      "0002-4491-62"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0300024491083"
+    ],
+    "unii": [
+      "760I9WM792"
+    ]
+  }
+}

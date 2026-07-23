@@ -1,0 +1,66 @@
+{
+  "drug_name": "Ribavirin",
+  "drug_id": 1188,
+  "sections": {
+    "boxed_warning": "WARNINGS: USE OF AEROSOLIZED RIBAVIRIN FOR INHALATION SOLUTION, USP IN PATIENTS REQUIRING MECHANICAL VENTILATOR ASSISTANCE SHOULD BE UNDERTAKEN ONLY BY PHYSICIANS AND SUPPORT STAFF FAMILIAR WITH THE SPECIFIC VENTILATOR BEING USED AND THIS MODE OF ADMINISTRATION OF THE DRUG. STRICT ATTENTION MUST BE PAID TO PROCEDURES THAT HAVE BEEN SHOWN TO MINIMIZE THE ACCUMULATION OF DRUG PRECIPITATE, WHICH CAN RESULT IN MECHANICAL VENTILATOR DYSFUNCTION AND ASSOCIATED INCREASED PULMONARY PRESSURES (SEE WARNINGS ). SUDDEN DETERIORATION OF RESPIRATORY FUNCTION HAS BEEN ASSOCIATED WITH INITIATION OF AEROSOLIZED RIBAVIRIN FOR INHALATION SOLUTION, USP USE IN INFANTS. RESPIRATORY FUNCTION SHOULD BE CAREFULLY MONITORED DURING TREATMENT. IF INITIATION OF AEROSOLIZED RIBAVIRIN FOR INHALATION SOLUTION, USP TREATMENT APPEARS TO PRODUCE SUDDEN DETERIORATION OF RESPIRATORY FUNCTION, TREATMENT SHOULD BE STOPPED AND REINSTITUTED ONLY WITH EXTREME CAUTION, CONTINUOUS MONITORING AND CONSIDERATION OF CONCOMITANT ADMINISTRATION OF BRONCHODILATORS (SEE WARNINGS ). RIBAVIRIN FOR INHALATION SOLUTION, USP IS NOT INDICATED FOR USE IN ADULTS. PHYSICIANS AND PATIENTS SHOULD BE AWARE THAT RIBAVIRIN HAS BEEN SHOWN TO PRODUCE TESTICULAR LESIONS IN RODENTS AND TO BE TERATOGENIC IN ALL ANIMAL SPECIES IN WHICH ADEQUATE STUDIES HAVE BEEN CONDUCTED (RODENTS AND RABBITS); (SEE CONTRAINDICATIONS ).",
+    "warnings": "WARNINGS SUDDEN DETERIORATION OF RESPIRATORY FUNCTION HAS BEEN ASSOCIATED WITH INITIATION OF AEROSOLIZED RIBAVIRIN FOR INHALATION SOLUTION, USP USE IN INFANTS. Respiratory function should be carefully monitored during treatment. If initiation of aerosolized ribavirin for inhalation solution, USP treatment appears to produce sudden deterioration of respiratory function, treatment should be stopped and reinstituted only with extreme caution, continuous monitoring, and consideration of concomitant administration of bronchodilators. Use with Mechanical Ventilators USE OF AEROSOLIZED RIBAVIRIN FOR INHALATION SOLUTION, USP IN PATIENTS REQUIRING MECHANICAL VENTILATOR ASSISTANCE SHOULD BE UNDERTAKEN ONLY BY PHYSICIANS AND SUPPORT STAFF FAMILIAR WITH THIS MODE OF ADMINISTRATION AND THE SPECIFIC VENTILATOR BEING USED. Strict attention must be paid to procedures that have been shown to minimize the accumulation of drug precipitate, which can result in mechanical ventilator dysfunction and associated increased pulmonary pressures. These procedures include the use of bacteria filters in series in the expiratory limb of the ventilator circuit with frequent changes (every 4 hours), water column pressure release valves to indicate elevated ventilator pressures, frequent monitoring of these devices and verification that ribavirin crystals have not accumulated within the ventilator circuitry, and frequent suctioning and monitoring of the patient (see Clinical Studies). Those administering aerosolized ribavirin for inhalation solution, USP in conjunction with mechanical ventilator use should be thoroughly familiar with detailed descriptions of these procedures as outlined in the SPAG-2 manual.",
+    "drug_interactions": "Drug Interactions Clinical studies of interactions of ribavirin for inhalation solution, USP with other drugs commonly used to treat infants with RSV infections, such as digoxin, bronchodilators, other antiviral agents, antibiotics or anti-metabolites, have not been conducted. Interference by ribavirin for inhalation solution, USP with laboratory tests has not been evaluated.",
+    "contraindications": "CONTRAINDICATIONS Ribavirin for inhalation solution, USP is contraindicated in individuals who have shown hypersensitivity to the drug or its components, and in women who are or may become pregnant during exposure to the drug. Ribavirin has demonstrated significant teratogenic and/or embryocidal potential in all animal species in which adequate studies have been conducted (rodents and rabbits). Therefore, although clinical studies have not been performed, it should be assumed that ribavirin for inhalation solution, USP may cause fetal harm in humans. Studies in which the drug has been administered systemically demonstrate that ribavirin is concentrated in the red blood cells and persists for the life of the erythrocyte.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION BEFORE USE, READ THOROUGHLY THE VALEANT SMALL PARTICLE AEROSOL GENERATOR SPAG-2 OPERATOR'S MANUAL FOR SMALL PARTICLE AEROSOL GENERATOR OPERATING INSTRUCTIONS. AEROSOLIZED RIBAVIRIN FOR INHALATION SOLUTION, USP SHOULD NOT BE ADMINISTERED WITH ANY OTHER AEROSOL GENERATING DEVICE. The recommended treatment regimen is 20 mg/mL ribavirin for inhalation solution, USP as the starting solution in the drug reservoir of the SPAG-2 unit, with continuous aerosol administration for 12-18 hours per day for 3 to 7 days. Using the recommended drug concentration of 20 mg/mL the average aerosol concentration for a 12 hour delivery period would be 190 micrograms/liter of air. Aerosolized ribavirin for inhalation solution, USP should not be administered in a mixture for combined aerosolization or simultaneously with other aerosolized medications. Non-mechanically ventilated infants Ribavirin for inhalation solution, USP should be delivered to an infant oxygen hood from the SPAG-2 aerosol generator. Administration by face mask or oxygen tent may be necessary if a hood cannot be employed (see SPAG-2 manual). However, the volume and condensation area are larger in a tent and this may alter delivery dynamics of the drug. Mechanically Ventilated Infants The recommended dose and administration schedule for infants who require mechanical ventilation is the same as for those who do not. Either a pressure or volume cycle ventilator may be used in conjunction with the SPAG-2. In either case, patients should have their endotracheal tubes suctioned every 1-2 hours, and their pulmonary pressures monitored frequently (every 2-4 hours). For both pressure and volume ventilators, heated wire connective tubing and bacteria filters in series in the expiratory limb of the system (which must be changed frequently, i.e., every 4 hours) must be used to minimize the risk of ribavirin for inhalation solution, USP precipitation in the system and the subsequent risk of ventilator dysfunction. Water column pressure release valves should be used in the ventilator circuit for pressure cycled ventilators, and may be utilized with volume cycled ventilators (SEE SPAG-2 MANUAL FOR DETAILED INSTRUCTIONS). Method of Preparation Ribavirin for inhalation solution, USP is supplied as 6 grams of lyophilized powder per 100 mL vial for aerosol administration only. By sterile technique, reconstitute drug with a minimum of 75 mL of sterile water for injection, USP or sterile water for inhalation, USP in the original 100 mL glass vial. Shake well . Transfer to the clean, sterilized 500 mL SPAG-2 reservoir and further dilute to a final volume of 300 mL with Sterile Water for Injection, USP, or Inhalation. The final concentration should be 20 mg/mL. Important: This water should NOT have had any antimicrobial agent or other substance added. The solution should be inspected visually for particulate matter and discoloration prior to administration. Solutions that have been placed in the SPAG-2 unit should be discarded at least every 24 hours and when the liquid level is low before adding newly reconstituted solution.",
+    "indications_and_usage": "INDICATIONS AND USAGE Ribavirin for inhalation solution, USP is indicated for the treatment of hospitalized infants and young children with severe lower respiratory tract infections due to respiratory syncytial virus. Treatment early in the course of severe lower respiratory tract infection may be necessary to achieve efficacy. Only severe RSV lower respiratory tract infection should be treated with ribavirin for inhalation solution, USP. The vast majority of infants and children with RSV infection have disease that is mild, self-limited, and does not require hospitalization or antiviral treatment. Many children with mild lower respiratory tract involvement will require shorter hospitalization than would be required for a full course of ribavirin for inhalation solution, USP aerosol (3 to 7 days) and should not be treated with the drug. Thus the decision to treat with ribavirin for inhalation solution, USP should be based on the severity of the RSV infection. The presence of an underlying condition such as prematurity, immunosuppression or cardiopulmonary disease may increase the severity of clinical manifestations and complications of RSV infection. Use of aerosolized ribavirin for inhalation solution, USP in patients requiring mechanical ventilator assistance should be undertaken only by physicians and support staff familiar with this mode of administration and the specific ventilator being used (see WARNINGS , and DOSAGE AND ADMINISTRATION ). Diagnosis RSV infection should be documented by a rapid diagnostic method such as demonstration of viral antigen in respiratory tract secretions by immunofluorescence 3,4 or ELISA 5 before or during the first 24 hours of treatment. Treatment may be initiated while awaiting rapid diagnostic test results. However, treatment should not be continued without documentation of RSV infection. Non-culture antigen detection techniques may have false positive or false negative results. Assessment of the clinical situation, the time of year and other parameters may warrant reevaluation of the laboratory diagnosis. Description of Studies Non-Mechanically-Ventilated Infants: In two placebo controlled trials in infants hospitalized with RSV lower respiratory tract infection, aerosolized ribavirin for inhalation solution, USP treatment had a therapeutic effect, as judged by the reduction in severity of clinical manifestations of disease by treatment day 3. 3,4 Treatment was most effective when instituted within the first 3 days of clinical illness. Virus titers in respiratory secretions were also significantly reduced with ribavirin for inhalation solution, USP in one of these original studies. 4 Additional controlled studies conducted since these initial trials of aerosolized ribavirin for inhalation solution, USP in the treatment of RSV infection have supported these data. Mechanically-Ventilated Infants : A randomized, double-blind, placebo-controlled evaluation of aerosolized ribavirin for inhalation solution, USP at the recommended dose was conducted in 28 infants requiring mechanical ventilation for respiratory failure caused by documented RSV infection. 6 Mean age was 1.4 months (SD, 1.7 months). Seven patients had underlying diseases predisposing them to severe infection and 21 were previously normal. Aerosolized ribavirin for inhalation solution, USP treatment significantly decreased the duration of mechanical ventilation required (4.9 vs. 9.9 days, p=0.01) and duration of required supplemental oxygen (8.7 vs. 13.5 days, p=0.01). Intensive patient management and monitoring techniques were employed in this study. These included endotracheal tube suctioning every 1 to 2 hours; recording of proximal airway pressure, ventilatory rate, and F l O 2 every hour; and arterial blood gas monitoring every 2 to 6 hours. To reduce the risk of ribavirin for inhalation solution, USP precipitation and ventilator malfunction, heated wire tubing, two bacterial filters connected in series in the expiratory limb of the ventilator (with filter changes every 4 hours), and water column pressure release valves to monitor internal ventilator pressures were used in connecting ventilator circuits to the SPAG-2. Employing these techniques, no technical difficulties with ribavirin for inhalation solution, USP administration were encountered during the study. Adverse events consisted of bacterial pneumonia in one case, staphyloccus bacteremia in one case and two cases of post-extubation stridor. None were felt to be related to ribavirin for inhalation solution, USP administration."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA207366"
+    ],
+    "brand_name": [
+      "RIBAVIRIN"
+    ],
+    "generic_name": [
+      "RIBAVIRIN"
+    ],
+    "manufacturer_name": [
+      "Zydus Pharmaceuticals USA Inc."
+    ],
+    "product_ndc": [
+      "68382-395"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "RIBAVIRIN"
+    ],
+    "rxcui": [
+      "312818"
+    ],
+    "spl_id": [
+      "5b244567-d037-4fbd-9e2b-ed394e1c07b4"
+    ],
+    "spl_set_id": [
+      "2c3a64d5-fde2-437b-bafc-e76dd187d85a"
+    ],
+    "package_ndc": [
+      "68382-395-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0368382395016"
+    ],
+    "nui": [
+      "N0000175459",
+      "N0000175466"
+    ],
+    "pharm_class_epc": [
+      "Nucleoside Analog Antiviral [EPC]"
+    ],
+    "unii": [
+      "49717AWG6K"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "drug_name": "Mitomycin",
+  "drug_id": 1310,
+  "sections": {
+    "boxed_warning": "WARNING Mitomycin should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. Appropriate management of therapy and complications is possible only when adequate diagnostic and treatment facilities are readily available. Bone marrow suppression, notably thrombocytopenia and leukopenia, which may contribute to overwhelming infections in an already compromised patient, is the most common and severe of the toxic effects of mitomycin (see WARNINGS and ADVERSE REACTIONS sections). Hemolytic Uremic Syndrome (HUS) a serious complication of chemotherapy, consisting primarily of microangiopathic hemolytic anemia, thrombocytopenia, and irreversible renal failure has been reported in patients receiving systemic mitomycin. The syndrome may occur at any time during systemic therapy with mitomycin as a single agent or in combination with other cytotoxic drugs, however, most cases occur at doses \u226560 mg of mitomycin. Blood product transfusion may exacerbate the symptoms associated with this syndrome. The incidence of the syndrome has not been defined.",
+    "warnings": "WARNINGS Patients being treated with mitomycin must be observed carefully and frequently during and after therapy. The use of mitomycin results in a high incidence of bone marrow suppression, particularly thrombocytopenia and leukopenia. Therefore, the following studies should be obtained repeatedly during therapy and for at least eight weeks following therapy: platelet count, white blood cell count, differential, and hemoglobin. The occurrence of a platelet count below 100,000/mm 3 or a WBC below 4,000/mm 3 or a progressive decline in either is an indication to withhold further therapy until blood counts have recovered above these levels. Patients should be advised of the potential toxicity of this drug, particularly bone marrow suppression. Deaths have been reported due to septicemia as a result of leukopenia due to the drug. Patients receiving mitomycin should be observed for evidence of renal toxicity. Mitomycin should not be given to patients with a serum creatinine greater than 1.7 mg percent. Usage in Pregnancy Safe use of mitomycin in pregnant women has not been established. Teratological changes have been noted in animal studies. The effect of mitomycin on fertility is unknown.",
+    "contraindications": "CONTRAINDICATIONS Mitomycin is contraindicated in patients who have demonstrated a hypersensitive or idiosyncratic reaction to it in the past. Mitomycin is contraindicated in patients with thrombocytopenia, coagulation disorder, or an increase in bleeding tendency due to other causes.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit. Mitomycin should be given intravenously only, using care to avoid extravasation of the compound. If extravasation occurs, cellulitis, ulceration, and slough may result. Each Single-Dose vial contains mitomycin 40 mg and mannitol 80 mg. To administer, add Sterile Water for Injection, 80 mL. Shake to dissolve. If product does not dissolve immediately, allow to stand at room temperature until solution is obtained. After full hematological recovery (see guide to dosage adjustment) from any previous chemotherapy, the following dosage schedule may be used at 6 to 8 week intervals: 20 mg/m 2 intravenously as a single dose via a functioning intravenous catheter. Because of cumulative myelosuppression, patients should be fully re-evaluated after each course of mitomycin, and the dose reduced if the patient has experienced any toxicities. Doses greater than 20 mg/m 2 have not been shown to be more effective, and are more toxic than lower doses. The following schedule is suggested as a guide to dosage adjustment: Nadir After Prior Dose Leukocytes /mm 3 Platelets / mm 3 Percentage of Prior Dose to be given >4000 >100,000 100% 3000 - 3999 75,000 - 99,999 100% 2000 - 2999 25,000 - 74,999 70% <2000 <25,000 50% No repeat dosage should be given until leukocyte count has returned to 4000/mm 3 and a platelet count to 100,000/mm 3 . When mitomycin is used in combination with other myelosuppressive agents, the doses should be adjusted accordingly. If the disease continues to progress after two courses of mitomycin, the drug should be stopped since chances of response are minimal.",
+    "dosage_and_administration_table": "<table width=\"100%\"><col width=\"25.500%\" align=\"left\"/><col width=\"22.700%\" align=\"left\"/><col width=\"51.800%\" align=\"left\"/><tbody><tr><td colspan=\"3\" align=\"center\" valign=\"top\" styleCode=\"Toprule Botrule Lrule Rrule\"><content styleCode=\"bold\">Nadir After Prior Dose</content></td></tr><tr><td align=\"center\" valign=\"top\" styleCode=\"Botrule Lrule Rrule\"><content styleCode=\"bold\">Leukocytes /mm</content><content styleCode=\"bold\"><sup>3</sup></content></td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">Platelets / mm</content><content styleCode=\"bold\"><sup>3</sup></content></td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">Percentage of Prior Dose to be given</content></td></tr><tr><td align=\"center\" valign=\"top\" styleCode=\"Botrule Lrule Rrule\">&gt;4000 </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">&gt;100,000 </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">100% </td></tr><tr><td align=\"center\" valign=\"top\" styleCode=\"Botrule Lrule Rrule\">3000 - 3999 </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">75,000 - 99,999 </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">100% </td></tr><tr><td align=\"center\" valign=\"top\" styleCode=\"Botrule Lrule Rrule\">2000 - 2999 </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">25,000 - 74,999 </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">70% </td></tr><tr><td align=\"center\" valign=\"top\" styleCode=\"Botrule Lrule Rrule\">&lt;2000 </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">&lt;25,000 </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">50% </td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE Mitomycin for Injection is not recommended as single-agent, primary therapy. It has been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative treatment when other modalities have failed. Mitomycin is not recommended to replace appropriate surgery and/or radiotherapy."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA216648"
+    ],
+    "brand_name": [
+      "Mitomycin"
+    ],
+    "generic_name": [
+      "MITOMYCIN"
+    ],
+    "manufacturer_name": [
+      "Sagent Pharmaceuticals"
+    ],
+    "product_ndc": [
+      "25021-252"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "MITOMYCIN"
+    ],
+    "rxcui": [
+      "1740898"
+    ],
+    "spl_id": [
+      "9b41ea95-d383-46e8-9823-5d0447dec0ab"
+    ],
+    "spl_set_id": [
+      "0171a1c8-c474-4ec1-a11d-6b93a21ca460"
+    ],
+    "package_ndc": [
+      "25021-252-51"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000000236",
+      "N0000175558"
+    ],
+    "pharm_class_moa": [
+      "Alkylating Activity [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Alkylating Drug [EPC]"
+    ],
+    "unii": [
+      "50SG953SK6"
+    ]
+  }
+}

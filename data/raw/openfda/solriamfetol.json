@@ -1,0 +1,80 @@
+{
+  "drug_name": "Solriamfetol",
+  "drug_id": 352,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Blood Pressure and Heart Rate Increases : Measure heart rate and blood pressure prior to initiating and periodically throughout treatment. Control hypertension before and during therapy. Avoid use in patients with unstable cardiovascular disease, serious heart arrhythmias, or other serious heart problems. ( 5.1 ) Psychiatric Symptoms : Use caution in treating patients with a history of psychosis or bipolar disorders. Consider dose reduction or discontinuation of SUNOSI if psychiatric symptoms develop. ( 5.2 ) 5.1 Blood Pressure and Heart Rate Increases SUNOSI increases systolic blood pressure, diastolic blood pressure, and heart rate in a dose-dependent fashion [see Adverse Reactions ( 6.1 )] . Epidemiological data show that chronic elevations in blood pressure increase the risk of major adverse cardiovascular events (MACE), including stroke, heart attack, and cardiovascular death. The magnitude of the increase in absolute risk is dependent on the increase in blood pressure and the underlying risk of MACE in the population being treated. Many patients with narcolepsy and OSA have multiple risk factors for MACE, including hypertension, diabetes, hyperlipidemia, and high body mass index (BMI). Assess blood pressure and control hypertension before initiating treatment with SUNOSI. Monitor blood pressure regularly during treatment and treat new-onset hypertension and exacerbations of pre-existing hypertension. Exercise caution when treating patients at higher risk of MACE, particularly patients with known cardiovascular and cerebrovascular disease, pre-existing hypertension, and patients with advanced age. Use caution with other drugs that increase blood pressure and heart rate [see Drug Interactions ( 7.2 )] . Periodically reassess the need for continued treatment with SUNOSI. If a patient experiences increases in blood pressure or heart rate that cannot be managed with dose reduction of SUNOSI or other appropriate medical intervention, consider discontinuation of SUNOSI. Patients with moderate or severe renal impairment may be at a higher risk of increases in blood pressure and heart rate because of the prolonged half-life of SUNOSI [see Dosage and Administration ( 2.5 ), Clinical Pharmacology ( 12.3 )] . 5.2 Psychiatric Symptoms Psychiatric adverse reactions have been observed in clinical trials with SUNOSI, including anxiety, insomnia, and irritability [see Adverse Reactions ( 6.1 )] . SUNOSI has not been evaluated in patients with psychosis or bipolar disorders. Exercise caution when treating patients with SUNOSI who have a history of psychosis or bipolar disorders. Patients with moderate or severe renal impairment may be at a higher risk of psychiatric symptoms because of the prolonged half-life of SUNOSI [see Dosage and Administration ( 2.5 ), Clinical Pharmacology ( 12.3 )] . Patients treated with SUNOSI should be observed for the possible emergence or exacerbation of psychiatric symptoms. If psychiatric symptoms develop in association with the administration of SUNOSI, consider dose reduction or discontinuation of SUNOSI.",
+    "drug_interactions": "7 DRUG INTERACTIONS Drugs that Increase Blood Pressure and/or Heart Rate and Dopaminergic Drugs : Use caution when co-administering with SUNOSI. ( 7.2 , 7.3 ) 7.1 Monoamine Oxidase (MAO) Inhibitors Do not administer SUNOSI concomitantly with MAOIs or within 14 days after discontinuing MAOI treatment. Concomitant use of MAO inhibitors and noradrenergic drugs may increase the risk of a hypertensive reaction. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure [see Contraindications ( 4 )]. 7.2 Drugs that Increase Blood Pressure and/or Heart Rate Concomitant use of SUNOSI with other drugs that increase blood pressure and/or heart rate has not been evaluated, and such combinations should be used with caution [see Warnings and Precautions ( 5.1 )]. 7.3 Dopaminergic Drugs Dopaminergic drugs that increase levels of dopamine or that bind directly to dopamine receptors might result in pharmacodynamic interactions with SUNOSI. Interactions with dopaminergic drugs have not been evaluated with SUNOSI. Use caution when concomitantly administering dopaminergic drugs with SUNOSI.",
+    "contraindications": "4 CONTRAINDICATIONS SUNOSI is contraindicated in patients receiving concomitant treatment with monoamine oxidase (MAO) inhibitors, or within 14 days following discontinuation of monoamine oxidase inhibitor, because of the risk of hypertensive reaction [see Drug Interactions ( 7.1 )] . Concurrent treatment with a monoamine oxidase inhibitor (MAOI) or use of an MAOI within the preceding 14 days. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Administer once daily upon awakening. Avoid administration within 9 hours of planned bedtime because of the potential to interfere with sleep. ( 2.2 ) Starting dose for patients with narcolepsy: 75 mg once daily. ( 2.3 ) Starting dose for patients with OSA: 37.5 mg once daily. ( 2.4 ) Dose may be increased at intervals of at least 3 days. ( 2.3 , 2.4 ) Maximum dose is 150 mg once daily. ( 2.3 , 2.4 ) Renal impairment ( 2.5 , 8.6 , 12.3 ): Moderate impairment: Starting dose is 37.5 mg once daily. May increase to 75 mg once daily after at least 7 days. Severe impairment: Starting dose and maximum dose is 37.5 mg once daily. End stage renal disease (ESRD): Not recommended. 2.1 Important Considerations Prior to Initiating Treatment Prior to initiating treatment with SUNOSI, ensure blood pressure is adequately controlled [see Warnings and Precautions ( 5.1 )] . 2.2 General Administration Instructions Administer SUNOSI orally upon awakening with or without food. Avoid taking SUNOSI within 9 hours of planned bedtime because of the potential to interfere with sleep if taken too late in the day. SUNOSI 75 mg tablets are functionally scored tablets that can be split in half (37.5 mg) at the score line. 2.3 Dosage in Narcolepsy Initiate SUNOSI at 75 mg once daily in adults with narcolepsy. The recommended dose range for SUNOSI is 75 mg to 150 mg once daily. Based on efficacy and tolerability, the dosage of SUNOSI may be doubled at intervals of at least 3 days. The maximum recommended dose is 150 mg once daily. Dosages above 150 mg daily do not confer increased effectiveness sufficient to outweigh dose-related adverse reactions [see Warnings and Precautions ( 5.1 )] . 2.4 Dosage in OSA Initiate SUNOSI at 37.5 mg once daily in adults with OSA. The recommended dosage range for SUNOSI is 37.5 mg to 150 mg once daily. Based on efficacy and tolerability, the dosage of SUNOSI may be doubled at intervals of at least 3 days. The maximum recommended dosage is 150 mg once daily. Dosages above 150 mg daily do not confer increased effectiveness sufficient to outweigh dose-related adverse reactions [see Warnings and Precautions ( 5.1 )] . 2.5 Dosage Recommendations in Patients with Renal Impairment Moderate renal impairment (eGFR 30-59 mL/min/1.73 m 2 ) : Initiate dosing at 37.5 mg once daily. Based on efficacy and tolerability, dose may be increased to a maximum of 75 mg once daily after at least 7 days [see Use in Specific Populations ( 8.6 ), Clinical Pharmacology ( 12.3 )] . Severe renal impairment (eGFR 15-29 mL/min/1.73 m 2 ) : Administer 37.5 mg once daily. The maximum recommended daily dose is 37.5 mg [see Use in Specific Populations ( 8.6 ), Clinical Pharmacology ( 12.3 )] . End Stage Renal Disease (eGFR <15 mL/min/1.73 m 2 ) : SUNOSI is not recommended for use in patients with ESRD [see Use in Specific Populations ( 8.6 ), Clinical Pharmacology ( 12.3 )] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE SUNOSI is indicated to improve wakefulness in adult patients with excessive daytime sleepiness associated with narcolepsy or obstructive sleep apnea (OSA) [see Clinical Studies ( 14 )] . Limitations of Use SUNOSI is not indicated to treat the underlying airway obstruction in OSA. Ensure that the underlying airway obstruction is treated (e.g., with continuous positive airway pressure (CPAP)) for at least one month prior to initiating SUNOSI for excessive daytime sleepiness. Modalities to treat the underlying airway obstruction should be continued during treatment with SUNOSI. SUNOSI is not a substitute for these modalities. SUNOSI is a dopamine and norepinephrine reuptake inhibitor (DNRI) indicated to improve wakefulness in adult patients with excessive daytime sleepiness associated with narcolepsy or obstructive sleep apnea (OSA). ( 1 ) Limitations of Use SUNOSI is not indicated to treat the underlying airway obstruction in OSA. Ensure that the underlying airway obstruction is treated (e.g., with continuous positive airway pressure (CPAP)) for at least one month prior to initiating SUNOSI for excessive daytime sleepiness. Modalities to treat the underlying airway obstruction should be continued during treatment with SUNOSI. SUNOSI is not a substitute for these modalities. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA211230"
+    ],
+    "brand_name": [
+      "SUNOSI"
+    ],
+    "generic_name": [
+      "SOLRIAMFETOL"
+    ],
+    "manufacturer_name": [
+      "Axsome Therapeutics, Inc."
+    ],
+    "product_ndc": [
+      "81968-350",
+      "81968-351"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SOLRIAMFETOL"
+    ],
+    "rxcui": [
+      "2121756",
+      "2121758",
+      "2121764",
+      "2173841"
+    ],
+    "spl_id": [
+      "f0a0a507-33cd-4ab1-b438-12996fae6ae1"
+    ],
+    "spl_set_id": [
+      "362f206b-73e7-4009-8c34-5a9df55679ab"
+    ],
+    "package_ndc": [
+      "81968-350-01",
+      "81968-350-07",
+      "81968-350-10",
+      "81968-351-01",
+      "81968-351-07",
+      "81968-351-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0381968350018",
+      "0381968351015"
+    ],
+    "nui": [
+      "N0000194049",
+      "N0000000114",
+      "N0000000102"
+    ],
+    "pharm_class_epc": [
+      "Dopamine and Norepinephrine Reuptake Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Dopamine Uptake Inhibitors [MoA]",
+      "Norepinephrine Uptake Inhibitors [MoA]"
+    ],
+    "unii": [
+      "939U7C91AI"
+    ]
+  }
+}

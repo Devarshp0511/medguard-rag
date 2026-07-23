@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MedGuard — Clinical Decision Support</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+  * { box-sizing: border-box; }
+  body { margin: 0; }
+  @keyframes mg-spin { to { transform: rotate(360deg); } }
+  @keyframes mg-pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+  button { font: inherit; }
+  input:focus { border-color: var(--accent) !important; box-shadow: 0 0 0 3px var(--accent-soft); }
+  .example-chip:hover { border-color: var(--accent) !important; color: var(--accent) !important; }
+  .ask-btn:hover { background: var(--accent-dark) !important; }
+  .evidence-card { transition: box-shadow 0.15s; }
+</style>
+</head>
+<body>
+
+<div id="root" style="min-height:100vh; display:flex; flex-direction:column; font-family:'IBM Plex Sans',sans-serif; color:oklch(24% 0.02 240); background:oklch(97.5% 0.004 240);
+  --accent: oklch(45% 0.15 230); --accent-dark: oklch(38% 0.15 230); --accent-soft: oklch(90% 0.05 230 / 0.4);">
+
+  <header style="display:flex; align-items:center; justify-content:space-between; padding:18px 40px; border-bottom:1px solid oklch(90% 0.008 240); background:oklch(99% 0.002 240);">
+    <div style="display:flex; align-items:center; gap:12px;">
+      <div style="width:34px; height:34px; border-radius:8px; background:var(--accent); display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+        <div style="width:12px; height:12px; border:2px solid white; border-radius:2px;"></div>
+      </div>
+      <div>
+        <div style="font-size:17px; font-weight:600; letter-spacing:-0.01em; line-height:1.1;">MedGuard</div>
+        <div style="font-size:11px; color:oklch(48% 0.02 240); letter-spacing:0.02em;">Clinical Decision Support</div>
+      </div>
+    </div>
+    <div style="display:flex; align-items:center; gap:18px;">
+      <div id="status-badge" style="display:flex; align-items:center; gap:7px; font-family:'IBM Plex Mono',monospace; font-size:12.5px; color:oklch(38% 0.02 240); background:oklch(94% 0.015 90); padding:6px 12px; border-radius:20px; border:1px solid oklch(85% 0.04 90);">
+        <span id="status-dot" style="width:7px; height:7px; border-radius:50%; background:oklch(70% 0.1 80); flex-shrink:0;"></span>
+        <span id="status-text">Connecting…</span>
+      </div>
+      <div style="font-size:12px; color:oklch(45% 0.02 240); padding-left:16px; border-left:1px solid oklch(88% 0.008 240);">Licensed Clinician Access</div>
+    </div>
+  </header>
+
+  <main style="flex:1; width:100%; max-width:800px; margin:0 auto; padding:56px 32px 40px; display:flex; flex-direction:column; gap:28px;">
+
+    <div style="text-align:center; display:flex; flex-direction:column; gap:6px;">
+      <h1 style="font-size:26px; font-weight:600; letter-spacing:-0.015em; margin:0;">Ask a drug interaction or dosage question</h1>
+      <p style="font-size:14px; color:oklch(48% 0.02 240); margin:0;">Answers are generated from indexed FDA prescribing information, with citations to source text.</p>
+    </div>
+
+    <form id="query-form" style="display:flex; gap:10px; align-items:stretch;">
+      <input id="query-input" type="text" placeholder="e.g. Can I combine warfarin and ibuprofen?"
+        style="flex:1; font-size:16px; font-family:inherit; padding:16px 18px; border-radius:10px; border:1.5px solid oklch(85% 0.01 240); background:white; color:oklch(22% 0.02 240); outline:none;">
+      <button type="submit" class="ask-btn" style="font-size:14.5px; font-weight:600; color:white; background:var(--accent); border:none; border-radius:10px; padding:0 26px; cursor:pointer; white-space:nowrap;">Ask MedGuard</button>
+    </form>
+
+    <div id="examples" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;"></div>
+
+    <div style="display:flex; justify-content:center;">
+      <div style="display:flex; background:oklch(93% 0.006 240); border-radius:9px; padding:3px; gap:2px;">
+        <button id="mode-full" style="font-size:12.5px; font-weight:600; border:none; border-radius:7px; padding:8px 14px; cursor:pointer; background:var(--accent); color:white;">Full answer</button>
+        <button id="mode-retrieval" style="font-size:12.5px; font-weight:600; border:none; border-radius:7px; padding:8px 14px; cursor:pointer; background:transparent; color:oklch(45% 0.02 240);">Retrieval only</button>
+      </div>
+    </div>
+
+    <div id="loading-state" style="display:none; flex-direction:column; gap:14px; padding:8px 0;">
+      <div style="display:flex; align-items:center; gap:10px; color:oklch(45% 0.02 240); font-size:13.5px;">
+        <div style="width:14px; height:14px; border-radius:50%; border:2px solid oklch(85% 0.01 240); border-top-color:var(--accent); animation:mg-spin 0.7s linear infinite;"></div>
+        <span id="loading-label">Retrieving evidence and generating answer…</span>
+      </div>
+      <div style="height:14px; width:60%; border-radius:6px; background:oklch(91% 0.005 240); animation:mg-pulse 1.3s ease-in-out infinite;"></div>
+      <div style="height:14px; width:90%; border-radius:6px; background:oklch(91% 0.005 240); animation:mg-pulse 1.3s ease-in-out infinite;"></div>
+      <div style="height:14px; width:75%; border-radius:6px; background:oklch(91% 0.005 240); animation:mg-pulse 1.3s ease-in-out infinite;"></div>
+    </div>
+
+    <div id="error-state" style="display:none; padding:22px 24px; border-radius:12px; background:oklch(96% 0.03 25); border:1px solid oklch(80% 0.08 25); font-size:14px; color:oklch(35% 0.08 25);"></div>
+
+    <div id="refused-state" style="display:none; gap:14px; padding:22px 24px; border-radius:12px; background:oklch(97% 0.015 90); border:1px solid oklch(85% 0.04 90);">
+      <div style="display:flex; gap:14px;">
+        <div style="width:36px; height:36px; border-radius:50%; background:oklch(88% 0.06 90); display:flex; align-items:center; justify-content:center; flex-shrink:0; font-weight:700; color:oklch(45% 0.1 80); font-size:18px;">!</div>
+        <div style="display:flex; flex-direction:column; gap:6px;">
+          <div style="font-size:14px; font-weight:600; color:oklch(38% 0.05 80);">Evidence may be insufficient</div>
+          <div id="refused-text" style="font-size:14.5px; line-height:1.55; color:oklch(32% 0.02 240);"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="answer-state" style="display:none; flex-direction:column; gap:22px;">
+      <div style="display:flex; align-items:center; justify-content:center;">
+        <div id="severity-badge" style="display:flex; align-items:center; gap:12px; padding:10px 18px; border-radius:10px;"></div>
+      </div>
+      <div id="answer-block" style="display:none; flex-direction:column; gap:14px; background:white; border:1px solid oklch(90% 0.008 240); border-radius:12px; padding:26px 28px; font-size:15.5px; line-height:1.7; color:oklch(24% 0.015 240);"></div>
+      <div style="display:flex; flex-direction:column; gap:12px;">
+        <div style="display:flex; align-items:center; gap:8px;">
+          <span style="font-size:13px; font-weight:600; letter-spacing:0.03em; text-transform:uppercase; color:oklch(38% 0.02 240);">Evidence</span>
+          <span id="evidence-count" style="font-size:12.5px; color:oklch(52% 0.02 240); font-family:'IBM Plex Mono',monospace;"></span>
+        </div>
+        <div id="evidence-list" style="display:flex; flex-direction:column; gap:12px;"></div>
+      </div>
+    </div>
+
+    <div id="idle-state" style="display:flex; flex-direction:column; align-items:center; gap:10px; padding:48px 24px; color:oklch(55% 0.015 240); text-align:center;">
+      <div style="width:44px; height:44px; border-radius:50%; border:1.5px dashed oklch(78% 0.015 240); display:flex; align-items:center; justify-content:center; font-size:18px; color:oklch(65% 0.02 240);">?</div>
+      <div style="font-size:14px; max-width:380px; line-height:1.5;">No query yet. Ask about an interaction, contraindication, or dosage limit above — results include severity, cited rationale, and source evidence.</div>
+    </div>
+
+  </main>
+
+  <footer style="position:sticky; bottom:0; padding:12px 32px; text-align:center; background:oklch(99% 0.002 240 / 0.94); backdrop-filter:blur(6px); border-top:1px solid oklch(90% 0.008 240);">
+    <span style="font-size:12px; color:oklch(50% 0.02 240);">Decision support only — not a substitute for professional medical judgment.</span>
+  </footer>
+</div>
+
+<script>
+// Configurable API base -- change if your FastAPI runs on a different host/port.
+const API_URL = "http://127.0.0.1:8000";
+// Shared-secret key sent to cost-incurring endpoints (matches app_api_key
+// in the backend's .env). Leave empty for local dev where the backend has
+// no key configured -- the backend skips the check entirely in that case.
+const API_KEY = "";
+
+let mode = "full"; // "full" | "retrieval"
+
+const els = {
+  statusDot: document.getElementById("status-dot"),
+  statusText: document.getElementById("status-text"),
+  statusBadge: document.getElementById("status-badge"),
+  form: document.getElementById("query-form"),
+  input: document.getElementById("query-input"),
+  examples: document.getElementById("examples"),
+  modeFull: document.getElementById("mode-full"),
+  modeRetrieval: document.getElementById("mode-retrieval"),
+  loading: document.getElementById("loading-state"),
+  error: document.getElementById("error-state"),
+  refused: document.getElementById("refused-state"),
+  refusedText: document.getElementById("refused-text"),
+  answer: document.getElementById("answer-state"),
+  severityBadge: document.getElementById("severity-badge"),
+  answerBlock: document.getElementById("answer-block"),
+  evidenceCount: document.getElementById("evidence-count"),
+  evidenceList: document.getElementById("evidence-list"),
+  idle: document.getElementById("idle-state"),
+};
+
+const EXAMPLES = [
+  "Does Warfarin interact with Ibuprofen?",
+  "What are the contraindications for Warfarin?",
+  "Does Sertraline cause serotonin syndrome?",
+];
+
+function renderExamples() {
+  els.examples.innerHTML = "";
+  EXAMPLES.forEach((ex) => {
+    const btn = document.createElement("button");
+    btn.className = "example-chip";
+    btn.textContent = ex;
+    btn.style.cssText = "font-size:13px; color:oklch(35% 0.02 240); background:white; border:1px solid oklch(87% 0.01 240); border-radius:20px; padding:8px 16px; cursor:pointer;";
+    btn.onclick = () => { els.input.value = ex; runQuery(ex); };
+    els.examples.appendChild(btn);
+  });
+}
+
+function setMode(newMode) {
+  mode = newMode;
+  const activeStyle = "background:var(--accent); color:white;";
+  const inactiveStyle = "background:transparent; color:oklch(45% 0.02 240);";
+  els.modeFull.style.cssText += mode === "full" ? activeStyle : inactiveStyle;
+  els.modeRetrieval.style.cssText += mode === "retrieval" ? activeStyle : inactiveStyle;
+}
+els.modeFull.onclick = () => setMode("full");
+els.modeRetrieval.onclick = () => setMode("retrieval");
+
+async function checkHealth() {
+  try {
+    const res = await fetch(`${API_URL}/health`);
+    if (!res.ok) throw new Error("unhealthy");
+    const data = await res.json();
+    els.statusDot.style.background = "oklch(58% 0.14 155)";
+    els.statusDot.style.boxShadow = "0 0 0 3px oklch(58% 0.14 155 / 0.18)";
+    els.statusBadge.style.background = "oklch(94% 0.015 165)";
+    els.statusBadge.style.borderColor = "oklch(85% 0.03 165)";
+    els.statusText.textContent = `Connected · ${(data.qdrant_points ?? 0).toLocaleString()} indexed sources`;
+  } catch (e) {
+    els.statusDot.style.background = "oklch(55% 0.18 25)";
+    els.statusText.textContent = "API unreachable — is uvicorn running?";
+  }
+}
+
+function showOnly(stateName) {
+  const map = { loading: els.loading, error: els.error, refused: els.refused, answer: els.answer, idle: els.idle };
+  Object.entries(map).forEach(([name, el]) => {
+    el.style.display = name === stateName ? (name === "answer" ? "flex" : (name === "refused" ? "flex" : "flex")) : "none";
+  });
+}
+
+// Renders **bold** and [Citation, text] tokens from the LLM's markdown-ish
+// answer into styled inline HTML, without a full markdown library.
+function renderAnswerText(text) {
+  const escaped = text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  const withCitations = escaped.replace(
+    /\[([^\]]+)\]/g,
+    '<span style="font-family:\'IBM Plex Mono\',monospace; font-size:12.5px; background:oklch(94% 0.02 220); color:oklch(38% 0.08 230); padding:1px 6px; border-radius:5px; white-space:nowrap;">[$1]</span>'
+  );
+  const withBold = withCitations.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+  return withBold
+    .split(/\n{2,}/)
+    .map((para) => `<p style="margin:0;">${para.replace(/\n/g, "<br>")}</p>`)
+    .join("");
+}
+
+function severityColors(severity) {
+  const map = {
+    Major:    { bg: "oklch(95% 0.04 25)",  border: "oklch(80% 0.08 25)",  fg: "oklch(40% 0.12 25)"  },
+    Moderate: { bg: "oklch(96% 0.05 75)",  border: "oklch(82% 0.09 75)",  fg: "oklch(42% 0.1 70)"   },
+    Minor:    { bg: "oklch(95% 0.03 230)", border: "oklch(82% 0.06 230)", fg: "oklch(42% 0.1 230)"  },
+    Unknown:  { bg: "oklch(94% 0.005 240)",border: "oklch(85% 0.01 240)", fg: "oklch(45% 0.02 240)" },
+  };
+  return map[severity] || map.Unknown;
+}
+
+function renderSeverityBadge(structured) {
+  if (!structured) { els.severityBadge.style.display = "none"; return; }
+  els.severityBadge.style.display = "flex";
+  const c = severityColors(structured.severity);
+  els.severityBadge.style.background = c.bg;
+  els.severityBadge.style.border = `1px solid ${c.border}`;
+  els.severityBadge.innerHTML = `
+    <span style="font-family:'IBM Plex Mono',monospace; font-size:15px; color:${c.fg};">${structured.drug_a} + ${structured.drug_b}</span>
+    <span style="width:1px; height:16px; background:${c.border};"></span>
+    <span style="font-size:12.5px; font-weight:700; letter-spacing:0.06em; color:${c.fg};">${structured.severity.toUpperCase()}</span>
+  `;
+}
+
+function renderEvidence(chunks) {
+  els.evidenceCount.textContent = `${chunks.length} source${chunks.length === 1 ? "" : "s"}`;
+  els.evidenceList.innerHTML = "";
+  if (chunks.length === 0) {
+    els.evidenceList.innerHTML = '<div style="font-size:13.5px; color:oklch(55% 0.02 240);">No label-text evidence retrieved.</div>';
+    return;
+  }
+  chunks.forEach((chunk, i) => {
+    const card = document.createElement("div");
+    card.className = "evidence-card";
+    card.style.cssText = "border:1px solid oklch(90% 0.008 240); border-radius:10px; background:white; overflow:hidden;";
+    const bodyId = `evidence-body-${i}`;
+    card.innerHTML = `
+      <button style="width:100%; display:flex; align-items:center; gap:12px; padding:14px 16px; background:none; border:none; cursor:pointer; text-align:left; font-family:inherit;" onclick="document.getElementById('${bodyId}').style.display = document.getElementById('${bodyId}').style.display === 'none' ? 'block' : 'none';">
+        <span style="font-family:'IBM Plex Mono',monospace; font-size:12.5px; font-weight:600; color:var(--accent); background:var(--accent-soft); padding:3px 8px; border-radius:6px; flex-shrink:0;">${chunk.score.toFixed(2)}</span>
+        <span style="font-size:14px; font-weight:600; color:oklch(24% 0.02 240);">${chunk.drug_name}</span>
+        <span style="font-size:11.5px; font-family:'IBM Plex Mono',monospace; color:oklch(50% 0.02 240); background:oklch(95% 0.005 240); padding:3px 8px; border-radius:5px;">${chunk.section}</span>
+        <span style="margin-left:auto; font-size:16px; color:oklch(55% 0.02 240);">›</span>
+      </button>
+      <div id="${bodyId}" style="display:none; padding:0 16px 16px 16px;">
+        <div style="font-size:13.5px; line-height:1.65; color:oklch(35% 0.015 240); background:oklch(97.5% 0.004 240); border-radius:8px; padding:14px 16px; border-left:3px solid var(--accent);">
+          "${chunk.text}"
+        </div>
+      </div>
+    `;
+    els.evidenceList.appendChild(card);
+  });
+}
+
+async function runQuery(question) {
+  if (!question || !question.trim()) return;
+
+  els.idle.style.display = "none";
+  els.answer.style.display = "none";
+  els.refused.style.display = "none";
+  els.error.style.display = "none";
+  els.loading.style.display = "flex";
+  document.getElementById("loading-label").textContent =
+    mode === "full" ? "Retrieving evidence and generating answer…" : "Retrieving evidence…";
+
+  try {
+    const endpoint = mode === "full" ? "/query" : "/search";
+    const headers = { "Content-Type": "application/json" };
+    if (API_KEY) headers["X-API-Key"] = API_KEY;
+
+    const res = await fetch(`${API_URL}${endpoint}`, {
+      method: "POST",
+      headers,
+      body: JSON.stringify({ question, top_k: 5 }),
+    });
+
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error(`${res.status}: ${text}`);
+    }
+    const data = await res.json();
+    els.loading.style.display = "none";
+
+    if (mode === "full" && data.evidence_sufficient === false) {
+      els.refused.style.display = "flex";
+      els.refusedText.textContent = data.answer || "The provided sources do not contain enough information to answer this reliably.";
+      return;
+    }
+
+    els.answer.style.display = "flex";
+    renderSeverityBadge(data.structured_interaction);
+
+    if (mode === "full" && data.answer) {
+      els.answerBlock.style.display = "flex";
+      els.answerBlock.innerHTML = renderAnswerText(data.answer);
+    } else {
+      els.answerBlock.style.display = "none";
+    }
+
+    renderEvidence(data.retrieved_chunks || []);
+  } catch (e) {
+    els.loading.style.display = "none";
+    els.error.style.display = "block";
+    els.error.textContent = `Request failed: ${e.message}. Is the API running at ${API_URL}?`;
+  }
+}
+
+els.form.onsubmit = (e) => {
+  e.preventDefault();
+  runQuery(els.input.value);
+};
+
+renderExamples();
+setMode("full");
+checkHealth();
+</script>
+</body>
+</html>

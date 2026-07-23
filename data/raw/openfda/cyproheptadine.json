@@ -1,0 +1,57 @@
+{
+  "drug_name": "Cyproheptadine",
+  "drug_id": 1071,
+  "sections": {
+    "warnings": "WARNINGS Children - Overdosage of antihistamines, particularly in infants and children, may produce hallucinations, central nervous system depression, convulsions, and death. Antihistamines may diminish mental alertness conversely particularly in the young child they may occasionally produce excitation. CNS Depressants - Antihistamines may have additive effects with alcohol and other CNS depressants, e.g., hypnotics, sedatives, tranquilizers, antianxiety agents. Activities Requiring Mental Alertness - Patients should be warned about engaging in activities requiring mental alertness and motor coordination, such as driving a car or operating machinery. Antihistamines are more likely to cause dizziness, sedation and hypotension in elderly patients.",
+    "contraindications": "CONTRAINDICATIONS Newborn or Premature Infants: This drug should not be used in newborn or premature infants. Nursing Mothers: Because of the higher risk of antihistamines for infants generally, and for newborns and prematures in particular, antihistamine therapy is contraindicated in nursing mothers. Other Conditions: Hypersensitivity to cyproheptadine and other drugs of similar chemical structure. Monoamine oxidase inhibitor therapy (see DRUG INTERACTIONS ). Angle-closure glaucoma. Stenosing peptic ulcer. Symptomatic prostatic hypertrophy. Bladder neck obstruction. Pyloroduodenal obstruction, elderly, debilitated patients.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION: DOSAGE SHOULD BE INDIVIDUALIZED ACCORDING TO THE NEEDS AND THE RESPONSE OF THE PATIENT. Children: The total daily dosage for children may be calculated on the basis of body weight or body area using approximately 0.25 mg/kg/day (0.11 mg/lb/day) or 8 mg per square meter of body surface (8 mg/m 2 ). In small children for whom the calculation of the dosage based upon body size is important, it may be necessary to use cyproheptadine syrup to permit accurate dosage. Age 2 to 6 years: The usual dose is 2 mg (1/2 tablet) two or three times a day, adjusted as necessary to the size and response of the patient. The dose is not to exceed 12 mg a day. Age 7 to 14 years: The usual dose is 4 mg (1 tablet) two or three times a day, adjusted as necessary to the size and response of the patient. The dose is not to exceed 16 mg a day. Adults: The total daily dose for adults should not exceed 0.5 mg/kg/day (0.23 mg/lb/day). The therapeutic range is 4 to 20 mg a day, with the majority of patients requiring 12 to 16 mg, a day. An occasional patient may require as much as 32 mg a day for adequate relief. It is suggested that dosage be initiated with 4 mg (1 tablet) three times a day and adjusted according to the size and response of the patient.",
+    "indications_and_usage": "INDICATIONS AND USAGE: Perennial and seasonal allergic rhinitis, Vasomotor rhinitis, Allergic conjunctivitis due to inhalant allergens and foods. Mild, uncomplicated allergic skin manifestations of urticaria and angioedema. Amelioration of allergic reactions to blood or plasma. Cold urticaria. Dermatographism. As therapy for anaphylactic reactions adjunctive to epinephrine and other standard measures after the acute manifestations have been controlled."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA088212"
+    ],
+    "brand_name": [
+      "Cyproheptadine Hydrochloride"
+    ],
+    "generic_name": [
+      "CYPROHEPTADINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Chartwell RX, LLC"
+    ],
+    "product_ndc": [
+      "62135-236"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CYPROHEPTADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "866144"
+    ],
+    "spl_id": [
+      "f33fcf42-0b48-eed9-e053-2995a90abefb"
+    ],
+    "spl_set_id": [
+      "029ed3b6-175e-4a1a-81ed-350bff5f6167"
+    ],
+    "package_ndc": [
+      "62135-236-90"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0362135236908"
+    ],
+    "unii": [
+      "NJ82J0F8QC"
+    ]
+  }
+}

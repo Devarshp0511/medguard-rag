@@ -1,0 +1,60 @@
+{
+  "drug_name": "Acamprosate",
+  "drug_id": 1476,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Dose reduction is required for patients with moderate renal impairment ( 5.1 ). Monitor patients for depression or suicidal ideation and prompt patients, families, and caregivers to report such symptoms to the health care provider ( 5.2 ). 5.1 Renal Impairment Treatment with acamprosate calcium in patients with moderate renal impairment (creatinine clearance of 30 to 50 mL/min) requires a dose reduction [ see Dosage and Administration (2.1) ]. Acamprosate calcium is contraindicated in patients with severe renal impairment (creatinine clearance of \u226430 mL/min) [ see Dosage and Administration (2.1) , Contraindications (4.2) , Use in Specific Populations (8.6) , and Clinical Pharmacology (12.3) ]. 5.2 Suicidality and Depression In controlled clinical trials of acamprosate calcium, adverse events of a suicidal nature (suicidal ideation, suicide attempts, completed suicides) were infrequent overall, but were more common in acamprosate calcium-treated patients than in patients treated with placebo (1.4% vs. 0.5% in studies of 6 months or less; 2.4% vs. 0.8% in year-long studies). Completed suicides occurred in 3 of 2272 (0.13%) patients in the pooled acamprosate group from all controlled studies and 2 of 1962 patients (0.10%) in the placebo group. Adverse events coded as \"depression\" were reported at similar rates in acamprosate calcium-treated and placebo-treated patients. Although many of these events occurred in the context of alcohol relapse, and the interrelationship between alcohol dependence, depression and suicidality is well-recognized and complex, no consistent pattern of relationship between the clinical course of recovery from alcoholism and the emergence of suicidality was identified. Alcohol-dependent patients, including those patients being treated with acamprosate calcium, should be monitored for the development of symptoms of depression or suicidal thinking. Families and caregivers of patients being treated with acamprosate calcium should be alerted to the need to monitor patients for the emergence of symptoms of depression or suicidality, and to report such symptoms to the patient's health care provider. 5.3 Alcohol Withdrawal Use of acamprosate calcium does not eliminate or diminish withdrawal symptoms.",
+    "drug_interactions": "7 DRUG INTERACTIONS Acamprosate does not affect the pharmacokinetics of alcohol. The pharmacokinetics of acamprosate are not affected by alcohol, diazepam, or disulfiram, and clinically important interactions between naltrexone and acamprosate were not observed [ see Clinical Pharmacology (12.3) ].",
+    "contraindications": "4 CONTRAINDICATIONS Acamprosate calcium is contraindicated in patients who previously have exhibited hypersensitivity to acamprosate calcium or any of its components ( 4.1 ). Acamprosate calcium is contraindicated in patients with severe renal impairment ( 4.2 ). 4.1 Hypersensitivity to Acamprosate Calcium Acamprosate calcium is contraindicated in patients who previously have exhibited hypersensitivity to acamprosate calcium or any of its components. 4.2 Severe Renal Impairment Acamprosate calcium is contraindicated in patients with severe renal impairment (creatinine clearance of \u226430 mL/min) [ see Dosage and Administration (2.1) , Warnings and Precautions (5.1) , Use in Specific Populations (8.6) , and Clinical Pharmacology (12.3) ].",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Recommended dose: 666 mg (two 333 mg tablets) taken three times daily ( 2 ). Dose reduction to one 333 mg tablet taken three times daily for patients with moderate renal impairment (creatinine clearance 30 to 50 mL/min) ( 2.1 ). Acamprosate calcium delayed-release tablets are contraindicated in patients with severe renal impairment (creatinine clearance of \u226430 mL/min) ( 2.1 , 4.2 , 5.1 , 8.6 , 12.3 ). The recommended dose of acamprosate calcium delayed-release tablets is two 333 mg tablets (each dose should total 666 mg) taken three times daily. A lower dose may be effective in some patients. Although dosing may be done without regard to meals, dosing with meals was employed during clinical trials and is suggested in those patients who regularly eat three meals daily. Treatment with acamprosate calcium delayed-release tablets should be initiated as soon as possible after the period of alcohol withdrawal, when the patient has achieved abstinence, and should be maintained if the patient relapses. Acamprosate calcium delayed-release tablets should be used as part of a comprehensive psychosocial treatment program. 2.1 Dosage in Renal Impairment For patients with moderate renal impairment (creatinine clearance of 30 to 50 mL/min), a starting dose of one 333 mg tablet taken three times daily is recommended. Acamprosate calcium delayed-release tablets are contraindicated in patients with severe renal impairment (creatinine clearance of \u226430 mL/min) [ see Contraindications (4.2) , Warnings and Precautions (5.1) , Use in Specific Populations (8.6) , and Clinical Pharmacology (12.3) ].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Acamprosate calcium delayed-release tablets are indicated for the maintenance of abstinence from alcohol in patients with alcohol dependence who are abstinent at treatment initiation ( 1 , 14 ). Treatment with acamprosate calcium delayed-release tablets should be part of a comprehensive management program that includes psychosocial support ( 1 ). Acamprosate calcium delayed-release tablets are indicated for the maintenance of abstinence from alcohol in patients with alcohol dependence who are abstinent at treatment initiation. Treatment with acamprosate calcium delayed-release tablets should be part of a comprehensive management program that includes psychosocial support. The efficacy of acamprosate calcium delayed-release tablets in promoting abstinence has not been demonstrated in subjects who have not undergone detoxification and not achieved alcohol abstinence prior to beginning acamprosate calcium delayed-release tablets treatment. The efficacy of acamprosate calcium delayed-release tablets in promoting abstinence from alcohol in polysubstance abusers has not been adequately assessed."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA205995"
+    ],
+    "brand_name": [
+      "acamprosate calcium"
+    ],
+    "generic_name": [
+      "ACAMPROSATE CALCIUM"
+    ],
+    "manufacturer_name": [
+      "Zydus Lifesciences Limited"
+    ],
+    "product_ndc": [
+      "70771-1057"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACAMPROSATE CALCIUM"
+    ],
+    "rxcui": [
+      "835726"
+    ],
+    "spl_id": [
+      "c9752e78-2bf3-4e62-a947-a3d7fe757a1b"
+    ],
+    "spl_set_id": [
+      "0c729939-d2d2-4e61-acbc-4f1646dc38c1"
+    ],
+    "package_ndc": [
+      "70771-1057-3",
+      "70771-1057-9",
+      "70771-1057-1",
+      "70771-1057-8",
+      "70771-1057-5",
+      "70771-1057-0"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "59375N1D0U"
+    ]
+  }
+}

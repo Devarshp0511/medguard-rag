@@ -1,0 +1,56 @@
+{
+  "drug_name": "Urea",
+  "drug_id": 872,
+  "sections": {
+    "warnings": "Warnings For topical use only. Avoid contact with eyes, lips or mucous membranes.",
+    "contraindications": "Contraindications Known hypersensitivity to any of the listed ingredients.",
+    "dosage_and_administration": "Dosage and Administration Apply Urea 40% to affected skin twice per day, or as directed by your physician. Rub in until completely absorbed. Apply to diseased or damaged nail(s) twice per day, or as directed by a physician.",
+    "indications_and_usage": "Indications and Usage For debridement and promotion of normal healing of hyperkeratotic surface lesions, particularly where healing is retarded by local infection, necrotic tissue, fibrinous or purulent debris or eschar. Urea is useful for the treatment of hyperkeratotic conditions such as dry, rough skin, dermatitis, psoriasis, xerosis, ichthyosis, eczema, keratosis pilaris, keratosis palmaris, keratoderma, corns and calluses, as well as damaged, ingrown and devitalized nails."
+  },
+  "openfda_meta": {
+    "brand_name": [
+      "Urea Cream 40 Percent"
+    ],
+    "generic_name": [
+      "UREA"
+    ],
+    "manufacturer_name": [
+      "Method Pharmaceuticals, LLC"
+    ],
+    "product_ndc": [
+      "58657-489"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "UREA"
+    ],
+    "rxcui": [
+      "198342"
+    ],
+    "spl_id": [
+      "49ee2dc0-c081-673b-e063-6294a90aa6c6"
+    ],
+    "spl_set_id": [
+      "0920f780-b504-1fea-e063-6394a90ae5a9"
+    ],
+    "package_ndc": [
+      "58657-489-01",
+      "58657-489-03",
+      "58657-489-07"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0358657489014"
+    ],
+    "unii": [
+      "8W8T17847W"
+    ]
+  }
+}

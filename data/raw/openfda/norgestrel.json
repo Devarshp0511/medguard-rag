@@ -1,0 +1,55 @@
+{
+  "drug_name": "Norgestrel",
+  "drug_id": 1160,
+  "sections": {
+    "warnings": "Warnings Allergy alert: Do not use if you are allergic to this product or any of its ingredients, such as FD&C yellow No. 5 (tartrazine). People allergic to aspirin often have a tartrazine allergy too. Symptoms may include hives, facial swelling, asthma (wheezing), shock, skin reddening, rash, blisters. If an allergic reaction occurs, stop use and seek medical help right away. Sexually transmitted diseases (STDs) alert: This product does not protect against HIV/AIDS or other STDs. Do not use if you have or ever had breast cancer if you are already pregnant or think you may be pregnant together with another birth control pill, vaginal ring, patch, implant, injection or an IUD (intra-uterine device) as an emergency contraceptive (morning after pill). This product does not prevent pregnancy when used after unprotected sex if you are male Ask a doctor before use if you currently have vaginal bleeding between your periods and you have not already talked to a doctor you have liver problems you have or ever had any cancer Ask doctor or pharmacist before use if you are taking a prescription drug for seizures, tuberculosis, HIV/AIDS, pulmonary hypertension you are taking a supplement containing St John\u2019s Wort (an herbal ingredient) if you have taken ulipristal acetate (an emergency contraceptive, or morning after pill) in the past 5 days See the enclosed leaflet for a detailed list of medicines that may interact with this product. When using this product you are likely to experience changes in your menstrual periods, such as irregular periods, spotting or bleeding between your periods, or you may stop having periods. To prevent pregnancy, keep taking the product. you may experience headaches, dizziness, nausea, increased appetite, abdominal pain, cramps or bloating talk to a doctor (but continue taking every day) if you have repeated vaginal bleeding brought on by sex you start having periods that last more than 8 days or are unusually heavy you start having migraines with aura (headaches that start with changes in vision) or your migraine headaches get worse take a pregnancy test or talk to a doctor if your period is late after missing any tablets in the last month you have not had a period for 2 months or think you may be pregnant Seek medical help right away if you have sudden or severe persistent pain in your lower belly mostly on one side (you could have an ectopic pregnancy) you develop yellowing of your skin or whites of your eyes especially with fever, tiredness, loss of appetite or dark colored urine Stop use and ask a doctor if you become pregnant Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "dosage_and_administration": "Directions take 1 tablet at the same time every day this product will work best to prevent pregnancy when taken exactly as directed you can start on any day of the month use a condom (or another barrier method) every time you have sex during the first 2 days of use (48 hours) after you start your first pack of this product, because it takes 2 days for this product to start working See the enclosed leaflet for more information on how to switch from another contraceptive method. never skip your daily tablet to prevent pregnancy, take this product every day, even when you bleed or have spotting when you finish this pack, start the next one the following day without a break if you are more than 3 hours late taking your tablet or miss taking your tablet on 1 more days: take 1 tablet immediately, as soon as you remember that you missed it then go back to taking your daily tablet at your usual time use a condom (or another barrier method) every time you have sex during the next 2 days (48 hours), because it takes 2 days for this product to start working again if you vomit for any reason or have severe diarrhea within 4 hours of taking your daily tablet, use a condom (or another barrier method) every time you have sex for the next 2 days (48 hours), because the medicine may not have been fully absorbed you should continue to see your healthcare provider(s) for routine healthcare visits When to use a condom (or another barrier method) every time you have sex for the next 2 days (48 hours): after you start your first pack of this product if you take a tablet more than 3 hours late or miss a tablet on 1 or more days if you vomit or have a severe diarrhea within 4 hours of taking a tablet",
+    "indications_and_usage": "Use To prevent pregnancy"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA017031"
+    ],
+    "brand_name": [
+      "Opill"
+    ],
+    "generic_name": [
+      "NORGESTREL"
+    ],
+    "manufacturer_name": [
+      "Redpharm Drug"
+    ],
+    "product_ndc": [
+      "67296-1938"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NORGESTREL"
+    ],
+    "rxcui": [
+      "203717",
+      "762335",
+      "2676107"
+    ],
+    "spl_id": [
+      "46c2bc8a-6bfb-c9bc-e063-6294a90ac788"
+    ],
+    "spl_set_id": [
+      "303264da-c919-e0ce-e063-6394a90a4cc7"
+    ],
+    "package_ndc": [
+      "67296-1938-2"
+    ],
+    "original_packager_product_ndc": [
+      "0113-8101"
+    ],
+    "unii": [
+      "3J8Q1747Z2"
+    ]
+  }
+}

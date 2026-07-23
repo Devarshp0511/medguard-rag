@@ -1,0 +1,53 @@
+{
+  "drug_name": "Chloramphenicol",
+  "drug_id": 447,
+  "sections": {
+    "boxed_warning": "WARNING Serious and fatal blood dyscrasias (aplastic anemia, hypoplastic anemia, thrombocytopenia and granulocytopenia) are known to occur after the administration of chloramphenicol. In addition, there have been reports of aplastic anemia attributed to chloramphenicol which later terminated in leukemia. Blood dyscrasias have occurred after both short-term and prolonged therapy with this drug. Chloramphenicol must not be used when less potentially dangerous agents will be effective, as described in the INDICATIONS AND USAGE section. It must not be used in the treatment of trivial infections or where it is not indicated, as in colds, influenza, infections of the throat; or as a prophylactic agent to prevent bacterial infections. Precautions: It is essential that adequate blood studies be made during treatment with the drug. While blood studies may detect early peripheral blood changes, such as leukopenia, reticulocytopenia, or granulocytopenia, before they become irreversible, such studies cannot be relied on to detect bone marrow depression prior to development of aplastic anemia. To facilitate appropriate studies and observation during therapy, it is desirable that patients be hospitalized.",
+    "drug_interactions": "Drug Interactions Concurrent therapy with other drugs that may cause bone marrow depression should be avoided.",
+    "contraindications": "CONTRAINDICATIONS: Chloramphenicol is contraindicated in individuals with a history of previous hypersensitivity and/or toxic reaction to it. It must not be used in the treatment of trivial infections or where it is not indicated, as in colds, influenza, infections of the throat; or as a prophylactic agent to prevent bacterial infections."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA062365"
+    ],
+    "brand_name": [
+      "Chloramphenicol Sodium Succinate"
+    ],
+    "generic_name": [
+      "CHLORAMPHENICOL SODIUM SUCCINATE"
+    ],
+    "manufacturer_name": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "product_ndc": [
+      "63323-011"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "CHLORAMPHENICOL SODIUM SUCCINATE"
+    ],
+    "rxcui": [
+      "239200"
+    ],
+    "spl_id": [
+      "f0af962d-5024-47cf-b7a0-da9b5ff3c994"
+    ],
+    "spl_set_id": [
+      "aed29594-211d-49ef-813f-131975a8d0e3"
+    ],
+    "package_ndc": [
+      "63323-011-15"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "872109HX6B"
+    ]
+  }
+}

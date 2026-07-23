@@ -1,0 +1,56 @@
+{
+  "drug_name": "Racepinephrine",
+  "drug_id": 339,
+  "sections": {
+    "warnings": "Warning Asthma alert: Because asthma may be life threatening, see a doctor if you: Are not better in 20 minutes Get worse Need more than 12 inhalations in 24 hours Use more than 9 inhalations in 24 hours for 3 or more days a week Have more than 2 asthma attacks in a week These may be signs that your asthma is getting worse. Do not use: Unless a doctor said you have asthma If you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains a MAOI, ask a doctor or pharmacist before taking this product. If product is brown in color or cloudy If its color is pinkish or darker than slightly yellow or if it contains a precipitate. Ask a doctor before use if you have: Ever been hospitalized for asthma Heart disease High blood pressure Diabetes Thyroid disease Seizures Narrow angle glaucoma A psychiatric or emotional condition Trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are: Taking prescription drugs for asthma, obesity, weight control, depression, or psychiatric or emotional conditions. Taking any drug that contains phenylephrine, pseudoephedrine, ephedrine, or caffeine (such as for allergy, cough-cold, or pain). Stop use and ask a doctor if: Your asthma is getting worse (See Asthma alert) You have difficulty sleeping You have a rapid heartbeat You have tremors, nervousness, or seizure When using this product: Your blood pressure or heart rate may go up. This could increase your risk of heart attack or stroke, which may cause death. Your risk of heart attack or stroke increases if you: Have a history of high blood pressure or heart disease Take this product more frequently or take more than the recommended dose. Avoid foods or beverages that contain caffeine Avoid dietary supplements containing ingredients reported or claimed to have a stimulant effect. If pregnant or breast-feeding, ask a health professional before use.",
+    "dosage_and_administration": "Directions The ingredient is used in an aqueous solution at a concentration equivalent to 1 percent epinephrine. Do not use more than directed For use with a Jet or Ultrasonic Nebulizer. Add 0.5 mL (contents of one vial) of solution to Nebulizer. Adults and children 4 years of age and over: 1 to 3 inhalations not more often than every 3 hours. Do not use more than 12 inhalations in 24 hours. The use of this product by children should be supervised by an adult. Children under 4 years of age: ask a doctor.",
+    "indications_and_usage": "Uses For temporary relief of mild symptoms of intermittent asthma: Wheezing Tightness of chest Shortness of breath"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "NebuClear MD"
+    ],
+    "generic_name": [
+      "RACEPINEPHRINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Blue Echo Care LLC"
+    ],
+    "product_ndc": [
+      "73117-523"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "RACEPINEPHRINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "310133"
+    ],
+    "spl_id": [
+      "52e51585-8273-0cca-e063-6394a90aa742"
+    ],
+    "spl_set_id": [
+      "3598ac5b-29f9-f002-e063-6294a90a62cb"
+    ],
+    "package_ndc": [
+      "73117-523-18"
+    ],
+    "original_packager_product_ndc": [
+      "73117-509"
+    ],
+    "upc": [
+      "0732388434282"
+    ],
+    "unii": [
+      "336096P2WE"
+    ]
+  }
+}

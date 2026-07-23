@@ -1,0 +1,1451 @@
+2026-07-15 11:17:14,988 INFO Skipping Iron -- matched a combination product (Integra F)
+2026-07-15 11:17:17,767 INFO Skipping Dolutegravir -- matched a combination product (Triumeq)
+2026-07-15 11:17:25,723 INFO No FDA label found for: Ferrous fumarate
+2026-07-15 11:17:31,490 INFO No FDA label found for: Ferrous gluconate
+2026-07-15 11:17:40,562 INFO No FDA label found for: Magnesium chloride
+2026-07-15 11:17:48,711 INFO No FDA label found for: Magnesium citrate
+2026-07-15 11:18:00,531 INFO No FDA label found for: Magnesium sulfate
+2026-07-15 11:18:03,278 INFO Skipping Lamivudine -- matched a combination product (LAMIVUDINE and ZIDOVUDINE)
+2026-07-15 11:18:12,531 INFO No FDA label found for: Sodium bicarbonate
+2026-07-15 11:18:15,094 INFO Skipping Sorbitol -- matched a combination product (ChemDetox)
+2026-07-15 11:18:20,535 INFO No FDA label found for: Abametapir (topical)
+2026-07-15 11:18:28,531 INFO No FDA label found for: Vorapaxar
+2026-07-15 11:18:34,727 INFO No FDA label found for: Zinc chloride
+2026-07-15 11:18:44,172 INFO No FDA label found for: Abciximab
+2026-07-15 11:18:49,822 INFO No FDA label found for: Trastuzumab emtansine
+2026-07-15 11:18:59,203 INFO No FDA label found for: Anisindione
+2026-07-15 11:19:03,554 INFO No FDA label found for: Anistreplase
+2026-07-15 11:19:06,933 INFO No FDA label found for: Ardeparin
+2026-07-15 11:19:10,685 INFO No FDA label found for: Acetylsalicylic acid
+2026-07-15 11:19:16,025 INFO No FDA label found for: Betrixaban
+2026-07-15 11:19:20,561 INFO No FDA label found for: Bismuth subsalicylate
+2026-07-15 11:19:24,027 INFO No FDA label found for: Bromfenac (ophthalmic)
+2026-07-15 11:19:26,511 INFO Skipping Capsicum -- matched a combination product (Allergies)
+2026-07-15 11:19:33,135 INFO No FDA label found for: Choline salicylate
+2026-07-15 11:19:34,934 INFO Skipping Clove -- matched a combination product (Antibacterial gel for men)
+2026-07-15 11:19:39,637 INFO No FDA label found for: Collagenase clostridium histolyticum
+2026-07-15 11:19:48,543 INFO No FDA label found for: Danaparoid
+2026-07-15 11:19:58,846 WARNING Request failed for Deoxycholic acid (openfda.generic_name): HTTPSConnectionPool(host='api.fda.gov', port=443): Read timed out. (read timeout=10)
+2026-07-15 11:20:04,324 INFO No FDA label found for: Deoxycholic acid
+2026-07-15 11:20:16,549 INFO No FDA label found for: Desirudin
+2026-07-15 11:20:31,587 INFO No FDA label found for: Dexfenfluramine
+2026-07-15 11:20:40,548 INFO No FDA label found for: Dextran (low molecular weight)
+2026-07-15 11:20:55,670 INFO No FDA label found for: Diclofenac (ophthalmic)
+2026-07-15 11:21:04,582 INFO No FDA label found for: Diclofenac (topical)
+2026-07-15 11:21:14,077 INFO No FDA label found for: Dicoumarol
+2026-07-15 11:21:24,927 INFO No FDA label found for: Drotrecogin alfa
+2026-07-15 11:21:33,832 INFO No FDA label found for: Flurbiprofen (ophthalmic)
+2026-07-15 11:21:36,069 INFO Skipping Garlic -- matched a combination product (Calm Mood)
+2026-07-15 11:21:38,879 INFO Skipping Ginger -- matched a combination product (A-29)
+2026-07-15 11:21:48,552 INFO No FDA label found for: Ginkgo biloba
+2026-07-15 11:21:52,346 INFO Skipping Ginseng -- matched a combination product (VITAL II)
+2026-07-15 11:21:58,562 INFO No FDA label found for: Ibritumomab tiuxetan
+2026-07-15 11:22:04,464 INFO No FDA label found for: Inotersen
+2026-07-15 11:22:16,682 INFO No FDA label found for: Tositumomab (I-131)
+2026-07-15 11:22:27,677 INFO No FDA label found for: Ketorolac (ophthalmic)
+2026-07-15 11:22:33,187 INFO No FDA label found for: Lepirudin
+2026-07-15 11:22:40,205 INFO No FDA label found for: Meclofenamic acid
+2026-07-15 11:22:48,544 INFO No FDA label found for: Mefenamic acid
+2026-07-15 11:22:50,625 INFO Saved label for Meloxicam (7 sections)
+2026-07-15 11:22:52,442 INFO Saved label for Milnacipran (6 sections)
+2026-07-15 11:22:54,139 INFO Saved label for Nabumetone (6 sections)
+2026-07-15 11:22:56,603 INFO Saved label for Naproxen (8 sections)
+2026-07-15 11:22:59,975 INFO No FDA label found for: Nepafenac (ophthalmic)
+2026-07-15 11:23:02,658 INFO Saved label for Nintedanib (5 sections)
+2026-07-15 11:23:05,314 INFO Skipping Niraparib -- matched a combination product (AKEEGA)
+2026-07-15 11:23:08,850 INFO No FDA label found for: Omacetaxine mepesuccinate
+2026-07-15 11:23:12,314 INFO No FDA label found for: Omega-3 fatty acids
+2026-07-15 11:23:14,135 INFO Saved label for Oxaprozin (6 sections)
+2026-07-15 11:23:17,337 INFO No FDA label found for: Panobinostat
+2026-07-15 11:23:19,174 INFO Saved label for Paroxetine (8 sections)
+2026-07-15 11:23:28,577 INFO No FDA label found for: Pentosan polysulfate
+2026-07-15 11:23:30,340 INFO Saved label for Pentoxifylline (4 sections)
+2026-07-15 11:23:33,033 INFO No FDA label found for: Phenylbutazone
+2026-07-15 11:23:37,758 INFO Saved label for Piroxicam (7 sections)
+2026-07-15 11:23:42,690 INFO Saved label for Ponatinib (7 sections)
+2026-07-15 11:23:47,858 INFO Saved label for Prasugrel (6 sections)
+2026-07-15 11:23:49,745 INFO Saved label for Ramucirumab (5 sections)
+2026-07-15 11:23:53,645 INFO Saved label for Regorafenib (6 sections)
+2026-07-15 11:24:03,113 INFO No FDA label found for: Reteplase
+2026-07-15 11:24:16,578 INFO No FDA label found for: Rofecoxib
+2026-07-15 11:24:24,549 INFO Saved label for Salsalate (5 sections)
+2026-07-15 11:24:32,514 INFO Saved label for Selumetinib (7 sections)
+2026-07-15 11:24:36,629 INFO Saved label for Sertraline (6 sections)
+2026-07-15 11:24:49,178 INFO No FDA label found for: Sibutramine
+2026-07-15 11:25:00,305 INFO No FDA label found for: Salicylic acid (sodium)
+2026-07-15 11:25:03,838 INFO No FDA label found for: Streptokinase
+2026-07-15 11:25:08,512 INFO Saved label for Sulindac (6 sections)
+2026-07-15 11:25:12,688 INFO No FDA label found for: Suprofen (ophthalmic)
+2026-07-15 11:25:14,395 INFO Saved label for Tenecteplase (6 sections)
+2026-07-15 11:25:18,247 INFO No FDA label found for: Ticlopidine
+2026-07-15 11:25:26,333 INFO No FDA label found for: Tinzaparin
+2026-07-15 11:25:28,310 INFO Saved label for Tipranavir (7 sections)
+2026-07-15 11:25:30,223 INFO Saved label for Tirofiban (6 sections)
+2026-07-15 11:25:31,931 INFO Saved label for Tolmetin (5 sections)
+2026-07-15 11:25:37,200 INFO No FDA label found for: Tositumomab
+2026-07-15 11:25:39,523 INFO Skipping Treprostinil -- matched a combination product (Sterile Diluent for Treprostinil)
+2026-07-15 11:25:46,890 INFO Skipping Turmeric -- matched a combination product (turmeric kojic acid product)
+2026-07-15 11:25:53,700 INFO No FDA label found for: Urokinase
+2026-07-15 11:26:01,285 INFO No FDA label found for: Valdecoxib
+2026-07-15 11:26:02,984 INFO Saved label for Venlafaxine (6 sections)
+2026-07-15 11:26:05,677 INFO Saved label for Verteporfin (5 sections)
+2026-07-15 11:26:08,519 INFO Saved label for Vilazodone (7 sections)
+2026-07-15 11:26:17,698 INFO No FDA label found for: Vitamin E
+2026-07-15 11:26:20,404 INFO Saved label for Vortioxetine (7 sections)
+2026-07-15 11:26:24,979 INFO Saved label for Zanubrutinib (7 sections)
+2026-07-15 11:26:27,353 INFO Saved label for Abemaciclib (6 sections)
+2026-07-15 11:26:30,075 INFO Saved label for Abiraterone (5 sections)
+2026-07-15 11:26:33,701 INFO Saved label for Fostamatinib (6 sections)
+2026-07-15 11:26:37,236 INFO Saved label for Lusutrombopag (4 sections)
+2026-07-15 11:26:44,919 INFO No FDA label found for: Botulinum toxin type A
+2026-07-15 11:26:52,546 INFO Skipping Neomycin -- matched a combination product (health and .beyond Triple Antibiotic)
+2026-07-15 11:26:54,615 INFO Saved label for Paclitaxel (7 sections)
+2026-07-15 11:26:59,864 INFO Saved label for Isotretinoin (7 sections)
+2026-07-15 11:27:03,493 INFO Saved label for Fentanyl (8 sections)
+2026-07-15 11:27:15,200 INFO No FDA label found for: Antithrombin III human
+2026-07-15 11:27:21,192 INFO No FDA label found for: Dextran (-1)
+2026-07-15 11:27:36,410 INFO No FDA label found for: Dextran (high molecular weight)
+2026-07-15 11:27:48,550 INFO No FDA label found for: Sodium citrate
+2026-07-15 11:27:56,552 INFO Saved label for Acarbose (4 sections)
+2026-07-15 11:28:02,274 INFO Saved label for Epinephrine (5 sections)
+2026-07-15 11:28:08,550 INFO Skipping Lidocaine -- matched a combination product (DCH Hemorrhoidal)
+2026-07-15 11:28:13,152 INFO Skipping Hyaluronidase -- matched a combination product (Phesgo)
+2026-07-15 11:28:16,549 INFO Skipping Phenylephrine -- matched a combination product (Daytime Cold and Flu)
+2026-07-15 11:28:20,580 INFO Saved label for Chlorpheniramine (3 sections)
+2026-07-15 11:28:34,184 INFO No FDA label found for: Potassium chloride
+2026-07-15 11:28:41,701 INFO Saved label for Acebutolol (4 sections)
+2026-07-15 11:28:45,226 INFO Saved label for Acetaminophen (3 sections)
+2026-07-15 11:28:49,184 INFO Saved label for Caffeine (3 sections)
+2026-07-15 11:28:56,551 INFO Skipping Dihydrocodeine -- matched a combination product (Trezix)
+2026-07-15 11:29:02,076 INFO Saved label for Codeine (7 sections)
+2026-07-15 11:29:05,185 INFO Saved label for Tramadol (7 sections)
+2026-07-15 11:29:12,550 INFO Saved label for Acetazolamide (4 sections)
+2026-07-15 11:29:20,580 INFO Skipping Cyanocobalamin -- matched a combination product (PNV-DHA)
+2026-07-15 11:29:31,589 INFO Saved label for Famotidine (6 sections)
+2026-07-15 11:29:44,552 INFO No FDA label found for: Mecobalamin
+2026-07-15 11:29:52,550 INFO Saved label for Ranitidine (3 sections)
+2026-07-15 11:30:01,939 INFO Saved label for Rabeprazole (7 sections)
+2026-07-15 11:30:12,581 INFO Saved label for Formoterol (5 sections)
+2026-07-15 11:30:28,551 INFO No FDA label found for: Epinephrine (ophthalmic)
+2026-07-15 11:30:32,614 INFO No FDA label found for: Epinephrine (topical)
+2026-07-15 11:30:36,613 INFO Saved label for Pseudoephedrine (4 sections)
+2026-07-15 11:30:52,552 INFO No FDA label found for: Ammonium chloride
+2026-07-15 11:30:59,557 INFO No FDA label found for: Acrivastine
+2026-07-15 11:31:04,578 INFO No FDA label found for: Sodium acetate
+2026-07-15 11:31:07,913 INFO Saved label for Tromethamine (5 sections)
+2026-07-15 11:31:12,170 INFO Saved label for Doxycycline (5 sections)
+2026-07-15 11:31:18,726 INFO No FDA label found for: Calcium chloride
+2026-07-15 11:31:24,554 INFO No FDA label found for: Iron sucrose
+2026-07-15 11:31:29,518 INFO Saved label for Nifedipine (4 sections)
+2026-07-15 11:31:31,511 INFO Saved label for Adalimumab (7 sections)
+2026-07-15 11:31:33,716 INFO Skipping Adenosine -- matched a combination product (PETITCOCHON TONE UP BODY SUN)
+2026-07-15 11:31:37,186 INFO Saved label for Methylphenidate (8 sections)
+2026-07-15 11:31:48,960 INFO No FDA label found for: Heparin (flush)
+2026-07-15 11:31:54,631 INFO No FDA label found for: Acetohexamide
+2026-07-15 11:32:02,961 INFO No FDA label found for: Albiglutide
+2026-07-15 11:32:16,553 INFO No FDA label found for: Salbutamol
+2026-07-15 11:32:20,580 INFO Skipping Alogliptin -- matched a combination product (alogliptin and metformin hydrochloride)
+2026-07-15 11:32:28,549 INFO Saved label for Amisulpride (6 sections)
+2026-07-15 11:32:32,852 INFO Saved label for Amitriptyline (6 sections)
+2026-07-15 11:32:40,550 INFO Saved label for Amoxapine (6 sections)
+2026-07-15 11:32:48,581 INFO Saved label for Amphetamine (6 sections)
+2026-07-15 11:32:56,582 INFO Saved label for Arformoterol (5 sections)
+2026-07-15 11:33:01,428 INFO Saved label for Aripiprazole (8 sections)
+2026-07-15 11:33:03,515 INFO Saved label for Asenapine (8 sections)
+2026-07-15 11:33:05,366 INFO Saved label for Atenolol (6 sections)
+2026-07-15 11:33:12,692 INFO Saved label for Atomoxetine (7 sections)
+2026-07-15 11:33:15,633 INFO Saved label for Benzphetamine (5 sections)
+2026-07-15 11:33:20,557 INFO Saved label for Betaxolol (5 sections)
+2026-07-15 11:33:29,975 INFO No FDA label found for: Betaxolol (ophthalmic)
+2026-07-15 11:33:34,184 INFO Saved label for Bisoprolol (4 sections)
+2026-07-15 11:33:43,109 INFO Saved label for Brexpiprazole (8 sections)
+2026-07-15 11:33:45,948 INFO Saved label for Canagliflozin (7 sections)
+2026-07-15 11:33:52,546 INFO Saved label for Carteolol (5 sections)
+2026-07-15 11:34:02,694 INFO No FDA label found for: Carteolol (ophthalmic)
+2026-07-15 11:34:08,625 INFO Saved label for Carvedilol (5 sections)
+2026-07-15 11:34:16,582 INFO Saved label for Chlorpromazine (5 sections)
+2026-07-15 11:34:24,570 INFO No FDA label found for: Chlorpropamide
+2026-07-15 11:34:27,367 INFO Saved label for Clozapine (7 sections)
+2026-07-15 11:34:32,658 INFO No FDA label found for: Cocaine (nasal)
+2026-07-15 11:34:48,551 INFO No FDA label found for: Cocaine (topical)
+2026-07-15 11:34:53,381 INFO Saved label for Dapagliflozin (6 sections)
+2026-07-15 11:35:03,484 INFO No FDA label found for: Deserpidine
+2026-07-15 11:35:12,614 INFO Saved label for Desflurane (7 sections)
+2026-07-15 11:35:16,259 INFO Saved label for Desipramine (5 sections)
+2026-07-15 11:35:20,578 INFO Saved label for Desmopressin (5 sections)
+2026-07-15 11:35:25,184 INFO Skipping Dexmethylphenidate -- matched a combination product (AZSTARYS)
+2026-07-15 11:35:31,329 INFO Skipping Dextroamphetamine -- matched a combination product (DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE)
+2026-07-15 11:35:34,153 INFO Saved label for Diethylpropion (5 sections)
+2026-07-15 11:35:47,916 INFO No FDA label found for: Digitoxin
+2026-07-15 11:35:53,711 INFO Saved label for Digoxin (7 sections)
+2026-07-15 11:36:00,545 INFO Saved label for Dihydroergotamine (6 sections)
+2026-07-15 11:36:03,488 INFO Saved label for Doxapram (4 sections)
+2026-07-15 11:36:09,135 INFO Saved label for Doxepin (5 sections)
+2026-07-15 11:36:12,543 INFO Saved label for Droperidol (6 sections)
+2026-07-15 11:36:17,058 INFO Saved label for Droxidopa (6 sections)
+2026-07-15 11:36:24,723 INFO Saved label for Dulaglutide (6 sections)
+2026-07-15 11:36:32,625 INFO Skipping Empagliflozin -- matched a combination product (Synjardy)
+2026-07-15 11:36:48,548 INFO No FDA label found for: Enflurane
+2026-07-15 11:36:56,573 INFO Saved label for Entacapone (5 sections)
+2026-07-15 11:37:04,576 INFO No FDA label found for: Ergometrine
+2026-07-15 11:37:14,729 INFO Skipping Ergotamine -- matched a combination product (MIGERGOT)
+2026-07-15 11:37:20,875 INFO Skipping Ertugliflozin -- matched a combination product (SEGLUROMET)
+2026-07-15 11:37:24,607 INFO Saved label for Esmolol (6 sections)
+2026-07-15 11:37:31,366 INFO Saved label for Exenatide (6 sections)
+2026-07-15 11:37:36,546 INFO Saved label for Fluphenazine (5 sections)
+2026-07-15 11:37:44,257 INFO Saved label for Glimepiride (5 sections)
+2026-07-15 11:37:46,071 INFO Saved label for Glipizide (5 sections)
+2026-07-15 11:37:47,836 INFO Saved label for Glyburide (3 sections)
+2026-07-15 11:37:51,634 INFO No FDA label found for: Guanadrel
+2026-07-15 11:37:54,492 INFO No FDA label found for: Guanethidine
+2026-07-15 11:37:57,055 INFO Saved label for Haloperidol (6 sections)
+2026-07-15 11:38:04,176 INFO No FDA label found for: Halothane
+2026-07-15 11:38:16,640 INFO Saved label for Iloperidone (8 sections)
+2026-07-15 11:38:19,180 INFO Saved label for Imipramine (6 sections)
+2026-07-15 11:38:32,246 INFO No FDA label found for: Indacaterol
+2026-07-15 11:38:40,925 INFO No FDA label found for: Insulin human
+2026-07-15 11:38:49,205 INFO No FDA label found for: Insulin aspart (aspart)
+2026-07-15 11:39:02,272 INFO No FDA label found for: Insulin aspart (aspart protamine)
+2026-07-15 11:39:15,554 INFO No FDA label found for: Insulin degludec
+2026-07-15 11:39:30,619 INFO No FDA label found for: Insulin detemir
+2026-07-15 11:39:36,315 INFO No FDA label found for: Insulin glargine
+2026-07-15 11:39:52,548 INFO No FDA label found for: Insulin glulisine
+2026-07-15 11:40:03,490 INFO No FDA label found for: Insulin human (inhalation, rapid acting)
+2026-07-15 11:40:19,178 INFO No FDA label found for: Insulin human (isophane)
+2026-07-15 11:40:31,276 INFO No FDA label found for: Insulin lispro
+2026-07-15 11:40:40,689 INFO No FDA label found for: Insulin lispro (protamine)
+2026-07-15 11:40:54,445 INFO No FDA label found for: Insulin human (regular)
+2026-07-15 11:41:04,177 INFO No FDA label found for: Insulin human (zinc)
+2026-07-15 11:41:07,168 INFO No FDA label found for: Insulin human (zinc extended)
+2026-07-15 11:41:19,177 INFO Saved label for Isocarboxazid (6 sections)
+2026-07-15 11:41:34,179 INFO No FDA label found for: Isoetharine
+2026-07-15 11:41:44,555 INFO Saved label for Isoflurane (6 sections)
+2026-07-15 11:42:00,554 INFO No FDA label found for: Isoprenaline
+2026-07-15 11:42:03,484 INFO Saved label for Labetalol (4 sections)
+2026-07-15 11:42:16,577 INFO No FDA label found for: Levosalbutamol
+2026-07-15 11:42:30,624 INFO No FDA label found for: Levobetaxolol (ophthalmic)
+2026-07-15 11:42:36,451 INFO No FDA label found for: Levobunolol (ophthalmic)
+2026-07-15 11:42:45,155 INFO Skipping Levodopa -- matched a combination product (Carbidopa and Levodopa)
+2026-07-15 11:42:49,206 INFO Saved label for Levothyroxine (8 sections)
+2026-07-15 11:42:56,701 INFO Skipping Linagliptin -- matched a combination product (Jentadueto XR)
+2026-07-15 11:43:02,591 INFO Saved label for Linezolid (6 sections)
+2026-07-15 11:43:05,697 INFO Saved label for Liothyronine (7 sections)
+2026-07-15 11:43:07,518 INFO Saved label for Liraglutide (6 sections)
+2026-07-15 11:43:09,347 INFO Saved label for Lisdexamfetamine (8 sections)
+2026-07-15 11:43:14,714 INFO No FDA label found for: Lithium carbonate
+2026-07-15 11:43:16,529 INFO Skipping Lixisenatide -- matched a combination product (Soliqua 100/33)
+2026-07-15 11:43:21,081 INFO Saved label for Loxapine (6 sections)
+2026-07-15 11:43:28,600 INFO Saved label for Lumateperone (7 sections)
+2026-07-15 11:43:32,698 INFO Saved label for Lurasidone (8 sections)
+2026-07-15 11:43:44,554 INFO No FDA label found for: Mazindol
+2026-07-15 11:43:46,165 INFO Saved label for Mecamylamine (5 sections)
+2026-07-15 11:43:52,579 INFO No FDA label found for: Mesoridazine
+2026-07-15 11:44:04,176 INFO No FDA label found for: Orciprenaline
+2026-07-15 11:44:12,623 INFO Skipping Metformin -- matched a combination product (ZITUVIMET)
+2026-07-15 11:44:28,583 INFO No FDA label found for: Metamfetamine
+2026-07-15 11:44:38,062 INFO No FDA label found for: Methdilazine
+2026-07-15 11:44:52,554 INFO No FDA label found for: Methotrimeprazine
+2026-07-15 11:45:03,493 INFO No FDA label found for: Methoxyflurane
+2026-07-15 11:45:08,772 INFO Saved label for Methyldopa (5 sections)
+2026-07-15 11:45:23,674 INFO No FDA label found for: Methylene blue
+2026-07-15 11:45:40,552 INFO No FDA label found for: Methylergometrine
+2026-07-15 11:45:48,789 INFO No FDA label found for: Methysergide
+2026-07-15 11:45:52,553 INFO No FDA label found for: Metipranolol (ophthalmic)
+2026-07-15 11:54:40,216 WARNING Request failed for Metoprolol (openfda.generic_name): HTTPSConnectionPool(host='api.fda.gov', port=443): Read timed out. (read timeout=10)
+2026-07-15 11:54:42,330 INFO Saved label for Metoprolol (5 sections)
+2026-07-15 11:54:43,870 INFO Saved label for Midodrine (6 sections)
+2026-07-15 11:54:45,495 INFO Saved label for Miglitol (4 sections)
+2026-07-15 11:54:47,366 INFO Saved label for Molindone (6 sections)
+2026-07-15 11:54:49,897 INFO Saved label for Nadolol (7 sections)
+2026-07-15 11:54:51,877 INFO Saved label for Nateglinide (6 sections)
+2026-07-15 11:54:54,089 INFO Saved label for Nebivolol (5 sections)
+2026-07-15 11:54:58,251 INFO Saved label for Nortriptyline (5 sections)
+2026-07-15 11:55:03,422 INFO Saved label for Olanzapine (7 sections)
+2026-07-15 11:55:07,710 INFO Skipping Olodaterol -- matched a combination product (Stiolto Respimat)
+2026-07-15 11:55:10,307 INFO Saved label for Opicapone (5 sections)
+2026-07-15 11:55:13,358 INFO Skipping Oxytocin -- matched a combination product (GUNA-GERIATRICS)
+2026-07-15 11:55:16,122 INFO Saved label for Ozanimod (7 sections)
+2026-07-15 11:55:21,556 INFO Saved label for Paliperidone (7 sections)
+2026-07-15 11:55:24,572 INFO No FDA label found for: Penbutolol
+2026-07-15 11:55:35,652 INFO Saved label for Perphenazine (6 sections)
+2026-07-15 11:55:39,238 INFO Saved label for Phendimetrazine (5 sections)
+2026-07-15 11:55:44,253 INFO Saved label for Phenelzine (6 sections)
+2026-07-15 11:55:46,654 INFO Saved label for Phentermine (5 sections)
+2026-07-15 11:56:01,246 INFO No FDA label found for: Phenylpropanolamine
+2026-07-15 11:56:04,256 INFO Saved label for Pimozide (5 sections)
+2026-07-15 11:56:08,822 INFO Saved label for Pindolol (5 sections)
+2026-07-15 11:56:14,837 INFO Saved label for Pioglitazone (6 sections)
+2026-07-15 11:56:23,687 INFO No FDA label found for: Pirbuterol
+2026-07-15 11:56:30,101 INFO Saved label for Pramlintide (6 sections)
+2026-07-15 11:56:35,651 INFO Saved label for Procarbazine (6 sections)
+2026-07-15 11:56:39,385 INFO Saved label for Prochlorperazine (4 sections)
+2026-07-15 11:56:42,438 INFO No FDA label found for: Promazine
+2026-07-15 11:56:44,075 INFO Saved label for Promethazine (6 sections)
+2026-07-15 11:56:51,519 INFO No FDA label found for: Propiomazine
+2026-07-15 11:56:55,409 INFO Saved label for Propranolol (5 sections)
+2026-07-15 11:56:58,148 INFO Saved label for Protriptyline (5 sections)
+2026-07-15 11:57:00,295 INFO Saved label for Quetiapine (7 sections)
+2026-07-15 11:57:06,520 INFO Saved label for Racepinephrine (3 sections)
+2026-07-15 11:57:08,826 INFO Saved label for Rasagiline (5 sections)
+2026-07-15 11:57:15,653 INFO Saved label for Repaglinide (6 sections)
+2026-07-15 11:57:27,647 INFO No FDA label found for: Reserpine
+2026-07-15 11:57:33,308 INFO Saved label for Risperidone (7 sections)
+2026-07-15 11:57:38,653 INFO No FDA label found for: Ritodrine
+2026-07-15 11:57:41,853 INFO No FDA label found for: Rosiglitazone
+2026-07-15 11:57:44,113 INFO Skipping Salmeterol -- matched a combination product (Fluticasone Propionate and Salmeterol)
+2026-07-15 11:57:46,583 INFO Skipping Saxagliptin -- matched a combination product (DAPAGLIFLOZIN AND SAXAGLIPTIN)
+2026-07-15 11:57:49,118 INFO Saved label for Selegiline (5 sections)
+2026-07-15 11:57:51,209 INFO Saved label for Semaglutide (7 sections)
+2026-07-15 11:57:52,981 INFO Saved label for Sevoflurane (6 sections)
+2026-07-15 11:57:55,016 INFO Skipping Sitagliptin -- matched a combination product (ZITUVIMET)
+2026-07-15 11:58:03,411 INFO Saved label for Solriamfetol (5 sections)
+2026-07-15 11:58:08,821 INFO Saved label for Sotalol (7 sections)
+2026-07-15 11:58:15,009 INFO Saved label for Tapentadol (7 sections)
+2026-07-15 11:58:19,902 INFO Saved label for Terbutaline (6 sections)
+2026-07-15 11:58:31,655 INFO No FDA label found for: Thiethylperazine
+2026-07-15 11:58:34,758 INFO Saved label for Thioridazine (6 sections)
+2026-07-15 11:58:36,580 INFO Saved label for Thiothixene (6 sections)
+2026-07-15 11:58:44,253 INFO No FDA label found for: Thyroid, porcine
+2026-07-15 11:58:48,391 INFO Skipping Timolol -- matched a combination product (DORZOLAMIDE HYDROCHLORIDE TIMOLOL MALEATE)
+2026-07-15 11:58:55,543 INFO No FDA label found for: Timolol (ophthalmic)
+2026-07-15 11:59:05,600 INFO No FDA label found for: Tolazamide
+2026-07-15 11:59:14,247 INFO No FDA label found for: Tolbutamide
+2026-07-15 11:59:16,727 INFO Saved label for Tolcapone (6 sections)
+2026-07-15 11:59:22,138 INFO Saved label for Tranylcypromine (7 sections)
+2026-07-15 11:59:30,246 INFO Saved label for Trifluoperazine (5 sections)
+2026-07-15 11:59:35,458 INFO No FDA label found for: Triflupromazine
+2026-07-15 11:59:38,816 INFO No FDA label found for: Alimemazine
+2026-07-15 11:59:43,685 INFO Saved label for Trimipramine (6 sections)
+2026-07-15 11:59:55,654 INFO No FDA label found for: Troglitazone
+2026-07-15 12:00:03,656 INFO Saved label for Vasopressin (6 sections)
+2026-07-15 12:00:11,727 INFO Saved label for Ziprasidone (6 sections)
+2026-07-15 12:00:31,683 INFO No FDA label found for: Antihemophilic factor, human recombinant
+2026-07-15 12:00:35,718 INFO Saved label for Carfilzomib (5 sections)
+2026-07-15 12:00:37,687 INFO Saved label for Emicizumab (6 sections)
+2026-07-15 12:00:39,508 INFO Saved label for Pegvaliase (7 sections)
+2026-07-15 12:00:44,577 INFO Saved label for Afatinib (5 sections)
+2026-07-15 12:00:51,848 INFO No FDA label found for: Ethinylestradiol
+2026-07-15 12:01:07,653 INFO No FDA label found for: Human C1-esterase inhibitor
+2026-07-15 12:01:20,324 INFO No FDA label found for: Conestat alfa
+2026-07-15 12:01:31,682 INFO No FDA label found for: Sulfamethizole
+2026-07-15 12:01:43,654 INFO No FDA label found for: Tranexamic acid
+2026-07-15 12:01:50,706 INFO Saved label for Hydrocortisone (3 sections)
+2026-07-15 12:01:55,684 INFO Skipping Butalbital -- matched a combination product (BUTALBITAL, ACETAMINOPHEN AND CAFFEINE)
+2026-07-15 12:01:59,653 INFO Saved label for Loratadine (4 sections)
+2026-07-15 12:02:07,815 INFO Saved label for Albendazole (6 sections)
+2026-07-15 12:02:10,374 INFO Saved label for Ethanol (3 sections)
+2026-07-15 12:02:14,066 INFO No FDA label found for: Alefacept
+2026-07-15 12:02:21,519 INFO No FDA label found for: Alendronic acid
+2026-07-15 12:02:31,654 INFO Skipping Cholecalciferol -- matched a combination product (PNV-DHA)
+2026-07-15 12:02:43,653 INFO No FDA label found for: Alfentanil
+2026-07-15 12:02:59,654 INFO No FDA label found for: Folic acid
+2026-07-15 12:03:07,902 INFO Saved label for Capecitabine (7 sections)
+2026-07-15 12:03:15,742 INFO Saved label for Carbamazepine (7 sections)
+2026-07-15 12:03:22,075 INFO Saved label for Cholestyramine (5 sections)
+2026-07-15 12:03:23,820 INFO Saved label for Colestipol (4 sections)
+2026-07-15 12:03:35,653 INFO No FDA label found for: Valproic acid
+2026-07-15 12:03:41,891 INFO No FDA label found for: Antithrombin Alfa
+2026-07-15 12:03:45,249 INFO No FDA label found for: Asparaginase Erwinia chrysanthemi
+2026-07-15 12:03:56,337 INFO No FDA label found for: Asparaginase Escherichia coli
+2026-07-15 12:04:01,271 INFO No FDA label found for: Calaspargase pegol
+2026-07-15 12:04:03,765 INFO Saved label for Fosamprenavir (7 sections)
+2026-07-15 12:04:08,307 INFO Saved label for Avatrombopag (6 sections)
+2026-07-15 12:04:19,721 INFO Saved label for Fosaprepitant (7 sections)
+2026-07-15 12:04:27,149 INFO Saved label for Fosinopril (6 sections)
+2026-07-15 12:04:31,823 INFO No FDA label found for: Darbepoetin alfa
+2026-07-15 12:04:38,804 INFO Saved label for Fosphenytoin (8 sections)
+2026-07-15 12:04:44,259 INFO Saved label for Alfuzosin (5 sections)
+2026-07-15 12:04:51,523 INFO Saved label for Aliskiren (6 sections)
+2026-07-15 12:04:55,831 INFO Saved label for Almotriptan (5 sections)
+2026-07-15 12:05:03,691 INFO Saved label for Alosetron (6 sections)
+2026-07-15 12:05:08,879 INFO Saved label for Alprazolam (7 sections)
+2026-07-15 12:05:13,250 INFO Saved label for Alvimopan (6 sections)
+2026-07-15 12:05:21,524 INFO Saved label for Amiodarone (7 sections)
+2026-07-15 12:05:27,655 INFO Saved label for Amlodipine (5 sections)
+2026-07-15 12:05:38,789 INFO No FDA label found for: Amobarbital
+2026-07-15 12:05:41,429 INFO Saved label for Anastrozole (5 sections)
+2026-07-15 12:05:44,158 INFO Saved label for Apalutamide (5 sections)
+2026-07-15 12:05:51,529 INFO Saved label for Apremilast (6 sections)
+2026-07-15 12:05:59,887 INFO Saved label for Aprepitant (7 sections)
+2026-07-15 12:06:07,726 INFO Saved label for Armodafinil (5 sections)
+2026-07-15 12:06:11,939 INFO Saved label for Atazanavir (7 sections)
+2026-07-15 12:06:16,119 INFO Saved label for Atorvastatin (6 sections)
+2026-07-15 12:06:23,780 INFO Saved label for Avanafil (5 sections)
+2026-07-15 12:06:27,728 INFO Saved label for Axitinib (6 sections)
+2026-07-15 12:06:31,654 INFO Saved label for Betamethasone (4 sections)
+2026-07-15 12:06:38,824 INFO Saved label for Bexarotene (7 sections)
+2026-07-15 12:06:45,250 INFO Saved label for Bicalutamide (5 sections)
+2026-07-15 12:06:50,758 INFO Saved label for Binimetinib (6 sections)
+2026-07-15 12:06:57,043 INFO Saved label for Bortezomib (6 sections)
+2026-07-15 12:07:05,740 INFO Saved label for Bosutinib (6 sections)
+2026-07-15 12:07:19,652 INFO No FDA label found for: Brentuximab vedotin
+2026-07-15 12:07:27,891 INFO Saved label for Brigatinib (6 sections)
+2026-07-15 12:07:30,258 INFO Saved label for Bromocriptine (5 sections)
+2026-07-15 12:07:35,655 INFO Saved label for Budesonide (4 sections)
+2026-07-15 12:07:40,089 INFO Saved label for Bupivacaine (9 sections)
+2026-07-15 12:07:51,825 INFO Saved label for Buprenorphine (6 sections)
+2026-07-15 12:08:03,681 INFO Saved label for Buspirone (5 sections)
+2026-07-15 12:08:08,943 INFO Saved label for Cabazitaxel (7 sections)
+2026-07-15 12:08:12,568 INFO Saved label for Cannabidiol (6 sections)
+2026-07-15 12:08:15,332 INFO Saved label for Cariprazine (8 sections)
+2026-07-15 12:08:21,701 INFO Saved label for Cenobamate (7 sections)
+2026-07-15 12:08:30,400 INFO Saved label for Ceritinib (6 sections)
+2026-07-15 12:08:38,825 INFO Saved label for Cevimeline (4 sections)
+2026-07-15 12:08:44,284 INFO Saved label for Chloramphenicol (3 sections)
+2026-07-15 12:08:48,152 INFO Skipping Chlordiazepoxide -- matched a combination product (Chlordiazepoxide Hydrochloride and Clidinium Bromide)
+2026-07-15 12:08:52,138 INFO Saved label for Ciclesonide (5 sections)
+2026-07-15 12:08:55,655 INFO Saved label for Cimetidine (3 sections)
+2026-07-15 12:09:00,167 INFO Saved label for Cinacalcet (5 sections)
+2026-07-15 12:09:02,627 INFO Saved label for Ciprofloxacin (5 sections)
+2026-07-15 12:09:06,572 INFO Saved label for Clarithromycin (7 sections)
+2026-07-15 12:09:09,420 INFO Saved label for Clobazam (7 sections)
+2026-07-15 12:09:21,662 INFO Saved label for Clofarabine (4 sections)
+2026-07-15 12:09:30,428 INFO Saved label for Clonazepam (6 sections)
+2026-07-15 12:09:33,527 INFO No FDA label found for: Clorazepic acid
+2026-07-15 12:09:38,837 INFO Skipping Cobicistat -- matched a combination product (PREZCOBIX)
+2026-07-15 12:09:40,829 INFO Saved label for Cobimetinib (6 sections)
+2026-07-15 12:09:47,690 INFO Saved label for Colchicine (7 sections)
+2026-07-15 12:09:56,414 INFO No FDA label found for: Conivaptan
+2026-07-15 12:10:03,724 INFO Saved label for Crizotinib (6 sections)
+2026-07-15 12:10:08,833 INFO Saved label for Cyclobenzaprine (4 sections)
+2026-07-15 12:10:18,691 INFO Saved label for Cyclophosphamide (6 sections)
+2026-07-15 12:10:24,044 INFO Saved label for Cyclosporine (4 sections)
+2026-07-15 12:10:28,748 INFO Saved label for Dabrafenib (6 sections)
+2026-07-15 12:10:33,706 INFO No FDA label found for: Daclatasvir
+2026-07-15 12:10:37,256 INFO Saved label for Dactinomycin (4 sections)
+2026-07-15 12:10:39,978 INFO Saved label for Darifenacin (5 sections)
+2026-07-15 12:10:48,509 INFO Saved label for Darunavir (7 sections)
+2026-07-15 12:10:52,184 INFO Saved label for Daunorubicin (7 sections)
+2026-07-15 12:11:03,668 INFO Saved label for Deferiprone (7 sections)
+2026-07-15 12:11:07,665 INFO Saved label for Deflazacort (5 sections)
+2026-07-15 12:11:11,708 INFO Saved label for Delafloxacin (7 sections)
+2026-07-15 12:11:21,499 INFO No FDA label found for: Delavirdine
+2026-07-15 12:11:27,798 INFO Saved label for Dexlansoprazole (7 sections)
+2026-07-15 12:11:31,693 INFO Skipping Dextromethorphan -- matched a combination product (Daytime Cold and Flu)
+2026-07-15 12:11:36,794 INFO Saved label for Diazepam (7 sections)
+2026-07-15 12:11:38,835 INFO Saved label for Disopyramide (6 sections)
+2026-07-15 12:11:41,357 INFO Saved label for Docetaxel (7 sections)
+2026-07-15 12:11:47,715 INFO Saved label for Dofetilide (6 sections)
+2026-07-15 12:12:00,363 INFO No FDA label found for: Dolasetron
+2026-07-15 12:12:03,699 INFO Saved label for Donepezil (5 sections)
+2026-07-15 12:12:06,939 INFO Saved label for Doxercalciferol (6 sections)
+2026-07-15 12:12:09,664 INFO Saved label for Doxorubicin (7 sections)
+2026-07-15 12:12:15,711 INFO Saved label for Dronabinol (5 sections)
+2026-07-15 12:12:20,599 INFO Saved label for Dronedarone (6 sections)
+2026-07-15 12:12:22,688 INFO Saved label for Drospirenone (7 sections)
+2026-07-15 12:12:24,498 INFO Skipping Dutasteride -- matched a combination product (Dutasteride and Tamsulosin Hydrochloride)
+2026-07-15 12:12:26,559 INFO Saved label for Efavirenz (7 sections)
+2026-07-15 12:12:28,896 INFO Saved label for Elagolix (7 sections)
+2026-07-15 12:12:30,683 INFO Saved label for Eletriptan (5 sections)
+2026-07-15 12:12:32,794 INFO Saved label for Eliglustat (7 sections)
+2026-07-15 12:12:36,530 INFO Saved label for Loperamide (4 sections)
+2026-07-15 12:12:40,227 INFO Saved label for Methadone (8 sections)
+2026-07-15 12:12:48,022 INFO Saved label for Eltrombopag (7 sections)
+2026-07-15 12:12:55,319 INFO Saved label for Fostemsavir (6 sections)
+2026-07-15 12:13:06,537 INFO Saved label for Furosemide (5 sections)
+2026-07-15 12:13:09,437 INFO Saved label for Gemfibrozil (4 sections)
+2026-07-15 12:13:23,665 INFO No FDA label found for: Gemifloxacin
+2026-07-15 12:13:35,759 INFO No FDA label found for: Phenyltoloxamine
+2026-07-15 12:13:39,700 INFO Saved label for Nitazoxanide (5 sections)
+2026-07-15 12:13:51,534 INFO No FDA label found for: Potassium acetate
+2026-07-15 12:13:57,324 INFO Skipping Hydrochlorothiazide -- matched a combination product (Lisinopril and Hydrochlorothiazide)
+2026-07-15 12:14:01,873 INFO Saved label for Cetirizine (4 sections)
+2026-07-15 12:14:07,699 INFO Saved label for Allopurinol (8 sections)
+2026-07-15 12:14:09,634 INFO Saved label for Estradiol (8 sections)
+2026-07-15 12:14:11,716 INFO Saved label for Alpelisib (6 sections)
+2026-07-15 12:14:16,360 INFO Saved label for Alprostadil (7 sections)
+2026-07-15 12:14:30,230 INFO No FDA label found for: Tetracaine (ophthalmic)
+2026-07-15 12:14:39,697 INFO No FDA label found for: Aminocaproic acid
+2026-07-15 12:15:03,673 INFO No FDA label found for: Aprotinin
+2026-07-15 12:15:08,968 INFO Saved label for Bromfenac (4 sections)
+2026-07-15 12:15:13,264 INFO Skipping Captopril -- matched a combination product (CAPTOPRIL AND HYDROCHLOROTHIAZIDE)
+2026-07-15 12:15:21,548 INFO Saved label for Enalapril (7 sections)
+2026-07-15 12:15:35,659 INFO No FDA label found for: Isosorbide dinitrate
+2026-07-15 12:15:50,715 INFO No FDA label found for: Isosorbide mononitrate
+2026-07-15 12:15:59,268 INFO Skipping Lisinopril -- matched a combination product (Lisinopril and Hydrochlorothiazide)
+2026-07-15 12:16:06,538 INFO Saved label for Moexipril (5 sections)
+2026-07-15 12:16:08,840 INFO Saved label for Nitroglycerin (5 sections)
+2026-07-15 12:16:19,668 INFO Saved label for Perindopril (6 sections)
+2026-07-15 12:16:35,073 INFO No FDA label found for: Protein C
+2026-07-15 12:16:39,438 INFO Saved label for Quinapril (5 sections)
+2026-07-15 12:16:43,486 INFO Saved label for Ramipril (6 sections)
+2026-07-15 12:16:51,501 INFO No FDA label found for: Sulfinpyrazone
+2026-07-15 12:16:59,269 INFO Saved label for Trandolapril (6 sections)
+2026-07-15 12:17:05,918 INFO No FDA label found for: Lidocaine (topical)
+2026-07-15 12:17:11,667 INFO No FDA label found for: Amphotericin B
+2026-07-15 12:17:20,853 INFO Saved label for Amifostine (6 sections)
+2026-07-15 12:17:22,850 INFO Saved label for Amikacin (6 sections)
+2026-07-15 12:17:36,539 INFO No FDA label found for: Neomycin (topical)
+2026-07-15 12:17:39,701 INFO Saved label for Amiloride (5 sections)
+2026-07-15 12:17:54,027 INFO No FDA label found for: Anti-inhibitor coagulant complex
+2026-07-15 12:18:00,231 INFO No FDA label found for: Factor IX Complex (Human)
+2026-07-15 12:18:06,014 INFO Saved label for Tretinoin (6 sections)
+2026-07-15 12:18:09,691 INFO No FDA label found for: Aminolevulinic acid (topical)
+2026-07-15 12:18:17,485 INFO No FDA label found for: Aminosalicylic acid
+2026-07-15 12:18:19,668 INFO Saved label for Benazepril (6 sections)
+2026-07-15 12:18:21,778 INFO Saved label for Erythropoietin (5 sections)
+2026-07-15 12:18:27,611 INFO Saved label for Icatibant (5 sections)
+2026-07-15 12:18:29,576 INFO Skipping Olmesartan -- matched a combination product (olmesartan medoxomil-hydrochlorothiazide)
+2026-07-15 12:18:32,276 INFO Skipping Valsartan -- matched a combination product (ENTRESTO)
+2026-07-15 12:18:36,068 INFO Skipping Amoxicillin -- matched a combination product (AMOXICILLIN AND CLAVULANATE POTASSIUM)
+2026-07-15 12:18:43,673 INFO No FDA label found for: Amphotericin B (lipid complex)
+2026-07-15 12:18:52,023 INFO Skipping Ampicillin -- matched a combination product (Ampicillin and Sulbactam)
+2026-07-15 12:18:57,922 INFO Saved label for Anakinra (5 sections)
+2026-07-15 12:19:01,865 INFO Saved label for Hyoscyamine (5 sections)
+2026-07-15 12:19:07,270 INFO Saved label for Testosterone (4 sections)
+2026-07-15 12:19:09,740 INFO Saved label for Propofol (6 sections)
+2026-07-15 12:19:13,417 INFO No FDA label found for: Aluminum hydroxide
+2026-07-15 12:25:04,825 INFO No FDA label found for: Amprenavir
+2026-07-15 12:42:44,752 WARNING Request failed for Bacampicillin (openfda.generic_name): HTTPSConnectionPool(host='api.fda.gov', port=443): Read timed out. (read timeout=10)
+2026-07-15 12:45:10,566 INFO No FDA label found for: Bacampicillin
+2026-07-15 12:46:45,965 WARNING Request failed for Cefditoren (openfda.generic_name): HTTPSConnectionPool(host='api.fda.gov', port=443): Read timed out.
+2026-07-15 12:46:48,457 INFO No FDA label found for: Cefditoren
+2026-07-15 12:46:50,784 INFO Saved label for Cefpodoxime (6 sections)
+2026-07-15 12:46:56,420 INFO Saved label for Cefuroxime (5 sections)
+2026-07-15 12:47:00,665 INFO No FDA label found for: Cinoxacin
+2026-07-15 12:47:07,616 INFO Saved label for Demeclocycline (4 sections)
+2026-07-15 12:47:16,586 INFO Skipping Elvitegravir -- matched a combination product (Genvoya)
+2026-07-15 12:47:26,456 INFO No FDA label found for: Enoxacin
+2026-07-15 12:47:33,783 INFO Saved label for Ephedrine (6 sections)
+2026-07-15 12:47:44,655 INFO No FDA label found for: Ephedrine (nasal)
+2026-07-15 12:47:55,275 INFO Saved label for Erlotinib (6 sections)
+2026-07-15 12:47:59,387 INFO Saved label for Erythromycin (4 sections)
+2026-07-15 12:48:01,320 INFO Saved label for Estazolam (6 sections)
+2026-07-15 12:48:05,889 INFO No FDA label found for: Ferrous sulfate anhydrous
+2026-07-15 12:48:08,919 INFO Saved label for Flecainide (5 sections)
+2026-07-15 12:48:18,223 INFO Saved label for Flurazepam (6 sections)
+2026-07-15 12:48:20,916 INFO Saved label for Gatifloxacin (4 sections)
+2026-07-15 12:48:26,247 INFO No FDA label found for: Grepafloxacin
+2026-07-15 12:48:39,402 INFO No FDA label found for: Halazepam
+2026-07-15 12:48:48,826 INFO No FDA label found for: Iron protein succinylate
+2026-07-15 12:48:53,285 INFO Saved label for Lactulose (5 sections)
+2026-07-15 12:48:56,237 INFO Saved label for Levofloxacin (8 sections)
+2026-07-15 12:49:01,449 INFO No FDA label found for: Lomefloxacin
+2026-07-15 12:49:03,788 INFO Saved label for Lorazepam (6 sections)
+2026-07-15 12:49:08,919 INFO Saved label for Memantine (5 sections)
+2026-07-15 12:49:12,272 INFO Skipping Methenamine -- matched a combination product (TopCare Antibacterial Plus Urinary Pain Relief)
+2026-07-15 12:49:14,248 INFO Saved label for Methotrexate (7 sections)
+2026-07-15 12:49:16,301 INFO Saved label for Mexiletine (4 sections)
+2026-07-15 12:49:18,050 INFO Saved label for Midazolam (7 sections)
+2026-07-15 12:49:24,290 INFO Saved label for Minocycline (5 sections)
+2026-07-15 12:49:27,057 INFO Skipping Misoprostol -- matched a combination product (Diclofenac Sodium/Misoprostol DICLOFENAC-SODIUM-MISOPROSTOL)
+2026-07-15 12:49:34,382 INFO Saved label for Moxifloxacin (8 sections)
+2026-07-15 12:49:53,428 INFO No FDA label found for: Mycophenolate mofetil
+2026-07-15 12:50:04,800 INFO No FDA label found for: Mycophenolic acid
+2026-07-15 12:50:11,438 INFO No FDA label found for: Nalidixic acid
+2026-07-15 12:50:16,711 INFO Saved label for Neratinib (7 sections)
+2026-07-15 12:50:18,692 INFO Saved label for Nilotinib (7 sections)
+2026-07-15 12:50:22,425 INFO No FDA label found for: Norfloxacin
+2026-07-15 12:50:25,792 INFO Saved label for Ofloxacin (5 sections)
+2026-07-15 12:50:29,469 INFO Saved label for Oxazepam (6 sections)
+2026-07-15 12:50:38,761 INFO No FDA label found for: Oxytetracycline
+2026-07-15 12:50:46,520 INFO Saved label for Pazopanib (7 sections)
+2026-07-15 12:50:53,056 INFO Saved label for Pexidartinib (8 sections)
+2026-07-15 12:50:55,858 INFO Saved label for Phenytoin (7 sections)
+2026-07-15 12:51:00,896 INFO Saved label for Quazepam (6 sections)
+2026-07-15 12:51:08,887 INFO Skipping Quinidine -- matched a combination product (NUEDEXTA)
+2026-07-15 12:51:17,042 INFO Saved label for Rilpivirine (7 sections)
+2026-07-15 12:51:22,308 INFO Saved label for Riociguat (6 sections)
+2026-07-15 12:51:27,157 INFO Saved label for Rosuvastatin (7 sections)
+2026-07-15 12:51:39,068 INFO No FDA label found for: Sparfloxacin
+2026-07-15 12:51:44,091 INFO Saved label for Tacrolimus (8 sections)
+2026-07-15 12:51:50,203 INFO Saved label for Temazepam (4 sections)
+2026-07-15 12:51:53,703 INFO Saved label for Tetracycline (5 sections)
+2026-07-15 12:51:56,569 INFO Saved label for Triazolam (7 sections)
+2026-07-15 12:52:03,379 INFO No FDA label found for: Trovafloxacin
+2026-07-15 12:52:11,430 INFO Saved label for Vismodegib (5 sections)
+2026-07-15 12:52:19,195 INFO No FDA label found for: Von Willebrand Factor Human
+2026-07-15 12:52:23,144 INFO No FDA label found for: Coagulation factor VIIa Recombinant Human
+2026-07-15 12:52:26,647 INFO No FDA label found for: Prilocaine (topiclal)
+2026-07-15 12:52:29,286 INFO Saved label for Fenofibrate (5 sections)
+2026-07-15 12:52:34,766 INFO No FDA label found for: Iodide I-123
+2026-07-15 12:52:44,261 INFO No FDA label found for: Iodide I-131
+2026-07-15 12:52:48,603 INFO Saved label for Sugammadex (5 sections)
+2026-07-15 12:52:56,470 INFO Saved label for Temsirolimus (5 sections)
+2026-07-15 12:53:13,596 INFO No FDA label found for: Antilymphocyte immunoglobulin (horse)
+2026-07-15 12:53:24,920 INFO No FDA label found for: Antithymocyte immunoglobulin (rabbit)
+2026-07-15 12:53:27,077 INFO Skipping Homatropine -- matched a combination product (Hydrocodone Bitartrate and Homatropine Methylbromide)
+2026-07-15 12:53:41,036 INFO No FDA label found for: Aminoglutethimide
+2026-07-15 12:53:51,168 INFO No FDA label found for: Bepridil
+2026-07-15 12:54:04,320 INFO No FDA label found for: Boceprevir
+2026-07-15 12:54:22,307 INFO No FDA label found for: Butabarbital
+2026-07-15 12:54:27,066 INFO Skipping Canakinumab -- matched a combination product (GUNA-HEMORRHOIDS)
+2026-07-15 12:54:34,758 INFO Saved label for Capmatinib (6 sections)
+2026-07-15 12:54:50,340 INFO No FDA label found for: Certolizumab pegol
+2026-07-15 12:54:55,587 INFO Saved label for Clotrimazole (3 sections)
+2026-07-15 12:54:59,258 INFO No FDA label found for: Coagulation factor X human
+2026-07-15 12:55:01,290 INFO Saved label for Dexamethasone (5 sections)
+2026-07-15 12:55:03,036 INFO Saved label for Diltiazem (5 sections)
+2026-07-15 12:55:10,252 INFO Saved label for Duvelisib (7 sections)
+2026-07-15 12:55:13,384 INFO Skipping Echinacea -- matched a combination product (Histastat Pollen)
+2026-07-15 12:55:20,390 INFO Saved label for Emapalumab (6 sections)
+2026-07-15 12:55:27,203 INFO Saved label for Encorafenib (6 sections)
+2026-07-15 12:55:35,049 INFO Saved label for Entrectinib (6 sections)
+2026-07-15 12:55:42,046 INFO Saved label for Enzalutamide (5 sections)
+2026-07-15 12:55:52,435 INFO Saved label for Erdafitinib (7 sections)
+2026-07-15 12:55:59,460 INFO Saved label for Eslicarbazepine (6 sections)
+2026-07-15 12:56:02,518 INFO Saved label for Etanercept (7 sections)
+2026-07-15 12:56:05,753 INFO Saved label for Etravirine (7 sections)
+2026-07-15 12:56:17,254 INFO No FDA label found for: Ezogabine
+2026-07-15 12:56:19,882 INFO Saved label for Fedratinib (7 sections)
+2026-07-15 12:56:25,566 INFO Saved label for Felbamate (8 sections)
+2026-07-15 12:56:30,801 INFO Saved label for Felodipine (4 sections)
+2026-07-15 12:56:37,833 INFO Saved label for Flibanserin (7 sections)
+2026-07-15 12:56:44,433 INFO Saved label for Fluconazole (6 sections)
+2026-07-15 12:56:47,093 INFO Saved label for Glasdegib (8 sections)
+2026-07-15 12:56:52,066 INFO Saved label for Golimumab (6 sections)
+2026-07-15 12:56:56,482 INFO Saved label for Griseofulvin (5 sections)
+2026-07-15 12:57:07,240 INFO Saved label for Guselkumab (5 sections)
+2026-07-15 12:57:17,003 INFO Saved label for Idelalisib (8 sections)
+2026-07-15 12:57:21,246 INFO Saved label for Imatinib (6 sections)
+2026-07-15 12:57:27,442 INFO No FDA label found for: Indinavir
+2026-07-15 12:57:32,485 INFO Saved label for Infliximab (6 sections)
+2026-07-15 12:57:39,547 INFO Saved label for Ipilimumab (5 sections)
+2026-07-15 12:57:44,913 INFO Saved label for Isavuconazonium (7 sections)
+2026-07-15 12:57:49,529 INFO Saved label for Istradefylline (5 sections)
+2026-07-15 12:57:57,027 INFO Saved label for Itraconazole (7 sections)
+2026-07-15 12:58:03,163 INFO Saved label for Ivacaftor (6 sections)
+2026-07-15 12:58:11,985 INFO Saved label for Ivosidenib (8 sections)
+2026-07-15 12:58:17,971 INFO Saved label for Ixekizumab (5 sections)
+2026-07-15 12:58:25,862 INFO Saved label for Ketoconazole (3 sections)
+2026-07-15 12:58:35,684 INFO Saved label for Lapatinib (6 sections)
+2026-07-15 12:58:40,224 INFO Saved label for Larotrectinib (6 sections)
+2026-07-15 12:58:42,248 INFO Saved label for Lasmiditan (5 sections)
+2026-07-15 12:58:54,393 INFO No FDA label found for: Lefamulin
+2026-07-15 12:58:59,176 INFO Saved label for Lemborexant (6 sections)
+2026-07-15 12:59:17,289 INFO No FDA label found for: Lesinurad
+2026-07-15 12:59:25,141 INFO Saved label for Letermovir (7 sections)
+2026-07-15 12:59:30,108 INFO Saved label for Levamlodipine (5 sections)
+2026-07-15 12:59:37,908 INFO Saved label for Lomitapide (7 sections)
+2026-07-15 12:59:45,144 INFO Saved label for Lonafarnib (7 sections)
+2026-07-15 12:59:52,740 INFO Saved label for Lorlatinib (6 sections)
+2026-07-15 13:00:08,227 INFO No FDA label found for: Methylphenobarbital
+2026-07-15 13:00:16,931 INFO Saved label for Miconazole (3 sections)
+2026-07-15 13:00:27,049 INFO No FDA label found for: Midostaurin
+2026-07-15 13:00:34,780 INFO Saved label for Mifepristone (7 sections)
+2026-07-15 13:00:43,903 INFO Saved label for Mitotane (7 sections)
+2026-07-15 13:00:52,086 INFO Saved label for Modafinil (5 sections)
+2026-07-15 13:00:55,360 WARNING Request failed for Nafcillin (openfda.generic_name): ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2026-07-15 13:01:02,322 INFO Saved label for Nafcillin (5 sections)
+2026-07-15 13:01:10,133 INFO Saved label for Nefazodone (6 sections)
+2026-07-15 13:01:20,644 INFO Saved label for Nelfinavir (7 sections)
+2026-07-15 13:01:26,628 INFO Saved label for Nevirapine (7 sections)
+2026-07-15 13:01:36,055 INFO Saved label for Osilodrostat (6 sections)
+2026-07-15 13:01:38,551 INFO Saved label for Oxcarbazepine (6 sections)
+2026-07-15 13:01:47,128 INFO Saved label for Pegaspargase (6 sections)
+2026-07-15 13:01:54,260 INFO Saved label for Pentobarbital (5 sections)
+2026-07-15 13:01:59,240 INFO Saved label for Phenobarbital (5 sections)
+2026-07-15 13:02:03,006 INFO No FDA label found for: Plicamycin
+2026-07-15 13:02:05,267 INFO Saved label for Posaconazole (7 sections)
+2026-07-15 13:02:08,559 INFO Saved label for Primidone (5 sections)
+2026-07-15 13:02:10,420 INFO Saved label for Progesterone (5 sections)
+2026-07-15 13:02:12,863 INFO Saved label for Propafenone (6 sections)
+2026-07-15 13:02:14,411 INFO Saved label for Quinine (3 sections)
+2026-07-15 13:02:16,503 INFO Saved label for Ranolazine (5 sections)
+2026-07-15 13:02:18,280 INFO Saved label for Ribociclib (6 sections)
+2026-07-15 13:02:21,116 INFO Saved label for Rifabutin (6 sections)
+2026-07-15 13:02:24,373 INFO No FDA label found for: Rifampicin
+2026-07-15 13:02:27,091 INFO Saved label for Rifapentine (7 sections)
+2026-07-15 13:02:33,861 INFO Saved label for Rilonacept (5 sections)
+2026-07-15 13:02:39,158 INFO Skipping Ritonavir -- matched a combination product (Lopinavir and Ritonavir)
+2026-07-15 13:02:44,753 INFO Saved label for Rolapitant (7 sections)
+2026-07-15 13:02:52,818 INFO Saved label for Rucaparib (6 sections)
+2026-07-15 13:02:59,024 INFO Saved label for Rufinamide (6 sections)
+2026-07-15 13:03:03,332 INFO Saved label for Ruxolitinib (6 sections)
+2026-07-15 13:03:06,622 INFO No FDA label found for: Saquinavir
+2026-07-15 13:03:08,371 INFO Saved label for Sarecycline (6 sections)
+2026-07-15 13:03:10,454 INFO Saved label for Sarilumab (7 sections)
+2026-07-15 13:03:12,216 INFO Saved label for Satralizumab (5 sections)
+2026-07-15 13:03:15,221 INFO No FDA label found for: Secobarbital
+2026-07-15 13:03:17,495 INFO Saved label for Secukinumab (6 sections)
+2026-07-15 13:03:27,789 WARNING Request failed for Selpercatinib (openfda.generic_name): HTTPSConnectionPool(host='api.fda.gov', port=443): Read timed out. (read timeout=10)
+2026-07-15 13:03:32,678 INFO No FDA label found for: Selpercatinib
+2026-07-15 13:03:34,895 INFO Saved label for Siltuximab (6 sections)
+2026-07-15 13:03:37,129 INFO Saved label for Somapacitan (7 sections)
+2026-07-15 13:03:41,888 INFO No FDA label found for: Somatrem
+2026-07-15 13:03:49,418 INFO No FDA label found for: Somatotropin
+2026-07-15 13:03:51,568 INFO Saved label for Sorafenib (6 sections)
+2026-07-15 13:03:55,648 INFO Saved label for Spironolactone (5 sections)
+2026-07-15 13:04:04,309 INFO No FDA label found for: St. John's Wort
+2026-07-15 13:04:09,677 INFO Saved label for Stiripentol (6 sections)
+2026-07-15 13:04:15,615 INFO Saved label for Sunitinib (7 sections)
+2026-07-15 13:04:20,634 INFO Saved label for Suvorexant (5 sections)
+2026-07-15 13:04:25,862 INFO Saved label for Tamoxifen (6 sections)
+2026-07-15 13:04:27,881 INFO Saved label for Tazemetostat (6 sections)
+2026-07-15 13:04:40,250 INFO No FDA label found for: Telaprevir
+2026-07-15 13:04:55,938 INFO No FDA label found for: Telithromycin
+2026-07-15 13:05:09,563 INFO No FDA label found for: Telotristat ethyl
+2026-07-15 13:05:18,189 INFO Saved label for Tocilizumab (7 sections)
+2026-07-15 13:05:20,204 INFO Saved label for Tolvaptan (7 sections)
+2026-07-15 13:05:26,481 INFO No FDA label found for: Troleandomycin
+2026-07-15 13:05:29,291 INFO Saved label for Tucatinib (7 sections)
+2026-07-15 13:05:31,276 INFO Saved label for Ulipristal (5 sections)
+2026-07-15 13:05:34,222 INFO Saved label for Ustekinumab (6 sections)
+2026-07-15 13:05:36,042 INFO Saved label for Vemurafenib (5 sections)
+2026-07-15 13:05:40,603 INFO Saved label for Venetoclax (6 sections)
+2026-07-15 13:05:42,662 INFO Saved label for Verapamil (5 sections)
+2026-07-15 13:05:45,659 INFO Saved label for Voriconazole (7 sections)
+2026-07-15 13:05:49,882 INFO Saved label for Voxelotor (6 sections)
+2026-07-15 13:05:54,124 INFO Saved label for Bupropion (6 sections)
+2026-07-15 13:05:55,824 INFO Skipping Apomorphine -- matched a combination product (GUNA-REFLUX)
+2026-07-15 13:05:57,335 INFO Saved label for Apraclonidine (5 sections)
+2026-07-15 13:06:06,278 INFO No FDA label found for: Mesalazine
+2026-07-15 13:06:08,055 INFO Saved label for Triamcinolone (3 sections)
+2026-07-15 13:06:11,392 INFO No FDA label found for: Arsenic trioxide
+2026-07-15 13:06:15,830 INFO Saved label for Hydroxocobalamin (2 sections)
+2026-07-15 13:06:17,833 INFO Skipping Artemether -- matched a combination product (COARTEM)
+2026-07-15 13:06:19,650 INFO Skipping Lumefantrine -- matched a combination product (COARTEM)
+2026-07-15 13:06:21,695 INFO Skipping Articaine -- matched a combination product (Articaine HCl and Epinephrine)
+2026-07-15 13:06:24,458 INFO Saved label for Morphine (7 sections)
+2026-07-15 13:06:30,171 INFO No FDA label found for: Human immunoglobulin G (intravenous)
+2026-07-15 13:06:35,629 INFO No FDA label found for: Ascorbic acid
+2026-07-15 13:06:39,468 INFO No FDA label found for: Amikacin (liposome)
+2026-07-15 13:06:47,289 INFO Saved label for Aminophylline (7 sections)
+2026-07-15 13:06:55,471 INFO No FDA label found for: Azilsartan medoxomil
+2026-07-15 13:07:17,251 INFO No FDA label found for: Brinzolamide (ophthalmic)
+2026-07-15 13:07:22,534 INFO Saved label for Bumetanide (5 sections)
+2026-07-15 13:07:30,087 INFO No FDA label found for: Calcium carbonate
+2026-07-15 13:07:41,266 INFO No FDA label found for: Activated charcoal
+2026-07-15 13:07:47,882 INFO Saved label for Cladribine (8 sections)
+2026-07-15 13:08:02,195 INFO No FDA label found for: Diclofenamide
+2026-07-15 13:08:18,691 INFO No FDA label found for: Didanosine
+2026-07-15 13:08:21,741 INFO No FDA label found for: Dorzolamide (ophthalmic)
+2026-07-15 13:08:25,849 INFO No FDA label found for: Doxorubicin (liposomal)
+2026-07-15 13:08:36,882 INFO No FDA label found for: Dyphylline
+2026-07-15 13:08:40,534 INFO Saved label for Eplerenone (6 sections)
+2026-07-15 13:08:43,970 INFO No FDA label found for: Eprosartan
+2026-07-15 13:08:46,322 INFO Saved label for Esomeprazole (3 sections)
+2026-07-15 13:08:54,179 INFO No FDA label found for: Etacrynic acid
+2026-07-15 13:09:08,275 INFO No FDA label found for: Etidronic acid
+2026-07-15 13:09:13,256 INFO Saved label for Fludarabine (7 sections)
+2026-07-15 13:09:17,544 INFO Saved label for Fludrocortisone (5 sections)
+2026-07-15 13:09:24,635 INFO Saved label for Gentamicin (6 sections)
+2026-07-15 13:09:27,053 INFO Saved label for Hydralazine (4 sections)
+2026-07-15 13:09:32,589 INFO Saved label for Ibandronate (5 sections)
+2026-07-15 13:09:37,096 INFO Saved label for Irbesartan (7 sections)
+2026-07-15 13:09:44,816 INFO Saved label for Isradipine (5 sections)
+2026-07-15 13:09:59,265 INFO No FDA label found for: Kanamycin
+2026-07-15 13:10:08,986 INFO Saved label for Lansoprazole (7 sections)
+2026-07-15 13:10:18,365 INFO Saved label for Leflunomide (6 sections)
+2026-07-15 13:10:23,746 INFO Saved label for Losartan (6 sections)
+2026-07-15 13:10:26,604 INFO Saved label for Macimorelin (5 sections)
+2026-07-15 13:10:34,882 INFO No FDA label found for: Magaldrate
+2026-07-15 13:10:43,001 INFO No FDA label found for: Magnesium carbonate
+2026-07-15 13:10:56,113 INFO No FDA label found for: Magnesium hydroxide
+2026-07-15 13:11:07,738 INFO No FDA label found for: Magnesium oxide
+2026-07-15 13:11:13,563 INFO Saved label for Methazolamide (5 sections)
+2026-07-15 13:11:20,594 INFO Saved label for Methylprednisolone (9 sections)
+2026-07-15 13:11:25,868 INFO Saved label for Metoclopramide (6 sections)
+2026-07-15 13:11:29,342 INFO No FDA label found for: Nesiritide
+2026-07-15 13:11:40,662 INFO No FDA label found for: Netilmicin
+2026-07-15 13:11:49,552 INFO Skipping Niacin -- matched a combination product (Multivitamin with Fluoride)
+2026-07-15 13:11:51,611 INFO Saved label for Nicardipine (5 sections)
+2026-07-15 13:11:56,446 INFO Saved label for Nimodipine (5 sections)
+2026-07-15 13:12:01,701 INFO Saved label for Nisoldipine (5 sections)
+2026-07-15 13:12:10,720 INFO Saved label for Omeprazole (3 sections)
+2026-07-15 13:12:27,051 INFO No FDA label found for: Oxtriphylline
+2026-07-15 13:12:40,300 INFO No FDA label found for: Pamidronic acid
+2026-07-15 13:12:45,163 INFO Saved label for Pantoprazole (6 sections)
+2026-07-15 13:12:52,893 INFO Saved label for Pemetrexed (6 sections)
+2026-07-15 13:12:56,439 INFO Saved label for Pitolisant (7 sections)
+2026-07-15 13:13:06,926 INFO Saved label for Plazomicin (6 sections)
+2026-07-15 13:13:20,311 INFO No FDA label found for: Polyethylene glycol (3350 with electrolytes)
+2026-07-15 13:13:27,077 INFO No FDA label found for: Potassium citrate
+2026-07-15 13:13:31,444 INFO Saved label for Pralatrexate (6 sections)
+2026-07-15 13:13:32,962 INFO Saved label for Prazosin (5 sections)
+2026-07-15 13:13:41,808 INFO Saved label for Prednisolone (4 sections)
+2026-07-15 13:13:46,069 INFO Saved label for Prednisone (4 sections)
+2026-07-15 13:13:49,141 INFO Skipping Probenecid -- matched a combination product (ORLYNVAH)
+2026-07-15 13:13:55,847 INFO Saved label for Regadenoson (5 sections)
+2026-07-15 13:14:12,274 INFO No FDA label found for: Risedronic acid
+2026-07-15 13:14:17,916 INFO Saved label for Sildenafil (5 sections)
+2026-07-15 13:14:27,067 INFO No FDA label found for: Lactic acid
+2026-07-15 13:14:33,581 WARNING Request failed for Streptomycin (openfda.generic_name): ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2026-07-15 13:14:40,640 INFO Saved label for Streptomycin (7 sections)
+2026-07-15 13:14:51,135 INFO Saved label for Telmisartan (7 sections)
+2026-07-15 13:14:55,647 INFO Saved label for Teriflunomide (6 sections)
+2026-07-15 13:15:03,301 INFO No FDA label found for: Thallous Chloride
+2026-07-15 13:15:09,342 INFO Saved label for Theophylline (7 sections)
+2026-07-15 13:15:18,665 INFO No FDA label found for: Tiludronic acid
+2026-07-15 13:15:24,340 INFO Saved label for Tobramycin (6 sections)
+2026-07-15 13:15:27,197 INFO Saved label for Tofacitinib (8 sections)
+2026-07-15 13:15:44,271 INFO No FDA label found for: Torasemide
+2026-07-15 13:15:55,839 INFO No FDA label found for: Triamcinolone (ophthalmic)
+2026-07-15 13:16:12,458 INFO No FDA label found for: Varicella Zoster Vaccine (Recombinant)
+2026-07-15 13:16:17,694 INFO Saved label for Zafirlukast (5 sections)
+2026-07-15 13:16:27,037 INFO No FDA label found for: Zoledronic acid
+2026-07-15 13:16:33,620 INFO Skipping Proguanil -- matched a combination product (Atovaquone and Proguanil Hydrochloride)
+2026-07-15 13:16:41,947 INFO Saved label for Atropine (5 sections)
+2026-07-15 13:16:50,524 INFO No FDA label found for: Interferon alfa-n1
+2026-07-15 13:16:53,976 INFO No FDA label found for: Interferon alfa-n3
+2026-07-15 13:16:59,952 INFO No FDA label found for: Interferon alfacon-1
+2026-07-15 13:17:08,564 INFO No FDA label found for: Interferon beta-1a
+2026-07-15 13:17:16,275 INFO No FDA label found for: Interferon beta-1b
+2026-07-15 13:17:25,844 INFO No FDA label found for: Interferon gamma-1b
+2026-07-15 13:17:36,448 INFO Saved label for Nitisinone (6 sections)
+2026-07-15 13:17:45,311 INFO No FDA label found for: Peginterferon beta-1a
+2026-07-15 13:17:50,873 INFO Saved label for Norethisterone (7 sections)
+2026-07-15 13:17:56,405 INFO Saved label for Azathioprine (6 sections)
+2026-07-15 13:18:00,242 INFO Saved label for Azithromycin (6 sections)
+2026-07-15 13:18:07,274 INFO Saved label for Aztreonam (5 sections)
+2026-07-15 13:18:20,303 INFO No FDA label found for: Benzocaine (topical)
+2026-07-15 13:18:25,851 INFO Skipping Bacitracin -- matched a combination product (health and .beyond Triple Antibiotic)
+2026-07-15 13:18:36,214 INFO Saved label for Atracurium (6 sections)
+2026-07-15 13:18:41,629 INFO Saved label for Cisatracurium (7 sections)
+2026-07-15 13:18:49,285 INFO No FDA label found for: Doxacurium
+2026-07-15 13:18:55,848 INFO No FDA label found for: Metocurine
+2026-07-15 13:19:07,968 INFO No FDA label found for: Mivacurium
+2026-07-15 13:19:17,625 INFO No FDA label found for: Pancuronium
+2026-07-15 13:19:26,503 INFO No FDA label found for: Pipecuronium
+2026-07-15 13:19:40,309 INFO No FDA label found for: Rapacuronium
+2026-07-15 13:19:43,261 INFO Saved label for Rocuronium (6 sections)
+2026-07-15 13:19:47,506 INFO Saved label for Succinylcholine (6 sections)
+2026-07-15 13:19:55,826 INFO Skipping Tubocurarine -- matched a combination product (BHI Migraine)
+2026-07-15 13:20:05,549 INFO Saved label for Vecuronium (7 sections)
+2026-07-15 13:20:20,534 INFO No FDA label found for: Baloxavir marboxil
+2026-07-15 13:20:25,179 INFO Saved label for Balsalazide (5 sections)
+2026-07-15 13:20:27,244 INFO Saved label for Basiliximab (6 sections)
+2026-07-15 13:20:40,881 INFO No FDA label found for: Conjugated estrogens
+2026-07-15 13:20:48,645 INFO Saved label for Belatacept (7 sections)
+2026-07-15 13:20:55,538 INFO Saved label for Belimumab (6 sections)
+2026-07-15 13:21:10,208 INFO No FDA label found for: Bempedoic acid
+2026-07-15 13:21:17,574 INFO Skipping Ezetimibe -- matched a combination product (Ezetimibe and Simvastatin)
+2026-07-15 13:21:27,070 INFO No FDA label found for: Peginesatide
+2026-07-15 13:21:34,103 INFO Saved label for Bendamustine (6 sections)
+2026-07-15 13:21:39,475 INFO Skipping Benzhydrocodone -- matched a combination product (APADAZ)
+2026-07-15 13:21:55,847 INFO No FDA label found for: Benzatropine
+2026-07-15 13:22:01,276 INFO Saved label for Berotralstat (6 sections)
+2026-07-15 13:22:17,663 INFO No FDA label found for: Simeprevir
+2026-07-15 13:22:24,971 INFO Saved label for Valbenazine (7 sections)
+2026-07-15 13:22:27,242 INFO Skipping Bictegravir -- matched a combination product (Biktarvy)
+2026-07-15 13:22:43,297 INFO No FDA label found for: Biperiden
+2026-07-15 13:22:47,262 INFO Saved label for Bisacodyl (3 sections)
+2026-07-15 13:22:54,257 INFO Saved label for Urea (4 sections)
+2026-07-15 13:22:59,474 INFO Saved label for Metronidazole (6 sections)
+2026-07-15 13:23:09,319 INFO Saved label for Blinatumomab (7 sections)
+2026-07-15 13:23:23,652 INFO No FDA label found for: Calcium Phosphate
+2026-07-15 13:23:26,056 INFO Saved label for Ethosuximide (5 sections)
+2026-07-15 13:23:34,236 INFO No FDA label found for: Ethotoin
+2026-07-15 13:23:38,495 INFO Saved label for Fluorouracil (4 sections)
+2026-07-15 13:23:41,665 INFO Saved label for Lamotrigine (8 sections)
+2026-07-15 13:23:47,392 INFO No FDA label found for: Mephenytoin
+2026-07-15 13:23:49,184 INFO Saved label for Methsuximide (5 sections)
+2026-07-15 13:23:53,969 INFO Skipping Pancrelipase -- matched a combination product (Creon)
+2026-07-15 13:24:05,280 INFO No FDA label found for: Phensuximide
+2026-07-15 13:24:09,566 INFO Saved label for Pyrimethamine (5 sections)
+2026-07-15 13:24:19,251 INFO Saved label for Sulfadiazine (4 sections)
+2026-07-15 13:24:33,421 INFO No FDA label found for: Sulfadoxine
+2026-07-15 13:24:44,921 INFO Skipping Sulfamethoxazole -- matched a combination product (Sulfamethoxazole and Trimethoprim)
+2026-07-15 13:24:52,606 INFO Saved label for Sulfasalazine (4 sections)
+2026-07-15 13:25:04,983 INFO No FDA label found for: Sulfisoxazole
+2026-07-15 13:25:11,159 INFO Skipping Triamterene -- matched a combination product (Triamterene and Hydrochlorothiazide)
+2026-07-15 13:25:17,884 INFO Skipping Trimethoprim -- matched a combination product (Sulfamethoxazole and Trimethoprim)
+2026-07-15 13:25:30,432 INFO No FDA label found for: Human botulinum neurotoxin A/B immune globulin
+2026-07-15 13:25:40,340 INFO Saved label for Brompheniramine (4 sections)
+2026-07-15 13:25:46,006 INFO No FDA label found for: Brimonidine (ophthalmic)
+2026-07-15 13:25:57,672 INFO No FDA label found for: Brimonidine (topical)
+2026-07-15 13:26:06,440 INFO Saved label for Brivaracetam (6 sections)
+2026-07-15 13:26:16,942 INFO Saved label for Brodalumab (6 sections)
+2026-07-15 13:26:23,903 INFO Saved label for Nizatidine (3 sections)
+2026-07-15 13:26:32,289 INFO No FDA label found for: Ranitidine (bismuth citrate)
+2026-07-15 13:26:45,532 INFO No FDA label found for: Budesonide (nasal)
+2026-07-15 13:26:55,367 INFO Saved label for Glycopyrronium (5 sections)
+2026-07-15 13:27:02,458 INFO Saved label for Butorphanol (5 sections)
+2026-07-15 13:27:09,700 INFO Saved label for Calcifediol (5 sections)
+2026-07-15 13:27:25,849 INFO No FDA label found for: Calcipotriol (topical)
+2026-07-15 13:27:30,578 INFO Saved label for Calcitriol (4 sections)
+2026-07-15 13:27:44,896 INFO No FDA label found for: Calcitriol (topical)
+2026-07-15 13:27:53,620 INFO No FDA label found for: Calcium acetate
+2026-07-15 13:28:03,942 INFO No FDA label found for: Capreomycin
+2026-07-15 13:28:10,907 INFO Saved label for Carbinoxamine (5 sections)
+2026-07-15 13:28:20,320 INFO Saved label for Mepivacaine (7 sections)
+2026-07-15 13:28:27,074 INFO Saved label for Carboplatin (7 sections)
+2026-07-15 13:28:42,675 INFO No FDA label found for: Fibrinogen human
+2026-07-15 13:28:45,330 INFO Saved label for Romiplostim (6 sections)
+2026-07-15 13:28:52,286 INFO Saved label for Cefadroxil (4 sections)
+2026-07-15 13:28:55,994 INFO Saved label for Cefazolin (6 sections)
+2026-07-15 13:29:06,377 INFO Saved label for Cefdinir (6 sections)
+2026-07-15 13:29:16,912 INFO Saved label for Cefepime (6 sections)
+2026-07-15 13:29:20,918 INFO Saved label for Cefiderocol (6 sections)
+2026-07-15 13:29:25,845 INFO Saved label for Cefixime (6 sections)
+2026-07-15 13:29:41,187 INFO Saved label for Cefotetan (6 sections)
+2026-07-15 13:29:49,312 INFO Saved label for Cefoxitin (6 sections)
+2026-07-15 13:29:58,462 INFO Saved label for Cefprozil (5 sections)
+2026-07-15 13:30:13,879 INFO No FDA label found for: Ceftaroline fosamil
+2026-07-15 13:30:20,447 INFO Saved label for Ceftazidime (6 sections)
+2026-07-15 13:30:31,309 INFO No FDA label found for: Ceftibuten
+2026-07-15 13:30:40,169 INFO Skipping Ceftolozane -- matched a combination product (ZERBAXA)
+2026-07-15 13:30:47,914 INFO Saved label for Ceftriaxone (5 sections)
+2026-07-15 13:30:54,900 INFO Saved label for Cephalexin (6 sections)
+2026-07-15 13:31:09,925 INFO No FDA label found for: Chenodeoxycholic acid
+2026-07-15 13:31:17,869 INFO Skipping Clidinium -- matched a combination product (Chlordiazepoxide Hydrochloride and Clidinium Bromide)
+2026-07-15 13:31:25,848 INFO Saved label for Chloroprocaine (6 sections)
+2026-07-15 13:31:33,379 INFO Saved label for Chloroquine (4 sections)
+2026-07-15 13:31:42,339 INFO Saved label for Chlorothiazide (5 sections)
+2026-07-15 13:31:45,757 INFO Saved label for Chlorthalidone (5 sections)
+2026-07-15 13:31:56,931 INFO No FDA label found for: Vibrio cholerae CVD 103-HgR strain live antigen (live)
+2026-07-15 13:32:03,715 INFO No FDA label found for: Phylloquinone
+2026-07-15 13:32:10,700 INFO Saved label for Cidofovir (6 sections)
+2026-07-15 13:32:25,332 INFO No FDA label found for: Abarelix
+2026-07-15 13:32:33,387 INFO No FDA label found for: Astemizole
+2026-07-15 13:32:40,385 INFO Saved label for Bedaquiline (7 sections)
+2026-07-15 13:32:55,855 INFO No FDA label found for: Frangula purshiana bark
+2026-07-15 13:33:02,890 INFO No FDA label found for: Castor oil
+2026-07-15 13:33:23,344 INFO No FDA label found for: Cisapride
+2026-07-15 13:33:32,295 INFO No FDA label found for: Clofazimine
+2026-07-15 13:33:38,279 INFO Saved label for Danazol (4 sections)
+2026-07-15 13:33:46,631 INFO No FDA label found for: Daunorubicin (liposomal)
+2026-07-15 13:33:53,892 INFO Saved label for Degarelix (6 sections)
+2026-07-15 13:33:56,703 INFO Saved label for Deutetrabenazine (7 sections)
+2026-07-15 13:34:06,312 INFO Saved label for Epirubicin (7 sections)
+2026-07-15 13:34:11,612 INFO Saved label for Eribulin (6 sections)
+2026-07-15 13:34:14,955 INFO Saved label for Fingolimod (5 sections)
+2026-07-15 13:34:19,939 INFO Saved label for Flutamide (6 sections)
+2026-07-15 13:34:27,064 INFO Saved label for Foscarnet (6 sections)
+2026-07-15 13:34:31,348 INFO Saved label for Galantamine (5 sections)
+2026-07-15 13:34:35,722 INFO Saved label for Gilteritinib (7 sections)
+2026-07-15 13:34:43,418 INFO Saved label for Glycerin (3 sections)
+2026-07-15 13:34:49,164 INFO Skipping Goldenseal -- matched a combination product (LivCalm)
+2026-07-15 13:34:51,894 INFO Saved label for Goserelin (5 sections)
+2026-07-15 13:34:59,133 INFO Saved label for Granisetron (5 sections)
+2026-07-15 13:35:15,669 INFO No FDA label found for: Halofantrine
+2026-07-15 13:35:21,337 INFO Saved label for Histrelin (5 sections)
+2026-07-15 13:35:26,107 INFO Saved label for Hydroxychloroquine (5 sections)
+2026-07-15 13:35:33,424 INFO Saved label for Hydroxyzine (4 sections)
+2026-07-15 13:35:43,956 INFO Saved label for Ibutilide (6 sections)
+2026-07-15 13:35:50,612 INFO Saved label for Idarubicin (6 sections)
+2026-07-15 13:36:07,282 INFO No FDA label found for: Inotuzumab ozogamicin
+2026-07-15 13:36:16,100 INFO Saved label for Isoniazid (6 sections)
+2026-07-15 13:36:22,424 INFO Saved label for Ivabradine (6 sections)
+2026-07-15 13:36:33,130 INFO No FDA label found for: Lactitol
+2026-07-15 13:36:39,094 INFO Saved label for Lenvatinib (6 sections)
+2026-07-15 13:36:47,270 INFO Saved label for Letrozole (5 sections)
+2026-07-15 13:36:55,879 INFO Saved label for Leuprolide (5 sections)
+2026-07-15 13:37:13,750 INFO No FDA label found for: Levacetylmethadol
+2026-07-15 13:37:25,363 INFO Saved label for Lofexidine (6 sections)
+2026-07-15 13:37:39,474 INFO No FDA label found for: Maprotiline
+2026-07-15 13:37:44,897 INFO Saved label for Mefloquine (6 sections)
+2026-07-15 13:37:55,857 INFO No FDA label found for: Mineral oil
+2026-07-15 13:38:08,624 INFO Saved label for Mirtazapine (7 sections)
+2026-07-15 13:38:17,284 INFO Saved label for Nilutamide (6 sections)
+2026-07-15 13:38:25,084 INFO Saved label for Oliceridine (7 sections)
+2026-07-15 13:38:27,067 INFO Saved label for Ondansetron (6 sections)
+2026-07-15 13:38:36,712 INFO Saved label for Osimertinib (6 sections)
+2026-07-15 13:38:40,949 INFO Saved label for Oxaliplatin (7 sections)
+2026-07-15 13:38:46,092 INFO Saved label for Palbociclib (6 sections)
+2026-07-15 13:38:49,201 INFO Saved label for Palonosetron (6 sections)
+2026-07-15 13:38:51,204 INFO Saved label for Papaverine (3 sections)
+2026-07-15 13:38:56,725 INFO Saved label for Pasireotide (5 sections)
+2026-07-15 13:39:07,242 INFO Saved label for Pentamidine (5 sections)
+2026-07-15 13:39:13,651 INFO Skipping Perflutren -- matched a combination product (Optison Perflutren Protein-Type A Microspheres)
+2026-07-15 13:39:19,917 INFO Skipping Phenolphthalein -- matched a combination product (BM EGIOLAX PLUS)
+2026-07-15 13:39:25,910 INFO Saved label for Pimavanserin (7 sections)
+2026-07-15 13:39:39,678 INFO No FDA label found for: Polyethylene glycol (3350)
+2026-07-15 13:39:50,160 INFO Saved label for Primaquine (5 sections)
+2026-07-15 13:39:59,547 INFO No FDA label found for: Probucol
+2026-07-15 13:40:05,256 INFO Saved label for Procainamide (7 sections)
+2026-07-15 13:40:18,127 INFO No FDA label found for: Dextropropoxyphene
+2026-07-15 13:40:25,851 INFO Saved label for Relugolix (5 sections)
+2026-07-15 13:40:33,445 INFO Saved label for Rivastigmine (5 sections)
+2026-07-15 13:40:43,939 INFO Saved label for Romidepsin (6 sections)
+2026-07-15 13:40:47,385 INFO Saved label for Siponimod (6 sections)
+2026-07-15 13:40:52,943 INFO Saved label for Sirolimus (6 sections)
+2026-07-15 13:40:58,283 INFO Saved label for Solifenacin (5 sections)
+2026-07-15 13:41:08,289 INFO No FDA label found for: Tacrine
+2026-07-15 13:41:10,316 INFO Saved label for Telavancin (7 sections)
+2026-07-15 13:41:13,097 INFO No FDA label found for: Terfenadine
+2026-07-15 13:41:17,848 INFO Saved label for Tetrabenazine (6 sections)
+2026-07-15 13:41:22,876 INFO Saved label for Thalidomide (6 sections)
+2026-07-15 13:41:24,896 INFO Saved label for Tizanidine (5 sections)
+2026-07-15 13:41:26,687 INFO Saved label for Toremifene (6 sections)
+2026-07-15 13:41:28,433 INFO Saved label for Trazodone (7 sections)
+2026-07-15 13:41:30,130 INFO Saved label for Triclabendazole (5 sections)
+2026-07-15 13:41:32,896 INFO Saved label for Triptorelin (6 sections)
+2026-07-15 13:41:38,146 INFO Saved label for Vandetanib (6 sections)
+2026-07-15 13:41:40,187 INFO Saved label for Vardenafil (5 sections)
+2026-07-15 13:41:46,286 INFO Saved label for Cisplatin (6 sections)
+2026-07-15 13:41:52,265 INFO Saved label for Clemastine (5 sections)
+2026-07-15 13:42:06,833 INFO No FDA label found for: Picosulfuric acid
+2026-07-15 13:42:15,831 INFO Saved label for Clevidipine (6 sections)
+2026-07-15 13:42:19,824 INFO Saved label for Clonidine (5 sections)
+2026-07-15 13:42:25,718 INFO No FDA label found for: Dezocine
+2026-07-15 13:42:33,428 INFO Saved label for Eluxadoline (6 sections)
+2026-07-15 13:42:40,557 INFO Saved label for Fluvastatin (5 sections)
+2026-07-15 13:42:45,469 INFO Skipping Hydrocodone -- matched a combination product (Hydrocodone Bitartrate and Acetaminophen)
+2026-07-15 13:42:53,223 INFO Saved label for Hydromorphone (7 sections)
+2026-07-15 13:42:59,231 INFO Saved label for Levorphanol (6 sections)
+2026-07-15 13:43:09,002 INFO Saved label for Meperidine (7 sections)
+2026-07-15 13:43:16,282 INFO Saved label for Nalbuphine (6 sections)
+2026-07-15 13:43:20,663 INFO Skipping Opium -- matched a combination product (Belladonna and Opium)
+2026-07-15 13:43:25,878 INFO Saved label for Oxycodone (7 sections)
+2026-07-15 13:43:33,464 INFO Saved label for Oxymorphone (7 sections)
+2026-07-15 13:43:40,214 INFO No FDA label found for: Paclitaxel (protein-bound)
+2026-07-15 13:43:46,987 INFO Skipping Pentazocine -- matched a combination product (PENTAZOCINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE)
+2026-07-15 13:43:55,243 INFO No FDA label found for: Porfimer sodium
+2026-07-15 13:43:59,774 INFO Saved label for Remifentanil (8 sections)
+2026-07-15 13:44:03,806 INFO Saved label for Sufentanil (8 sections)
+2026-07-15 13:44:12,752 INFO Saved label for Colesevelam (6 sections)
+2026-07-15 13:44:20,452 INFO Saved label for Colistimethate (6 sections)
+2026-07-15 13:44:30,097 INFO No FDA label found for: Iothalamic acid
+2026-07-15 13:44:39,801 INFO Skipping Corticotropin -- matched a combination product (GUNA-GERIATRICS)
+2026-07-15 13:44:54,349 INFO No FDA label found for: Mepyramine
+2026-07-15 13:45:03,559 INFO No FDA label found for: Tetracosactide
+2026-07-15 13:45:08,769 INFO Saved label for Daptomycin (6 sections)
+2026-07-15 13:45:17,817 INFO Saved label for Cycloserine (4 sections)
+2026-07-15 13:45:25,108 INFO Saved label for Diatrizoate (5 sections)
+2026-07-15 13:45:33,263 INFO No FDA label found for: Human cytomegalovirus immune globulin
+2026-07-15 13:45:46,353 INFO No FDA label found for: Conjugated estrogens (topical)
+2026-07-15 13:46:02,466 INFO No FDA label found for: Prasterone enantate
+2026-07-15 13:46:12,083 INFO No FDA label found for: Dienestrol (topical)
+2026-07-15 13:46:13,742 INFO Skipping Diethylstilbestrol -- matched a combination product (Household Detox)
+2026-07-15 13:46:25,852 INFO No FDA label found for: Esterified estrogens
+2026-07-15 13:46:39,611 INFO No FDA label found for: Estradiol (topical)
+2026-07-15 13:46:45,702 INFO Skipping Estrone -- matched a combination product (Cyclease PMS)
+2026-07-15 13:46:54,198 INFO No FDA label found for: Estrone sulfate
+2026-07-15 13:47:02,533 INFO No FDA label found for: Estrone sulfate (topical)
+2026-07-15 13:47:16,090 INFO No FDA label found for: Fluoxymesterone
+2026-07-15 13:47:23,961 INFO Saved label for Lenalidomide (7 sections)
+2026-07-15 13:47:26,727 INFO Skipping Methyltestosterone -- matched a combination product (ESTERIFIED ESTROGENS AND METHYLTESTOSTERONE)
+2026-07-15 13:47:32,400 INFO Saved label for Ospemifene (6 sections)
+2026-07-15 13:47:47,728 INFO No FDA label found for: Oxandrolone
+2026-07-15 13:47:59,387 INFO No FDA label found for: Oxymetholone
+2026-07-15 13:48:06,722 INFO Saved label for Pomalidomide (7 sections)
+2026-07-15 13:48:19,756 INFO No FDA label found for: Quinestrol
+2026-07-15 13:48:26,322 INFO Saved label for Raloxifene (6 sections)
+2026-07-15 13:48:37,409 INFO No FDA label found for: Stanozolol
+2026-07-15 13:48:47,895 INFO No FDA label found for: Testolactone
+2026-07-15 13:48:56,193 INFO No FDA label found for: Testosterone (topical)
+2026-07-15 13:49:04,055 INFO No FDA label found for: Dapsone (topical)
+2026-07-15 13:49:07,441 INFO No FDA label found for: Azatadine
+2026-07-15 13:49:13,366 INFO Skipping Chlorcyclizine -- matched a combination product (STAHIST AD)
+2026-07-15 13:49:18,131 INFO Saved label for Cyproheptadine (4 sections)
+2026-07-15 13:49:23,236 INFO Saved label for Desloratadine (5 sections)
+2026-07-15 13:49:27,075 INFO Saved label for Dexbrompheniramine (4 sections)
+2026-07-15 13:49:31,121 INFO Saved label for Diphenhydramine (4 sections)
+2026-07-15 13:49:43,563 INFO No FDA label found for: Estramustine
+2026-07-15 13:49:55,276 INFO No FDA label found for: Etidocaine
+2026-07-15 13:50:02,245 INFO Saved label for Fexofenadine (3 sections)
+2026-07-15 13:50:09,633 INFO No FDA label found for: Levobupivacaine
+2026-07-15 13:50:17,285 INFO Saved label for Levocetirizine (4 sections)
+2026-07-15 13:50:25,898 INFO No FDA label found for: Phenindamine
+2026-07-15 13:50:30,671 INFO Skipping Prilocaine -- matched a combination product (Lidocaine and prilocaine)
+2026-07-15 13:50:36,686 INFO Skipping Procaine -- matched a combination product (BICILLIN CR)
+2026-07-15 13:50:44,438 INFO Saved label for Ropivacaine (7 sections)
+2026-07-15 13:50:54,896 INFO Saved label for Tetracaine (4 sections)
+2026-07-15 13:50:59,165 INFO Saved label for Tripelennamine (3 sections)
+2026-07-15 13:51:06,848 INFO Skipping Triprolidine -- matched a combination product (Target Overnight Cold and Flu)
+2026-07-15 13:51:10,734 INFO Saved label for Darolutamide (5 sections)
+2026-07-15 13:51:13,213 INFO Saved label for Diazoxide (7 sections)
+2026-07-15 13:51:17,520 INFO Saved label for Doxylamine (3 sections)
+2026-07-15 13:51:25,864 INFO Saved label for Dicyclomine (5 sections)
+2026-07-15 13:51:41,291 INFO No FDA label found for: Dimercaprol
+2026-07-15 13:51:59,188 INFO No FDA label found for: Dinoprostone (topical)
+2026-07-15 13:52:08,373 INFO Saved label for Disulfiram (5 sections)
+2026-07-15 13:52:16,912 INFO No FDA label found for: Methyl salicylate (topical)
+2026-07-15 13:52:25,928 INFO Skipping Doravirine -- matched a combination product (IDVYNSO)
+2026-07-15 13:52:32,089 INFO Saved label for Doxazosin (5 sections)
+2026-07-15 13:52:44,720 INFO No FDA label found for: Doxepin (topical)
+2026-07-15 13:52:51,762 INFO Saved label for Dupilumab (5 sections)
+2026-07-15 13:52:55,913 INFO Saved label for Durvalumab (5 sections)
+2026-07-15 13:53:00,304 INFO Saved label for Tamsulosin (5 sections)
+2026-07-15 13:53:19,604 INFO No FDA label found for: Econazole (topical)
+2026-07-15 13:53:25,094 INFO Skipping Elbasvir -- matched a combination product (ZEPATIER)
+2026-07-15 13:53:27,144 INFO Skipping Grazoprevir -- matched a combination product (ZEPATIER)
+2026-07-15 13:53:32,139 INFO Saved label for Elexacaftor (7 sections)
+2026-07-15 13:53:45,069 INFO No FDA label found for: Artesunate
+2026-07-15 13:53:57,786 INFO No FDA label found for: Attapulgite
+2026-07-15 13:54:07,765 INFO No FDA label found for: Calcium citrate
+2026-07-15 13:54:20,315 INFO No FDA label found for: Calcium glubionate anhydrous
+2026-07-15 13:54:25,357 INFO No FDA label found for: Calcium gluconate
+2026-07-15 13:54:37,590 INFO No FDA label found for: Calcium glycerophosphate
+2026-07-15 13:54:53,971 INFO No FDA label found for: Calcium lactate
+2026-07-15 13:55:01,975 INFO No FDA label found for: Cerivastatin
+2026-07-15 13:55:11,679 INFO No FDA label found for: Chromium picolinate
+2026-07-15 13:55:25,857 INFO No FDA label found for: Copper gluconate
+2026-07-15 13:55:28,788 INFO Saved label for Enasidenib (7 sections)
+2026-07-15 13:55:41,443 INFO No FDA label found for: Tetraferric tricitrate decahydrate
+2026-07-15 13:55:51,942 INFO No FDA label found for: Interferon alfa-2a, Recombinant
+2026-07-15 13:55:57,016 INFO No FDA label found for: Interferon alfa-2b
+2026-07-15 13:56:04,769 INFO Saved label for Irinotecan (7 sections)
+2026-07-15 13:56:17,282 INFO No FDA label found for: Irinotecan (liposomal)
+2026-07-15 13:56:25,854 INFO Saved label for Kaolin (3 sections)
+2026-07-15 13:56:27,997 INFO Saved label for Lovastatin (5 sections)
+2026-07-15 13:56:41,608 INFO No FDA label found for: Magnesium gluconate
+2026-07-15 13:56:55,856 INFO No FDA label found for: Magnesium glycinate
+2026-07-15 13:57:07,215 INFO No FDA label found for: Mipomersen
+2026-07-15 13:57:17,199 INFO Saved label for Mitoxantrone (6 sections)
+2026-07-15 13:57:22,787 INFO Saved label for Naltrexone (5 sections)
+2026-07-15 13:57:31,672 INFO No FDA label found for: Peginterferon alfa-2a
+2026-07-15 13:57:40,772 INFO No FDA label found for: Peginterferon alfa-2b
+2026-07-15 13:57:44,692 INFO Saved label for Pitavastatin (6 sections)
+2026-07-15 13:57:47,141 INFO Saved label for Pravastatin (5 sections)
+2026-07-15 13:57:52,223 INFO Saved label for Remdesivir (6 sections)
+2026-07-15 13:57:56,299 INFO Saved label for Revefenacin (5 sections)
+2026-07-15 13:58:03,569 INFO Saved label for Rimegepant (5 sections)
+2026-07-15 13:58:10,681 INFO Saved label for Safinamide (5 sections)
+2026-07-15 13:58:17,290 INFO Skipping Selenium -- matched a combination product (Hair-X Hair Loss Relief)
+2026-07-15 13:58:24,534 INFO Saved label for Simvastatin (6 sections)
+2026-07-15 13:58:30,125 INFO Saved label for Sucralfate (4 sections)
+2026-07-15 13:58:37,438 INFO Skipping Tafamidis -- matched a combination product (Vyndaqel)
+2026-07-15 13:58:41,439 INFO Saved label for Talazoparib (6 sections)
+2026-07-15 13:58:43,669 INFO Saved label for Tedizolid (6 sections)
+2026-07-15 13:58:49,272 INFO No FDA label found for: Tioguanine
+2026-07-15 13:58:54,931 INFO Saved label for Topotecan (5 sections)
+2026-07-15 13:58:57,515 INFO Saved label for Trabectedin (6 sections)
+2026-07-15 13:59:08,661 INFO Saved label for Ubrogepant (6 sections)
+2026-07-15 13:59:25,050 INFO No FDA label found for: Zinc acetate
+2026-07-15 13:59:31,736 INFO No FDA label found for: Zinc gluconate
+2026-07-15 13:59:44,847 INFO No FDA label found for: Zinc sulfate
+2026-07-15 13:59:47,093 INFO Skipping Ledipasvir -- matched a combination product (Ledipasvir and Sofosbuvir)
+2026-07-15 13:59:51,840 INFO Skipping Sofosbuvir -- matched a combination product (Vosevi)
+2026-07-15 13:59:55,846 INFO Saved label for Levocarnitine (5 sections)
+2026-07-15 14:00:01,602 INFO No FDA label found for: Lidocaine (ophthalmic)
+2026-07-15 14:00:09,258 INFO Saved label for Linaclotide (5 sections)
+2026-07-15 14:00:25,859 INFO No FDA label found for: Liotrix
+2026-07-15 14:00:33,509 INFO Skipping Lopinavir -- matched a combination product (Lopinavir and Ritonavir)
+2026-07-15 14:00:41,599 INFO Skipping Lumacaftor -- matched a combination product (ORKAMBI)
+2026-07-15 14:00:53,441 INFO Skipping Etonogestrel -- matched a combination product (Etonogestrel and Ethinyl Estradiol Vaginal Ring)
+2026-07-15 14:00:59,196 INFO Saved label for Levonorgestrel (8 sections)
+2026-07-15 14:01:13,307 INFO No FDA label found for: Medroxyprogesterone acetate
+2026-07-15 14:01:17,653 INFO Saved label for Norgestrel (3 sections)
+2026-07-15 14:01:24,324 INFO No FDA label found for: Coenzyme M
+2026-07-15 14:01:33,166 INFO No FDA label found for: Phenyl salicylate
+2026-07-15 14:01:51,839 INFO No FDA label found for: Metronidazole (topical)
+2026-07-15 14:01:59,651 INFO No FDA label found for: Miconazole (topical)
+2026-07-15 14:02:09,293 INFO Saved label for Minoxidil (3 sections)
+2026-07-15 14:02:17,010 INFO Skipping Netupitant -- matched a combination product (AKYNZEO)
+2026-07-15 14:02:24,539 INFO Saved label for Nitroprusside (7 sections)
+2026-07-15 14:02:36,493 INFO No FDA label found for: Mestranol
+2026-07-15 14:02:48,108 INFO No FDA label found for: Obeticholic acid
+2026-07-15 14:02:55,442 INFO Saved label for Omadacycline (6 sections)
+2026-07-15 14:02:59,894 INFO Saved label for Omalizumab (7 sections)
+2026-07-15 14:03:09,743 INFO No FDA label found for: Propantheline
+2026-07-15 14:03:24,514 INFO No FDA label found for: Proparacaine (ophthalmic)
+2026-07-15 14:03:26,735 INFO Saved label for Orphenadrine (4 sections)
+2026-07-15 14:03:28,967 INFO Saved label for Oseltamivir (6 sections)
+2026-07-15 14:03:34,221 INFO Saved label for Patiromer (6 sections)
+2026-07-15 14:03:38,943 INFO No FDA label found for: Benzylpenicillin
+2026-07-15 14:03:45,780 INFO No FDA label found for: Benzylpenicillin (potassium)
+2026-07-15 14:03:53,530 INFO No FDA label found for: Phenoxymethylpenicillin
+2026-07-15 14:03:56,772 INFO Saved label for Trastuzumab (7 sections)
+2026-07-15 14:04:01,673 INFO Saved label for Topiramate (6 sections)
+2026-07-15 14:04:08,558 INFO Saved label for Phentolamine (6 sections)
+2026-07-15 14:04:16,261 INFO Saved label for Orlistat (4 sections)
+2026-07-15 14:04:19,262 INFO Saved label for Sevelamer (7 sections)
+2026-07-15 14:04:27,131 INFO Skipping Piperacillin -- matched a combination product (Piperacillin and Tazobactam)
+2026-07-15 14:04:38,402 INFO No FDA label found for: Dalfopristin
+2026-07-15 14:04:47,040 INFO Saved label for Ropinirole (6 sections)
+2026-07-15 14:04:53,428 INFO Saved label for Ribavirin (6 sections)
+2026-07-15 14:05:03,168 INFO No FDA label found for: Botulinum Toxin Type B
+2026-07-15 14:05:11,842 INFO Saved label for Risankizumab (5 sections)
+2026-07-15 14:05:17,304 INFO Skipping Rituximab -- matched a combination product (Rituxan Hycela)
+2026-07-15 14:05:26,289 INFO No FDA label found for: Sodium chloride
+2026-07-15 14:05:33,439 INFO Saved label for Trospium (5 sections)
+2026-07-15 14:05:47,897 INFO No FDA label found for: Sodium glycerophosphate
+2026-07-15 14:05:58,135 INFO No FDA label found for: Nitrous acid
+2026-07-15 14:06:14,184 INFO No FDA label found for: Tolevamer
+2026-07-15 14:06:21,999 INFO No FDA label found for: Sodium sulfate
+2026-07-15 14:06:33,440 INFO No FDA label found for: Dihydrotachysterol
+2026-07-15 14:06:43,318 INFO Saved label for Ergocalciferol (5 sections)
+2026-07-15 14:06:55,859 INFO No FDA label found for: Fludeoxyglucose (18F)
+2026-07-15 14:07:06,347 INFO Saved label for Paricalcitol (7 sections)
+2026-07-15 14:07:15,376 INFO Saved label for Penicillamine (5 sections)
+2026-07-15 14:07:23,772 INFO Saved label for Raltegravir (7 sections)
+2026-07-15 14:07:27,238 INFO Skipping Velpatasvir -- matched a combination product (Vosevi)
+2026-07-15 14:07:33,300 INFO Skipping Voxilaprevir -- matched a combination product (Vosevi)
+2026-07-15 14:07:44,646 INFO No FDA label found for: Ticarcillin
+2026-07-15 14:07:53,300 INFO Saved label for Tigecycline (6 sections)
+2026-07-15 14:07:59,172 INFO Saved label for Tildrakizumab (4 sections)
+2026-07-15 14:08:08,278 INFO No FDA label found for: Triethylenetetramine
+2026-07-15 14:08:14,965 INFO Skipping Vilanterol -- matched a combination product (Anoro Ellipta)
+2026-07-15 14:08:18,278 INFO Saved label for Vancomycin (6 sections)
+2026-07-15 14:08:25,183 INFO Saved label for Vedolizumab (6 sections)
+2026-07-15 14:08:27,076 INFO Saved label for Vorinostat (5 sections)
+2026-07-15 14:08:34,859 INFO Saved label for Iopromide (7 sections)
+2026-07-15 14:08:50,323 INFO No FDA label found for: Iron Dextran
+2026-07-15 14:09:01,773 INFO No FDA label found for: Gallium chloride Ga-67
+2026-07-15 14:09:07,885 INFO Saved label for Iopamidol (6 sections)
+2026-07-15 14:09:23,947 INFO No FDA label found for: Isoxsuprine
+2026-07-15 14:09:27,109 INFO Saved label for Ivermectin (6 sections)
+2026-07-15 14:09:31,879 INFO Saved label for Ixabepilone (7 sections)
+2026-07-15 14:09:39,334 INFO Saved label for Ixazomib (6 sections)
+2026-07-15 14:09:51,286 INFO No FDA label found for: Bendroflumethiazide
+2026-07-15 14:09:55,840 INFO No FDA label found for: Benzthiazide
+2026-07-15 14:10:14,499 INFO No FDA label found for: Citrus bioflavonoids
+2026-07-15 14:10:27,297 INFO No FDA label found for: Carbenicillin
+2026-07-15 14:10:35,323 INFO Saved label for Cefaclor (6 sections)
+2026-07-15 14:10:51,713 INFO No FDA label found for: Cefamandole
+2026-07-15 14:11:02,281 INFO No FDA label found for: Cefmetazole
+2026-07-15 14:11:17,259 INFO No FDA label found for: Cefonicid
+2026-07-15 14:11:26,775 INFO No FDA label found for: Cefoperazone
+2026-07-15 14:11:39,266 INFO No FDA label found for: Ceftizoxime
+2026-07-15 14:11:53,925 INFO No FDA label found for: Cefalotin
+2026-07-15 14:12:08,869 INFO No FDA label found for: Cefapirin
+2026-07-15 14:12:25,228 INFO No FDA label found for: Cefradine
+2026-07-15 14:12:33,565 INFO No FDA label found for: Chloral hydrate
+2026-07-15 14:12:37,964 INFO No FDA label found for: Chondroitin sulfate
+2026-07-15 14:12:45,456 INFO No FDA label found for: Clofibrate
+2026-07-15 14:12:59,166 INFO No FDA label found for: Cloxacillin
+2026-07-15 14:13:04,374 INFO Skipping Cranberry -- matched a combination product (CITOMIX)
+2026-07-15 14:13:19,894 INFO No FDA label found for: Dextrothyroxine
+2026-07-15 14:13:25,859 INFO Saved label for Dicloxacillin (6 sections)
+2026-07-15 14:13:36,604 INFO Saved label for Eravacycline (5 sections)
+2026-07-15 14:13:49,274 INFO No FDA label found for: Ethchlorvynol
+2026-07-15 14:13:54,954 INFO Saved label for Etoposide (6 sections)
+2026-07-15 14:14:03,082 INFO No FDA label found for: Fenofibric acid
+2026-07-15 14:14:08,687 INFO Saved label for Gefitinib (5 sections)
+2026-07-15 14:14:16,448 INFO Saved label for Gemcitabine (5 sections)
+2026-07-15 14:14:23,391 INFO Saved label for Givosiran (5 sections)
+2026-07-15 14:14:25,949 INFO Saved label for Glucagon (6 sections)
+2026-07-15 14:14:27,693 INFO Skipping Glucosamine -- matched a combination product (Chromagen)
+2026-07-15 14:14:41,523 INFO No FDA label found for: Hydroflumethiazide
+2026-07-15 14:14:46,957 INFO Saved label for Ifosfamide (7 sections)
+2026-07-15 14:14:55,850 INFO Saved label for Indapamide (5 sections)
+2026-07-15 14:15:13,873 INFO No FDA label found for: Lanthanum carbonate
+2026-07-15 14:15:26,229 INFO No FDA label found for: Levamisole
+2026-07-15 14:15:39,498 INFO No FDA label found for: Loracarbef
+2026-07-15 14:15:41,768 INFO Saved label for Mechlorethamine (5 sections)
+2026-07-15 14:15:49,469 INFO Skipping Melatonin -- matched a combination product (GUNA-GERIATRICS)
+2026-07-15 14:15:55,851 INFO Saved label for Mercaptopurine (5 sections)
+2026-07-15 14:16:08,474 INFO No FDA label found for: Meticillin
+2026-07-15 14:16:16,174 INFO Saved label for Methimazole (5 sections)
+2026-07-15 14:16:25,863 INFO Saved label for Methohexital (6 sections)
+2026-07-15 14:16:33,368 INFO Saved label for Metolazone (4 sections)
+2026-07-15 14:16:44,093 INFO Saved label for Metreleptin (7 sections)
+2026-07-15 14:16:56,216 INFO No FDA label found for: Mezlocillin
+2026-07-15 14:17:03,674 INFO Saved label for Mirabegron (6 sections)
+2026-07-15 14:17:14,882 INFO No FDA label found for: Moricizine
+2026-07-15 14:17:22,348 INFO Saved label for Olsalazine (5 sections)
+2026-07-15 14:17:25,971 INFO Saved label for Oritavancin (6 sections)
+2026-07-15 14:17:31,847 INFO Saved label for Oxacillin (6 sections)
+2026-07-15 14:17:38,390 INFO Skipping Papaya -- matched a combination product (JBA Goutamin)
+2026-07-15 14:17:44,189 INFO No FDA label found for: Paraldehyde
+2026-07-15 14:17:47,884 INFO No FDA label found for: Benzylpenicillin (sodium)
+2026-07-15 14:17:50,902 INFO No FDA label found for: Polythiazide
+2026-07-15 14:17:52,732 INFO Saved label for Propylthiouracil (5 sections)
+2026-07-15 14:17:59,036 INFO Saved label for Rifaximin (6 sections)
+2026-07-15 14:18:08,512 INFO Saved label for Terbinafine (5 sections)
+2026-07-15 14:18:24,899 INFO No FDA label found for: Thiopental
+2026-07-15 14:18:27,926 INFO Saved label for Tinidazole (6 sections)
+2026-07-15 14:18:36,906 INFO Saved label for Tolterodine (5 sections)
+2026-07-15 14:18:44,138 INFO No FDA label found for: Trichlormethiazide
+2026-07-15 14:18:46,525 INFO Saved label for Vincristine (6 sections)
+2026-07-15 14:18:55,868 INFO No FDA label found for: Vincristine (liposome)
+2026-07-15 14:18:58,172 INFO Saved label for Zileuton (5 sections)
+2026-07-15 14:19:05,549 INFO Saved label for Ketamine (5 sections)
+2026-07-15 14:19:13,278 INFO Saved label for Mogamulizumab (4 sections)
+2026-07-15 14:19:20,440 INFO Saved label for Montelukast (6 sections)
+2026-07-15 14:19:25,874 INFO Saved label for Naldemedine (6 sections)
+2026-07-15 14:19:30,409 INFO Saved label for Naloxegol (6 sections)
+2026-07-15 14:19:37,668 INFO Saved label for Lurbinectedin (6 sections)
+2026-07-15 14:19:46,006 INFO Saved label for Fidaxomicin (5 sections)
+2026-07-15 14:19:53,165 INFO Saved label for Olaparib (6 sections)
+2026-07-15 14:19:59,228 INFO Saved label for Sonidegib (6 sections)
+2026-07-15 14:20:05,975 INFO Saved label for Macitentan (6 sections)
+2026-07-15 14:20:13,338 INFO No FDA label found for: Fenoldopam
+2026-07-15 14:20:17,265 INFO Saved label for Guanfacine (3 sections)
+2026-07-15 14:20:26,729 INFO No FDA label found for: Iodipamide
+2026-07-15 14:20:36,808 INFO Saved label for Iodixanol (7 sections)
+2026-07-15 14:20:43,882 INFO Saved label for Iohexol (7 sections)
+2026-07-15 14:20:54,648 INFO Saved label for Ioversol (7 sections)
+2026-07-15 14:21:04,983 INFO No FDA label found for: Ioxilan
+2026-07-15 14:21:10,008 INFO Saved label for Licorice (3 sections)
+2026-07-15 14:21:20,788 INFO Saved label for Maraviroc (7 sections)
+2026-07-15 14:21:26,232 INFO Saved label for Meclizine (3 sections)
+2026-07-15 14:21:43,088 INFO No FDA label found for: Megestrol acetate
+2026-07-15 14:21:51,830 INFO No FDA label found for: Mepenzolate
+2026-07-15 14:21:55,585 INFO Saved label for Methoxsalen (7 sections)
+2026-07-15 14:22:03,469 INFO Saved label for Methscopolamine (5 sections)
+2026-07-15 14:22:17,356 INFO No FDA label found for: Methyl aminolevulinate (topical)
+2026-07-15 14:22:22,810 INFO Saved label for Mitomycin (6 sections)
+2026-07-15 14:22:25,906 INFO Saved label for Natalizumab (6 sections)
+2026-07-15 14:22:39,990 INFO No FDA label found for: Amphotericin B (cholesteryl sulfate)
+2026-07-15 14:22:50,781 INFO No FDA label found for: Amphotericin B (liposomal)
+2026-07-15 14:22:55,877 INFO Saved label for Entecavir (7 sections)
+2026-07-15 14:23:01,398 INFO Saved label for Everolimus (6 sections)
+2026-07-15 14:23:09,350 INFO Saved label for Flucytosine (6 sections)
+2026-07-15 14:23:24,354 INFO No FDA label found for: Gallium nitrate
+2026-07-15 14:23:33,135 INFO No FDA label found for: Gentamicin (topical)
+2026-07-15 14:23:44,598 INFO No FDA label found for: Human immunoglobulin G (intravenous and subcutaneous)
+2026-07-15 14:23:55,871 INFO No FDA label found for: Indium In-111 oxyquinoline
+2026-07-15 14:23:58,672 INFO Saved label for Neostigmine (5 sections)
+2026-07-15 14:24:09,310 INFO No FDA label found for: Polymyxin B
+2026-07-15 14:24:17,269 INFO Saved label for Pyridostigmine (4 sections)
+2026-07-15 14:24:26,527 INFO No FDA label found for: Human Rho(D) immune globulin
+2026-07-15 14:24:45,352 INFO No FDA label found for: Telbivudine
+2026-07-15 14:24:56,757 INFO No FDA label found for: Typhoid vaccine (live)
+2026-07-15 14:25:03,171 INFO No FDA label found for: Valaciclovir
+2026-07-15 14:25:12,369 INFO Saved label for Ocrelizumab (6 sections)
+2026-07-15 14:25:20,327 INFO Saved label for Oxybutynin (5 sections)
+2026-07-15 14:25:26,702 INFO Saved label for Palifermin (5 sections)
+2026-07-15 14:25:31,676 INFO Saved label for Phenoxybenzamine (5 sections)
+2026-07-15 14:25:52,119 INFO No FDA label found for: Pimecrolimus (topical)
+2026-07-15 14:25:59,185 INFO Saved label for Pirfenidone (6 sections)
+2026-07-15 14:26:04,666 INFO Saved label for Pralsetinib (7 sections)
+2026-07-15 14:26:11,352 INFO Saved label for Praziquantel (5 sections)
+2026-07-15 14:26:23,487 INFO No FDA label found for: Procyclidine
+2026-07-15 14:26:26,218 INFO Saved label for Prucalopride (5 sections)
+2026-07-15 14:26:36,237 INFO Saved label for Ramelteon (5 sections)
+2026-07-15 14:26:48,219 INFO No FDA label found for: Retapamulin (topical)
+2026-07-15 14:26:56,235 INFO Saved label for Ripretinib (7 sections)
+2026-07-15 14:27:02,528 INFO Saved label for Roflumilast (5 sections)
+2026-07-15 14:27:08,883 INFO No FDA label found for: Sacituzumab govitecan
+2026-07-15 14:27:25,859 INFO No FDA label found for: Amyl Nitrite
+2026-07-15 14:27:42,363 INFO No FDA label found for: Cyclandelate
+2026-07-15 14:27:51,321 INFO No FDA label found for: Guanabenz
+2026-07-15 14:27:59,234 INFO Saved label for Isosorbide (5 sections)
+2026-07-15 14:28:13,283 INFO No FDA label found for: Minoxidil (topical)
+2026-07-15 14:28:20,685 INFO No FDA label found for: Bromotheophylline
+2026-07-15 14:28:25,935 INFO Saved label for Tadalafil (5 sections)
+2026-07-15 14:28:33,197 INFO Saved label for Terazosin (5 sections)
+2026-07-15 14:28:45,375 INFO No FDA label found for: Tolazoline
+2026-07-15 14:28:55,635 INFO No FDA label found for: Trimethaphan
+2026-07-15 14:29:00,163 INFO Saved label for Silodosin (5 sections)
+2026-07-15 14:29:07,404 INFO Saved label for Cabotegravir (7 sections)
+2026-07-15 14:29:17,791 INFO No FDA label found for: Strontium chloride Sr-89
+2026-07-15 14:29:20,022 INFO Saved label for Tasimelteon (6 sections)
+2026-07-15 14:29:25,862 INFO No FDA label found for: Teniposide
+2026-07-15 14:29:30,113 INFO Saved label for Thiotepa (6 sections)
+2026-07-15 14:29:37,897 INFO Saved label for Tiagabine (6 sections)
+2026-07-15 14:29:55,086 INFO No FDA label found for: Copanlisib
+2026-07-15 14:30:09,460 INFO No FDA label found for: Polatuzumab vedotin
+2026-07-15 14:30:13,694 INFO Saved label for Vinblastine (6 sections)
+2026-07-15 14:30:21,287 INFO Saved label for Vinorelbine (7 sections)
+2026-07-15 14:30:25,916 INFO Saved label for Fesoterodine (6 sections)
+2026-07-15 14:30:34,043 INFO Saved label for Trametinib (6 sections)
+2026-07-15 14:30:40,015 INFO Saved label for Aldesleukin (3 sections)
+2026-07-15 14:30:54,211 INFO No FDA label found for: Upadacitinib
+2026-07-15 14:30:56,758 INFO Saved label for Zaleplon (6 sections)
+2026-07-15 14:31:02,621 INFO Saved label for Zolpidem (6 sections)
+2026-07-15 14:31:12,495 INFO Saved label for Zonisamide (5 sections)
+2026-07-15 14:31:20,628 INFO Skipping Belladonna -- matched a combination product (Hylands Naturals Earache Drops)
+2026-07-15 14:31:31,021 INFO No FDA label found for: Cyclizine
+2026-07-15 14:31:35,795 INFO Saved label for Dimenhydrinate (4 sections)
+2026-07-15 14:31:42,514 INFO Saved label for Flavoxate (4 sections)
+2026-07-15 14:31:49,474 INFO Saved label for Trihexyphenidyl (5 sections)
+2026-07-15 14:31:59,278 INFO Saved label for Eszopiclone (6 sections)
+2026-07-15 14:32:07,478 INFO Saved label for Exemestane (5 sections)
+2026-07-15 14:32:17,295 INFO No FDA label found for: Ferric carboxymaltose
+2026-07-15 14:32:24,079 INFO No FDA label found for: Ferric derisomaltose
+2026-07-15 14:32:28,261 INFO No FDA label found for: Sodium ferric gluconate complex
+2026-07-15 14:32:33,579 INFO Saved label for Ferumoxytol (6 sections)
+2026-07-15 14:32:37,820 INFO Saved label for Finasteride (5 sections)
+2026-07-15 14:32:48,273 INFO No FDA label found for: Oxybuprocaine (ophthalmic)
+2026-07-15 14:32:55,842 INFO Saved label for Fluticasone (3 sections)
+2026-07-15 14:33:00,344 INFO Saved label for Belinostat (6 sections)
+2026-07-15 14:33:07,152 INFO Saved label for Dapsone (5 sections)
+2026-07-15 14:33:21,559 INFO No FDA label found for: Glycerol phenylbutyrate
+2026-07-15 14:33:33,508 INFO No FDA label found for: Progesterone (topical)
+2026-07-15 14:33:37,822 INFO Skipping Glecaprevir -- matched a combination product (Mavyret)
+2026-07-15 14:33:44,228 INFO Skipping Imipenem -- matched a combination product (Imipenem and Cilastatin)
+2026-07-15 14:33:53,645 INFO Saved label for Inebilizumab (6 sections)
+2026-07-15 14:33:55,875 INFO Saved label for Alemtuzumab (7 sections)
+2026-07-15 14:34:01,287 INFO No FDA label found for: Cinchocaine (topical)
+2026-07-15 14:34:16,914 INFO No FDA label found for: Saw palmetto
+2026-07-15 14:34:24,910 INFO Skipping Fosnetupitant -- matched a combination product (AKYNZEO)
+2026-07-15 14:34:31,577 INFO No FDA label found for: Pyrophosphoric acid
+2026-07-15 14:34:40,918 INFO No FDA label found for: Hyaluronic acid
+2026-07-15 14:34:54,910 INFO No FDA label found for: Cetylpyridinium (topical)
+2026-07-15 14:35:09,943 INFO No FDA label found for: Lactobacillus acidophilus
+2026-07-15 14:35:16,759 INFO No FDA label found for: Aminobenzoic acid
+2026-07-15 14:35:25,980 INFO No FDA label found for: Efalizumab
+2026-07-15 14:35:27,767 INFO Saved label for Melphalan (6 sections)
+2026-07-15 14:35:32,008 INFO No FDA label found for: Melphalan flufenamide
+2026-07-15 14:35:39,506 INFO No FDA label found for: Muromonab
+2026-07-15 14:35:41,322 INFO Saved label for Naxitamab (6 sections)
+2026-07-15 14:35:43,081 INFO Saved label for Octreotide (5 sections)
+2026-07-15 14:35:47,197 INFO Saved label for Flunisolide (4 sections)
+2026-07-15 14:35:54,235 INFO Saved label for Pregabalin (6 sections)
+2026-07-15 14:35:59,227 INFO Saved label for Pramipexole (5 sections)
+2026-07-15 14:36:09,407 INFO Saved label for Methocarbamol (5 sections)
+2026-07-15 14:36:17,452 INFO Saved label for Nystatin (3 sections)
+2026-07-15 14:36:25,867 INFO Saved label for Latanoprost (4 sections)
+2026-07-15 14:36:32,037 INFO Saved label for Sumatriptan (5 sections)
+2026-07-15 14:36:41,900 INFO Saved label for Nitrofurantoin (6 sections)
+2026-07-15 14:36:53,894 INFO No FDA label found for: Adefovir dipivoxil
+2026-07-15 14:37:06,805 INFO Saved label for Olopatadine (3 sections)
+2026-07-15 14:37:16,457 INFO Saved label for Temozolomide (5 sections)
+2026-07-15 14:37:25,877 INFO Saved label for Bimatoprost (4 sections)
+2026-07-15 14:37:30,446 INFO Saved label for Ketotifen (3 sections)
+2026-07-15 14:37:35,894 INFO Saved label for Rizatriptan (5 sections)
+2026-07-15 14:37:44,509 INFO Saved label for Gabapentin (6 sections)
+2026-07-15 14:37:59,157 INFO No FDA label found for: Tegaserod
+2026-07-15 14:38:03,927 INFO Saved label for Pilocarpine (5 sections)
+2026-07-15 14:38:17,886 INFO No FDA label found for: Zopiclone
+2026-07-15 14:38:20,403 INFO Saved label for Levetiracetam (5 sections)
+2026-07-15 14:38:25,793 INFO Saved label for Varenicline (6 sections)
+2026-07-15 14:38:27,975 INFO Skipping Tiotropium -- matched a combination product (Stiolto Respimat)
+2026-07-15 14:38:35,978 INFO No FDA label found for: Ursodeoxycholic acid
+2026-07-15 14:38:45,633 INFO No FDA label found for: Vitamin D
+2026-07-15 14:38:55,025 INFO No FDA label found for: Acenocoumarol
+2026-07-15 14:39:01,010 INFO Saved label for Gadodiamide (7 sections)
+2026-07-15 14:39:04,272 INFO Saved label for Travoprost (4 sections)
+2026-07-15 14:39:16,418 INFO Saved label for Ertapenem (6 sections)
+2026-07-15 14:39:20,667 INFO Saved label for Zolmitriptan (5 sections)
+2026-07-15 14:39:25,893 INFO Saved label for Mupirocin (4 sections)
+2026-07-15 14:39:27,928 INFO Skipping Zidovudine -- matched a combination product (LAMIVUDINE and ZIDOVUDINE)
+2026-07-15 14:39:46,066 INFO No FDA label found for: Stavudine
+2026-07-15 14:39:56,219 INFO No FDA label found for: Selenium Sulfide
+2026-07-15 14:40:02,030 INFO Saved label for Auranofin (6 sections)
+2026-07-15 14:40:06,333 INFO Saved label for Ganciclovir (8 sections)
+2026-07-15 14:40:16,121 INFO Saved label for Hydroxyurea (6 sections)
+2026-07-15 14:40:23,904 INFO Saved label for Atovaquone (5 sections)
+2026-07-15 14:40:34,784 INFO No FDA label found for: Nitrazepam
+2026-07-15 14:40:40,391 INFO Saved label for Valganciclovir (8 sections)
+2026-07-15 14:40:42,183 INFO Saved label for Clobetasol (3 sections)
+2026-07-15 14:40:55,361 INFO No FDA label found for: Vitamin A
+2026-07-15 14:40:59,583 INFO Saved label for Baclofen (4 sections)
+2026-07-15 14:41:06,341 INFO Saved label for Nicotine (4 sections)
+2026-07-15 14:41:14,050 INFO Saved label for Cabergoline (5 sections)
+2026-07-15 14:41:18,542 INFO Saved label for Carmustine (7 sections)
+2026-07-15 14:41:23,950 INFO Saved label for Chlorambucil (6 sections)
+2026-07-15 14:41:26,736 INFO Saved label for Chlorhexidine (3 sections)
+2026-07-15 14:41:31,918 INFO Saved label for Ethambutol (6 sections)
+2026-07-15 14:41:39,051 INFO Saved label for Pyrazinamide (5 sections)
+2026-07-15 14:41:41,151 INFO Saved label for Chlorzoxazone (4 sections)
+2026-07-15 14:41:46,032 INFO Saved label for Meprobamate (4 sections)
+2026-07-15 14:41:52,271 INFO Saved label for Carisoprodol (5 sections)
+2026-07-15 14:41:59,137 INFO Saved label for Famciclovir (6 sections)
+2026-07-15 14:42:05,881 INFO Saved label for Brimonidine (3 sections)
+2026-07-15 14:42:16,358 INFO Saved label for Acyclovir (5 sections)
+2026-07-15 14:42:24,656 INFO Saved label for Cytarabine (6 sections)
+2026-07-15 14:42:27,207 INFO Saved label for Leucovorin (6 sections)
+2026-07-15 14:42:32,006 INFO Saved label for Etomidate (4 sections)
+2026-07-15 14:42:45,471 INFO No FDA label found for: Nitric Oxide
+2026-07-15 14:42:51,650 INFO Saved label for Caspofungin (6 sections)
+2026-07-15 14:42:56,491 INFO Saved label for Dobutamine (4 sections)
+2026-07-15 14:43:02,591 INFO Saved label for Azelastine (5 sections)
+2026-07-15 14:43:20,605 INFO No FDA label found for: Cromoglicic acid
+2026-07-15 14:43:25,557 INFO Saved label for Bleomycin (7 sections)
+2026-07-15 14:43:33,877 INFO Saved label for Pimecrolimus (6 sections)
+2026-07-15 14:43:38,670 INFO Saved label for Acitretin (6 sections)
+2026-07-15 14:43:55,056 INFO No FDA label found for: Gadoversetamide
+2026-07-15 14:44:01,065 INFO Saved label for Dexmedetomidine (6 sections)
+2026-07-15 14:44:05,549 INFO Saved label for Acamprosate (5 sections)
+2026-07-15 14:44:14,425 INFO Saved label for Imiquimod (5 sections)
+2026-07-15 14:44:20,015 INFO Saved label for Dacarbazine (5 sections)
+2026-07-15 14:44:23,907 INFO Saved label for Fulvestrant (5 sections)
+2026-07-15 14:44:26,727 INFO Saved label for Brinzolamide (5 sections)
+2026-07-15 14:44:44,628 INFO No FDA label found for: Loteprednol etabonate
+2026-07-15 14:44:51,643 INFO Saved label for Busulfan (6 sections)
+2026-07-15 14:44:57,221 INFO Saved label for Acetylcysteine (5 sections)
+2026-07-15 14:44:59,320 INFO Saved label for Deferoxamine (5 sections)
+2026-07-15 14:45:01,477 INFO Skipping Adapalene -- matched a combination product (Adapalene and Benzoyl Peroxide Gel, 0.1%/2.5%)
+2026-07-15 14:45:16,911 INFO Saved label for Econazole (5 sections)
+2026-07-15 14:45:25,967 INFO Skipping Naloxone -- matched a combination product (PENTAZOCINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE)
+2026-07-15 14:45:42,351 INFO No FDA label found for: Pergolide
+2026-07-15 14:45:52,351 INFO Saved label for Levobunolol (4 sections)
+2026-07-15 14:45:56,383 INFO Saved label for Dantrolene (6 sections)
+2026-07-15 14:46:02,712 INFO Saved label for Tropicamide (4 sections)
+2026-07-15 14:46:13,186 INFO Saved label for Amantadine (5 sections)
+2026-07-15 14:46:18,376 INFO Saved label for Ciclopirox (4 sections)
+2026-07-15 14:46:25,160 INFO Saved label for Clindamycin (5 sections)
+2026-07-15 14:46:35,291 INFO No FDA label found for: Calcipotriol
+2026-07-15 14:46:40,190 INFO Saved label for Naratriptan (5 sections)
+2026-07-15 14:46:48,610 INFO Saved label for Abacavir (7 sections)
+2026-07-15 14:46:55,864 INFO Saved label for Bethanechol (3 sections)
+2026-07-15 14:47:06,625 INFO Saved label for Flumazenil (4 sections)
+2026-07-15 14:47:16,290 INFO Saved label for Lincomycin (7 sections)
+2026-07-15 14:47:25,177 INFO No FDA label found for: gamma-Aminobutyric acid
+2026-07-15 14:47:33,590 INFO No FDA label found for: Galactose
+2026-07-15 14:47:33,595 INFO Fetch complete: {'total_drugs_checked': 1503, 'labels_found': 822, 'labels_not_found': 512, 'combination_products_skipped': 116, 'skipped_already_fetched': 53}

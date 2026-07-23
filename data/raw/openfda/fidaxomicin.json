@@ -1,0 +1,68 @@
+{
+  "drug_name": "Fidaxomicin",
+  "drug_id": 1291,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Acute hypersensitivity reactions (angioedema, dyspnea, pruritus, and rash) have been reported. If a severe hypersensitivity reaction occurs, discontinue fidaxomicin tablets. ( 5.1 ) Fidaxomicin tablets is not expected to be effective for the treatment of other types of infections due to minimal systemic absorption of fidaxomicin. Fidaxomicin tablets should only be used for the treatment of C. difficile -associated diarrhea. ( 5.2 ) Development of drug-resistant bacteria: Only use fidaxomicin tablets for infection proven or strongly suspected to be caused by C. difficile. ( 5.3 ) 5.1 Hypersensitivity Reactions Acute hypersensitivity reactions, including dyspnea, rash, pruritus, and angioedema of the mouth, throat, and face have been reported with fidaxomicin tablets. If a severe hypersensitivity reaction occurs, fidaxomicin tablets should be discontinued and appropriate therapy should be instituted. Some patients with hypersensitivity reactions to fidaxomicin tablets also reported a history of allergy to other macrolides. Physicians prescribing fidaxomicin tablets to patients with a known macrolide allergy should be aware of the possibility of hypersensitivity reactions. 5.2 Not for Use in Infections Other than C. difficile -Associated Diarrhea Fidaxomicin tablets are not expected to be effective for the treatment of other types of infections due to minimal systemic absorption of fidaxomicin [see Clinical Pharmacology ( 12.3 )]. Fidaxomicin tablets have not been studied for the treatment of infections other than CDAD. Fidaxomicin tablets should only be used for the treatment of CDAD. 5.3 Development of Drug-Resistant Bacteria Prescribing fidaxomicin tablets in the absence of proven or strongly suspected C. difficile infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.",
+    "drug_interactions": "7 DRUG INTERACTIONS Fidaxomicin and its main metabolite, OP-1118, are substrates of the efflux transporter, P-glycoprotein (P-gp), which is expressed in the gastrointestinal tract. 7.1 Cyclosporine Cyclosporine is an inhibitor of multiple transporters, including P-gp. When cyclosporine was co-administered with fidaxomicin tablets, plasma concentrations of fidaxomicin and OP-1118 were significantly increased but remained in the ng/mL range [see Clinical Pharmacology ( 12.3 )]. Concentrations of fidaxomicin and OP-1118 may also be decreased at the site of action (i.e., gastrointestinal tract) via P-gp inhibition; however, concomitant P-gp inhibitor use had no attributable effect on safety or treatment outcome of fidaxomicin-treated adult patients in controlled clinical trials. Based on these results, fidaxomicin may be co-administered with P-gp inhibitors and no dose adjustment is recommended.",
+    "contraindications": "4 CONTRAINDICATIONS Fidaxomicin tablets are contraindicated in patients who have known hypersensitivity to fidaxomicin or any other ingredient in fidaxomicin tablets [see Warnings and Precautions ( 5.1 )]. Fidaxomicin tablets are contraindicated in patients who have known hypersensitivity to fidaxomicin or any other ingredient in fidaxomicin tablets. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Fidaxomicin tablets are administered orally with or without food. ( 2.1 ) Adults One 200 mg tablet orally twice daily for 10 days. ( 2.2 ) 2.1 Important Administration Instructions Fidaxomicin tablets are available for oral administration as 200 mg tablets. Fidaxomicin tablets are administered orally with or without food. 2.2 Adult Patients The recommended dosage for adults is one 200 mg fidaxomicin tablet orally twice daily for 10 days. Pediatric use information is approved for Cubist Pharmaceuticals LLC's DIFICID \u00ae (fidaxomicin) tablets. However, due to Cubist Pharmaceuticals LLC's marketing exclusivity rights, this drug product is not labeled with that information.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Fidaxomicin tablets are a macrolide antibacterial indicated in adult patients for the treatment of C. difficile -associated diarrhea. ( 1.1 ) To reduce the development of drug-resistant bacteria and maintain the effectiveness of fidaxomicin tablets and other antibacterial drugs, fidaxomicin tablets should be used only to treat infections that are proven or strongly suspected to be caused by C. difficile. ( 1.2 ) 1.1 Clostridioides difficile -Associated Diarrhea Fidaxomicin tablets are indicated in adult patients for the treatment of C. difficile-associated diarrhea (CDAD). 1.2 Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of fidaxomicin tablets and other antibacterial drugs, fidaxomicin tablets should be used only to treat infections that are proven or strongly suspected to be caused by C. difficile. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy. Pediatric use information is approved for Cubist Pharmaceuticals LLC's DIFICID \u00ae (fidaxomicin) tablets. However, due to Cubist Pharmaceuticals LLC's marketing exclusivity rights, this drug product is not labeled with that information."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA219559"
+    ],
+    "brand_name": [
+      "Fidaxomicin"
+    ],
+    "generic_name": [
+      "FIDAXOMICIN"
+    ],
+    "manufacturer_name": [
+      "Apotex Corp."
+    ],
+    "product_ndc": [
+      "60505-4833"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FIDAXOMICIN"
+    ],
+    "rxcui": [
+      "1111106"
+    ],
+    "spl_id": [
+      "a9a2681d-631b-f559-de45-a06b3723e65c"
+    ],
+    "spl_set_id": [
+      "6cc3e803-8935-f9b3-ab7f-fef8b1c02070"
+    ],
+    "package_ndc": [
+      "60505-4833-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0360505483327"
+    ],
+    "nui": [
+      "M0028311",
+      "N0000175431"
+    ],
+    "pharm_class_cs": [
+      "Macrolides [CS]"
+    ],
+    "pharm_class_epc": [
+      "Macrolide Antibacterial [EPC]"
+    ],
+    "unii": [
+      "Z5N076G8YQ"
+    ]
+  }
+}

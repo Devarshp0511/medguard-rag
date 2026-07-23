@@ -1,0 +1,68 @@
+{
+  "drug_name": "Memantine",
+  "drug_id": 576,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Conditions that raise urine pH may decrease the urinary elimination of memantine, resulting in increased plasma levels of memantine. (5.1, 7.1) 5.1 Genitourinary Conditions Conditions that raise urine pH may decrease the urinary elimination of memantine resulting in increased plasma levels of memantine [see Drug Interactions (7.1) ] .",
+    "drug_interactions": "7 DRUG INTERACTIONS 7.1 Drugs that Make the Urine Alkaline The clearance of memantine was reduced by about 80% under alkaline urine conditions at pH 8. Therefore, alterations of urine pH towards the alkaline condition may lead to an accumulation of the drug with a possible increase in adverse effects. Urine pH is altered by diet, drugs (e.g. carbonic anhydrase inhibitors, sodium bicarbonate) and clinical state of the patient (e.g. renal tubular acidosis or severe infections of the urinary tract). Hence, memantine should be used with caution under these conditions. 7.2 Use with Other N-methyl-D-aspartate (NMDA) Antagonists The combined use of memantine hydrochloride with other NMDA antagonists (amantadine, ketamine, and dextromethorphan) has not been systematically evaluated and such use should be approached with caution.",
+    "contraindications": "4 CONTRAINDICATIONS Memantine hydrochloride tablets are contraindicated in patients with known hypersensitivity to memantine hydrochloride or to any excipients used in the formulation. Memantine hydrochloride tablets are contraindicated in patients with known hypersensitivity to memantine hydrochloride or to any excipients used in the formulation. (4)",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended starting dose of memantine hydrochloride tablets is 5 mg once daily. The dose should be increased in 5 mg increments to 10 mg/day (5 mg twice daily), 15 mg/day (5 mg and 10 mg as separate doses), and 20 mg/day (10 mg twice daily). The minimum recommended interval between dose increases is one week. The dosage shown to be effective in controlled clinical trials is 20 mg/day. Memantine hydrochloride tablets can be taken with or without food. If a patient misses a single dose of memantine hydrochloride tablets, that patient should not double up on the next dose. The next dose should be taken as scheduled. If a patient fails to take memantine hydrochloride tablets for several days, dosing may need to be resumed at lower doses and retitrated as described above. Specific Populations Renal Impairment A target dose of 5 mg twice daily is recommended in patients with severe renal impairment (creatinine clearance of 5 to 29 mL/min based on the Cockcroft-Gault equation). Hepatic Impairment Memantine hydrochloride tablets should be administered with caution to patients with severe hepatic impairment [see Clinical Pharmacology (12.3) ] . May be taken with or without food. (2) Initial dose is 5 mg once daily. Increase dose in 5 mg increments to a maintenance dose of 10 mg twice daily. A minimum of 1 week of treatment with the previous dose should be observed before increasing the dose. (2) Severe renal impairment: recommended dose is 5 mg twice daily. (2)",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Memantine hydrochloride tablets are indicated for the treatment of moderate to severe dementia of the Alzheimer\u2019s type. Memantine hydrochloride tablets are an N-methyl-D-aspartate (NMDA) receptor antagonist indicated for the treatment of moderate to severe dementia of the Alzheimer\u2019s type. (1)"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA090041"
+    ],
+    "brand_name": [
+      "Memantine hydrochloride"
+    ],
+    "generic_name": [
+      "MEMANTINE"
+    ],
+    "manufacturer_name": [
+      "Amneal Pharmaceuticals of New York LLC"
+    ],
+    "product_ndc": [
+      "53746-169",
+      "53746-173"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MEMANTINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "996561",
+      "996571"
+    ],
+    "spl_id": [
+      "cf08de43-a887-40f3-a074-57ecc8d3093a"
+    ],
+    "spl_set_id": [
+      "054069b5-7aac-4106-821f-ebf7fd531b4f"
+    ],
+    "package_ndc": [
+      "53746-173-30",
+      "53746-173-60",
+      "53746-173-10",
+      "53746-169-30",
+      "53746-169-60",
+      "53746-169-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0353746169105",
+      "0353746169303",
+      "0353746173300",
+      "0353746173102"
+    ],
+    "unii": [
+      "JY0WD0UA60"
+    ]
+  }
+}

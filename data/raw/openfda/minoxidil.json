@@ -1,0 +1,64 @@
+{
+  "drug_name": "Minoxidil",
+  "drug_id": 1165,
+  "sections": {
+    "warnings": "Warnings For external use only. For use by men only. Flammable: Keep away from fire or flame Do not use if \u2022 you are a woman \u2022 your amount of hair loss is different than that shown on the side of this carton or your hair loss is on the front of the scalp. Minoxidil topical solution 5% is not intended for frontal baldness or receding hairline. \u2022 you have no family history of hair loss \u2022 your hair loss is sudden and/or patchy \u2022 you do not know the reason for your hair loss \u2022 you are under 18 years of age. Do not use on babies and children. \u2022 your scalp is red, inflamed, infected, irritated, or painful \u2022 you use other medicines on the scalp Ask a doctor before use if you have heart disease When using this product \u2022 do not apply on other parts of the body \u2022 avoid contact with the eyes. In case of accidental contact, rinse eyes with large amounts of cool tap water. \u2022 some people have experienced changes in hair color and/or texture \u2022 it takes time to regrow hair. Results may occur at 2 months with twice a day usage. For some men, you may need to use this product for at least 4 months before you see results. \u2022 the amount of hair regrowth is different for each person. This product will not work for all men. Stop use and ask a doctor if \u2022 chest pain, rapid heartbeat, faintness, or dizziness occurs \u2022 sudden, unexplained weight gain occurs \u2022 your hands or feet swell \u2022 scalp irritation or redness occurs \u2022 unwanted facial hair growth occurs \u2022 you do not see hair regrowth in 4 months May be harmful if used when pregnant or breast-feeding. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "dosage_and_administration": "Directions \u2022 apply one mL with dropper 2 times a day directly onto the scalp in the hair loss area \u2022 using more or more often will not improve results \u2022 continued use is necessary to increase and keep your hair regrowth, or hair loss will begin again",
+    "indications_and_usage": "Use to regrow hair on the top of the scalp (vertex only, see pictures on side of carton)"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA075598"
+    ],
+    "brand_name": [
+      "hair regrowth treatment"
+    ],
+    "generic_name": [
+      "MINOXIDIL"
+    ],
+    "manufacturer_name": [
+      "Rite Aid Corporation"
+    ],
+    "product_ndc": [
+      "11822-1260"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MINOXIDIL"
+    ],
+    "rxcui": [
+      "311724"
+    ],
+    "spl_id": [
+      "08fab23a-44a4-4b0f-a21a-40d400efa853"
+    ],
+    "spl_set_id": [
+      "00c83180-0e13-4a07-9ce8-a9cae19a79a3"
+    ],
+    "package_ndc": [
+      "11822-1260-1",
+      "11822-1260-0"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175379",
+      "N0000175564"
+    ],
+    "pharm_class_pe": [
+      "Arteriolar Vasodilation [PE]"
+    ],
+    "pharm_class_epc": [
+      "Arteriolar Vasodilator [EPC]"
+    ],
+    "unii": [
+      "5965120SH1"
+    ]
+  }
+}

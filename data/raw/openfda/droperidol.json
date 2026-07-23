@@ -1,0 +1,70 @@
+{
+  "drug_name": "Droperidol",
+  "drug_id": 236,
+  "sections": {
+    "boxed_warning": "WARNING Cases of QT prolongation and/or torsade de pointes have been reported in patients receiving droperidol at doses at or below recommended doses. Some cases have occurred in patients with no known risk factors for QT prolongation and some cases have been fatal. Due to its potential for serious proarrhythmic effects and death, droperidol should be reserved for use in the treatment of patients who fail to show an acceptable response to other adequate treatments, either because of insufficient effectiveness or the inability to achieve an effective dose due to intolerable adverse effects from those drugs (see CONTRAINDICATIONS , WARNINGS , PRECAUTIONS , and ADVERSE REACTIONS ). Cases of QT prolongation and serious arrhythmias (e.g., torsade de pointes) have been reported in patients treated with droperidol. Based on these reports, all patients should undergo a 12-lead ECG prior to administration of droperidol to determine if a prolonged QT interval (i.e., QTc greater than 440 msec for males or 450 msec for females) is present. If there is a prolonged QT interval, droperidol should NOT be administered. For patients in whom the potential benefit of droperidol treatment is felt to outweigh the risks of potentially serious arrhythmias, ECG monitoring should be performed prior to treatment and continued for 2-3 hours after completing treatment to monitor for arrhythmias. Droperidol is contraindicated in patients with known or suspected QT prolongation, including patients with congenital long QT syndrome. Droperidol should be administered with extreme caution to patients who may be at risk for development of prolonged QT syndrome (e.g., congestive heart failure, bradycardia, use of a diuretic, cardiac hypertrophy, hypokalemia, hypomagnesemia, or administration of other drugs known to increase the QT interval). Other risk factors may include age over 65 years, alcohol abuse, and use of agents such as benzodiazepines, volatile anesthetics, and IV opiates. Droperidol should be initiated at a low dose and adjusted upward, with caution, as needed to achieve the desired effect.",
+    "warnings": "WARNINGS Droperidol should be administered with extreme caution in the presence of risk factors for development of prolonged QT syndrome, such as: 1) clinically significant bradycardia (less than 50 bpm), 2) any clinically significant cardiac disease, 3) treatment with Class I and Class III antiarrhythmics, 4) treatment with monoamine oxidase inhibitors (MAOI's), 5) concomitant treatment with other drug products known to prolong the QT interval (see PRECAUTIONS, Drug Interactions ), and 6) electrolyte imbalance, in particular hypokalemia and hypomagnesemia, or concomitant treatment with drugs (e.g., diuretics) that may cause electrolyte imbalance. Effects on Cardiac Conduction: A dose-dependent prolongation of the QT interval was observed within 10 minutes of droperidol administration in a study of 40 patients without known cardiac disease who underwent extracranial head and neck surgery. Significant QT prolongation was observed at all three dose levels evaluated, with 0.1, 0.175, and 0.25 mg/kg associated with prolongation of median QTc by 37,44, and 59 msec, respectively. Cases of QT prolongation and serious arrhythmias (e.g., torsade de pointes, ventricular arrhythmias, cardiac arrest, and death) have been observed during post-marketing treatment with droperidol. Some cases have occurred in patients with no known risk factors and at doses at or below recommended doses. There has been at least one case of nonfatal torsade de pointes confirmed by rechallenge. Based on these reports, all patients should undergo a 12-lead ECG prior to administration of droperidol to determine if a prolonged QT interval (i.e., QTc greater than 440 msec for males or 450 msec for females) is present. If there is a prolonged QT interval, droperidol should NOT be administered. For patients in whom the potential benefit of droperidol treatment is felt to outweigh the risks of potentially serious arrhythmias, ECG monitoring should be performed prior to treatment and continued for 2-3 hours after completing treatment to monitor for arrhythmias. FLUIDS AND OTHER COUNTERMEASURES TO MANAGE HYPOTENSION SHOULD BE READILY AVAILABLE. As with other CNS depressant drugs, patients who have received droperidol should have appropriate surveillance. It is recommended that opioids, when required, initially be used in reduced doses. As with other neuroleptic agents, very rare reports of neuroleptic malignant syndrome (altered consciousness, muscle rigidity and autonomic instability) have occurred in patients who have received droperidol. Since it may be difficult to distinguish neuroleptic malignant syndrome from malignant hyperpyrexia in the perioperative period, prompt treatment with dantrolene should be considered if increases in temperature, heart rate or carbon dioxide production occur.",
+    "drug_interactions": "Drug Interactions Potentially Arrhythmogenic Agents: Any drug known to have the potential to prolong the QT interval should not be used together with droperidol. Possible pharmacodynamic interactions can occur between droperidol and potentially arrhythmogenic agents such as class I or III antiarrhythmics, antihistamines that prolong the QT interval, antimalarials, calcium channel blockers, neuroleptics that prolong the QT interval, and antidepressants. Caution should be used when patients are taking concomitant drugs known to induce hypokalemia or hypomagnesemia as they may precipitate QT prolongation and interact with droperidol. These would include diuretics, laxatives and supraphysiological use of steroid hormones with mineralocorticoid potential. CNS Depressant Drugs: Other CNS depressant drugs (e.g. barbiturates, tranquilizers, opioids and general anesthetics) have additive or potentiating effects with droperidol. When patients have received such drugs, the dose of droperidol required will be less than usual. Following the administration of droperidol, the dose of other CNS depressant drugs should be reduced.",
+    "contraindications": "CONTRAINDICATIONS Droperidol is contraindicated in patients with known or suspected QT prolongation (i.e., QTc interval greater than 440 msec for males or 450 msec for females). This would include patients with congenital long QT syndrome. Droperidol is contraindicated in patients with known hypersensitivity to the drug. Droperidol is not recommended for any use other than for the treatment of perioperative nausea and vomiting in patients for whom other treatments are ineffective or inappropriate (see WARNINGS ).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Dosage should be individualized . Some of the factors to be considered in determining the dose are age, body weight, physical status, underlying pathological condition, use of other drugs, type of anesthesia to be used, and the surgical procedure involved. Vital signs and ECG should be monitored routinely. Adult Dosage: The maximum recommended initial dose of droperidol is 2.5 mg IM or slow IV. Additional 1.25 mg doses of droperidol may be administered to achieve the desired effect. However, additional doses should be administered with caution, and only if the potential benefit outweighs the potential risk. Children\u2019s Dosage: For children two to 12 years of age, the maximum recommended initial dose is 0.1 mg/kg, taking into account the patient's age and other clinical factors. However, additional doses should be administered with caution, and only if the potential benefit outweighs the potential risk. See WARNINGS and PRECAUTIONS for use of droperidol with other CNS depressants, and in patients with altered response. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. If such abnormalities are observed, the drug should not be administered.",
+    "indications_and_usage": "INDICATIONS AND USAGE Droperidol Injection is indicated to reduce the incidence of nausea and vomiting associated with surgical and diagnostic procedures."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA072123"
+    ],
+    "brand_name": [
+      "Droperidol"
+    ],
+    "generic_name": [
+      "DROPERIDOL"
+    ],
+    "manufacturer_name": [
+      "American Regent, Inc."
+    ],
+    "product_ndc": [
+      "0517-9702"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAMUSCULAR",
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "DROPERIDOL"
+    ],
+    "rxcui": [
+      "282485"
+    ],
+    "spl_id": [
+      "8bcdfec0-1df7-413d-82c1-ac564d18aaa0"
+    ],
+    "spl_set_id": [
+      "147e033d-d997-4ef6-8bb5-a9ba372590b2"
+    ],
+    "package_ndc": [
+      "0517-9702-25"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0305179702251"
+    ],
+    "nui": [
+      "N0000175799",
+      "N0000175800"
+    ],
+    "pharm_class_moa": [
+      "Dopamine D2 Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Dopamine-2 Receptor Antagonist [EPC]"
+    ],
+    "unii": [
+      "O9U0F09D5X"
+    ]
+  }
+}

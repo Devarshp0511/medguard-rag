@@ -1,0 +1,65 @@
+{
+  "drug_name": "Bisoprolol",
+  "drug_id": 212,
+  "sections": {
+    "warnings": "WARNINGS Click here to enter Warnings Cardiac Failure Sympathetic stimulation is a vital component supporting circulatory function in the setting of congestive heart failure, and beta-blockade may result in further depression of myocardial contractility and precipitate more severe failure. In general, beta-blocking agents should be avoided in patients with overt congestive failure. However, in some patients with compensated cardiac failure it may be necessary to utilize them. In such a situation, they must be used cautiously. In Patients Without a History of Cardiac Failure Continued depression of the myocardium with beta-blockers can, in some patients, precipitate cardiac failure. At the first signs or symptoms of heart failure, discontinuation of bisoprolol fumarate tablets should be considered. In some cases, beta-blocker therapy can be continued while heart failure is treated with other drugs. Abrupt Cessation of Therapy Exacerbation of angina pectoris, and, in some instances, myocardial infarction or ventricular arrhythmia, have been observed in patients with coronary artery disease following abrupt cessation of therapy with beta-blockers. Such patients should, therefore, be cautioned against interruption or discontinuation of therapy without the physician\u2019s advice. Even in patients without overt coronary artery disease, it may be advisable to taper therapy with bisoprolol fumarate tablets over approximately one week with the patient under careful observation. If withdrawal symptoms occur, bisoprolol fumarate tablets therapy should be reinstituted, at least temporarily. Peripheral Vascular Disease Beta-blockers can precipitate or aggravate symptoms of arterial insufficiency in patients with peripheral vascular disease. Caution should be exercised in such individuals. Bronchospastic Disease PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS. Because of its relative beta 1 -selectivity, however, bisoprolol fumarate tablets may be used with caution in patients with bronchospastic disease who do not respond to, or who cannot tolerate other antihypertensive treatment. Since beta 1 -selectivity is not absolute, the lowest possible dose of bisoprolol fumarate tablets should be used, with therapy starting at 2.5 mg. A beta 2 agonist (bronchodilator) should be made available. Major Surgery Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures. Diabetes and Hypoglycemia Beta-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia. Nonselective beta-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels. Because of its beta 1 -selectivity, this is less likely with bisoprolol fumarate tablets. However, patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned about these possibilities and bisoprolol fumarate should be used with caution. Thyrotoxicosis Beta-adrenergic blockade may mask clinical signs of hyperthyroidism, such as tachycardia. Abrupt withdrawal of beta-blockade may be followed by an exacerbation of the symptoms of hyperthyroidism or may precipitate thyroid storm.",
+    "contraindications": "CONTRAINDICATIONS Bisoprolol fumarate tablets are contraindicated in patients with cardiogenic shock, overt cardiac failure, second or third degree AV block, and marked sinus bradycardia.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The dose of bisoprolol fumarate tablets must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily. In some patients, 2.5 mg may be an appropriate starting dose (see Bronchospastic Disease in WARNINGS ). If the antihypertensive effect of 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. Patients with Renal or Hepatic Impairment In patients with hepatic impairment (hepatitis or cirrhosis) or renal dysfunction (creatinine clearance less than 40 mL/min), the initial daily dose should be 2.5 mg and caution should be used in dose-titration. Since limited data suggest that bisoprolol fumarate is not dialyzable, drug replacement is not necessary in patients undergoing dialysis. Geriatric Patients It is not necessary to adjust the dose in the elderly, unless there is also significant renal or hepatic dysfunction (see above and Geriatric Use in PRECAUTIONS ). Pediatric Patients There is no pediatric experience with bisoprolol fumarate tablets.",
+    "indications_and_usage": "INDICATIONS AND USAGE Bisoprolol fumarate tablets are indicated in the management of hypertension. It may be used alone or in combination with other antihypertensive agents."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA217368"
+    ],
+    "brand_name": [
+      "Bisoprolol fumarate"
+    ],
+    "generic_name": [
+      "BISOPROLOL FUMARATE"
+    ],
+    "manufacturer_name": [
+      "Solco Healthcare US, LLC"
+    ],
+    "product_ndc": [
+      "43547-616",
+      "43547-617"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BISOPROLOL FUMARATE"
+    ],
+    "rxcui": [
+      "854901",
+      "854905"
+    ],
+    "spl_id": [
+      "e8b6cea1-8a7f-4255-8a24-ff96d6ceece2"
+    ],
+    "spl_set_id": [
+      "084308e4-3b8b-40d6-acbf-d775772a8a73"
+    ],
+    "package_ndc": [
+      "43547-616-03",
+      "43547-616-10",
+      "43547-616-50",
+      "43547-617-03",
+      "43547-617-10",
+      "43547-617-50"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0343547616038",
+      "0343547617035"
+    ],
+    "unii": [
+      "UR59KN573L"
+    ]
+  }
+}

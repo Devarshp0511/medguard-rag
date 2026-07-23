@@ -1,0 +1,53 @@
+{
+  "drug_name": "Ethanol",
+  "drug_id": 387,
+  "sections": {
+    "warnings": "Warnings For external use only. Flammable keep away from fire or flame. When using this product do not use in or near eyes, if contact occurs, flush thoroughly with water. Stop use and contact a doctor if irritation or redness persists for more than 72 hours.",
+    "dosage_and_administration": "Directions \u2022 remove and unfold wipe \u2022wet hands thoroughly with product and let air dry",
+    "indications_and_usage": "Uses \u2022 for hand sanitizing to decrease bacteria on skin when water and soap are not avaliable \u2022 recommended for repeated use"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Lavender Hand Sanitizer Wipes"
+    ],
+    "generic_name": [
+      "ETHANOL"
+    ],
+    "manufacturer_name": [
+      "Whole Foods Market, Inc."
+    ],
+    "product_ndc": [
+      "42681-6808"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "884787"
+    ],
+    "spl_id": [
+      "4009eb5c-5b54-fd95-e063-6294a90a17f2"
+    ],
+    "spl_set_id": [
+      "0398573a-44fa-e0c6-e063-6394a90a9924"
+    ],
+    "package_ndc": [
+      "42681-6808-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

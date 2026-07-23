@@ -1,0 +1,56 @@
+{
+  "drug_name": "Cefaclor",
+  "drug_id": 1226,
+  "sections": {
+    "warnings": "WARNINGS BEFORE THERAPY WITH CEFACLOR EXTENDED-RELEASE TABLETS IS INSTITUTED, CAREFUL INQUIRY SHOULD BE MADE TO DETERMINE WHETHER THE PATIENT HAS HAD PREVIOUS HYPERSENSITIVITY REACTIONS TO CEFACLOR, CEPHALOSPORINS, PENICILLINS, OR OTHER DRUGS. IF THIS PRODUCT IS TO BE GIVEN TO PENICILLIN-SENSITIVE PATIENTS, CAUTION SHOULD BE EXERCISED BECAUSE CROSS-SENSITIVITY AMONG BETA-LACTAM ANTIBIOTICS HAS BEEN CLEARLY DOCUMENTED AND MAY OCCUR IN UP TO 10% OF PATIENTS WITH A HISTORY OF PENICILLIN ALLERGY. IF AN ALLERGIC REACTION TO CEFACLOR EXTENDED-RELEASE TABLETS OCCURS, DISCONTINUE THE DRUG. SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE TREATMENT WITH EPINEPHRINE AND OTHER EMERGENCY MEASURES, INCLUDING OXYGEN, INTRAVENOUS FLUIDS, INTRAVENOUS ANTIHISTAMINES, CORTICOSTEROIDS, PRESSOR AMINES, AND AIRWAY MANAGEMENT, AS CLINICALLY INDICATED. Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cefaclor and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated.",
+    "drug_interactions": "Drug Interactions Antacids The extent of absorption of cefaclor extended-release tablets is diminished if magnesium or aluminum hydroxide-containing antacids are taken within 1 hour of administration; H 2 blockers do not alter either the rate or the extent of absorption of cefaclor extended-release tablets. Probenecid The renal excretion of cefaclor is inhibited by probenecid. Warfarin There have been rare reports of increased prothrombin time with or without clinical bleeding in patients receiving cefaclor and warfarin concomitantly. No specific studies have been performed to rule in or rule out this potential drug/drug interaction.",
+    "contraindications": "CONTRAINDICATIONS Cefaclor extended-release tablets are contraindicated in patients with known hypersensitivity to cefaclor and other cephalosporins.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The absorption of cefaclor extended-release tablets is enhanced when it is administered with food. (See CLINICAL PHARMACOLOGY .) Therefore, cefaclor extended-release tablets should be administered with meals (i.e., at least within one hour of eating) . The extended-release tablets should not be cut, crushed, or chewed. See INDICATIONS AND USAGE for information about patients for whom cefaclor extended-release tablets are indicated. NOTE: 500 mg BID of cefaclor extended-release tablets is clinically equivalent to 250 mg TID of cefaclor immediate-release as a capsule in those indications listed in the INDICATIONS AND USAGE section of this label. 500 mg BID of cefaclor extended-release tablets is NOT equivalent to 500 mg TID of other cefaclor formulations. Adults (age 16 years and older): Type of Infection (as qualified in the INDICATIONS AND USAGE section of this labeling) Total Daily Dose Dose and Frequency Duration Acute Bacterial Exacerbations of Chronic Bronchitis due to H. influenzae (non-\u00df-lactamase-producing strains only). Moraxella catarrhalis (including \u00df-lactamase-producing strains), or Streptococcus pneumoniae (See INDICATIONS AND USAGE .) 1000 mg 500 mg q 12 hours 7 days Pharyngitis and/or tonsillitis due to S. pyogenes 750 mg 375 mg q 12 hours 10 days Uncomplicated Skin and Skin Structure Infections due to S. aureus (methicillin-susceptible strains) (See INDICATIONS AND USAGE .) 750 mg 375 mg q 12 hours 7 to 10 days Elderly patients with normal renal function do not require dosage adjustments.",
+    "dosage_and_administration_table": "<table><col width=\"65%\"/><col width=\"10%\"/><col width=\"14%\"/><col width=\"11%\"/><tbody><tr><td valign=\"top\" styleCode=\"     Botrule          Toprule         Lrule     \"><paragraph>Type of Infection (as qualified in the <content styleCode=\"bold\">INDICATIONS AND USAGE</content> section of this labeling)</paragraph></td><td valign=\"top\" styleCode=\"     Botrule          Toprule         Lrule     \"><paragraph>Total Daily Dose</paragraph></td><td valign=\"top\" styleCode=\"     Botrule          Toprule         Lrule     \"><paragraph>Dose and Frequency</paragraph></td><td valign=\"top\" styleCode=\"     Botrule          Toprule         Lrule          Rrule     \"><paragraph>Duration</paragraph></td></tr><tr><td valign=\"top\" styleCode=\"     Botrule         Lrule     \"><paragraph>Acute Bacterial Exacerbations of Chronic Bronchitis due to <content styleCode=\"italics\">H. influenzae</content> (non-&#xDF;-lactamase-producing strains only). <content styleCode=\"italics\">Moraxella catarrhalis</content> (including &#xDF;-lactamase-producing strains), or <content styleCode=\"italics\">Streptococcus pneumoniae</content> (See <content styleCode=\"bold\">INDICATIONS AND USAGE</content>.)</paragraph></td><td valign=\"top\" styleCode=\"     Botrule         Lrule     \"><paragraph>1000 mg</paragraph></td><td valign=\"top\" styleCode=\"     Botrule         Lrule     \"><paragraph>500 mg q 12 hours</paragraph></td><td valign=\"top\" styleCode=\"     Botrule         Lrule          Rrule     \"><paragraph>7 days</paragraph></td></tr><tr><td valign=\"top\" styleCode=\"     Botrule         Lrule     \"><paragraph>Pharyngitis and/or tonsillitis due to <content styleCode=\"italics\">S. pyogenes</content></paragraph></td><td valign=\"top\" styleCode=\"     Botrule         Lrule     \"><paragraph>750 mg</paragraph></td><td valign=\"top\" styleCode=\"     Botrule         Lrule     \"><paragraph>375 mg q 12 hours</paragraph></td><td valign=\"top\" styleCode=\"     Botrule         Lrule          Rrule     \"><paragraph>10 days</paragraph></td></tr><tr><td valign=\"top\" styleCode=\"     Botrule         Lrule     \"><paragraph>Uncomplicated Skin and Skin Structure Infections due to <content styleCode=\"italics\">S. aureus</content> (methicillin-susceptible strains) (See <content styleCode=\"bold\">INDICATIONS AND USAGE</content>.)</paragraph></td><td valign=\"top\" styleCode=\"     Botrule         Lrule     \"><paragraph>750 mg</paragraph></td><td valign=\"top\" styleCode=\"     Botrule         Lrule     \"><paragraph>375 mg q 12 hours</paragraph></td><td valign=\"top\" styleCode=\"     Botrule         Lrule          Rrule     \"><paragraph>7 to 10 days</paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE To reduce the development of drug-resistant bacteria and maintain the effectiveness of cefaclor extended-release tablets USP and other antibacterial drugs, cefaclor extended-release tablets USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy. The safety and effectiveness of cefaclor extended-release tablets in treating some of the indications and pathogens for which other formulations of cefaclor are approved have NOT been established. When administered at the recommended dosages and durations of therapy, cefaclor extended-release tablets are indicated for the treatment of patients with the following mild to moderate infections when caused by susceptible strains of the designated organisms. (See DOSAGE AND ADMINISTRATION and CLINICAL STUDIES sections.) Acute bacterial exacerbations of chronic bronchitis due to Haemophilus influenzae (excluding \u00df-lactamase-negative, ampicillin-resistant isolates), Moraxella catarrhalis, or Streptococcus pneumoniae . NOTE: In view of the insufficient numbers of isolates of \u00df-lactamase-producing isolates of Haemophilus influenzae that were obtained from clinical trials with cefaclor extended-release tablets for patients with acute bacterial exacerbations of chronic bronchitis, it was not possible to adequately evaluate the effectiveness of cefaclor extended-release tablets for bronchitis known, suspected, or considered potentially to be caused by \u00df-lactamase-producing H. influenzae . Pharyngitis and tonsillitis due to Streptococcus pyogenes . NOTE: Only penicillin by the intramuscular route of administration has been shown to be effective in the prophylaxis of rheumatic fever. Cefaclor extended-release tablets are generally effective in the eradication of S. pyogenes from the oropharynx; however, data establishing the efficacy of cefaclor extended-release tablets for the prophylaxis of subsequent rheumatic fever are not available. Uncomplicated skin and skin and structure infections due to Staphylococcus aureus (methicillin-susceptible only). NOTE: In view of the insufficient numbers of isolates of Streptococcus pyogenes that were obtained from clinical trials with cefaclor extended-release tablets for patients with uncomplicated skin and skin structure infections, it was not possible to adequately evaluate the effectiveness of cefaclor extended-release tablets for skin infections known, suspected, or considered potentially to be caused by S. pyogenes ."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA065058"
+    ],
+    "brand_name": [
+      "Cefaclor"
+    ],
+    "generic_name": [
+      "CEFACLOR"
+    ],
+    "manufacturer_name": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "product_ndc": [
+      "0093-1087"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CEFACLOR"
+    ],
+    "rxcui": [
+      "309043"
+    ],
+    "spl_id": [
+      "61ec00e0-d37d-4aa4-8f50-031ee7a37ecc"
+    ],
+    "spl_set_id": [
+      "0878bdc2-0410-4938-9890-96523aa81c2f"
+    ],
+    "package_ndc": [
+      "0093-1087-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "69K7K19H4L"
+    ]
+  }
+}

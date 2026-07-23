@@ -1,0 +1,56 @@
+{
+  "drug_name": "Foscarnet",
+  "drug_id": 954,
+  "sections": {
+    "boxed_warning": "WARNING RENAL IMPAIRMENT IS THE MAJOR TOXICITY OF FOSCARNET SODIUM INJECTION. FREQUENT MONITORING OF SERUM CREATININE, WITH DOSE ADJUSTMENT FOR CHANGES IN RENAL FUNCTION, AND ADEQUATE HYDRATION WITH ADMINISTRATION OF FOSCARNET SODIUM INJECTION IS IMPERATIVE. (See ADMINISTRATION section; Hydration .) SEIZURES, RELATED TO ALTERATIONS IN PLASMA MINERALS AND ELECTROLYTES, HAVE BEEN ASSOCIATED WITH FOSCARNET SODIUM INJECTION TREATMENT. THEREFORE, PATIENTS MUST BE CAREFULLY MONITORED FOR SUCH CHANGES AND THEIR POTENTIAL SEQUELAE. MINERAL AND ELECTROLYTE SUPPLEMENTATION MAY BE REQUIRED. FOSCARNET SODIUM INJECTION IS INDICATED FOR USE ONLY IN IMMUNOCOMPROMISED PATIENTS WITH CMV RETINITIS AND MUCOCUTANEOUS ACYCLOVIR-RESISTANT HSV INFECTIONS. (See INDICATIONS section).",
+    "warnings": "WARNINGS Renal Impairment THE MAJOR TOXICITY OF FOSCARNET SODIUM INJECTION IS RENAL IMPAIRMENT (see ADVERSE REACTIONS section). Renal impairment is most likely to become clinically evident during the second week of induction therapy, but may occur at any time during foscarnet sodium injection treatment. Renal function should be monitored carefully during both induction and maintenance therapy (see PATIENT MONITORING section). Elevations in serum creatinine are usually, but not always, reversible following discontinuation or dose adjustment of foscarnet sodium injection. Safety and efficacy data for patients with baseline serum creatinine levels greater than 2.8 mg/dL or measured 24-hour creatinine clearances <50 mL/min are limited. SINCE FOSCARNET SODIUM INJECTION HAS THE POTENTIAL TO CAUSE RENAL IMPAIRMENT, DOSE ADJUSTMENT BASED ON SERUM CREATININE IS NECESSARY. Hydration may reduce the risk of nephrotoxicity. It is recommended that 750 to 1,000 mL of normal saline or 5% dextrose solution should be given prior to the first infusion of foscarnet sodium injection to establish diuresis. With subsequent infusions, 750 to 1,000 mL of hydration fluid should be given with 90 to 120 mg/kg of foscarnet sodium injection, and 500 mL with 40 to 60 mg/kg of foscarnet sodium injection. Hydration fluid may need to be decreased if clinically warranted. After the first dose, the hydration fluid should be administered concurrently with each infusion of foscarnet sodium injection. Mineral and Electrolyte Abnormalities Foscarnet sodium injection has been associated with changes in serum electrolytes including hypocalcemia, hypophosphatemia, hyperphosphatemia, hypomagnesemia, and hypokalemia (see ADVERSE REACTIONS section). Foscarnet sodium injection may also be associated with a dose-related decrease in ionized serum calcium which may not be reflected in total serum calcium. This effect is likely to be related to chelation of divalent metal ions such as calcium by foscarnet. Patients should be advised to report symptoms of low ionized calcium such as perioral tingling, numbness in the extremities and paresthesias. Particular caution and careful management of serum electrolytes is advised in patients with altered calcium or other electrolyte levels before treatment and especially in those with neurologic or cardiac abnormalities and those receiving other drugs known to influence minerals and electrolytes (see PATIENT MONITORING and Drug Interactions sections). Physicians should be prepared to treat these abnormalities and their sequelae such as tetany, seizures or cardiac disturbances. The rate of foscarnet sodium injection infusion may also affect the decrease in ionized calcium. Therefore, an infusion pump must be used for administration to prevent rapid intravenous infusion (see DOSAGE AND ADMINISTRATION section). Slowing the infusion rate may decrease or prevent symptoms. Seizures Seizures related to mineral and electrolyte abnormalities have been associated with foscarnet sodium injection treatment (see WARNING section; Mineral and Electrolyte Abnormalities ). Several cases of seizures were associated with death. Cases of status epilepticus have been reported. Risk factors associated with seizures included impaired baseline renal function, low total serum calcium, and underlying CNS conditions. Hypersensitivity Serious acute hypersensitivity reactions (e.g., anaphylactic shock, urticaria, angioedema) have been reported postmarketing in patients receiving foscarnet sodium injection (see ADVERSE REACTIONS section). If such an acute reaction occurs, therapy should be discontinued and appropriate medical therapy immediately instituted. QT prolongation and torsade de pointes Foscarnet sodium injection has been associated with prolongation of the QT interval, an ECG abnormality that has been associated with torsades de pointes, which has been reported during postmarketing surveillance for foscarnet sodium injection (see ADVERSE REACTIONS section). Some of these patients had confounding risk factors such as underlying cardiac disease, electrolyte abnormalities and other concomitant medications. Use with caution in patients who have a history of QT prolongation, in patients who are taking medications known to prolong the QT interval (see PRECAUTIONS section), in patients with electrolyte disturbances, or in patients who have other risk factors for QT prolongation. Electrocardiograms (ECGs) and measurement of electrolytes should be obtained prior to treatment initiation and periodically during treatment with foscarnet sodium injection.",
+    "drug_interactions": "Drug Interactions A possible drug interaction of foscarnet sodium injection and intravenous pentamidine has been described. Concomitant treatment of four patients in the United Kingdom with foscarnet sodium injection and intravenous pentamidine may have caused hypocalcemia; one patient died with severe hypocalcemia. Toxicity associated with concomitant use of aerosolized pentamidine has not been reported. Because foscarnet sodium injection can reduce serum levels of ionized calcium, extreme caution is advised when used concurrently with other drugs known to influence serum calcium levels (e.g., intravenous pentamidine). Renal impairment and symptomatic hypocalcemia have been observed during concurrent treatment with foscarnet sodium injection and intravenous pentamidine. Because of foscarnet's tendency to cause renal impairment, the use of foscarnet sodium injection should be avoided in combination with potentially nephrotoxic drugs such as aminoglycosides, amphotericin B, cyclosporine, acyclovir, methotrexate, tacrolimus and intravenous pentamidine (see above) unless the potential benefits outweigh the risks to the patient. When diuretics are indicated, thiazides are recommended over loop diuretics because the latter inhibit renal tubular secretion, and may impair elimination of foscarnet sodium injection, potentially leading to toxicity. Abnormal renal function has been observed in clinical practice during the use of foscarnet sodium injection and ritonavir, or foscarnet sodium injection, ritonavir, and saquinavir. (See DOSAGE AND ADMINISTRATION .) Because of the risk of QT prolongation and the potential for torsades de pointes, the use of foscarnet sodium injection should be avoided in combination with agents known to prolong the QT interval including Class IA (e.g., quinidine or procainamide) or Class III (e.g., dofetilide, amiodarone, sotalol) antiarrhythmic agents, phenothiazines, tricyclic antidepressants, and certain macrolides and fluoroquinolones.",
+    "contraindications": "CONTRAINDICATIONS Foscarnet sodium injection is contraindicated in patients with clinically significant hypersensitivity to foscarnet sodium.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION CAUTION - DO NOT ADMINISTER FOSCARNET SODIUM INJECTION BY RAPID OR BOLUS INTRAVENOUS INJECTION. THE TOXICITY OF FOSCARNET SODIUM INJECTION MAY BE INCREASED AS A RESULT OF EXCESSIVE PLASMA LEVELS. CARE SHOULD BE TAKEN TO AVOID UNINTENTIONAL OVERDOSE BY CAREFULLY CONTROLLING THE RATE OF INFUSION. THEREFORE, AN INFUSION PUMP MUST BE USED. IN SPITE OF THE USE OF AN INFUSION PUMP, OVERDOSES HAVE OCCURRED.",
+    "indications_and_usage": "INDICATIONS CMV Retinitis Foscarnet sodium injection is indicated for the treatment of CMV retinitis in patients with acquired immunodeficiency syndrome (AIDS). Combination therapy with foscarnet sodium injection and ganciclovir is indicated for patients who have relapsed after monotherapy with either drug. SAFETY AND EFFICACY OF FOSCARNET SODIUM INJECTION HAVE NOT BEEN ESTABLISHED FOR TREATMENT OF OTHER CMV INFECTIONS (e.g., PNEUMONITIS, GASTROENTERITIS); CONGENITAL OR NEONATAL CMV DISEASE; OR NONIMMUNOCOMPROMISED INDIVIDUALS. Mucocutaneous Acyclovir Resistant HSV Infections Foscarnet sodium injection is indicated for the treatment of acyclovir-resistant mucocutaneous HSV infections in immunocompromised patients. SAFETY AND EFFICACY OF FOSCARNET SODIUM INJECTION HAVE NOT BEEN ESTABLISHED FOR TREATMENT OF OTHER HSV INFECTIONS (e.g., RETINITIS, ENCEPHALITIS); CONGENITAL OR NEONATAL HSV DISEASE; OR HSV IN NONIMMUNOCOMPROMISED INDIVIDUALS."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA213001"
+    ],
+    "brand_name": [
+      "Foscarnet Sodium"
+    ],
+    "generic_name": [
+      "FOSCARNET SODIUM"
+    ],
+    "manufacturer_name": [
+      "Sagent Pharmaceuticals"
+    ],
+    "product_ndc": [
+      "25021-189"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "FOSCARNET SODIUM"
+    ],
+    "rxcui": [
+      "1734377"
+    ],
+    "spl_id": [
+      "f5829ec8-15e6-43a4-a5f0-68ea0cddb8c8"
+    ],
+    "spl_set_id": [
+      "2f49c1bc-0828-4e5c-a3c0-81e997213b0e"
+    ],
+    "package_ndc": [
+      "25021-189-84"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "964YS0OOG1"
+    ]
+  }
+}

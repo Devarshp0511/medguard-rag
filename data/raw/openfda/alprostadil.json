@@ -1,0 +1,80 @@
+{
+  "drug_name": "Alprostadil",
+  "drug_id": 509,
+  "sections": {
+    "boxed_warning": "WARNING Apnea is experienced by about 10 to 12% of neonates with congenital heart defects treated with alprostadil injection. Apnea is most often seen in neonates weighing less than 2 kg at birth and usually appears during the first hour of drug infusion. Therefore, respiratory status should be monitored throughout treatment, and alprostadil injection should be used where ventilatory assistance is immediately available.",
+    "warnings": "WARNINGS See WARNING box. NOTE : Alprostadil injection must be diluted before it is administered. See dilution instructions in DOSAGE AND ADMINISTRATION section. The administration of alprostadil injection to neonates may result in gastric outlet obstruction secondary to antral hyperplasia. This effect appears to be related to duration of therapy and cumulative dose of the drug. Neonates receiving alprostadil injection at recommended doses for more than 120 hours should be closely monitored for evidence of antral hyperplasia and gastric outlet obstruction. Alprostadil injection should be infused for the shortest time and at the lowest dose that will produce the desired effects. The risks of long-term infusion of alprostadil injection should be weighed against the possible benefits that critically ill infants may derive from its administration.",
+    "drug_interactions": "Drug Interactions No drug interactions have been reported between alprostadil injection and the therapy standard in neonates with restricted pulmonary or systemic blood flow. Standard therapy includes antibiotics, such as penicillin and gentamicin; vasopressors, such as dopamine and isoproterenol; cardiac glycosides; and diuretics, such as furosemide.",
+    "contraindications": "CONTRAINDICATIONS None.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The preferred route of administration for alprostadil injection is continuous intravenous infusion into a large vein. Alternatively, alprostadil injection may be administered through an umbilical artery catheter placed at the ductal opening. Increases in blood pO 2 (torr) have been the same in neonates who received the drug by either route of administration. Begin infusion with 0.05 to 0.1 micrograms alprostadil per kilogram of body weight per minute. A starting dose of 0.1 micrograms per kilogram of body weight per minute is the recommended starting dose based on clinical studies; however, adequate clinical response has been reported using a starting dose of 0.05 micrograms per kilogram of body weight per minute. After a therapeutic response is achieved (increased pO 2 in infants with restricted pulmonary blood flow or increased systemic blood pressure and blood pH in infants with restricted systemic blood flow), reduce the infusion rate to provide the lowest possible dosage that maintains the response. This may be accomplished by reducing the dosage from 0.1 to 0.05 to 0.025 to 0.01 micrograms per kilogram of body weight per minute. If response to 0.05 micrograms per kilogram of body weight per minute is inadequate, dosage can be increased up to 0.4 micrograms per kilogram of body weight per minute although, in general, higher infusion rates do not produce greater effects. Dilution Instructions To prepare infusion solutions, dilute 1 mL of alprostadil injection with sodium chloride injection, USP or dextrose injection, USP. Undiluted alprostadil injection may interact with the plastic sidewalls of volumetric infusion chambers causing a change in the appearance of the chamber and creating a hazy solution. Should this occur, the solution and the volumetric infusion chamber should be replaced. When using a volumetric infusion chamber, the appropriate amount of intravenous infusion solution should be added to the chamber first. The undiluted alprostadil injection should then be added to the intravenous infusion solution, avoiding direct contact of the undiluted solution with the walls of the volumetric infusion chamber. Dilute to volumes appropriate for the pump delivery system available. Prepare fresh infusion solutions every 24 hours. Discard any solution more than 24 hours old . Sample Dilutions and Infusion Rates to Provide a Dosage of 0.1 Micrograms per Kilogram of Body Weight per Minute Add 1 vial (500 micrograms) alprostadil to: Approximate Concentration of resulting solution (micrograms/mL) lnfusion rate (mL/min per kg) (of body weight) 250 mL 2 0.05 100 mL 5 0.02 50 mL 10 0.01 25 mL 20 0.005 Example: To provide 0.1 micrograms/kilogram of body weight per minute to an infant weighing 2.8 kilograms using a solution of 1 vial alprostadil injection in 100 mL of saline or dextrose: INFUSION RATE = 0.02 mL/min per kg \u00d7 2.8 kg = 0.056 mL/min or 3.36 mL/hr. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.",
+    "dosage_and_administration_table": "<table width=\"100%\"><caption>Sample Dilutions and Infusion Rates to Provide a Dosage of 0.1 Micrograms per Kilogram of Body Weight per Minute </caption><tbody><tr><td align=\"center\" styleCode=\"Botrule\"><content styleCode=\"bold\">Add 1 vial (500 micrograms) alprostadil to:</content></td><td align=\"center\" styleCode=\"Botrule\"><content styleCode=\"bold\">Approximate Concentration of resulting solution (micrograms/mL)</content></td><td align=\"center\" styleCode=\"Botrule\"><content styleCode=\"bold\">lnfusion rate (mL/min per kg) (of body weight) </content></td></tr><tr><td align=\"center\" styleCode=\"Botrule\"> 250 mL</td><td align=\"center\" styleCode=\"Botrule\"> 2</td><td align=\"center\" styleCode=\"Botrule\"> 0.05</td></tr><tr><td align=\"center\" styleCode=\"Botrule\"> 100 mL</td><td align=\"center\" styleCode=\"Botrule\"> 5</td><td align=\"center\" styleCode=\"Botrule\"> 0.02</td></tr><tr><td align=\"center\" styleCode=\"Botrule\"> 50 mL</td><td align=\"center\" styleCode=\"Botrule\"> 10</td><td align=\"center\" styleCode=\"Botrule\"> 0.01</td></tr><tr><td align=\"center\"> 25 mL</td><td align=\"center\"> 20</td><td align=\"center\"> 0.005</td></tr></tbody></table> <table><colgroup><col width=\"12%\"/><col width=\"72%\"/></colgroup><tbody><tr styleCode=\"First Last\"><td styleCode=\"Botrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Example:</content></paragraph></td><td styleCode=\"Botrule Toprule\" valign=\"top\"><paragraph>To provide 0.1 micrograms/kilogram of body weight per minute to an infant weighing 2.8 kilograms using a solution of 1 vial alprostadil injection in 100 mL of saline or dextrose: INFUSION RATE = 0.02 mL/min per kg &#xD7; 2.8 kg = 0.056 mL/min or 3.36 mL/hr.</paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE Alprostadil injection, USP is indicated for palliative, not definitive, therapy to temporarily maintain the patency of the ductus arteriosus until corrective or palliative surgery can be performed in neonates who have congenital heart defects and who depend upon the patent ductus for survival. Such congenital heart defects include pulmonary atresia, pulmonary stenosis, tricuspid atresia, tetralogy of Fallot, interruption of the aortic arch, coarctation of the aorta, or transposition of the great vessels with or without other defects. In infants with restricted pulmonary blood flow, the increase in blood oxygenation is inversely proportional to pretreatment pO 2 values; that is, patients with low pO 2 values respond best, and patients with pO 2 values of 40 torr or more usually have little response. Alprostadil injection, USP should be administered only by trained personnel in facilities that provide pediatric intensive care."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA075196"
+    ],
+    "brand_name": [
+      "Alprostadil"
+    ],
+    "generic_name": [
+      "ALPROSTADIL"
+    ],
+    "manufacturer_name": [
+      "Meitheal Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "71288-206"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVASCULAR"
+    ],
+    "substance_name": [
+      "ALPROSTADIL"
+    ],
+    "rxcui": [
+      "237212"
+    ],
+    "spl_id": [
+      "7e1975e8-b348-400d-a3aa-9a3ac1cba3b0"
+    ],
+    "spl_set_id": [
+      "35d229e1-6947-435c-bf54-bfa09cca7e53"
+    ],
+    "package_ndc": [
+      "71288-206-01",
+      "71288-206-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000009059",
+      "N0000175454",
+      "N0000180189",
+      "N0000000106",
+      "M0017805",
+      "N0000009911"
+    ],
+    "pharm_class_pe": [
+      "Genitourinary Arterial Vasodilation [PE]",
+      "Venous Vasodilation [PE]"
+    ],
+    "pharm_class_epc": [
+      "Prostaglandin Analog [EPC]",
+      "Prostaglandin E1 Agonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Prostaglandin Receptor Agonists [MoA]"
+    ],
+    "pharm_class_cs": [
+      "Prostaglandins [CS]"
+    ],
+    "unii": [
+      "F5TD010360"
+    ]
+  }
+}

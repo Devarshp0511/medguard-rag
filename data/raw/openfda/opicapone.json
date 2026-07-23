@@ -1,0 +1,76 @@
+{
+  "drug_name": "Opicapone",
+  "drug_id": 316,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Cardiovascular Effects with Concomitant Use of Drugs Metabolized by Catechol-O-Methyltransferase (COMT): May cause arrhythmias, increased heart rate, and excessive changes in blood pressure. Monitor patients when treated concomitantly with products metabolized by COMT. ( 4 , 5.1 ) Falling Asleep During Activities of Daily Living: Advise patients prior to treatment. ( 5.2 ) Hypotension/Syncope: If occurs, consider discontinuing ONGENTYS or adjusting dosage of other medications that can lower blood pressure. ( 5.3 ) Dyskinesia: May cause or exacerbate dyskinesia; consider levodopa or dopaminergic medication dose reduction. ( 5.4 ) Hallucinations and Psychosis: Consider stopping ONGENTYS if occurs. ( 5.5 ) Impulse Control/Compulsive Disorders: Consider stopping ONGENTYS if occurs. ( 5.6 ) Withdrawal-Emergent Hyperpyrexia and Confusion: When discontinuing ONGENTYS, monitor patients and consider adjustment of other dopaminergic therapies as needed. ( 5.7 ) 5.1 Cardiovascular Effects with Concomitant Use of Drugs Metabol ized by Catechol-O-Methyltransferase (COMT) Possible arrhythmias, increased heart rate, and excessive changes in blood pressure may occur with concomitant use of ONGENTYS and drugs metabolized by COMT (e.g., isoproterenol, epinephrine, norepinephrine, dopamine, and dobutamine), regardless of the route of administration (including inhalation). Monitor patients treated concomitantly with ONGENTYS and drugs metabolized by COMT [see Contraindications ( 4 ), Drug Interactions ( 7.1 , 7.2 )] . 5.2 Falling Asleep During Activities of Daily Living and Somnolence Patients treated with dopaminergic medications and medications that increase levodopa exposure, including ONGENTYS, have reported falling asleep while engaged in activities of daily living, including the operation of motor vehicles, which sometimes has resulted in accidents. Patients may not perceive warning signs, such as excessive drowsiness, or they may report feeling alert immediately prior to the event. Before initiating treatment with ONGENTYS, advise patients of the potential to develop drowsiness and specifically ask about factors that may increase the risk for somnolence with dopaminergic therapy, such as concomitant sedating medications or the presence of a sleep disorder. If a patient develops daytime sleepiness or episodes of falling asleep during activities that require full attention (e.g., driving a motor vehicle, conversations, eating), consider discontinuing ONGENTYS or adjusting other dopaminergic or sedating medications. If a decision is made to continue ONGENTYS, patients should be advised not to drive and to avoid other potentially dangerous activities. 5.3 Hypotension/Syncope In Study 1 and Study 2 [see Clinical Studies ( 14 )] , hypotension (orthostatic and non-orthostatic), syncope, and presyncope occurred in 5% of patients treated with ONGENTYS 50 mg compared to 1% of patients who received placebo. Monitor patients for hypotension (orthostatic and non-orthostatic) and advise patients about the risk for syncope and presyncope. If these adverse reactions occur, consider discontinuing ONGENTYS or adjusting the dosage of other medications that can lower blood pressure. 5.4 Dyskinesia ONGENTYS potentiates the effects of levodopa [see Clinical Pharmacology ( 12.3 )] and may cause dyskinesia or exacerbate pre-existing dyskinesia. In controlled clinical trials (Study 1 and Study 2) [see Clinical Studies ( 14 )], dyskinesia occurred in 20% of patients treated with ONGENTYS 50 mg compared to 6% of patients who received placebo. Dyskinesia was also the most common adverse reaction leading to discontinuation of ONGENTYS [see Adverse Reactions ( 6.1 )]. Reducing the patient\u2019s daily levodopa dosage or the dosage of another dopaminergic drug may mitigate dyskinesia that occurs during treatment with ONGENTYS. 5.5 Hallucinations and Psychosis In Study 1 and Study 2, hallucinations (hallucinations, auditory hallucinations, visual hallucinations, mixed hallucinations) occurred in 3% of patients treated with ONGENTYS 50 mg compared to 1% of patients who received placebo. Delusions, agitation, or aggressive behavior occurred in 1% of patients treated with ONGENTYS 50 mg, and in no patient who received placebo. Consider stopping ONGENTYS if hallucinations or psychotic-like behaviors occur. Patients with a major psychotic disorder should ordinarily not be treated with ONGENTYS because of the risk of exacerbating the psychosis with an increase in central dopaminergic tone. In addition, treatments for psychosis that antagonize the effects of dopaminergic medications may exacerbate the symptoms of PD . 5.6 Impulse Control / Compulsive Disorders Patients treated with ONGENTYS can experience intense urges to gamble, increased sexual urges, intense urges to spend money, binge eating, and/or other intense urges, and the inability to control these urges while taking one or more dopaminergic therapies that increase central dopaminergic tone. In some cases, these urges were reported to have stopped when the dose was reduced, or the medication was discontinued. Because patients may not recognize these behaviors as abnormal, it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending, or other urges while being treated with ONGENTYS. In Study 1 and Study 2, impulse control disorders occurred in 1% of patients treated with ONGENTYS 50 mg, and in no patient who received placebo. Re-evaluate the patient\u2019s current therapy(ies) for Parkinson\u2019s disease and consider stopping ONGENTYS if a patient develops such urges while taking ONGENTYS. Use with caution in Parkinson\u2019s patients with suspected or diagnosed dopamine dysregulation syndrome. 5.7 Withdrawal- E mergent Hyperpyrexia and Confusion A symptom complex resembling neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in drugs that increase central dopaminergic tone. In the controlled clinical studies of ONGENTYS, patients discontinued ONGENTYS treatment without dose tapering or gradual withdrawal. There were no reports of neuroleptic malignant syndrome in ONGENTYS controlled clinical studies. When discontinuing ONGENTYS, monitor patients and consider adjustment of other dopaminergic therapies as needed [see Dosage and Administration ( 2.3 )] .",
+    "drug_interactions": "7 DRUG INTERACTIONS 7.1 Non-Selective Monoamine Oxidase (MAO) Inhibitors Both ONGENTYS and non-selective MAO inhibitors (e.g., phenelzine, isocarboxazid, and tranylcypromine) inhibit catecholamine metabolism, leading to increased levels of catecholamines. Concomitant use may increase the risk of possible arrhythmias, increased heart rate, and excessive changes in blood pressure. Concomitant use of ONGENTYS with non-selective MAO inhibitors is contraindicated [see Contraindications ( 4 )] . Selective MAO-B inhibitors can be used concomitantly with ONGENTYS. 7.2 Effect of ONGENTYS on Other Drugs Drugs Metabolized by Catechol-O-Methyltransferase (COMT) Concomitant use of ONGENTYS with drugs metabolized by COMT may affect the pharmacokinetics of those drugs, which may increase the risk of possible arrhythmias, increased heart rate, and excessive changes in blood pressure [see Warnings and Precautions ( 5.1 )] . Drugs known to be metabolized by COMT should be administered with caution. Monitor for changes in heart rate, rhythm, and blood pressure in patients concomitantly treated with ONGENTYS and drugs metabolized by COMT [see Warnings and Precautions ( 5.1 )] .",
+    "contraindications": "4 CONTRAINDICATIONS ONGENTYS is contraindicated in patients with: Concomitant use of non-selective monoamine oxidase (MAO) inhibitors [ see Drug Interactions ( 7.1 ) ] . Pheochromocytoma, paraganglioma, or other catecholamine secreting neoplasms. Concomitant use of non-selective monoamine oxidase (MAO) inhibitors. ( 4 ) History of pheochromocytoma, paraganglioma, or other catecholamine secreting neoplasms. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended dosage is 50 mg administered orally once daily at bedtime. ( 2.1 ) Patients should not eat food for 1 hour before and for at least 1 hour after intake of ONGENTYS. ( 2.1 ) The recommended dosage in patients with moderate hepatic impairment is 25 mg orally once daily at bedtime; avoid use in patients with severe hepatic impairment. ( 2.2 ) 2.1 Dosing and Administration Information The recommended dosage of ONGENTYS is 50 mg administered orally once daily at bedtime. Patients should not eat food for 1 hour before and for at least 1 hour after intake of ONGENTYS [see Clinical Pharmacology ( 12.3 )]. 2.2 Dosage Recommendations for Patients with Hepatic Impairment In patients with moderate hepatic impairment (Child-Pugh B), the recommended dose of ONGENTYS is 25 mg orally once daily at bedtime [see Use in Specific Populations ( 8.7 ), Clinical Pharmacology ( 12.3 )]. Avoid use of ONGENTYS in patients with severe (Child-Pugh C) hepatic impairment [ see Use in Specific Populations ( 8.7 ) , Clinical Pharmacology ( 12.3 ) ]. 2.3 D iscontinuation and Missed Dose When discontinuing ONGENTYS, monitor patients and consider adjustment of other dopaminergic therapies as needed. If a dose of ONGENTYS is missed, the next dose should be taken at the scheduled time the next day.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ONGENTYS is indicated as adjunctive treatment to levodopa/carbidopa in patients with Parkinson\u2019s disease (PD) experiencing \u201coff\u201d episodes. ONGENTYS is a catechol-O-methyltransferase (COMT) inhibitor indicated as adjunctive treatment to levodopa/carbidopa in patients with Parkinson\u2019s disease (PD) experiencing \u201coff\u201d episodes. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA212489"
+    ],
+    "brand_name": [
+      "ONGENTYS"
+    ],
+    "generic_name": [
+      "OPICAPONE"
+    ],
+    "manufacturer_name": [
+      "Amneal Pharmaceuticals LLC"
+    ],
+    "product_ndc": [
+      "64896-402",
+      "64896-403"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "OPICAPONE"
+    ],
+    "rxcui": [
+      "2362172",
+      "2362178",
+      "2362180",
+      "2362182"
+    ],
+    "spl_id": [
+      "550f6797-b388-4ceb-885c-ef56f48ae06c"
+    ],
+    "spl_set_id": [
+      "a511a531-112e-43f8-a43f-5334b0efe979"
+    ],
+    "package_ndc": [
+      "64896-402-01",
+      "64896-403-01",
+      "64896-403-03",
+      "64896-403-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0364896403018",
+      "0364896402011"
+    ],
+    "nui": [
+      "N0000175756",
+      "N0000175757"
+    ],
+    "pharm_class_moa": [
+      "Catechol O-Methyltransferase Inhibitors [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Catechol-O-Methyltransferase Inhibitor [EPC]"
+    ],
+    "unii": [
+      "Y5929UIJ5N"
+    ]
+  }
+}

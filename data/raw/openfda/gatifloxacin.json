@@ -1,0 +1,56 @@
+{
+  "drug_name": "Gatifloxacin",
+  "drug_id": 568,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Hypersensitivity ( 5.1 ) Growth of Resistant Organisms with Prolonged Use ( 5.2 ) Corneal Endothelial Cell Injury ( 5.3 ) 5.1 Hypersensitivity Some patients receiving topical ophthalmic gatifloxacin experienced hypersensitivity reactions including anaphylactic reactions, angioedema (including pharyngeal, laryngeal, or facial edema), dyspnea, urticaria, and itching, even following a single dose. Rare cases of Stevens-Johnson Syndrome were reported in association with topical ophthalmic gatifloxacin use. If an allergic reaction to gatifloxacin occurs, discontinue the drug [see Patient Counseling Information ( 17 )] . 5.2 Growth of Resistant Organisms with Prolonged Use Prolonged use of ZYMAXID \u00ae may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, examine the patient with the aid of magnification, such as slit lamp biomicroscopy and where appropriate, fluorescein staining. 5. 3 Corneal Endothelial Cell Injury ZYMAXID \u00ae is for topical ophthalmic use. ZYMAXID \u00ae may cause corneal endothelial cell injury if introduced directly into the anterior chamber of the eye.",
+    "contraindications": "4 CONTRAINDICATIONS ZYMAXID \u00ae is contraindicated in patients with a history of hypersensitivity to gatifloxacin, to other quinolones, or to any of the components in this medication [see Warnings and Precautions ( 5.1 )] . ZYMAXID \u00ae is contraindicated in patients with a history of hypersensitivity to gatifloxacin, to other quinolones, or to any of the components in this medication. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Day 1: Instill one drop every two hours in the affected eye(s) while awake, up to 8 times. Day 2 through Day 7: Instill one drop two to four times daily in the affected eye(s) while awake. Day 1: Instill one drop every two hours in the affected eye(s) while awake, up to 8 times on Day 1. Days 2 through 7: Instill one drop two to four times daily in the affected eye(s) while awake on Days 2 through 7. ( 2 )",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ZYMAXID \u00ae is indicated for the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Aerobic gram-positive bacteria: Staphylococcus aureus Staphylococcus epidermidis Streptococcus mitis group * Streptococcus oralis * Streptococcus pneumoniae Aerobic gram-negative bacteria: Haemophilus influenzae *Efficacy for these organisms were studied in fewer than 10 infections . ZYMAXID \u00ae is a quinolone antimicrobial indicated for the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Haemophilus influenzae, Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus mitis group , Streptococcus oralis, Streptococcus pneumoniae ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA022548"
+    ],
+    "brand_name": [
+      "ZYMAXID"
+    ],
+    "generic_name": [
+      "GATIFLOXACIN"
+    ],
+    "manufacturer_name": [
+      "Allergan, Inc."
+    ],
+    "product_ndc": [
+      "0023-3615"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "GATIFLOXACIN"
+    ],
+    "rxcui": [
+      "992395",
+      "992399"
+    ],
+    "spl_id": [
+      "8ecbdc67-bc68-4437-b99d-9924e25dfe67"
+    ],
+    "spl_set_id": [
+      "1160b16c-929a-4e85-9c0b-1d8c96a7678b"
+    ],
+    "package_ndc": [
+      "0023-3615-01",
+      "0023-3615-25"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L4618BD7KJ"
+    ]
+  }
+}

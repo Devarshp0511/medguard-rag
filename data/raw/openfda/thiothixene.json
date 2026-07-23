@@ -1,0 +1,62 @@
+{
+  "drug_name": "Thiothixene",
+  "drug_id": 358,
+  "sections": {
+    "boxed_warning": "BOXED WARNING WARNING Increased Mortality in Elderly Patients with Dementia-Related Psychosis : Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Analyses of seventeen placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients. Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group. Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature. Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality. The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear. Thiothixene is not approved for the treatment of patients with dementia-related psychosis (see WARNINGS ).",
+    "warnings": "WARNINGS Increased Mortality in Elderly Patients with Dementia-Related Psychosis Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Thiothixene is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING). Tardive Dyskinesia Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs, including thiothixene (1). Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome. Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown. Both the risk of developing the syndrome and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase. However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses. There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn. Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying disease process. The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown. Given these considerations, antipsychotics should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia. Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to antipsychotic drugs, and 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate. In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought. The need for continued treatment should be reassessed periodically. If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered. However, some patients may require treatment despite the presence of the syndrome. (For further information about the description of tardive dyskinesia and its clinical detection, please refer to Information for Patients in the PRECAUTIONS section, and to the ADVERSE REACTIONS section.) Neuroleptic Malignant Syndrome (NMS) A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs, including thiothixene 2 . Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias). The diagnostic evaluation of patients with this syndrome is complicated. In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS). Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology. The management of NMS should include 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and treatment of any concomitant serious medical problems for which specific treatments are available. There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS. If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered. The patient should be carefully monitored, since recurrences of NMS have been reported. Pregnancy Safe use of thiothixene during pregnancy has not been established. Therefore, this drug should be given to pregnant patients only when, in the judgment of the physician, the expected benefits from the treatment exceed the possible risks to mother and fetus. Non-teratogenic Effects Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery. There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates. These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization. Thiothixene Capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Animal reproduction studies and clinical experience to date have not demonstrated any teratogenic effects. In the animal reproduction studies with thiothixene, there was some decrease in conception rate and litter size, and an increase in resorption rate in rats and rabbits. Similar findings have been reported with other psychotropic agents. After repeated oral administration of thiothixene to rats (5 to 15 mg/kg/day), rabbits (3 to 50 mg/kg/day), and monkeys (1 to 3 mg/kg/day) before and during gestation, no teratogenic effects were seen. Usage in Children The use of thiothixene in children under 12 years of age is not recommended because safe conditions for its use have not been established. As is true with many CNS drugs, thiothixene may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery, especially during the first few days of therapy. Therefore, the patient should be cautioned accordingly. As in the case of other CNS-acting drugs, patients receiving thiothixene should be cautioned about the possible additive effects (which may include hypotension) with CNS depressants and with alcohol.",
+    "drug_interactions": "DRUG INTERACTIONS Hepatic microsomal enzyme inducing agents, such as carbamazepine, were found to significantly increase the clearance of thiothixene. Patients receiving these drugs should be observed for signs of reduced thiothixene effectiveness 4,5 . Due to a possible additive effect with hypotensive agents, patients receiving these drugs should be observed closely for signs of excessive hypotension when thiothixene is added to their drug regimen 6 .",
+    "contraindications": "CONTRAINDICATIONS Thiothixene capsules are contraindicated in patients with circulatory collapse, comatose states, central nervous system depression due to any cause, and blood dyscrasias. Thiothixene is contraindicated in individuals who have shown hypersensitivity to the drug. It is not known whether there is a cross sensitivity between the thioxanthenes and the phenothiazine derivatives, but this possibility should be considered.",
+    "dosage_and_administration": "DOSAGE & ADMINISTRATION Dosage of thiothixene capsules should be individually adjusted depending on the chronicity and severity of the symptoms of schizophrenia. In general, small doses should be used initially and gradually increased to the optimal effective level, based on patient response. Some patients have been successfully maintained on once a day thiothixene capsule therapy. The use of thiothixene capsules in children under 12 years of age is not recommended because safe conditions for its use have not been established. In milder conditions, an initial dose of 2 mg three times daily is recommended. If indicated, a subsequent increase to 15 mg/day total daily dose is often effective. In more severe conditions, an initial dose of 5 mg twice daily is recommended. The usual optimal dose is 20 mg to 30 mg daily. If indicated, an increase to 60 mg/day total daily dose is often effective. Exceeding a total daily dose of 60 mg rarely increases the beneficial response.",
+    "indications_and_usage": "INDICATIONS & USAGE Thiothixene capsules are effective in the management of schizophrenia. Thiothixene capsules have not been evaluated in the management of behavioral complications in patients with mental retardation."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA211642"
+    ],
+    "brand_name": [
+      "Thiothixene"
+    ],
+    "generic_name": [
+      "THIOTHIXENE"
+    ],
+    "manufacturer_name": [
+      "Coupler LLC"
+    ],
+    "product_ndc": [
+      "67046-1542"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "THIOTHIXENE"
+    ],
+    "rxcui": [
+      "313361"
+    ],
+    "spl_id": [
+      "313e882a-0ba6-354c-e063-6294a90a0a3f"
+    ],
+    "spl_set_id": [
+      "313e893c-a6d0-46ae-e063-6294a90a6025"
+    ],
+    "package_ndc": [
+      "67046-1542-3"
+    ],
+    "original_packager_product_ndc": [
+      "70954-017"
+    ],
+    "nui": [
+      "N0000180182"
+    ],
+    "pharm_class_epc": [
+      "Typical Antipsychotic [EPC]"
+    ],
+    "unii": [
+      "7318FJ13YJ"
+    ]
+  }
+}

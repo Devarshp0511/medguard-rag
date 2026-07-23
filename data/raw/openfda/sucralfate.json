@@ -1,0 +1,67 @@
+{
+  "drug_name": "Sucralfate",
+  "drug_id": 1138,
+  "sections": {
+    "drug_interactions": "Drug Interactions Some studies have shown that simultaneous sucralfate administration in healthy volunteers reduced the extent of absorption (bioavailability) of single doses of the following: cimetidine, digoxin, fluoroquinolone antibiotics, ketoconazole, l-thyroxine, phenytoin, quinidine, ranitidine, tetracycline, and theophylline. Subtherapeutic prothrombin times with concomitant warfarin and sucralfate therapy have been reported in spontaneous and published case reports. However, two clinical studies have demonstrated no change in either serum warfarin concentration or prothrombin time with the addition of sucralfate to chronic warfarin therapy. The mechanism of these interactions appears to be nonsystemic in nature, presumably resulting from sucralfate binding to the concomitant agent in the gastrointestinal tract. In all case studies to date (cimetidine, ciprofloxacin, digoxin, norfloxacin, ofloxacin, and ranitidine), dosing the concomitant medication 2 hours before sucralfate eliminated the interaction. Because of the potential of Sucralfate to alter the absorption of some drugs, Sucralfate tablets should be administered separately from other drugs when alterations in bioavailability are felt to be critical. In these cases, patients should be monitored appropriately.",
+    "contraindications": "CONTRAINDICATIONS Sucralfate tablets are contraindicated in patients with known hypersensitivity reactions to the active substance or to any of the excipients.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Active Duodenal Ulcer. The recommended adult oral dosage for duodenal ulcer is 1 g four times per day on an empty stomach. Antacids may be prescribed as needed for relief of pain but should not be taken within one-half hour before or after sucralfate. While healing with sucralfate may occur during the first week or two, treatment should be continued for 4 to 8 weeks unless healing has been demonstrated by x-ray or endoscopic examination. Maintenance Therapy: The recommended adult oral dosage is 1 g twice a day. Elderly: In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (See PRECAUTIONS, Geriatric Use ). Call your doctor for medical advice about side effects. You may report side effects to Nostrum Laboratories, Inc. at quality@nostrumpharma.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.",
+    "indications_and_usage": "INDICATIONS AND USAGE Sucralfate tablets are indicated in: Short-term treatment (up to 8 weeks) of active duodenal ulcer. While healing with sucralfate may occur during the first week or two, treatment should be continued for 4 to 8 weeks unless healing has been demonstrated by x-ray or endoscopic examination. Maintenance therapy for duodenal ulcer patients at reduced dosage after healing of acute ulcers."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA074415"
+    ],
+    "brand_name": [
+      "Sucralfate"
+    ],
+    "generic_name": [
+      "SUCRALFATE"
+    ],
+    "manufacturer_name": [
+      "NuCare Pharmaceuticals,Inc."
+    ],
+    "product_ndc": [
+      "68071-3478"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SUCRALFATE"
+    ],
+    "rxcui": [
+      "314234"
+    ],
+    "spl_id": [
+      "2ad411ea-6bf6-b3bd-e063-6394a90af2e7"
+    ],
+    "spl_set_id": [
+      "0206d7fa-a1d5-35d9-e063-6294a90a5eb3"
+    ],
+    "package_ndc": [
+      "68071-3478-3"
+    ],
+    "original_packager_product_ndc": [
+      "29033-003"
+    ],
+    "upc": [
+      "0368071347838"
+    ],
+    "nui": [
+      "N0000175801",
+      "M0015420"
+    ],
+    "pharm_class_epc": [
+      "Aluminum Complex [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Organometallic Compounds [CS]"
+    ],
+    "unii": [
+      "XX73205DH5"
+    ]
+  }
+}

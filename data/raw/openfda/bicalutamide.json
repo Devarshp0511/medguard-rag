@@ -1,0 +1,68 @@
+{
+  "drug_name": "Bicalutamide",
+  "drug_id": 429,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Severe hepatic injury and fatal hepatic failure have been observed. Monitor serum transaminase levels prior to starting treatment with bicalutamide, at regular intervals for the first four months of treatment and periodically thereafter, and for symptoms or signs suggestive of hepatic dysfunction. Use bicalutamide with caution in patients with hepatic impairment. ( 5.1 ) \u2022 Hemorrhage with Concomitant Use of Coumarin Anticoagulant. Closely monitor the Prothrombin Time (PT) and International Normalized Ratio (INR), and adjust the anticoagulant dose as needed. ( 5.2 ) \u2022 Gynecomastia and breast pain have been reported during treatment with bicalutamide 150 mg when used as a single agent. ( 5.3 ) \u2022 Bicalutamide is used in combination with an LHRH agonist. LHRH agonists have been shown to cause a reduction in glucose tolerance in males. Consideration should be given to monitoring blood glucose in patients receiving bicalutamide in combination with LHRH agonists. ( 5.4 ) \u2022 Monitoring Prostate Specific Antigen (PSA) is recommended. Evaluate for clinical progression if PSA increases. ( 5.5 ) 5.1 Hepatitis Cases of death or hospitalization due to severe liver injury (hepatic failure) have been reported postmarketing in association with the use of bicalutamide. Hepatotoxicity in these reports generally occurred within the first three to four months of treatment. Hepatitis or marked increases in liver enzymes leading to drug discontinuation occurred in approximately 1% of bicalutamide patients in controlled clinical trials. Serum transaminase levels should be measured prior to starting treatment with bicalutamide, at regular intervals for the first four months of treatment, and periodically thereafter. If clinical symptoms or signs suggestive of liver dysfunction occur (e.g., nausea, vomiting, abdominal pain, fatigue, anorexia, \u201cflu-like\u201d symptoms, dark urine, jaundice, or right upper quadrant tenderness), the serum transaminases, in particular the serum ALT, should be measured immediately. If at any time a patient has jaundice, or their ALT rises above two times the upper limit of normal, bicalutamide should be immediately discontinued with close follow-up of liver function. 5.2 Hemorrhage with Concomitant Use of Coumarin Anticoagulant In the postmarketing setting, there have been reports of excessive prolongation of the prothrombin time (PT) and International Normalized Ratio (INR) days to weeks after the introduction of bicalutamide in patients who were previously stable on coumarin anticoagulants. Some patients had serious bleeding including intracranial, retroperitoneal, and gastrointestinal requiring blood transfusion and/or administration of vitamin K. Closely monitor the PT/INR, and adjust the anticoagulant dose as needed [see Drug Interactions (7) and Adverse Reactions (6.2)]. 5.3 Gynecomastia and Breast Pain In clinical trials with bicalutamide 150 mg as a single agent for prostate cancer, gynecomastia and breast pain have been reported in up to 38% and 39% of patients, respectively. 5.4 Glucose Tolerance A reduction in glucose tolerance has been observed in males receiving LHRH agonists. This may manifest as diabetes or loss of glycemic control in those with preexisting diabetes. Consideration should therefore be given to monitoring blood glucose in patients receiving bicalutamide in combination with LHRH agonists. 5.5 Laboratory Tests Regular assessments of serum Prostate Specific Antigen (PSA) may be helpful in monitoring the patient\u2019s response. If PSA levels rise during bicalutamide therapy, the patient should be evaluated for clinical progression. For patients who have objective progression of disease together with an elevated PSA, a treatment-free period of antiandrogen, while continuing the LHRH analog, may be considered.",
+    "drug_interactions": "7 DRUG INTERACTIONS Clinical studies have not shown any drug interactions between bicalutamide and LHRH analogs (goserelin or leuprolide). There is no evidence that bicalutamide induces hepatic enzymes. In vitro studies have shown that R-bicalutamide is an inhibitor of CYP 3A4 with lesser inhibitory effects on CYP 2C9, 2C19 and 2D6 activity. Clinical studies have shown that with coadministration of bicalutamide, mean midazolam (a CYP 3A4 substrate) levels may be increased 1.5-fold (for C max ) and 1.9-fold (for AUC). Hence, caution should be exercised when bicalutamide is coadministered with CYP 3A4 substrates. In vitro protein-binding studies have shown that bicalutamide can displace coumarin anticoagulants from binding sites. PT/INR should be closely monitored in patients concomitantly receiving coumarin anticoagulants and bicalutamide. Adjustment of the anticoagulant dose may be necessary [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)]. \u2022 R-bicalutamide is an inhibitor of CYP 3A4; therefore, caution should be used when bicalutamide is coadministered with CYP 3A4 substrates. (7) \u2022 PT/INR should be closely monitored in patients already receiving coumarin anticoagulants who are started on bicalutamide. (7)",
+    "contraindications": "4 CONTRAINDICATIONS Bicalutamide is contraindicated in: \u2022 Hypersensitivity Bicalutamide is contraindicated in any patient who has shown a hypersensitivity reaction to the drug or any of the tablet\u2019s components. Hypersensitivity reactions including angioneurotic edema and urticaria have been reported. \u2022 Women Bicalutamide has no indication for women, and should not be used in this population. \u2022 Pregnancy Bicalutamide can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)]. \u2022 Hypersensitivity ( 4 ) \u2022 Women ( 4 ) \u2022 Pregnancy ( 4, 8.1 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended dose for bicalutamide tablets therapy in combination with an LHRH analog is one 50 mg tablet once daily (morning or evening). (2) 2.1 Recommended Dose and Schedule The recommended dose for bicalutamide tablets therapy in combination with an LHRH analog is one 50 mg tablet once daily (morning or evening), with or without food. It is recommended that bicalutamide tablets be taken at the same time each day. Treatment with bicalutamide tablets should be started at the same time as treatment with an LHRH analog. If a dose of bicalutamide tablets is missed, take the next dose at the scheduled time. Do not take the missed dose and do not double the next dose. 2.2 Dosage Adjustment in Renal Impairment No dosage adjustment is necessary for patients with renal impairment [see Use in Specific Populations (8.7)]. 2.3 Dosage Adjustment in Hepatic Impairment No dosage adjustment is necessary for patients with mild to moderate hepatic impairment. In patients with severe liver impairment (n=4), although there was a 76% increase in the half-life (5.9 and 10.4 days for normal and impaired patients, respectively) of the active enantiomer of bicalutamide, no dosage adjustment is necessary [see Use in Specific Populations (8.6)].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Bicalutamide tablets, USP 50 mg daily are indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. Bicalutamide tablets, USP 150 mg daily are not approved for use alone or with other treatments [see Clinical Studies (14.2)]. \u2022 Bicalutamide tablet 50 mg is an androgen receptor inhibitor indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. (1) \u2022 Bicalutamide tablet 150 mg daily is not approved for use alone or with other treatments. (1)"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA079110"
+    ],
+    "brand_name": [
+      "bicalutamide"
+    ],
+    "generic_name": [
+      "BICALUTAMIDE"
+    ],
+    "manufacturer_name": [
+      "Proficient Rx LP"
+    ],
+    "product_ndc": [
+      "82804-082"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BICALUTAMIDE"
+    ],
+    "rxcui": [
+      "199123"
+    ],
+    "spl_id": [
+      "10e21544-f181-4cf8-9824-df0f49d19511"
+    ],
+    "spl_set_id": [
+      "10e21544-f181-4cf8-9824-df0f49d19511"
+    ],
+    "package_ndc": [
+      "82804-082-90"
+    ],
+    "original_packager_product_ndc": [
+      "47335-485"
+    ],
+    "upc": [
+      "0382804082902"
+    ],
+    "nui": [
+      "N0000000243",
+      "N0000175560"
+    ],
+    "pharm_class_moa": [
+      "Androgen Receptor Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Androgen Receptor Inhibitor [EPC]"
+    ],
+    "unii": [
+      "A0Z3NAU9DP"
+    ]
+  }
+}

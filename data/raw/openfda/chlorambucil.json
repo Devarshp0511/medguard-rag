@@ -1,0 +1,67 @@
+{
+  "drug_name": "Chlorambucil",
+  "drug_id": 1453,
+  "sections": {
+    "boxed_warning": "WARNING LEUKERAN (chlorambucil) can severely suppress bone marrow function. Chlorambucil is a carcinogen in humans. Chlorambucil is probably mutagenic and teratogenic in humans. Chlorambucil produces human infertility (see WARNINGS and PRECAUTIONS).",
+    "warnings": "WARNINGS Because of its carcinogenic properties, chlorambucil should not be given to patients with conditions other than chronic lymphatic leukemia or malignant lymphomas. Convulsions, infertility, leukemia, and secondary malignancies have been observed when chlorambucil was employed in the therapy of malignant and non-malignant diseases. There are many reports of acute leukemia arising in patients with both malignant and non-malignant diseases following chlorambucil treatment. In many instances, these patients also received other chemotherapeutic agents or some form of radiation therapy. The quantitation of the risk of chlorambucil-induction of leukemia or carcinoma in humans is not possible. Evaluation of published reports of leukemia developing in patients who have received chlorambucil (and other alkylating agents) suggests that the risk of leukemogenesis increases with both chronicity of treatment and large cumulative doses. However, it has proved impossible to define a cumulative dose below which there is no risk of the induction of secondary malignancy. The potential benefits from chlorambucil therapy must be weighed on an individual basis against the possible risk of the induction of a secondary malignancy. Chlorambucil has been shown to cause chromatid or chromosome damage in humans. Both reversible and permanent sterility have been observed in both sexes receiving chlorambucil. A high incidence of sterility has been documented when chlorambucil is administered to prepubertal and pubertal males. Prolonged or permanent azoospermia has also been observed in adult males. While most reports of gonadal dysfunction secondary to chlorambucil have related to males, the induction of amenorrhea in females with alkylating agents is well documented and chlorambucil is capable of producing amenorrhea. Autopsy studies of the ovaries from women with malignant lymphoma treated with combination chemotherapy including chlorambucil have shown varying degrees of fibrosis, vasculitis, and depletion of primordial follicles. Rare instances of skin rash progressing to erythema multiforme, toxic epidermal necrolysis, or Stevens-Johnson syndrome have been reported. Chlorambucil should be discontinued promptly in patients who develop skin reactions. Pregnancy Chlorambucil can cause fetal harm when administered to a pregnant woman. Unilateral renal agenesis has been observed in 2 offspring whose mothers received chlorambucil during the first trimester. Urogenital malformations, including absence of a kidney, were found in fetuses of rats given chlorambucil. There are no adequate and well-controlled studies in pregnant women. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus. Women of childbearing potential should be advised to avoid becoming pregnant.",
+    "drug_interactions": "Drug Interactions There are no known drug/drug interactions with chlorambucil.",
+    "contraindications": "CONTRAINDICATIONS Chlorambucil should not be used in patients whose disease has demonstrated a prior resistance to the agent. Patients who have demonstrated hypersensitivity to chlorambucil should not be given the drug. There may be cross-hypersensitivity (skin rash) between chlorambucil and other alkylating agents.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The usual oral dosage is 0.1 to 0.2 mg/kg body weight daily for 3 to 6 weeks as required. This usually amounts to 4 to 10 mg per day for the average patient. The entire daily dose may be given at one time. These dosages are for initiation of therapy or for short courses of treatment. The dosage must be carefully adjusted according to the response of the patient and must be reduced as soon as there is an abrupt fall in the white blood cell count. Patients with Hodgkin\u2019s disease usually require 0.2 mg/kg daily, whereas patients with other lymphomas or chronic lymphocytic leukemia usually require only 0.1 mg/kg daily. When lymphocytic infiltration of the bone marrow is present, or when the bone marrow is hypoplastic, the daily dose should not exceed 0.1 mg/kg (about 6 mg for the average patient). Alternate schedules for the treatment of chronic lymphocytic leukemia employing intermittent, biweekly, or once-monthly pulse doses of chlorambucil have been reported. Intermittent schedules of chlorambucil begin with an initial single dose of 0.4 mg/kg. Doses are generally increased by 0.1 mg/kg until control of lymphocytosis or toxicity is observed. Subsequent doses are modified to produce mild hematologic toxicity. It is felt that the response rate of chronic lymphocytic leukemia to the biweekly or once-monthly schedule of chlorambucil administration is similar or better to that previously reported with daily administration and that hematologic toxicity was less than or equal to that encountered in studies using daily chlorambucil. Radiation and cytotoxic drugs render the bone marrow more vulnerable to damage, and chlorambucil should be used with particular caution within 4 weeks of a full course of radiation therapy or chemotherapy. However, small doses of palliative radiation over isolated foci remote from the bone marrow will not usually depress the neutrophil and platelet count. In these cases chlorambucil may be given in the customary dosage. It is presently felt that short courses of treatment are safer than continuous maintenance therapy, although both methods have been effective. It must be recognized that continuous therapy may give the appearance of \u201cmaintenance\u201d in patients who are actually in remission and have no immediate need for further drug. If maintenance dosage is used, it should not exceed 0.1 mg/kg daily and may well be as low as 0.03 mg/kg daily. A typical maintenance dose is 2 mg to 4 mg daily, or less, depending on the status of the blood counts. It may, therefore, be desirable to withdraw the drug after maximal control has been achieved, since intermittent therapy reinstituted at time of relapse may be as effective as continuous treatment. Procedures for proper handling and disposal of anticancer drugs should be used. Several guidelines on this subject have been published. 1-4 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate. SPECIAL POPULATIONS Hepatic Impairment: Patients with hepatic impairment should be closely monitored for toxicity. As chlorambucil is primarily metabolized in the liver, dose reduction may be considered in patients with hepatic impairment when treated with LEUKERAN. However, there are insufficient data in patients with hepatic impairment to provide a specific dosing recommendation.",
+    "indications_and_usage": "INDICATIONS AND USAGE LEUKERAN (chlorambucil) is indicated in the treatment of chronic lymphatic (lymphocytic) leukemia, malignant lymphomas including lymphosarcoma, giant follicular lymphoma, and Hodgkin\u2019s disease. It is not curative in any of these disorders but may produce clinically useful palliation."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA010669"
+    ],
+    "brand_name": [
+      "LEUKERAN"
+    ],
+    "generic_name": [
+      "CHLORAMBUCIL"
+    ],
+    "manufacturer_name": [
+      "Waylis Therapeutics LLC"
+    ],
+    "product_ndc": [
+      "80725-610"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CHLORAMBUCIL"
+    ],
+    "rxcui": [
+      "105553",
+      "197462"
+    ],
+    "spl_id": [
+      "5a3f7aed-1747-4c52-9e10-5aa090dd088e"
+    ],
+    "spl_set_id": [
+      "58a3c995-5ad6-465d-8437-5970c9088213"
+    ],
+    "package_ndc": [
+      "80725-610-25"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000000236",
+      "N0000175558"
+    ],
+    "pharm_class_moa": [
+      "Alkylating Activity [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Alkylating Drug [EPC]"
+    ],
+    "unii": [
+      "18D0SL7309"
+    ]
+  }
+}

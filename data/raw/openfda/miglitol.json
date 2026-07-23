@@ -1,0 +1,75 @@
+{
+  "drug_name": "Miglitol",
+  "drug_id": 308,
+  "sections": {
+    "drug_interactions": "Drug Interactions Several studies investigated the possible interaction between miglitol and glyburide. In six healthy volunteers given a single dose of 5 mg glyburide on a background of 6 days treatment with miglitol (50 mg 3 times daily for 4 days followed by 100 mg 3 times daily for 2 days) or placebo, the mean C max and AUC values for glyburide were 17% and 25% lower, respectively, when glyburide was given with miglitol. In a study in diabetic patients in which the effects of adding miglitol 100 mg 3 times daily for 7 days or placebo to a background regimen of 3.5 mg glyburide daily were investigated, the mean AUC value for glyburide was 18% lower in the group treated with miglitol, although this difference was not statistically significant. Information on a potential interaction with glyburide was obtained from one of the large U.S. clinical trials (Study 7) in which patients were dosed with either miglitol or placebo on a background of glyburide 10 mg twice daily. At the 6-month and 1-year clinic visits, patients taking concomitant miglitol 100 mg 3 times daily exhibited mean C max values for glyburide that were 16% and 8% lower, respectively, compared to patients taking glyburide alone. However, these differences were not statistically significant. Thus, although there was a trend toward lower AUC and C max values for glyburide when co-administered with miglitol tablets, no definitive statement regarding a potential interaction can be made based on the foregoing three studies. The effect of miglitol (100 mg 3 times daily for 7 days) on the pharmacokinetics of a single 1000 mg dose of metformin was investigated in healthy volunteers. Mean AUC and C max values for metformin were 12% to 13% lower when the volunteers were given miglitol as compared with placebo, but this difference was not statistically significant. In a study with healthy volunteers, co-administration of either 50 mg or 100 mg miglitol 3 times daily together with digoxin reduced the average plasma concentrations of digoxin by 19% and 28%, respectively. However, in diabetic patients under treatment with digoxin, plasma digoxin concentrations were not altered by co-administration of miglitol 100 mg 3 times daily for 14 days. Other healthy volunteer studies have demonstrated that miglitol may significantly reduce the bioavailability of ranitidine and propranolol by 60% and 40%, respectively. No effect of miglitol was observed on the pharmacokinetics or pharmacodynamics of either warfarin or nifedipine. Intestinal adsorbents (e.g., charcoal) and digestive enzyme preparations containing carbohydrate-splitting enzymes (e.g., amylase, pancreatin) may reduce the effect of miglitol tablets and should not be taken concomitantly. In 12 healthy males, concomitantly administered antacid did not influence the pharmacokinetics of miglitol.",
+    "contraindications": "CONTRAINDICATIONS Miglitol tablets are contraindicated in patients with: Diabetic ketoacidosis Inflammatory bowel disease, colonic ulceration, or partial intestinal obstruction, and in patients predisposed to intestinal obstruction Chronic intestinal diseases associated with marked disorders of digestion or absorption, or with conditions that may deteriorate as a result of increased gas formation in the intestine Hypersensitivity to the drug or any of its components",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION There is no fixed dosage regimen for the management of diabetes mellitus with miglitol tablets or any other pharmacologic agent. Dosage of miglitol tablets must be individualized on the basis of both effectiveness and tolerance while not exceeding the maximum recommended dosage of 100 mg 3 times daily. Miglitol tablets should be taken three times daily at the start of each main meal. Miglitol tablets should be started at 25 mg, and the dosage gradually increased both to reduce gastrointestinal adverse effects and to permit identification of the minimum dose required for adequate glycemic control of the patient. During treatment initiation and dose titration, one-hour postprandial plasma glucose may be used to determine the therapeutic response to miglitol tablets and identify the minimum effective dose for the patient. Thereafter, glycosylated hemoglobin should be measured at intervals of approximately 3 months. The therapeutic goal should be to decrease both postprandial plasma glucose and glycosylated hemoglobin levels to normal or near normal by using the lowest effective dose of miglitol tablets, either as monotherapy or in combination with a sulfonylurea. Initial Dosage The recommended starting dosage of miglitol tablets is 25 mg, given orally three times daily at the start of each main meal. However, some patients may benefit by starting at 25 mg once daily to minimize gastrointestinal adverse effects, and gradually increasing the frequency of administration to 3 times daily. Maintenance Dosage The usual maintenance dose of miglitol tablets is 50 mg taken 3 times daily, although some patients may benefit from increasing the dose to 100 mg 3 times daily. To allow adaptation to potential gastrointestinal adverse effects, it is recommended that miglitol tablets therapy be initiated at a dosage of 25 mg 3 times daily, then gradually titrated upward to allow adaptation. After 4 to 8 weeks of the 25 mg 3 times daily regimen, the dosage should be increased to 50 mg 3 times daily for approximately three months, following which a glycosylated hemoglobin level should be measured to assess therapeutic response. If at that time, the glycosylated hemoglobin level is not satisfactory, the dosage may be further increased to 100 mg 3 times daily, the maximum recommended dosage. Pooled data from controlled studies suggest a dose-response for both HbA1c and one-hour postprandial plasma glucose throughout the recommended dosage range. However, no single study has examined the effect on glycemic control of titrating patients' doses upwards within the same study. If no further reduction in postprandial glucose or glycosylated hemoglobin levels is observed with titration to 100 mg 3 times daily, consideration should be given to lowering the dose. Once an effective and tolerated dosage is established, it should be maintained. Maximum Dosage The maximum recommended dosage of miglitol tablets is 100 mg 3 times daily. In one clinical trial, 200 mg 3 times daily gave additional improved glycemic control but increased the incidence of the gastrointestinal symptoms described above. Patients Receiving Sulfonylureas Sulfonylurea agents may cause hypoglycemia. There was no increased incidence of hypoglycemia in patients who took miglitol tablets in combination with sulfonylurea agents compared to the incidence of hypoglycemia in patients receiving sulfonylureas alone in any clinical trial. However, miglitol tablets given in combination with a sulfonylurea will cause a further lowering of blood glucose and may increase the risk of hypoglycemia due to the additive effects of the two agents. If hypoglycemia occurs, appropriate adjustments in the dosage of these agents should be made (see PRECAUTIONS ).",
+    "indications_and_usage": "INDICATIONS AND USAGE Miglitol tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA203965"
+    ],
+    "brand_name": [
+      "Miglitol"
+    ],
+    "generic_name": [
+      "MIGLITOL"
+    ],
+    "manufacturer_name": [
+      "Westminster Pharmaceuticals, LLC"
+    ],
+    "product_ndc": [
+      "69367-303",
+      "69367-305",
+      "69367-304"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MIGLITOL"
+    ],
+    "rxcui": [
+      "205329",
+      "205330",
+      "205331"
+    ],
+    "spl_id": [
+      "d28d00da-e102-098c-e053-2995a90a8121"
+    ],
+    "spl_set_id": [
+      "b8da2015-d254-2425-e053-2995a90acf0e"
+    ],
+    "package_ndc": [
+      "69367-303-01",
+      "69367-305-01",
+      "69367-304-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0369367303019",
+      "0369367304016",
+      "0369367305013"
+    ],
+    "nui": [
+      "N0000000166",
+      "N0000175559"
+    ],
+    "pharm_class_moa": [
+      "alpha Glucosidase Inhibitors [MoA]"
+    ],
+    "pharm_class_epc": [
+      "alpha-Glucosidase Inhibitor [EPC]"
+    ],
+    "unii": [
+      "0V5436JAQW"
+    ]
+  }
+}

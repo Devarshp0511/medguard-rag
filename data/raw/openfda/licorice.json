@@ -1,0 +1,47 @@
+{
+  "drug_name": "Licorice",
+  "drug_id": 1302,
+  "sections": {
+    "warnings": "If you have an unusual or allergic constitution, check the ingredients before consuming.",
+    "dosage_and_administration": "for oral use only",
+    "indications_and_usage": "Take 1 pouch (3g) three time a day after a meal"
+  },
+  "openfda_meta": {
+    "brand_name": [
+      "1912Herb Co Heart Well Herb"
+    ],
+    "generic_name": [
+      "AGRIMONY, GOGI BERRY, ANGELICA GIGAS ROOT , LICORICE , LILYTURF"
+    ],
+    "manufacturer_name": [
+      "Agricultural Corporation YUBIMUHUAN CO Ltd"
+    ],
+    "product_ndc": [
+      "83933-0003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AGRIMONIA EUPATORIA"
+    ],
+    "spl_id": [
+      "268c5e7a-31cd-c250-e063-6394a90ad3b5"
+    ],
+    "spl_set_id": [
+      "268c5fe9-b0e6-bd80-e063-6394a90a6521"
+    ],
+    "package_ndc": [
+      "83933-0003-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "EBU0U94820"
+    ]
+  }
+}

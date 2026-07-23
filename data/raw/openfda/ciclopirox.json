@@ -1,0 +1,68 @@
+{
+  "drug_name": "Ciclopirox",
+  "drug_id": 1494,
+  "sections": {
+    "warnings": "WARNINGS Ciclopirox Topical Solution, 8% is not for ophthalmic, oral, or intravaginal use. It is for use on nails and immediately adjacent skin only.",
+    "contraindications": "CONTRAINDICATIONS Ciclopirox Topical Solution, 8% is contraindicated in individuals who have shown hypersensitivity to any of its components.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Ciclopirox Topical Solution, 8% should be used as a component of a comprehensive management program for onychomycosis. Removal of the unattached, infected nail, as frequently as monthly, by a health care professional, weekly trimming by the patient, and daily application of the medication are all integral parts of this therapy. Careful consideration of the appropriate nail management program should be given to patients with diabetes (see PRECAUTIONS ). Nail Care By Health Care Professionals - Removal of the unattached, infected nail, as frequently as monthly, trimming of onycholytic nail, and filing of excess horny material should be performed by professionals trained in treatment of nail disorders. Nail Care By Patient \u2013 Patients should file away (with emery board) loose nail material and trim nails, as required, or as directed by the health care professional, every seven days after Ciclopirox Topical Solution, 8% is removed with alcohol. Ciclopirox Topical Solution, 8% should be applied once daily (preferably at bedtime or eight hours before washing) to all affected nails with the applicator brush provided. Ciclopirox Topical Solution, 8% should be applied evenly over the entire nail plate. If possible, Ciclopirox Topical Solution, 8% should be applied to the nail bed, hyponychium, and the under surface of the nail plate when it is free of the nail bed (e.g., onycholysis). Ciclopirox Topical Solution, 8% should not be removed on a daily basis. Daily applications should be made over the previous coat and removed with alcohol every seven days. This cycle should be repeated throughout the duration of therapy.",
+    "indications_and_usage": "INDICATIONS AND USAGE (To understand fully the indication for this product, please read the entire INDICATIONS AND USAGE section of the labeling.) Ciclopirox Topical Solution, 8% as a component of a comprehensive management program, is indicated as topical treatment in immunocompetent patients with mild to moderate onychomycosis of fingernails and toenails without lunula involvement, due to Trichophyton rubrum . The comprehensive management program includes removal of the unattached, infected nails as frequently as monthly, by a health care professional who has special competence in the diagnosis and treatment of nail disorders, including minor nail procedures. \u2022 No studies have been conducted to determine whether ciclopirox might reduce the effectiveness of systemic antifungal agents for onychomycosis. Therefore, the concomitant use of 8% ciclopirox topical solution and systemic antifungal agents for onychomycosis, is not recommended. \u2022 Ciclopirox Topical Solution, 8% should be used only under medical supervision as described above. \u2022 The effectiveness and safety of ciclopirox topical solution, 8% in the following populations has not been studied. The clinical trials with use of ciclopirox topical solution, 8% excluded patients who: were pregnant or nursing, planned to become pregnant, had a history of immunosuppression (e.g., extensive, persistent, or unusual distribution of dermatomycoses, extensive seborrheic dermatitis, recent or recurring herpes zoster, or persistent herpes simplex), were HIV seropositive, received organ transplant, required medication to control epilepsy, were insulin dependent diabetics or had diabetic neuropathy. Patients with severe plantar (moccasin) tinea pedis were also excluded. \u2022 The safety and efficacy of using Ciclopirox Topical Solution, 8% daily for greater than 48 weeks have not been established. Clinical Trials Data - The results of use of ciclopirox topical solution, 8% in treatment of onychomycosis of the toenail without lunula involvement were obtained from two double-blind, placebo-controlled studies conducted in the United States. In these studies, patients with onychomycosis of the great toenails without lunula involvement were treated with ciclopirox topical solution, 8% in conjunction with monthly removal of the unattached, infected toenail by the investigator. Ciclopirox topical solution, 8%, was applied for 48 weeks. At baseline, patients had 20\u201365% involvement of the target great toenail plate. Statistical significance was demonstrated in one of two studies for the endpoint \"complete cure\" (clear nail and negative mycology), and in two studies for the endpoint \"almost clear\" (\u226410% nail involvement and negative mycology) at the end of study. These results are presented below. At Week 48 (plus Last Observation Carried Forward) for the Intent-to-Treat (ITT) Population Study 312 Study 313 Active Vehicle Active Vehicle Complete Cure* 6/110 (5.5%) 1/109 (0.9%) 10/118 (8.5%) 0/117 (0%) Almost Clear** 7/107 (6.5%) 1/108 (0.9%) 14/116 (12%) 1/115 (0.9%) Negative Mycology Alone*** 30/105 (29%) 12/106 (11%) 41/115 (36%) 10/114 (9%) * Clear nail and negative mycology ** \u2264 10% nail involvement and negative mycology *** Negative KOH and negative culture The summary of reported patient outcomes for the ITT population at 12 weeks following the end of treatment are presented below. Note that post-treatment efficacy assessments were scheduled only for patients who achieved a complete cure. Post-Treatment Week 12 Data for Patients Who Achieved Complete Cure at Week 48 Study 312 Study 313 Active Vehicle Active Vehicle Number of Treated Patients 112 111 119 118 Complete Cure at Week 48 6 1 10 0 Post-treatment Week 12 Outcomes: Patients Missing All Week 12 Assessments 2 0 2 0 Patients with Week 12 Assessments 4 1 8 0 Complete Cure 3 1 4 0 Almost Clear 2* 1 1* 0 Negative Mycology 3 1 5 0 *Four patients (from studies 312 and 313) who were completely cured did not have post-treatment Week 12 planimetry data."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077623"
+    ],
+    "brand_name": [
+      "Ciclopirox"
+    ],
+    "generic_name": [
+      "CICLOPIROX"
+    ],
+    "manufacturer_name": [
+      "Padagis Israel Pharmaceuticals Ltd"
+    ],
+    "product_ndc": [
+      "45802-141"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CICLOPIROX"
+    ],
+    "rxcui": [
+      "309291"
+    ],
+    "spl_id": [
+      "d75239bb-7620-45a8-9c3b-a41e4baa48dc"
+    ],
+    "spl_set_id": [
+      "02f46b6e-b424-4210-83bf-e79618df4344"
+    ],
+    "package_ndc": [
+      "45802-141-67"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000008577",
+      "N0000008841",
+      "N0000008853",
+      "N0000000150"
+    ],
+    "pharm_class_pe": [
+      "Decreased DNA Replication [PE]",
+      "Decreased Protein Synthesis [PE]",
+      "Decreased RNA Replication [PE]"
+    ],
+    "pharm_class_moa": [
+      "Protein Synthesis Inhibitors [MoA]"
+    ],
+    "unii": [
+      "19W019ZDRJ"
+    ]
+  }
+}

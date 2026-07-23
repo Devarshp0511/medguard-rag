@@ -1,0 +1,72 @@
+{
+  "drug_name": "Indapamide",
+  "drug_id": 1253,
+  "sections": {
+    "warnings": "WARNINGS Severe cases of hyponatremia, accompanied by hypokalemia have been reported with recommended doses of indapamide. This occurred primarily in elderly females. (See PRECAUTIONS , Geriatric Use .) This appears to be dose related. Also, a large case-controlled pharmacoepidemiology study indicates that there is an increased risk of hyponatremia with indapamide 2.5 mg and 5 mg doses. Hyponatremia considered possibly clinically significant (< 125 mEq/L) has not been observed in clinical trials with the 1.25 mg dosage (see PRECAUTIONS ). Thus, patients should be started at the 1.25 mg dose and maintained at the lowest possible dose. (See DOSAGE AND ADMINISTRATION .) Hypokalemia occurs commonly with diuretics (see ADVERSE REACTIONS, hypokalemia ), and electrolyte monitoring is essential, particularly in patients who would be at increased risk from hypokalemia, such as those with cardiac arrhythmias or who are receiving concomitant cardiac glycosides. In general, diuretics should not be given concomitantly with lithium because they reduce its renal clearance and add a high risk of lithium toxicity. Read prescribing information for lithium preparations before use of such concomitant therapy.",
+    "drug_interactions": "Drug Interactions Other Antihypertensives : Indapamide may add to or potentiate the action of other antihypertensive drugs. In limited controlled trials that compared the effect of indapamide combined with other antihypertensive drugs with the effect of the other drugs administered alone, there was no notable change in the nature or frequency of adverse reactions associated with the combined therapy. Lithium : See WARNINGS . Post-Sympathectomy Patient : The antihypertensive effect of the drug may be enhanced in the post-sympathectomized patient. Norepinephrine : Indapamide, like the thiazides, may decrease arterial responsiveness to norepinephrine, but this diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use.",
+    "contraindications": "CONTRAINDICATIONS Anuria. Known hypersensitivity to indapamide or to other sulfonamide-derived drugs.",
+    "dosage_and_administration": "DOSAGE & ADMINISTRATION Hypertension : The adult starting indapamide dose for hypertension is 1.25 mg as a single daily dose taken in the morning. If the response to 1.25 mg is not satisfactory after 4 weeks, the daily dose may be increased to 2.5 mg taken once daily. If the response to 2.5 mg is not satisfactory after 4 weeks, the daily dose may be increased to 5.0 mg taken once daily, but adding another antihypertensive should be considered. Edema of Congestive Heart Failure : The adult starting indapamide dose for edema of congestive heart failure is 2.5 mg as a single daily dose taken in the morning. If the response to 2.5 mg is not satisfactory after one week, the daily dose may be increased to 5.0 mg taken once daily. If the antihypertensive response to indapamide is insufficient, indapamide may be combined with other antihypertensive drugs, with careful monitoring of blood pressure. It is recommended that the usual dose of other agents be reduced by 50% during initial combination therapy. As the blood pressure response becomes evident, further dosage adjustments may be necessary. In general, doses of 5.0 mg and larger have not appeared to provide additional effects on blood pressure or heart failure, but are associated with a greater degree of hypokalemia. There is minimal clinical trial experience in patients with doses greater than 5.0 mg once a day.",
+    "indications_and_usage": "INDICATIONS Indapamide tablets are indicated for the treatment of hypertension, alone or in combination with other antihypertensive drugs. Indapamide tablets are also indicated for the treatment of salt and fluid retention associated with congestive heart failure. Usage in Pregnancy : The routine use of diuretics in an otherwise healthy woman is inappropriate and exposes mother and fetus to unnecessary hazard (see PRECAUTIONS below). Diuretics do not prevent development of toxemia of pregnancy, and there is no satisfactory evidence that they are useful in the treatment of developed toxemia. Edema during pregnancy may arise from pathological causes or from the physiologic and mechanical consequences of pregnancy. Indapamide is indicated in pregnancy when edema is due to pathologic causes, just as it is in the absence of pregnancy (however, see PRECAUTIONS below). Dependent edema in pregnancy, resulting from restriction of venous return by the expanded uterus, is properly treated through elevation of the lower extremities and use of support hose; use of diuretics to lower intravascular volume in this case is illogical and unnecessary. There is hypervolemia during normal pregnancy which is not harmful to either the fetus or the mother (in the absence of cardiovascular disease), but which is associated with edema, including generalized edema in the majority of pregnant women. If this edema produces discomfort, increased recumbency will often provide relief. In rare instances, this edema may cause extreme discomfort which is not relieved by rest. In these cases, a short course of diuretics may provide relief and may be appropriate."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA074461"
+    ],
+    "brand_name": [
+      "Indapamide"
+    ],
+    "generic_name": [
+      "INDAPAMIDE"
+    ],
+    "manufacturer_name": [
+      "Rising Pharma Holdings, Inc."
+    ],
+    "product_ndc": [
+      "16571-875",
+      "16571-876"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "INDAPAMIDE"
+    ],
+    "rxcui": [
+      "197815",
+      "197816"
+    ],
+    "spl_id": [
+      "7c1bd14b-7f8f-4ad6-9c3c-e6a0d9aad1cf"
+    ],
+    "spl_set_id": [
+      "0687ed93-4761-4f9c-887d-95309c03f60e"
+    ],
+    "package_ndc": [
+      "16571-875-01",
+      "16571-876-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0316571875016",
+      "0316571876013"
+    ],
+    "nui": [
+      "N0000175359",
+      "N0000175420"
+    ],
+    "pharm_class_pe": [
+      "Increased Diuresis [PE]"
+    ],
+    "pharm_class_epc": [
+      "Thiazide-like Diuretic [EPC]"
+    ],
+    "unii": [
+      "F089I0511L"
+    ]
+  }
+}

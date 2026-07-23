@@ -1,0 +1,47 @@
+{
+  "drug_name": "Quinine",
+  "drug_id": 693,
+  "sections": {
+    "warnings": "",
+    "dosage_and_administration": "Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.",
+    "indications_and_usage": "Uses: See symptoms on front panel. Relieves dizziness *"
+  },
+  "openfda_meta": {
+    "brand_name": [
+      "Chininum salicylicum"
+    ],
+    "generic_name": [
+      "QUININE SALICYLATE"
+    ],
+    "manufacturer_name": [
+      "Boiron"
+    ],
+    "product_ndc": [
+      "0220-1322"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "QUININE SALICYLATE"
+    ],
+    "spl_id": [
+      "1e686478-1e59-36cf-e063-6294a90a929a"
+    ],
+    "spl_set_id": [
+      "1e686478-1e58-36cf-e063-6294a90a929a"
+    ],
+    "package_ndc": [
+      "0220-1322-41"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "6DY04L71DR"
+    ]
+  }
+}

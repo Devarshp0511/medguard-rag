@@ -1,0 +1,69 @@
+{
+  "drug_name": "Albendazole",
+  "drug_id": 386,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Bone Marrow Suppression: Fatalities have been reported due to bone marrow suppression; monitor blood counts in all patients at the beginning of each 28-day cycle of therapy, and every 2 weeks while on therapy. Discontinue albendazole if clinically significant changes in blood counts occur. ( 5.1 , 5.4 ) Embryo-fetal Toxicity: Obtain pregnancy test in women of reproductive potential prior to therapy and avoid usage in pregnant women except in clinical circumstances where no alternative management is appropriate. Discontinue therapy if pregnancy occurs and apprise patient of potential hazard to the fetus. ( 5.2 ) Risk of Neurologic Symptoms: Neurocysticercosis patients may experience cerebral hypertensive episodes, seizures or focal neurologic deficits after initiation of therapy; begin appropriate steroid and anticonvulsant therapy. ( 5.3 ) Risk of Retinal Damage in Retinal Cysticercosis: Cases of retinal involvement have been reported; examine the patient for the presence of retinal lesions before initiating therapy for neurocysticercosis. ( 5.4 ) Hepatic Effects. Elevations of liver enzymes may occur. Monitor liver enzymes before the start of each treatment cycle and at least every 2 weeks while on albendazole therapy and discontinue if clinically significant elevations occur. ( 5.5 ) 5.1 Bone Marrow Suppression Fatalities associated with the use of albendazole have been reported due to granulocytopenia or pancytopenia. Albendazole may cause bone marrow suppression, aplastic anemia, and agranulocytosis. Monitor blood counts at the beginning of each 28-day cycle of therapy, and every 2 weeks while on therapy with albendazole in all patients. Patients with liver disease and patients with hepatic echinococcosis are at increased risk for bone marrow suppression and warrant more frequent monitoring of blood counts. Discontinue albendazole if clinically significant decreases in blood cell counts occur. 5.2 Embryo-fetal Toxicity Albendazole may cause fetal harm and should not be used in pregnant women except in clinical circumstances where no alternative management is appropriate. Obtain pregnancy test prior to prescribing albendazole to women of reproductive potential. Advise women of reproductive potential to use effective birth control for the duration of albendazole therapy and for one month after end of therapy. Immediately discontinue albendazole if a patient becomes pregnant and apprise the patient of the potential hazard to the fetus [see Use in Specific Populations (8.1 , 8.3 )] . 5.3 Risk of Neurologic Symptoms in Neurocysticercosis Patients being treated for neurocysticercosis should receive steroid and anticonvulsant therapy to prevent neurological symptoms (e.g. seizures, increased intracranial pressure and focal signs) as a result of an inflammatory reaction caused by death of the parasite within the brain. 5.4 Risk of Retinal Damage in Patients with Retinal Neurocysticercosis Cysticercosis may involve the retina. Before initiating therapy for neurocysticercosis, examine the patient for the presence of retinal lesions. If such lesions are visualized, weigh the need for anticysticeral therapy against the possibility of retinal damage resulting from inflammatory damage caused by albendazole-induced death of the parasite. 5.5 Hepatic Effects In clinical trials, treatment with albendazole has been associated with mild to moderate elevations of hepatic enzymes in approximately 16% of patients. These elevations have generally returned to normal upon discontinuation of therapy. There have also been case reports of acute liver failure of uncertain causality and hepatitis [see Adverse Reactions (6) ] . Monitor liver enzymes (transaminases) before the start of each treatment cycle and at least every 2 weeks during treatment. If hepatic enzymes exceed twice the upper limit of normal, consideration should be given to discontinuing albendazole therapy based on individual patient circumstances. Restarting albendazole treatment in patients whose hepatic enzymes have normalized off treatment is an individual decision that should take into account the risk/benefit of further albendazole usage. Perform laboratory tests frequently if albendazole treatment is restarted. Patients with elevated liver enzyme test results are at increased risk for hepatotoxicity and bone marrow suppression [see Warnings and Precautions (5.1) ] . Discontinue therapy if liver enzymes are significantly increased or if clinically significant decreases in blood cell counts occur. 5.6 Unmasking of Neurocysticercosis in Hydatid Patients Undiagnosed neurocysticercosis may be uncovered in patients treated with albendazole for other conditions. Patients with epidemiologic factors who are at risk for neurocysticercosis should be evaluated prior to initiation of therapy.",
+    "drug_interactions": "7 DRUG INTERACTIONS Dexamethasone: Steady-state trough concentrations of albendazole sulfoxide were about 56% higher when dexamethasone was coadministered with each dose of albendazole. ( 7.1 ) Praziquantel: In the fed state increased mean maximum plasma concentration and area under the curve of albendazole sulfoxide by about 50% in healthy subjects. ( 7.2 ) Cimetidine: Increased albendazole sulfoxide concentrations in bile and cystic fluid by about 2-fold in hydatid cyst patients. ( 7.3 ) Theophylline: Albendazole induces cytochrome P450 1A in human hepatoma cells; therefore, it is recommended that plasma concentrations of theophylline be monitored during and after treatment. ( 5.5 , 7.4 ) 7.1 Dexamethasone Steady-state trough concentrations of albendazole sulfoxide were about 56% higher when 8 mg dexamethasone was co-administered with each dose of albendazole (15 mg/kg/day) in 8 neurocysticercosis patients. 7.2 Praziquantel In the fed state, praziquantel (40 mg/kg) increased mean maximum plasma concentration and area under the curve of albendazole sulfoxide by about 50% in healthy subjects (n = 10) compared with a separate group of subjects (n = 6) given albendazole alone. Mean T max and mean plasma elimination half-life of albendazole sulfoxide were unchanged. The pharmacokinetics of praziquantel were unchanged following co-administration with albendazole (400 mg). 7.3 Cimetidine Albendazole sulfoxide concentrations in bile and cystic fluid were increased (about 2-fold) in hydatid cyst patients treated with cimetidine (10 mg/kg/day) (n = 7) compared with albendazole (20 mg/kg/day) alone (n = 12). Albendazole sulfoxide plasma concentrations were unchanged 4 hours after dosing. 7.4 Theophylline Following a single dose of albendazole (400 mg), the pharmacokinetics of theophylline (aminophylline 5.8 mg/kg infused over 20 minutes) were unchanged. Albendazole induces cytochrome P450 1A in human hepatoma cells; therefore, it is recommended that plasma concentrations of theophylline be monitored during and after treatment.",
+    "contraindications": "4 CONTRAINDICATIONS Albendazole is contraindicated in patients with known hypersensitivity to the benzimidazole class of compounds or any components of albendazole. Patients with known hypersensitivity to the benzimidazole class of compounds or any components of albendazole.",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Patients weighing 60 kg or greater, 400 mg twice daily; less than 60 kg, 15 mg/kg/day in divided doses twice daily (maximum total daily dose 800 mg). Albendazole tablets should be taken with food. ( 2 ) Hydatid disease: 28-day cycle followed by 14-day albendazole-free interval for a total of 3 cycles. ( 2 ) Neurocysticercosis: 8 to 30 days. ( 2 ) See additional important information in the Full Prescribing Information. ( 2 ) 2.1 Dosage Dosing of albendazole will vary depending upon the indication. Albendazole tablets may be crushed or chewed and swallowed with a drink of water. Albendazole tablets should be taken with food [see Clinical Pharmacology (12.3) ] . Table 1: Albendazole Dosage Indication Patient Weight Dose Duration Hydatid Disease 60 kg or greater 400 mg twice daily, with meals 28-day cycle followed by a 14-day albendazole-free interval, for a total of 3 cycles Less than 60 kg 15 mg/kg/day given in divided doses twice daily with meals (maximum total daily dose 800 mg) Neurocysticercosis 60 kg or greater 400 mg twice daily, with meals 8 to 30 days Less than 60 kg 15 mg/kg/day given in divided doses twice daily with meals (maximum total daily dose 800 mg) 2.2 Concomitant Medication to Avoid Adverse Reactions Patients being treated for neurocysticercosis should receive appropriate steroid and anticonvulsant therapy as required. Oral or intravenous corticosteroids should be considered to prevent cerebral hypertensive episodes during the first week of treatment [see Warnings and Precautions (5.3) ] . 2.3 Monitoring for Safety Before and During Treatment Monitor blood counts at the beginning of each 28-day cycle of therapy, and every 2 weeks while on therapy with albendazole in all patients [see Warnings and Precautions (5.1) ] . Monitor liver enzymes (transaminases) at the beginning of each 28-day cycle of therapy, and at least every 2 weeks during treatment with albendazole in all patients [see Warnings and Precautions (5.5) ] . Obtain a pregnancy test in women of reproductive potential prior to therapy [see Warnings and Precautions (5.2) ] .",
+    "dosage_and_administration_table": "<table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"1\"><col width=\"17pt\"/><col width=\"17pt\"/><col width=\"17pt\"/><col width=\"17pt\"/><thead><tr><th styleCode=\" Botrule Toprule Lrule Rrule\">Indication</th><th styleCode=\" Botrule Toprule Lrule Rrule\">Patient Weight</th><th styleCode=\" Botrule Toprule Lrule Rrule\">Dose</th><th styleCode=\" Botrule Toprule Lrule Rrule\">Duration</th></tr></thead><tbody><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Hydatid Disease</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>60 kg or greater</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>400 mg twice daily, with meals</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>28-day cycle followed by a 14-day albendazole-free interval, for a total of 3 cycles</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Less than 60 kg</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>15 mg/kg/day given in divided doses twice daily with meals (maximum total daily dose 800 mg)</paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Neurocysticercosis</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>60 kg or greater</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>400 mg twice daily, with meals</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>8 to 30 days</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Less than 60 kg</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>15 mg/kg/day given in divided doses twice daily with meals (maximum total daily dose 800 mg)</paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Albendazole is an anthelmintic drug indicated for: Treatment of parenchymal neurocysticercosis due to active lesions caused by larval forms of the pork tapeworm, Taenia solium . ( 1.1 ) Treatment of cystic hydatid disease of the liver, lung, and peritoneum, caused by the larval form of the dog tapeworm, Echinococcus granulosus . ( 1.2 ) 1.1 Neurocysticercosis Albendazole is indicated for the treatment of parenchymal neurocysticercosis due to active lesions caused by larval forms of the pork tapeworm, Taenia solium . 1.2 Hydatid Disease Albendazole is indicated for the treatment of cystic hydatid disease of the liver, lung, and peritoneum, caused by the larval form of the dog tapeworm, Echinococcus granulosus ."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA020666"
+    ],
+    "brand_name": [
+      "Albendazole"
+    ],
+    "generic_name": [
+      "ALBENDAZOLE"
+    ],
+    "manufacturer_name": [
+      "Amneal Pharmaceuticals of New York LLC"
+    ],
+    "product_ndc": [
+      "0115-1701"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ALBENDAZOLE"
+    ],
+    "rxcui": [
+      "199672"
+    ],
+    "spl_id": [
+      "2da2a777-2835-429d-b73a-31b8e0bde571"
+    ],
+    "spl_set_id": [
+      "06b5eefc-0b95-4862-b9b6-770063f2adf0"
+    ],
+    "package_ndc": [
+      "0115-1701-49"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0301151701496"
+    ],
+    "nui": [
+      "N0000175481",
+      "N0000191624"
+    ],
+    "pharm_class_epc": [
+      "Anthelmintic [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Cytochrome P450 1A Inducers [MoA]"
+    ],
+    "unii": [
+      "F4216019LN"
+    ]
+  }
+}

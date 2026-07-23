@@ -1,0 +1,61 @@
+{
+  "drug_name": "Phendimetrazine",
+  "drug_id": 322,
+  "sections": {
+    "warnings": "WARNINGS Phendimetrazine tartrate should not be used in combination with other anorectic agents, including prescribed drugs, over-the-counter preparations and herbal products. In a case-control epidemiological study, the use of anorectic agents, including phendimetrazine tartrate, was associated with an increased risk of developing pulmonary hypertension, a rare, but often fatal disorder. The use of anorectic agents for longer than three months was associated with a 23-fold increase in the risk of developing pulmonary hypertension. Increased risk of pulmonary hypertension with repeated courses of therapy cannot be excluded. The onset or aggravation of exertional dyspnea, or unexplained symptoms of angina pectoris, syncope, or lower extremity edema suggest the possibility of occurrence of pulmonary hypertension. Under these circumstances, phendimetrazine tartrate should be immediately discontinued, and the patient should be evaluated for the possible presence of pulmonary hypertension. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine has been reported. Possible contributing factors include use for extended periods of time, higher than recommended dose, and/or use in combination with other anorectic drugs. However, no cases of this valvulopathy have been reported when phendimetrazine tartrate has been used alone. The potential risk of possible serious adverse effects such as valvular heart disease and pulmonary hypertension should be assessed carefully against the potential benefit of weight loss. Baseline cardiac evaluation should be considered to detect pre-existing valvular heart diseases or pulmonary hypertension prior to initiation of phendimetrazine treatment. Phendimetrazine tartrate is not recommended in patients with known heart murmur or valvular heart disease. Echocardiogram during and after treatment could be useful for detecting any valvular disorders which may occur. To limit unwarranted exposure and risks, treatment with phendimetrazine tartrate should be continued only if the patient has satisfactory weight loss within the first 4 weeks of treatment (i.e., weight loss of at least 4 pounds, or as determined by the physician and patient). Tolerance to the anorectic effect of phendimetrazine develops within a few weeks. When this occurs, its use should be discontinued; the maximum recommended dose should not be exceeded. Use of phendimetrazine tartrate within 14 days following the administration of monoamine oxidase inhibitors may result in a hypertensive crisis. Abrupt cessation of administration following prolonged high dosage results in extreme fatigue and depression. Because of the effect on the central nervous system, phendimetrazine tartrate may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or driving a motor vehicle; the patient should therefore be cautioned accordingly. Phendimetrazine tartrate is not recommended for patients who used any anorectic agents within the prior year.",
+    "drug_interactions": "Interactions Drug Interactions Efficacy of phendimetrazine tartrate with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Drug/Laboratory Test Interactions Drug Interactions Efficacy of phendimetrazine tartrate with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems.",
+    "contraindications": "CONTRAINDICATIONS Known hypersensitivity or idiosyncratic reactions to sympathomimetics. Advanced arteriosclerosis, symptomatic cardiovascular disease, moderate and severe hypertension, hyperthyroidism, and glaucoma. Highly nervous or agitated patients. Patients with a history of drug abuse. Patients taking other CNS stimulants, including monoamine oxidase inhibitors",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Usual Adult Dosage: 1 tablet (35 mg) twice a day or three times a day one hour before meals. Dosage should be individualized to obtain an adequate response with the lowest effective dosage. In some cases, 1/2 tablet (17.5 mg) per dose may be adequate. Dosage should not exceed 2 tablets three times a day.",
+    "indications_and_usage": "INDICATIONS AND USAGE Phendimetrazine tartrate is indicated in the management of exogenous obesity as a short term adjunct (a few weeks) in a regimen of weight reduction based on caloric restriction in patients with an initial body mass index (BMI) of 30 kg/m 2 or higher who have not responded to appropriate weight reducing regimen (diet and/or exercise) alone. Below is a chart of Body Mass Index (BMI) based on various heights and weights. BMI is calculated by taking the patient\u2019s weight in kilograms (kg), divided by the patient\u2019s height, in meters (m), squared. Metric conversions are as follow: pounds \u00f7 2.2 = kg; inches x 0.0254 = meters. BODY MASS INDEX (BMI), kg/m 2 Height (feet, inches) Weight 5\u20190\u201d 5\u20193\u201d 5\u20196\u201d 5\u20199\u201d 6\u20190\u201d 6\u20193\u201d (pounds) 140 27 25 23 21 19 18 150 29 27 24 22 20 19 160 31 28 26 24 22 20 170 33 30 28 25 23 21 180 35 32 29 27 25 23 190 37 34 31 28 26 24 200 39 36 32 30 27 25 210 41 37 34 31 29 26 220 43 39 36 33 30 28 230 45 41 37 34 31 29 240 47 43 39 36 33 30 250 49 44 40 37 34 31 Phendimetrazine tartrate is indicated for the use as monotherapy only"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA040762"
+    ],
+    "brand_name": [
+      "PHENDIMETRAZINE TARTRATE"
+    ],
+    "generic_name": [
+      "PHENDIMETRAZINE TARTRATE"
+    ],
+    "manufacturer_name": [
+      "NuCare Pharmaceuticals,Inc."
+    ],
+    "product_ndc": [
+      "68071-3509"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PHENDIMETRAZINE TARTRATE"
+    ],
+    "rxcui": [
+      "979549"
+    ],
+    "spl_id": [
+      "23225e11-eb3a-d737-e063-6394a90ab811"
+    ],
+    "spl_set_id": [
+      "05bb0569-4eed-2139-e063-6394a90acb6c"
+    ],
+    "package_ndc": [
+      "68071-3509-9",
+      "68071-3509-6",
+      "68071-3509-8",
+      "68071-3509-1"
+    ],
+    "original_packager_product_ndc": [
+      "64850-440"
+    ],
+    "upc": [
+      "0368071350999"
+    ],
+    "unii": [
+      "6985IP0T80"
+    ]
+  }
+}

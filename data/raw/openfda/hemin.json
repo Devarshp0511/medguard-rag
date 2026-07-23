@@ -1,0 +1,58 @@
+{
+  "drug_name": "Hemin",
+  "drug_id": 84,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Phlebitis is possible. Utilize a large arm vein or a central venous catheter for administration to minimize the risk of phlebitis. ( 5.1 ) \u2022 Elevated iron and serum ferritin may occur. Monitor iron and serum ferritin in patients receiving multiple administrations of PANHEMATIN. ( 5.2 ) \u2022 PANHEMATIN has transient and mild anticoagulant effect. Avoid concurrent anticoagulant therapy. ( 5.3 ) \u2022 Reversible renal shutdown has been observed with an excessive hematin dose (12.2 mg/kg in a single infusion). Strictly follow recommended dosage guidelines. ( 5.4 ) \u2022 PANHEMATIN may carry a risk of transmitting infectious agents, e.g., viruses, and theoretically, the Creutzfeldt-Jakob disease (CJD) agent. ( 5.5 ) 5.1 Risk of Phlebitis A large arm vein or a central venous catheter should be utilized for the administration of PANHEMATIN to minimize the risk of phlebitis. Since reconstituted PANHEMATIN is not transparent, any undissolved particulate matter is difficult to see when inspected visually. Therefore, terminal filtration through a sterile 0.45 micron or smaller filter is recommended. [See Dosage and Administration ( 2.2 )] 5.2 Iron and Serum Ferritin Because increased levels of iron and serum ferritin have been reported in post-marketing experience, physicians must monitor iron and serum ferritin in patients receiving multiple administrations of PANHEMATIN [See Adverse Reactions ( 6.2 )] . In case of elevated iron or serum ferritin levels, consider iron chelation therapy. 5.3 Anticoagulant Effects Because PANHEMATIN has exhibited transient, mild anticoagulant effects during clinical studies, avoid concurrent anticoagulant therapy. The extent and duration of the hypocoagulable state induced by PANHEMATIN has not been established. 5.4 Renal Effects Recommended dosage guidelines should be strictly followed. Reversible renal shutdown has been observed in a case where an excessive hematin dose (12.2 mg/kg) was administered in a single infusion. Oliguria and increased nitrogen retention occurred although the patient remained asymptomatic. No worsening of renal function has been seen with administration of recommended dosages of hematin. 5.5 Transmissible Infectious Agents Because PANHEMATIN is made from human blood, it may carry a risk of transmitting infectious agents, e.g., viruses, the variant Creutzfeldt-Jacob disease (vCJD) agent, and theoretically the Creutzfeldt-Jacob disease (CJD) agent. The risk that this product may transmit an infectious agent has been reduced by screening blood donors for prior exposure to certain viruses, by testing for the presence of certain current virus infections, and by inactivating certain viruses. Despite these measures, this product can still potentially transmit disease. There is also the possibility that unknown infectious agents may be present in the product. All infections thought by a physician possibly to have been transmitted by this product should be reported by the physician or other healthcare provider to Recordati Rare Diseases at 1-888-575-8344.",
+    "drug_interactions": "7 DRUG INTERACTIONS PANHEMATIN therapy is intended to limit the rate of porphyria/heme biosynthesis possibly by inhibiting the enzyme \u03b4-aminolevulinic acid synthetase 1 (ALAS1) [See Clinical Pharmacology ( 12.1 )] . Most of the heme synthesized in liver is used for the production of cytochrome P450 (CYP) enzymes. Therefore, avoid CYP inducing drugs (such as estrogens, barbituric acid derivatives and steroid metabolites) while on PANHEMATIN therapy, because these drugs increase the activity of ALAS leading to induction of ALAS1 through a feedback mechanism. Avoid CYP inducing drugs such as estrogens, barbituric acid derivatives and steroid metabolites which induce \u03b4-aminolevulinic acid synthetase 1 (ALAS1) through a feedback mechanism. ( 7 )",
+    "contraindications": "4 CONTRAINDICATIONS PANHEMATIN is contraindicated in patients with known hypersensitivity to this drug. Do not use in patients with known hypersensitivity to PANHEMATIN. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION For intravenous infusion only. For intravenous infusion only. Dose ( 2.1 ) 1 to 4 mg/kg/day for 3 to 14 days based on the clinical signs. The standard dose in clinical practice is 3 to 4 mg/kg/day. Repeat dose in more severe cases no earlier than every 12 hours. Do not exceed 6 mg/kg in any 24 hour period. Administration ( 2.2 ) Use sterile 0.45 micron or smaller filter to remove any undissolved particulate matter. The dose may be administered directly from the vial over a period of at least 30 minutes. After the infusion, flush the vein with 100 mL of 0.9% NaCl. 2.1 Dosing \u2022 PANHEMATIN should only be used by or in consultation with physicians experienced in the management of porphyrias. \u2022 Before PANHEMATIN therapy is begun, the presence of acute porphyria must be diagnosed using the following criteria: 1. Presence of clinical symptoms suggestive of acute porphyric attack. 2. Quantitative measurement of porphobilinogen (PBG) in urine. The single-void urine sample should be refrigerated or frozen without additives and shielded from light for subsequent quantitative \u03b4-aminolevulinic acid (ALA), PBG, and total porphyrin determinations. (Note: the classical Watson-Schwartz or Hoesch tests are considered to be less reliable). \u2022 Clinical benefit from PANHEMATIN depends on prompt administration. For mild porphyric attacks (mild pain, no vomiting, no paralysis, no hyponatremia, no seizures), a trial of glucose therapy is recommended while awaiting hemin treatment or if hemin is unavailable. For moderate to severe attacks, immediate hemin treatment is recommended. Symptoms of severe attacks are severe or prolonged pain, persistent vomiting, hyponatremia, convulsion, psychosis, and neuropathy. In addition to treatment with PANHEMATIN, consider other necessary measures such as the elimination of triggering factors. \u2022 The dose of PANHEMATIN is 1 to 4 mg/kg/day of hematin for 3 to 14 days based on the clinical signs. The standard dose in clinical practice is 3 to 4 mg/kg/day. In more severe cases this dose may be repeated no earlier than every 12 hours. Do not exceed 6 mg/kg of hematin in any 24 hour period. After reconstitution each mL of PANHEMATIN contains the equivalent of approximately 7 mg of hematin (see dosage calculation table below). Dosage Calculation Table 1 mg hematin equivalent = 0.14 mL PANHEMATIN 2 mg hematin equivalent = 0.28 mL PANHEMATIN 3 mg hematin equivalent = 0.42 mL PANHEMATIN 4 mg hematin equivalent = 0.56 mL PANHEMATIN \u2022 Monitor urinary concentrations of the following compounds during PANHEMATIN therapy. Effectiveness is demonstrated by a decrease in one or more of the following compounds. ALA - \u03b4-aminolevulinic acid PBG - porphobilinogen Uroporphyrin Coproporphyrin 2.2 Preparation and Administration \u2022 Because PANHEMATIN contains no preservative and undergoes rapid chemical decomposition in solution, it must be reconstituted immediately before use. \u2022 Reconstitute PANHEMATIN by aseptically adding 48 mL of Sterile Water for Injection, USP, to the dispensing vial. Shake the vial well for a period of 2 to 3 minutes to aid dissolution. \u2022 PANHEMATIN may be administered directly from the vial. After the first withdrawal from the vial, discard any solution remaining. \u2022 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Since reconstituted PANHEMATIN is not transparent, any undissolved particulate matter is difficult to see when inspected visually. Therefore, terminal filtration through a sterile 0.45 micron or smaller filter is recommended. \u2022 Do not add other drug or chemical agent to a PANHEMATIN fluid admixture. \u2022 Infuse the dose over a period of at least 30 minutes via a separate line. \u2022 After the infusion, flush the vein with 100 mL of 0.9% NaCl.",
+    "dosage_and_administration_table": "<table ID=\"SPLSERV-13d1bbd7-4924-4ac8-aba5-758c318b4ef5\" styleCode=\"Noautorules\" width=\"40%\"><colgroup><col width=\"58%\"/></colgroup><tbody><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Botrule\" valign=\"middle\"><paragraph><content styleCode=\"bold\">Dosage Calculation Table</content></paragraph></td></tr><tr styleCode=\"Botrule\"><td align=\"center\" valign=\"middle\"><paragraph><content styleCode=\"bold\">1 mg hematin equivalent = 0.14 mL PANHEMATIN</content></paragraph></td></tr><tr styleCode=\"Botrule\"><td align=\"center\" valign=\"middle\"><paragraph><content styleCode=\"bold\">2 mg hematin equivalent = 0.28 mL PANHEMATIN</content></paragraph></td></tr><tr styleCode=\"Botrule\"><td align=\"center\" valign=\"middle\"><paragraph><content styleCode=\"bold\">3 mg hematin equivalent = 0.42 mL PANHEMATIN</content></paragraph></td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Botrule\" valign=\"middle\"><paragraph><content styleCode=\"bold\">4 mg hematin equivalent = 0.56 mL PANHEMATIN</content></paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE PANHEMATIN is a hemin for injection indicated for the amelioration of recurrent attacks of acute intermittent porphyria temporally related to the menstrual cycle in susceptible women, after initial carbohydrate therapy is known or suspected to be inadequate. Limitations of Use \u2022 Before administering PANHEMATIN, consider an appropriate period of carbohydrate loading (i.e., 400 g glucose/day for 1 to 2 days) [ See Dosage and Administration ( 2.1 ) ]. \u2022 Attacks of porphyria may progress to a point where irreversible neuronal damage has occurred. PANHEMATIN therapy is intended to prevent an attack from reaching the critical stage of neuronal degeneration. PANHEMATIN is not effective in repairing neuronal damage. PANHEMATIN is a hemin for injection indicated for amelioration of recurrent attacks of acute intermittent porphyria temporally related to the menstrual cycle in susceptible women, after initial carbohydrate therapy is known or suspected to be inadequate. ( 1 ) Limitations of Use \u2022 Before administering PANHEMATIN, consider an appropriate period of carbohydrate loading (i.e., 400 g glucose/day for 1 to 2 days). ( 1 ) \u2022 PANHEMATIN is not effective in repairing neuronal damage due to progression of porphyria attacks. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "BLA101246"
+    ],
+    "brand_name": [
+      "Panhematin"
+    ],
+    "generic_name": [
+      "HEMIN"
+    ],
+    "manufacturer_name": [
+      "Recordati Rare Diseases, Inc."
+    ],
+    "product_ndc": [
+      "55292-702"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "HEMIN"
+    ],
+    "rxcui": [
+      "1926452",
+      "1926454"
+    ],
+    "spl_id": [
+      "ff0139fe-eb46-4d22-95f1-849de7ce9462"
+    ],
+    "spl_set_id": [
+      "9984267a-4d57-4444-9bb5-16bca7dea691"
+    ],
+    "package_ndc": [
+      "55292-702-54",
+      "55292-702-55"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "743LRP9S7N"
+    ]
+  }
+}

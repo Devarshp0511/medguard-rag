@@ -1,0 +1,53 @@
+{
+  "drug_name": "Olopatadine",
+  "drug_id": 1418,
+  "sections": {
+    "warnings": "Warnings For external use only",
+    "dosage_and_administration": "Directions adults and children 2 years of age and older: put 1 drop in the affected eye(s) twice daily, every 6 to 8 hours, no more than twice per day if using other ophthalmic products while using this product, wait at least 5 minutes between each product replace cap after each use children under 2 years of age: consult a doctor",
+    "indications_and_usage": "Uses temporarily relieves itchy and red eyes due to pollen, ragweed, grass, animal hair and dander"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA206046"
+    ],
+    "brand_name": [
+      "Equate Olopatadine Hydrochloride Ophthalmic Solution"
+    ],
+    "generic_name": [
+      "OLOPATADINE HYDROCHLORIDE OPHTHALMIC SOLUTION"
+    ],
+    "manufacturer_name": [
+      "WAL-MART STORES, INC.,"
+    ],
+    "product_ndc": [
+      "79903-319"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "OLOPATADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1111339"
+    ],
+    "spl_id": [
+      "32bfdba1-5dab-787e-e063-6294a90a9602"
+    ],
+    "spl_set_id": [
+      "010b0c92-21ad-4e96-ac14-14683131da17"
+    ],
+    "package_ndc": [
+      "79903-319-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "2XG66W44KF"
+    ]
+  }
+}

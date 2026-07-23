@@ -1,0 +1,59 @@
+{
+  "drug_name": "Primaquine",
+  "drug_id": 994,
+  "sections": {
+    "warnings": "WARNINGS Hemolytic Anemia Hemolytic reactions (moderate to severe) may occur in individuals with G6PD deficiency and in individuals with a family or personal history of favism. Areas of high prevalence of G6PD deficiency are Africa, Southern Europe, Mediterranean region, Middle East, South-East Asia, and Oceania. People from these regions have a greater tendency to develop hemolytic anemia due to a congenital deficiency of erythrocytic G6PD while receiving primaquine and related drugs. Due to the risk of hemolytic anemia in patients with G6PD deficiency, G6PD testing must be performed before using primaquine. Before initiating treatment, obtain baseline hemoglobin and hematocrit. In case of severe anemia, postpone the G6PD test and decision on treatment with primaquine until recovery. Due to the limitations of G6PD tests, physicians need to be aware of residual risk of hemolysis and adequate medical support and follow-up to manage hemolytic risk should be available. This is of particular importance in individuals with a personal or family history of hemolytic anemia. Patients with G6PD Deficiency Primaquine is contraindicated in patients with severe G6PD deficiency (see CONTRAINDICATIONS ). In case of mild to moderate G6PD deficiency, a decision to prescribe primaquine must be based on an assessment of the risks and benefits of using primaquine. If primaquine administration is considered, baseline hematocrit and hemoglobin must be checked before treatment and close hematological monitoring (e.g., at day 3 and 8) is required. Adequate medical support to manage hemolytic risk should be available. Patients with Unknown G6PD Status When the G6PD status is unknown and G6PD testing is not available, a decision to prescribe primaquine must be based on an assessment of the risks and benefits of using primaquine. Risk factors for G6PD deficiency or favism must be assessed. Baseline hematocrit and hemoglobin must be checked before treatment and close hematological monitoring (e.g., at day 3 and 8) is required. Adequate medical support to manage hemolytic risk should be available. Patients without G6PD Deficiency In G6PD normal patients it is also advisable to perform routine blood examinations (particularly blood cell counts and hemoglobin determinations) during therapy. Risk of Hemolysis with Other Drugs Avoid the concurrent administration of hemolytic agents in all patients (see CLINICAL PHARMACOLOGY, Drug Interactions ). Warn patients to discontinue the use of primaquine promptly if signs suggestive of hemolytic anemia occur (such as darkening of the urine, pale skin, shortness of breath, dizziness, and fatigue) and to contact their healthcare professional immediately. Pregnancy Safe usage of primaquine in pregnancy has not been established. Primaquine is contraindicated in pregnant women. The use of primaquine during pregnancy may cause hemolytic anemia in a G6PD-deficient fetus. Even if a pregnant woman has normal levels of G6PD, the fetus could be G6PD-deficient (see CONTRAINDICATIONS ). Animal data show toxicity to reproduction and embryofetal development. (See PRECAUTIONS, Animal Pharmacology and/or Animal Toxicology ). Nonclinical data from studies conducted in bacteria and in animals treated with primaquine show evidence of gene mutations and chromosomal/DNA damage, teratogenicity, and injury to embryos and developing fetuses when primaquine is administered to pregnant animals. Inform patients of the potential for adverse genetic and reproductive effects associated with primaquine treatment (see PRECAUTIONS, Carcinogenesis, Mutagenesis, and Impairment of Fertility , and Animal Pharmacology and/or Animal Toxicology ). Use in Females and Males of Reproductive Potential Pregnancy Testing Sexually active females of reproductive potential should have a pregnancy test prior to starting treatment with primaquine. Contraception Patients should avoid pregnancy during treatment. The use of effective contraception is recommended during treatment and after the end of treatment as follows: Advise sexually active females of childbearing potential to use effective contraception (methods that result in less than 1% pregnancy rates) when using primaquine and after stopping treatment until 2 menses have elapsed). Advise treated males whose partners may become pregnant, to use a condom while on treatment and for 3 months after stopping treatment with primaquine. Nursing Mothers A breastfed infant with G6PD deficiency is at risk for hemolytic anemia from exposure to primaquine. Infant G6PD status should be checked before breastfeeding begins. Primaquine is contraindicated in breastfeeding women when the infant is found to be G6PD deficient or the G6PD status of the infant is unknown (see CONTRAINDICATIONS ). Advise the woman with a G6PD-deficient infant or if the G6PD status of the infant is unknown not to breastfeed. The presence of primaquine and its major metabolite in breast milk and infant plasma were evaluated in a published study of 21 G6PD-normal lactating women and their G6PD-normal infants aged 28 days or older. After repeat administration of a 0.5 mg/kg/day primaquine base dose for 14 days in the lactating women, low concentrations of primaquine and carboxyprimaquine were measured both in breast milk and in infant plasma. The estimated infant ingested dose was found to be less than 1% of a 0.5 mg/kg/day primaquine base dose determined from an observed milk to maternal plasma AUC ratio of 0.34 (range: 0.12 to 0.64) and assuming an infant milk consumption of 150 mL/kg/day. Infant primaquine concentrations in plasma were below measurement thresholds (2.28 ng/mL) in all but 1 infant capillary plasma sample (2.6 ng/mL), and carboxyprimaquine concentrations in plasma were likewise unmeasurable in the majority of infant samples (range, 4.88 ng/mL [measurement threshold] to maximum value 25.8 ng/mL). There is no information on the effects of primquine on the breastfed infant, or the effects on milk production.",
+    "drug_interactions": "Drug Interactions Pharmacodynamics Interactions Quinacrine Concurrent use of quinacrine (mepacrine) and primaquine are contraindicated. Increased toxicity was seen when quinacrine was used with pamaquine, another 8-aminoquinoline (see CONTRAINDICATIONS ). Hemolytic Agents and Methemoglobinemia-Inducing Drugs The concurrent administration of hemolytic agents or methemoglobinemia-inducing drugs and primaquine should be avoided (see PRECAUTIONS ). If the concurrent administration cannot be avoided, close blood monitoring is required. QT Interval Prolonging Drugs The pharmacodynamic interaction potential to prolong the QT interval of the electrocardiogram between primaquine and other drugs that effect cardiac conduction is unknown. If primaquine is used concomitantly with other drugs that prolong the QT interval, close and frequent electrocardiogram monitoring is advised (see PRECAUTIONS , ADVERSE REACTIONS , and OVERDOSAGE ). Effects of Other Drugs on the Pharmacokinetics of Primaquine Potent CYP2D6 Inhibitors Published clinical and non-clinical reports indicate reduced CYP2D6 activity may decrease the formation of active metabolites of primaquine, which may reduce antimalarial efficacy of primaquine. Where possible, consider alternative medications that are not potent CYP2D6 inhibitors. If concurrent use with primaquine is necessary, increase monitoring for possible relapse. Effects of Primaquine on the Pharmacokinetics of Other Drugs CYP1A2 Substrates Published clinical and non-clinical reports indicate primaquine inhibits CYP1A2 enzyme activity and thus may lead to increased exposure of CYP1A2 substrate drugs (e.g., duloxetine, alosetron, theophylline and tizanidine) when co-administered with primaquine. Since data are limited, no predictions can be made regarding the extent of the impact on CYP1A2 substrate drug exposures. Increase monitoring for adverse reactions associated with the CYP1A2 substrate drug when concurrently administered with primaquine. P-gp Substrates with Narrow Therapeutic Index In vitro observations suggest that primaquine inhibits the P-gp membrane transporter. Therefore, there is a potential for increased concentrations of drugs that are P-gp substrates when co-administered with primaquine. Increase monitoring for adverse reactions associated with narrow therapeutic index drugs that are P-gp substrates (e.g., digoxin and dabigatran) when concomitantly administered with primaquine.",
+    "contraindications": "CONTRAINDICATIONS Known hypersensitivity reactions to primaquine phosphate, other 8-\u00adaminoquinolones, or to any component in primaquine. Severe glucose-6-phosphate dehydrogenase (G6PD) deficiency (see WARNINGS, Hemolytic Anemia ). Pregnant women (see WARNINGS, Pregnancy ). Breastfeeding by a lactating woman when the infant is found to be G6PD deficient or if G6PD status is unknown (see WARNINGS, Nursing Mothers ). Because quinacrine hydrochloride appears to potentiate the toxicity of antimalarial compounds which are structurally related to primaquine, the use of quinacrine in patients receiving primaquine is contraindicated. Similarly, primaquine should not be administered to patients who have received quinacrine recently, as toxicity is increased.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Primaquine phosphate tablets are recommended only for the radical cure of vivax malaria, the prevention of relapse in vivax malaria, or following the termination of chloroquine phosphate suppressive therapy in an area where vivax malaria is endemic. Patients suffering from an attack of vivax malaria or having parasitized red blood cells should receive a course of chloroquine phosphate, which quickly destroys the erythrocytic parasites and terminates the paroxysm. Primaquine phosphate tablets should be administered concurrently to eradicate the exoerythrocytic parasites in adults at a dosage of 1 tablet (equivalent to 15 mg base) daily for 14 days. Primaquine phosphate tablets can be taken with or without food. Administration of primaquine phosphate tablets with food may reduce the incidence of gastrointestinal symptoms.",
+    "indications_and_usage": "INDICATIONS AND USAGE Primaquine phosphate is indicated for the radical cure (prevention of relapse) of vivax malaria."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA206043"
+    ],
+    "brand_name": [
+      "PRIMAQUINE PHOSPHATE"
+    ],
+    "generic_name": [
+      "PRIMAQUINE PHOSPHATE"
+    ],
+    "manufacturer_name": [
+      "Ingenus Pharmaceuticals, LLC"
+    ],
+    "product_ndc": [
+      "50742-191"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PRIMAQUINE PHOSPHATE"
+    ],
+    "rxcui": [
+      "904170"
+    ],
+    "spl_id": [
+      "0fb59114-6477-4616-88ab-48fdc00858f0"
+    ],
+    "spl_set_id": [
+      "09531382-2e06-4164-a7e1-169a1488788a"
+    ],
+    "package_ndc": [
+      "50742-191-01",
+      "50742-191-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0350742191055"
+    ],
+    "unii": [
+      "H0982HF78B"
+    ]
+  }
+}

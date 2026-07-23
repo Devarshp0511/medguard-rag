@@ -1,0 +1,62 @@
+{
+  "drug_name": "Nicardipine",
+  "drug_id": 792,
+  "sections": {
+    "warnings": "WARNINGS Increased Angina About 7% of patients in short-term, placebo-controlled angina trials have developed increased frequency, duration or severity of angina on starting nicardipine hydrochloride capsules or at the time of dosage increases, compared with 4% of patients on placebo. Comparisons with beta-blockers also show a greater frequency of increased angina, 4% vs 1%. The mechanism of this effect has not been established (see ADVERSE REACTIONS ). Use in Patients With Congestive Heart Failure Although preliminary hemodynamic studies in patients with congestive heart failure have shown that nicardipine hydrochloride capsules reduced afterload without impairing myocardial contractility, it has a negative inotropic effect in vitro and in some patients. Caution should be exercised when using the drug in congestive heart failure patients, particularly in combination with a beta-blocker. Beta-Blocker Withdrawal Nicardipine hydrochloride capsules are not a beta-blocker and therefore gives no protection against the dangers of abrupt beta-blocker withdrawal; any such withdrawal should be by gradual reduction of the dose of beta-blocker, preferably over 8 to 10 days.",
+    "drug_interactions": "Drug Interactions Beta Blockers In controlled clinical studies, adrenergic beta-receptor blockers have been frequently administered concomitantly with nicardipine hydrochloride capsules. The combination is well tolerated. Cimetidine Cimetidine increases nicardipine hydrochloride capsules plasma levels. Patients receiving the two drugs concomitantly should be carefully monitored. Digoxin Some calcium blockers may increase the concentration of digitalis preparations in the blood. Nicardipine hydrochloride capsules usually do not alter the plasma levels of digoxin; however, serum digoxin levels should be evaluated after concomitant therapy with nicardipine hydrochloride capsules are initiated. Maalox \u00ae Coadministration of Maalox TC had no effect on nicardipine hydrochloride capsules absorption. Fentanyl Anesthesia Severe hypotension has been reported during fentanyl anesthesia with concomitant use of a beta-blocker and a calcium channel blocker. Even though such interactions were not seen during clinical studies with nicardipine hydrochloride capsules, an increased volume of circulating fluids might be required if such an interaction were to occur. Cyclosporine Concomitant administration of oral or intravenous nicardipine and cyclosporine results in elevated plasma cyclosporine levels though nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4. Plasma concentrations of cyclosporine should therefore be closely monitored, and its dosage reduced accordingly, in patients treated with nicardipine. Tacrolimus: Concomitant administration of oral or intravenous nicardipine and tacrolimus may result in elevated plasma tacrolimus levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4. Closely monitor plasma concentrations of tacrolimus during nicardipine administration, and adjust the dose of tacrolimus accordingly. When therapeutic concentrations of furosemide, propranolol, dipyridamole, warfarin, quinidine or naproxen were added to human plasma (in vitro), the plasma protein binding of nicardipine hydrochloride capsules were not altered.",
+    "contraindications": "CONTRAINDICATIONS Nicardipine hydrochloride capsules are contraindicated in patients with hypersensitivity to the drug. Because part of the effect of nicardipine hydrochloride capsules are secondary to reduced afterload, the drug is also contraindicated in patients with advanced aortic stenosis. Reduction of diastolic pressure in these patients may worsen rather than improve myocardial oxygen balance.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Angina The dose should be individually titrated for each patient beginning with 20 mg three times daily. Doses in the range of 20 to 40 mg three times a day have been shown to be effective. At least 3 days should be allowed before increasing the nicardipine hydrochloride capsuels dose to ensure achievement of steady-state plasma drug concentrations. Concomitant Use With Other Antianginal Agents Sublingual NTG may be taken as required to abort acute anginal attacks during nicardipine hydrochloride capsules therapy. Prophylactic Nitrate Therapy: nicardipine hydrochloride capsules may be safely coadministered with short- and long-acting nitrates. Beta-blockers : Nicardipine hydrochloride capsules may be safely coadministered with beta-blockers (see Drug Interactions ). Hypertension The dose of nicardipine hydrochloride capsules should be individually adjusted according to the blood pressure response beginning with 20 mg three times daily. The effective doses in clinical trials have ranged from 20 mg to 40 mg three times daily. The maximum blood pressure lowering effect occurs approximately 1 to 2 hours after dosing. To assess the adequacy of blood pressure response, the blood pressure should be measured at trough (8 hours after dosing). Because of the prominent peak effects of nicardipine, blood pressure should be measured 1 to 2 hours after dosing, particularly during initiation of therapy (see PRECAUTIONS : Blood Pressure , INDICATIONS AND USAGE , CLINICAL PHARMACOLOGY , Effects in Hypertension ). At least 3 days should be allowed before increasing the nicardipine hydrochloride capsules dose to ensure achievement of steady-state plasma drug concentrations. Concomitant Use With Other Antihypertensive Agents 1. Diuretics: nicardipine hydrochloride capsules may be safety coadministered with thiazide diuretics. 2. Beta-blockers: nicardipine hydrochloride capsules may be safely coadministered with beta-blocker (see PRECAUTIONS , Drug Interactions ). Special Patient Population Renal Insufficiency Although there is no evidence that nicardipine hydrochloride capsules impair renal function, careful dose titration beginning with 20 mg tid is advised (see PRECAUTIONS ). Hepatic Insufficiency Nicardipine hydrochloride capsules should be administered cautiously in patients with severely impaired hepatic function. A suggested starting dose of 20 mg twice a day is advised with individual titration based on clinical findings maintaining the twice a day schedule (see PRECAUTIONS ). Congestive Heart Failure Caution is advised when titrating nicardipine hydrochloride capsules dosage in patients with congestive heart failure (see WARNINGS ).",
+    "indications_and_usage": "INDICATIONS AND USAGE I. Stable Angina Nicardipine hydrochloride capsules are indicated for the management of patients with chronic stable angina (effort-associated angina). Nicardipine hydrochloride capsules may be used alone or in combination with beta-blockers. II. Hypertension Nicardipine hydrochloride capsules are indicated for the treatment of hypertension. Nicardipine hydrochloride capsules may be used alone or in combination with other antihypertensive drugs. In administering nicardipine hydrochloride it is important to be aware of the relatively large peak to trough differences in blood pressure effect (See DOSAGE AND ADMINISTRATION )."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA074928"
+    ],
+    "brand_name": [
+      "Nicardipine Hydrochloride"
+    ],
+    "generic_name": [
+      "NICARDIPINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "PuraCap Laboratories LLC dba Blu Pharmaceuticals"
+    ],
+    "product_ndc": [
+      "24658-750",
+      "24658-751"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NICARDIPINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "858616",
+      "858613"
+    ],
+    "spl_id": [
+      "69c60be8-143d-4a50-8a66-46c01c416372"
+    ],
+    "spl_set_id": [
+      "065efabf-8c7d-4dd5-aef2-700c2eca399d"
+    ],
+    "package_ndc": [
+      "24658-750-90",
+      "24658-751-90"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0324658750903",
+      "0324658751900"
+    ],
+    "unii": [
+      "K5BC5011K3"
+    ]
+  }
+}

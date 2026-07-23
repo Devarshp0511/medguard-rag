@@ -1,0 +1,66 @@
+{
+  "drug_name": "Dactinomycin",
+  "drug_id": 468,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Secondary Malignancy or Leukemia: Increased risk of secondary malignancies following treatment. ( 5.1 ) Veno-occlusive Disease: Can cause severe or fatal VOD. Monitor for elevations in AST, ALT, total bilirubin, hepatomegaly, weight gain, or ascites. Consider delaying next dose. ( 5.2 ) Extravasation: Immediately interrupt the injection or infusion and apply ice. ( 2.7 , 5.3 ) Myelosuppression: Monitor blood cell counts before each cycle. Delay next dose if severe myelosuppression has not improved. ( 5.4 ) Immunizations: Vaccination with live viral vaccines is not recommended before or during treatment. ( 5.5 ) Severe Mucocutaneous Reactions: Discontinue treatment ( 5.6 ) Renal Toxicity: Monitor creatinine and electrolytes frequently. ( 5.7 ) Hepatotoxicity: Monitor transaminases, alkaline phosphatase and bilirubin prior to and during treatment. ( 5.8 ) Potentiation of Radiation Toxicity and Radiation Recall: Reduce dose by 50% during concomitant radiation. Use caution when administering within two months of radiation. ( 5.9 ) Embryo-fetal Toxicity: Can cause fetal harm. Advise patients of the potential risk to a fetus and to use effective contraception. ( 5.10 , 8.1 , 8.3 ) 5.1 Secondary Malignancy or Leukemia The risk of developing secondary malignancies, including leukemia, is increased following treatment with dactinomycin. 5.2 Veno-occlusive Disease Severe and fatal hepatic veno-occlusive disease (VOD) can occur with dactinomycin. Risk factors for the development of VOD include age younger than 4 years or concomitant radiotherapy. After treatment with dactinomycin, monitor frequently for signs and symptoms of VOD; these include elevations in AST, ALT, total bilirubin, hepatomegaly, weight gain, or ascites. If patients develop VOD, considering delaying next dose of dactinomycin. Resume, reduce dose or permanently discontinue based on severity of reaction and disease being treated. 5.3 Extravasation Extravasation of dactinomycin can result in severe local tissue injury manifesting as blistering, ulcerations and persistent pain requiring wide excision surgery followed by split-thickness skin grafting. If any signs or symptoms of extravasation occur, immediately interrupt the injection or infusion. Apply ice to the site intermittently for 15 minutes, 4 times a day for 3 days [see Dosage and Administration ( 2.7 )] . Observe closely and consult plastic surgery if necessary based on severity of reaction. 5.4 Myelosuppression Severe and fatal myelosuppression, which may include neutropenia, thrombocytopenia and anemia, can occur with dactinomycin. The nadir in neutrophil counts generally occurs 14 to 21 days after administration. Obtain complete blood counts prior to each treatment cycle. Delay next dose of dactinomycin if severe myelosuppression has not improved. Consider dose reduction for patients with prolonged myelosuppression based on severity of reaction and disease being treated. 5.5 Immunizations The safety with live viral vaccines following dactinomycin has not been studied and vaccination with live virus vaccines is not recommended before or during treatment. 5.6 Severe Mucocutaneous Reactions Severe mucocutaneous reactions, such as Steven-Johnson syndrome and Toxic Epidermal Necrolysis (TEN), can occur with dactinomycin. Permanently discontinue dactinomycin in patients who experience a severe mucocutaneous reaction. 5.7 Renal Toxicity Abnormalities of renal function can occur with dactinomycin. Monitor creatinine and electrolytes frequently during dactinomycin therapy. 5.8 Hepatotoxicity Hepatotoxicity can occur with dactinomycin. Monitor AST, ALT, alkaline phosphatase, and bilirubin prior to and during dactinomycin therapy. 5.9 Potentiation of Radiation Toxicity and Radiation Recall Dactinomycin can increase radiation-induced gastrointestinal toxicity, myelosuppression, or erythema and vesiculation of the skin or buccal and pharyngeal mucosa. Reduce the dose of dactinomycin by 50% during concomitant radiation. Radiation recall, affecting previously treated radiation fields, can occur in patients who receive dactinomycin after prior radiation therapy. Although the risk can occur with distant radiation exposure, the risk appears highest when dactinomycin is administered within two months of prior radiation. 5.10 Embryo-Fetal Toxicity Based on findings from animal studies and its mechanism of action, dactinomycin can cause fetal harm when administered to a pregnant woman. In animal reproduction studies, administration of dactinomycin to pregnant animals during the period of organogenesis was teratogenic, resulting in malformations at doses lower than the recommended human dose. Advise pregnant women of the potential risk to the fetus. Advise females of reproductive potential to use effective contraception during treatment with dactinomycin and for at least 6 months after the final dose. Advise males with female partners of reproductive potential to use effective contraception during treatment with dactinomycin and for 3 months after the final dose [see Use in Specific Populations ( 8.1 , 8.3 )] .",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Wilms Tumor: The recommended dose is 45 mcg/kg intravenously once every 3 to 6 weeks for up to 26 weeks, as part of a multi-agent combination chemotherapy regimen. ( 2.1 ) Rhabdomyosarcoma: The recommended dose is 15 mcg/kg intravenously once daily for 5 days every 3 to 9 weeks for up to 112 weeks, as part of a multi-agent combination chemotherapy regimen. ( 2.2 ) Ewing Sarcoma: The recommended dose is 1,250 mcg/m 2 intravenously once every 3 weeks for 51 weeks, as part of a multi-agent combination chemotherapy regimen. ( 2.3 ) Metastatic Nonseminomatous Testicular Cancer: The recommended dose is 1,000 mcg/m 2 intravenously every 3 weeks, as part of cisplatin-based, multi-drug chemotherapy regimen. ( 2.4 ) Gestational Trophoblastic Neoplasia: Non-metastatic and Low-risk Metastatic Disease: The recommended dose is 12 mcg/kg intravenously daily for 5 days, as a single agent. ( 2.5 ) High-risk Metastatic Disease: The recommended dose is 500 mcg intravenously on Days 1 and 2 every 2 weeks for up to 8 weeks, as part of a multi-agent combination chemotherapy regimen. ( 2.5 ) Regional Perfusion in Locally Recurrent and Locoregional Solid Malignancies: Lower Extremity or Pelvis: The recommend dose is 50 mcg/kg once with melphalan. ( 2.6 ) Upper Extremity: The recommended dose is 35 mcg/kg once with melphalan. ( 2.6 ) 2.1 Recommended Dosage for Wilms Tumor The recommended dose of dactinomycin for injection, as part of a multi-agent combination chemotherapy regimen, is 45 mcg/kg intravenously once every 3 to 6 weeks for up to 26 weeks. 2.2 Recommended Dosage for Rhabdomyosarcoma The recommended dose of dactinomycin for injection, as part of a multi-agent combination chemotherapy regimen, is 15 mcg/kg intravenously once daily for 5 days every 3 to 9 weeks for up to 112 weeks. 2.3 Recommended Dosage for Ewing Sarcoma The recommended dose of dactinomycin for injection, as part of a multi-agent combination chemotherapy regimen, is 1,250 mcg/m 2 intravenously once every 3 weeks for 51 weeks. 2.4 Recommended Dosage for Metastatic Nonseminomatous Testicular Cancer The recommended dose of dactinomycin for injection, as part of a cisplatin-based, multi-agent combination chemotherapy regimen, is 1,000 mcg/m 2 intravenously once every 3 weeks for 12 weeks. 2.5 Recommended Dosage for Gestational Trophoblastic Neoplasia The recommended dose of dactinomycin for injection for nonmetastatic and low-risk metastatic disease is 12 mcg/kg intravenously daily for five days as a single agent. The recommended dose of dactinomycin for injection, as part of a multi-agent combination chemotherapy regimen, for high-risk metastatic disease is 500 mcg intravenously on Days 1 and 2 every 2 weeks for up to 8 weeks. 2.6 Recommended Dosage for Regional Perfusion in Locally Recurrent and Locoregional Solid Malignancies The recommended dose of dactinomycin for injection, in combination with melphalan, is 50 mcg/kg once for lower extremity or pelvis. The recommended dose of dactinomycin for injection, in combination with melphalan, is 35 mcg/kg once for upper extremity. Calculate the dose for obese or edematous patients based on ideal body weight. 2.7 Preparation and Administration Dactinomycin for injection is a cytotoxic drug. Follow applicable special handling and disposal procedures. 1 Visually inspect the vials for particulate matter and discoloration, whenever solution and container permit. Preparation Reconstitute each vial by adding 1.1 mL of Sterile Water for Injection without preservative using aseptic techniques. The reconstituted product should be a clear, gold-colored solution at a concentration of 500 mcg per mL. Further dilute the reconstituted product with 5% Dextrose Injection or 0.9% Sodium Chloride Injection to yield concentrations greater than 10 mcg/mL. Store at room temperature for no more than 4 hours from reconstitution to completion of injection or infusion. Discard after 4 hours. Dactinomycin for injection does not contain a preservative. Discard any unused portions. Administration Administer the diluted reconstituted product intravenously over 10 to 15 minutes. Do not use in-line filters with a cellulose ester membrane. Management of Extravasation Discontinue dactinomycin for injection for burning or stinging sensation or other evidence indicating perivenous infiltration or extravasation. Manage confirmed or suspected extravasation as follows: Terminate the injection or infusion immediately and restart in another vein. Intermittent application of ice to the site for 15 minutes 4 times daily for 3 days [see Warnings and Precautions ( 5.3 )].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Dactinomycin for Injection is an actinomycin indicated for the treatment of: adult and pediatric patients with Wilms tumor, as part of a multi-phase, combination chemotherapy regimen. ( 1.1 ) adult and pediatric patients with rhabdomyosarcoma, as part of a multi-phase, combination chemotherapy regimen. ( 1.2 ) adult and pediatric patients with Ewing sarcoma, as part of a multi-phase, combination chemotherapy regimen. ( 1.3 ) adult and pediatric patients with metastatic, nonseminomatous testicular cancer, as part of a multi-phase, combination chemotherapy regimen. ( 1.4 ) post-menarchal patients with gestational trophoblastic neoplasia, as a single agent or as part of a combination chemotherapy regimen. ( 1.5 ) adult patients with locally recurrent or locoregional solid malignancies, as a component of palliative or adjunctive regional perfusion. ( 1.6 ) 1.1 Wilms Tumor Dactinomycin for Injection is indicated for the treatment of adult and pediatric patients with Wilms tumor, as part of a multi-phase, combination chemotherapy regimen. 1.2 Rhabdomyosarcoma Dactinomycin for Injection is indicated for the treatment of adult and pediatric patients with rhabdomyosarcoma, as part of a multi-phase, combination chemotherapy regimen. 1.3 Ewing Sarcoma Dactinomycin for Injection is indicated for the treatment of adult and pediatric patients with Ewing sarcoma, as part of a multi-phase, combination chemotherapy regimen. 1.4 Metastatic Nonseminomatous Testicular Cancer Dactinomycin for Injection is indicated for the treatment of adult and pediatric patients with metastatic, nonseminomatous testicular cancer, as part of a multi-phase, combination chemotherapy regimen. 1.5 Gestational Trophoblastic Neoplasia Dactinomycin for Injection is indicated for the treatment of post-menarchal patients with gestational trophoblastic neoplasia, as a single agent or as part of a combination chemotherapy regimen. 1.6 Regional Perfusion in Locally Recurrent and Locoregional Solid Malignancies Dactinomycin for Injection is indicated for the treatment of adult patients with locally recurrent or locoregional solid malignancies, as a component of palliative or adjunctive regional perfusion."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA213463"
+    ],
+    "brand_name": [
+      "Dactinomycin"
+    ],
+    "generic_name": [
+      "DACTINOMYCIN"
+    ],
+    "manufacturer_name": [
+      "Meitheal Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "71288-129"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "DACTINOMYCIN"
+    ],
+    "rxcui": [
+      "239179"
+    ],
+    "spl_id": [
+      "d9bb02eb-3f9e-4932-bdcd-53b5bd6392b6"
+    ],
+    "spl_set_id": [
+      "2aaca42a-3b79-4151-a727-83253556a540"
+    ],
+    "package_ndc": [
+      "71288-129-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000180850",
+      "N0000000233",
+      "N0000000150"
+    ],
+    "pharm_class_epc": [
+      "Actinomycin [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Nucleic Acid Synthesis Inhibitors [MoA]",
+      "Protein Synthesis Inhibitors [MoA]"
+    ],
+    "unii": [
+      "1CC1JFE158"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "drug_name": "Atovaquone",
+  "drug_id": 1444,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Failure to administer atovaquone oral suspension with food may result in lower plasma atovaquone concentrations and may limit response to therapy. Patients with gastrointestinal disorders may have limited absorption resulting in suboptimal atovaquone concentrations. ( 5.1 ) Hepatotoxicity: Elevated liver chemistry tests and cases of hepatitis and fatal liver failure have been reported. ( 5.2 ) 5.1 Risk of Limited Oral Absorption Absorption of orally administered atovaquone oral suspension is limited but can be significantly increased when the drug is taken with food. Failure to administer atovaquone oral suspension with food may result in lower plasma atovaquone concentrations and may limit response to therapy. Consider therapy with other agents in patients who have difficulty taking atovaquone oral suspension with food or in patients who have gastrointestinal disorders that may limit absorption of oral medications [see Clinical Pharmacology ( 12.3 )]. 5.2 Hepatotoxicity Cases of cholestatic hepatitis, elevated liver enzymes, and fatal liver failure have been reported in patients treated with atovaquone [see Adverse Reactions ( 6.2 )]. If treating patients with severe hepatic impairment, closely monitor patients following administration of atovaquone oral suspension.",
+    "drug_interactions": "7 DRUG INTERACTIONS Concomitant administration of rifampin or rifabutin reduces atovaquone concentrations; concomitant use with atovaquone oral suspension is not recommended. ( 7.1 ) Concomitant administration of tetracycline reduces atovaquone concentrations; use caution when coadministering. Monitor patients for potential loss of efficacy of atovaquone if coadministration of tetracycline is necessary. ( 7.2 ) Concomitant administration with metoclopramide reduces atovaquone concentrations; administer concomitantly only if other antiemetics are not available. ( 7.3 ) Concomitant administration of indinavir reduces indinavir trough concentrations; use caution when coadministering. Monitor patients for potential loss of efficacy of indinavir if coadministration is necessary. ( 7.4 ) 7.1 Rifampin/Rifabutin Concomitant administration of rifampin or rifabutin and atovaquone oral suspension is known to reduce atovaquone concentrations [see Clinical Pharmacology ( 12.3 )] . Concomitant administration of atovaquone oral suspension and rifampin or rifabutin is not recommended. 7.2 Tetracycline Concomitant administration of tetracycline and atovaquone oral suspension has been associated with a reduction in plasma concentrations of atovaquone [see Clinical Pharmacology ( 12.3 )]. Caution should be used when prescribing tetracycline concomitantly with atovaquone oral suspension. Monitor patients for potential loss of efficacy of atovaquone if coadministration is necessary. 7.3 Metoclopramide Metoclopramide may reduce the bioavailability of atovaquone and should be used only if other antiemetics are not available [see Clinical Pharmacology ( 12.3 )]. 7.4 Indinavir Concomitant administration of atovaquone and indinavir did not result in any change in the steady-state AUC and C max of indinavir but resulted in a decrease in the C trough of indinavir [see Clinical Pharmacology ( 12.3 )]. Caution should be exercised when prescribing atovaquone oral suspension with indinavir due to the decrease in trough concentrations of indinavir. Monitor patients for potential loss of efficacy of indinavir if coadministration with atovaquone oral suspension is necessary.",
+    "contraindications": "4 CONTRAINDICATIONS Atovaquone oral suspension is contraindicated in patients who develop or have a history of hypersensitivity reactions (e.g., angioedema, bronchospasm, throat tightness, urticaria) to atovaquone or any of the components of atovaquone oral suspension. Known serious allergic/hypersensitivity reaction (e.g., angioedema, bronchospasm, throat tightness, urticaria) to atovaquone or any of the components of atovaquone oral suspension. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Prevention of PCP: 1,500 mg (10 mL) once daily with food ( 2.1 ) Treatment of PCP: 750 mg (5 mL) twice daily with food for 21 days ( 2.2 ) Supplied in Bottles: Shake bottle gently before use. ( 2.3 ) 2.1 Dosage for the Prevention of P. jirovecii Pneumonia The recommended oral dosage is 1,500 mg (10 mL) once daily administered with food. 2.2 Dosage for the Treatment of Mild-to-Moderate P. jirovecii Pneumonia The recommended oral dosage is 750 mg (5 mL) twice daily (total daily dose = 1,500 mg) administered with food for 21 days. 2.3 Important Administration Instructions Administer atovaquone oral suspension with food to avoid lower plasma atovaquone concentrations that may limit response to therapy [see Warnings and Precautions ( 5.1), Clinical Pharmacology ( 12.3 )] . Atovaquone Oral Suspension Bottle Shake bottle gently before administering the recommended dosage.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Atovaquone oral suspension is a quinone antimicrobial drug indicated for: Prevention of Pneumocystis jirovecii pneumonia (PCP) in adults and adolescents aged 13 years and older who cannot tolerate trimethoprim-sulfamethoxazole (TMP-SMX). ( 1.1 ) Treatment of mild-to-moderate PCP in adults and adolescents aged 13 years and older who cannot tolerate TMP-SMX. ( 1.2 ) Limitations of Use ( 1.3 ): Treatment of severe PCP (alveolar arterial oxygen diffusion gradient [(A-a)DO 2 ] >45 mm Hg) with atovaquone oral suspension has not been studied. The efficacy of atovaquone oral suspension in subjects who are failing therapy with TMP-SMX has also not been studied. 1.1 Prevention of Pneumocystis jirovecii Pneumonia Atovaquone oral suspension is indicated for the prevention of Pneumocystis jirovecii pneumonia (PCP) in adults and adolescents (aged 13 years and older) who cannot tolerate trimethoprim-sulfamethoxazole (TMP-SMX). 1.2 Treatment of Mild-to-Moderate Pneumocystis jirovecii Pneumonia Atovaquone oral suspension is indicated for the acute oral treatment of mild-to-moderate PCP in adults and adolescents (aged 13 years and older) who cannot tolerate TMP-SMX. 1.3 Limitations of Use Clinical experience with atovaquone for the treatment of PCP has been limited to subjects with mild-to-moderate PCP (alveolar-arterial oxygen diffusion gradient [(A-a)DO 2 ] \u226445 mm Hg). Treatment of more severe episodes of PCP with atovaquone has not been studied. The efficacy of atovaquone in subjects who are failing therapy with TMP-SMX has also not been studied."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA210692"
+    ],
+    "brand_name": [
+      "ATOVAQUONE"
+    ],
+    "generic_name": [
+      "ATOVAQUONE"
+    ],
+    "manufacturer_name": [
+      "Lupin Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "70748-299"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ATOVAQUONE"
+    ],
+    "rxcui": [
+      "308429"
+    ],
+    "spl_id": [
+      "26a9360d-7db4-42fe-b9d2-ecddfe369d2e"
+    ],
+    "spl_set_id": [
+      "03ddcc33-729c-4d46-ae6b-2ee47978ba16"
+    ],
+    "package_ndc": [
+      "70748-299-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175482",
+      "N0000175485"
+    ],
+    "pharm_class_epc": [
+      "Antimalarial [EPC]",
+      "Antiprotozoal [EPC]"
+    ],
+    "unii": [
+      "Y883P1Z2LT"
+    ]
+  }
+}

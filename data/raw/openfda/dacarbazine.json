@@ -1,0 +1,66 @@
+{
+  "drug_name": "Dacarbazine",
+  "drug_id": 1478,
+  "sections": {
+    "boxed_warning": "WARNING It is recommended that dacarbazine be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. 1.Hemopoietic depression is the most common toxicity with dacarbazine (see WARNINGS ). 2.Hepatic necrosis has been reported (see WARNINGS ). 3.Studies have demonstrated this agent to have a carcinogenic and teratogenic effect when used in animals. 4.In treatment of each patient, the physician must weigh carefully the possibility of achieving therapeutic benefit against the risk of toxicity. Boxed Warning WARNING It is recommended that dacarbazine be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. Hemopoietic depression is the most common toxicity with dacarbazine (see WARNINGS ). Hepatic necrosis has been reported (see WARNINGS ). Studies have demonstrated this agent to have a carcinogenic and teratogenic effect when used in animals. In treatment of each patient, the physician must weigh carefully the possibility of achieving therapeutic benefit against the risk of toxicity.",
+    "warnings": "WARNINGS Hemopoietic depression is the most common toxicity with dacarbazine and involves primarily the leukocytes and platelets, although, anemia may sometimes occur. Leukopenia and thrombocytopenia may be severe enough to cause death. The possible bone marrow depression requires careful monitoring of white blood cells, red blood cells, and platelet levels. Hemopoietic toxicity may warrant temporary suspension or cessation of therapy with dacarbazine. Hepatic toxicity accompanied by hepatic vein thrombosis and hepatocellular necrosis resulting in death, has been reported. The incidence of such reactions has been low; approximately 0.01% of patients treated. This toxicity has been observed mostly when dacarbazine has been administered concomitantly with other anti-neoplastic drugs; however, it has also been reported in some patients treated with dacarbazine alone. Anaphylaxis can occur following the administration of dacarbazine.",
+    "contraindications": "CONTRAINDICATIONS Dacarbazine is contraindicated in patients who have demonstrated a hypersensitivity to it in the past.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Malignant Melanoma The recommended dosage is 2 to 4.5 mg/kg/day for 10 days. Treatment may be repeated at 4 week intervals. An alternate recommended dosage is 250 mg/square meter body surface/day I.V. for 5 days. Treatment may be repeated every 3 weeks. Hodgkin's Disease The recommended dosage of dacarbazine in the treatment of Hodgkin's disease is 150 mg/square meter body surface/day for 5 days, in combination with other effective drugs. Treatment may be repeated every 4 weeks. An alternative recommended dosage is 375 mg/square meter body surface on day 1, in combination with other effective drugs, to be repeated every 15 days. Dacarbazine 200 mg/vial is reconstituted with 19.7 mL of Sterile Water for Injection. The resulting solution contains 10 mg/mL of dacarbazine having a pH of 3.0 to 4.0. The calculated dose of the resulting solution is drawn into a syringe and administered only intravenously. The reconstituted solution may be further diluted with 5% dextrose injection, or sodium chloride injection, and administered as an intravenous infusion. After reconstitution and prior to use, the solution in the vial may be stored at 4\u00b0C for up to 72 hours or at normal room conditions (temperature and light) for up to 8 hours. If the reconstituted solution is further diluted in 5% dextrose injection or sodium chloride injection, the resulting solution may be stored at 4\u00b0C for up to 24 hours or at normal room conditions for up to 8 hours. Procedures for proper handling and disposal of anticancer drugs should be considered. Several guidelines on this subject have been published. 1-7 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate. Parenteral drug products should be inspected visually for particulate matter or discoloration prior to administration whenever solution and container permit.",
+    "indications_and_usage": "INDICATIONS AND USAGE Dacarbazine for Injection, USP is indicated in the treatment of metastatic malignant melanoma. In addition, dacarbazine is also indicated for Hodgkin's disease as a second-line therapy when used in combination with other effective agents."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA075812"
+    ],
+    "brand_name": [
+      "Dacarbazine"
+    ],
+    "generic_name": [
+      "DACARBAZINE"
+    ],
+    "manufacturer_name": [
+      "Hikma Pharmaceuticals USA Inc."
+    ],
+    "product_ndc": [
+      "0143-9245"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "DACARBAZINE"
+    ],
+    "rxcui": [
+      "1731338"
+    ],
+    "spl_id": [
+      "bbbf119e-26f4-46c1-ba80-de927e51c566"
+    ],
+    "spl_set_id": [
+      "0d81315c-7021-4091-b703-ad135390c936"
+    ],
+    "package_ndc": [
+      "0143-9245-01",
+      "0143-9245-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000000236",
+      "N0000175558"
+    ],
+    "pharm_class_moa": [
+      "Alkylating Activity [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Alkylating Drug [EPC]"
+    ],
+    "unii": [
+      "7GR28W0FJI"
+    ]
+  }
+}

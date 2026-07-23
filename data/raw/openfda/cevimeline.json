@@ -1,0 +1,54 @@
+{
+  "drug_name": "Cevimeline",
+  "drug_id": 446,
+  "sections": {
+    "warnings": "WARNINGS Cardiovascular Disease Cevimeline can potentially alter cardiac conduction and/or heart rate. Patients with significant cardiovascular disease may potentially be unable to compensate for transient changes in hemodynamics or rhythm induced by cevimeline. Cevimeline should be used with caution and under close medical supervision in patients with a history of cardiovascular disease evidenced by angina pectoris or myocardial infarction. Pulmonary Disease Cevimeline can potentially increase airway resistance, bronchial smooth muscle tone, and bronchial secretions. Cevimeline should be administered with caution and with close medical supervision to patients with controlled asthma, chronic bronchitis, or chronic obstructive pulmonary disease. Ocular Ophthalmic formulations of muscarinic agonists have been reported to cause visual blurring which may result in decreased visual acuity, especially at night and in patients with central lens changes, and to cause impairment of depth perception. Caution should be advised while driving at night or performing hazardous activities in reduced lighting.",
+    "contraindications": "CONTRAINDICATIONS Cevimeline is contraindicated in patients with uncontrolled asthma, known hypersensitivity to cevimeline, and when miosis is undesirable, e.g., in acute iritis and in narrow-angle (angle-closure) glaucoma.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The recommended dose of cevimeline hydrochloride capsules is 30 mg taken three times a day. There is insufficient safety information to support doses greater than 30 mg tid. There is also insufficient evidence for additional efficacy of cevimeline hydrochloride at doses greater than 30 mg tid.",
+    "indications_and_usage": "INDICATIONS AND USAGE Cevimeline hydrochloride capsules are indicated for the treatment of symptoms of dry mouth in patients with Sj\u00f6gren\u2019s Syndrome."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA218290"
+    ],
+    "brand_name": [
+      "CEVIMELINE"
+    ],
+    "generic_name": [
+      "CEVIMELINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Bionpharma Inc"
+    ],
+    "product_ndc": [
+      "69452-316"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CEVIMELINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "309140"
+    ],
+    "spl_id": [
+      "10e26216-a6d9-ab89-e063-6294a90a298c"
+    ],
+    "spl_set_id": [
+      "0f15cb50-5917-c928-e063-6294a90ab284"
+    ],
+    "package_ndc": [
+      "69452-316-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "P81Q6V85NP"
+    ]
+  }
+}

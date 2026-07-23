@@ -1,0 +1,57 @@
+{
+  "drug_name": "Pyridostigmine",
+  "drug_id": 1323,
+  "sections": {
+    "warnings": "WARNINGS Although failure of patients to show clinical improvement may reflect underdosage, it can also be indicative of overdosage. As is true of all cholinergic drugs, overdosage of pyridostigmine bromide may result in cholinergic crisis, a state characterized by increasing muscle weakness which, through involvement of the muscles of respiration, may lead to death. Myasthenic crisis due to an increase in the severity of the disease is also accompanied by extreme muscle weakness, and thus may be difficult to distinguish from cholinergic crisis on a symptomatic basis. Such differentiation is extremely important, since increases in doses of pyridostigmine bromide or other drugs of this class in the presence of cholinergic crisis or of a refractory or \"insensitive\" state could have grave consequences. Osserman and Genkins 1 indicate that the differential diagnosis of the two types of crisis may require the use of Tensilon TM (edrophonium chloride) as well as clinical judgment. The treatment of the two conditions obviously differs radically. Whereas the presence of myasthenic crisis suggests the need for more intensive anticholinesterase therapy, the diagnosis of cholinergic crisis, according to Osserman and Genkins 1 calls for the prompt withdrawal of all drugs of this type. The immediate use of atropine in cholinergic crisis is also recommended. Atropine may also be used to abolish or obtund gastrointestinal side effects or other muscarinic reactions; but such use, by masking signs of overdosage, can lead to inadvertent induction of cholinergic crisis. For detailed information on the management of patients with myasthenia gravis, the physician is referred to one of the excellent reviews such as those by Osserman and Genkins 2 , Grob 3 or Schwab 4,5 . Usage in Pregnancy The safety of pyridostigmine bromide during pregnancy or lactation in humans has not been established. Therefore, use of pyridostigmine bromide in women who may become pregnant requires weighing the drug's potential benefits against its possible hazards to mother and child.",
+    "contraindications": "CONTRAINDICATIONS Pyridostigmine bromide tablets are contraindicated in mechanical intestinal or urinary obstruction, and particular caution should be used in its administration to patients with bronchial asthma. Care should be observed in the use of atropine for counteracting side effects, as discussed below.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Each Pyridostigmine Bromide Tablet contains 60 mg pyridostigmine bromide. Dosage The size and frequency of the dosage must be adjusted to the needs of the individual patient. The average dose is ten 60 mg tablets daily, spaced to provide maximum relief when maximum strength is needed. In severe cases as many as twenty-five tablets a day may be required, while in mild cases one to six tablets a day may suffice. NOTE: For information on a diagnostic test for myasthenia gravis, and for the evaluation and stabilization of therapy, please see product literature on Tensilon (edrophonium chloride).",
+    "indications_and_usage": "INDICATIONS AND USAGE Pyridostigmine Bromide Tablets USP are useful in the treatment of myasthenia gravis."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA040512"
+    ],
+    "brand_name": [
+      "Pyridostigmine Bromide"
+    ],
+    "generic_name": [
+      "PYRIDOSTIGMINE BROMIDE"
+    ],
+    "manufacturer_name": [
+      "ANI Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "62559-470"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PYRIDOSTIGMINE BROMIDE"
+    ],
+    "rxcui": [
+      "903857"
+    ],
+    "spl_id": [
+      "138c3e38-dc2d-46be-8ee6-bef9221a971c"
+    ],
+    "spl_set_id": [
+      "0a114d99-e50b-49fe-9e0f-ccce279ffb4f"
+    ],
+    "package_ndc": [
+      "62559-470-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0362559470018"
+    ],
+    "unii": [
+      "KVI301NA53"
+    ]
+  }
+}

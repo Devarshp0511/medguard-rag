@@ -1,0 +1,68 @@
+{
+  "drug_name": "Levocarnitine",
+  "drug_id": 1151,
+  "sections": {
+    "warnings": "WARNINGS Hypersensitivity Reactions Serious hypersensitivity reactions, including rash, urticaria, and facial edema have been reported with oral levocarnitine. Other serious hypersensitivity reactions, including anaphylaxis, laryngeal edema, and bronchospasm have been reported following intravenous levocarnitine administration, mostly in patients with end-stage renal disease undergoing dialysis. Discontinue use of levocarnitine and instruct patients to seek medical attention if they experience symptoms suggestive of a hypersensitivity reaction.",
+    "drug_interactions": "Drug Interactions Reports of INR increase with the use of warfarin have been observed. It is recommended that INR levels be monitored in patients on warfarin therapy after the initiation of treatment with levocarnitine or after dose adjustments.",
+    "contraindications": "CONTRAINDICATIONS None known.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION For oral use only. Not for parenteral use. Adults: The recommended dosage of levocarnitine is 1 to 3 g/day for a 50 kg subject, which is equivalent to 10 to 30 mL/day of levocarnitine oral solution. Higher doses should be administered only with caution and only where clinical and biochemical considerations make it seem likely that higher doses will be of benefit. Dosage should start at 1 g/day (10 mL/day), and be increased slowly while assessing tolerance and therapeutic response. Monitoring should include periodic blood chemistries, vital signs, plasma carnitine concentrations, and overall clinical condition. Infants and children: The recommended dosage of levocarnitine is 50 to 100 mg/kg/day which is equivalent to 0.5 mL/kg/day levocarnitine oral solution. Higher doses should be administered only with caution and only where clinical and biochemical considerations make it seem likely that higher doses will be of benefit. Dosage should start at 50 mg/kg/day, and be increased slowly to a maximum of 3 g/day (30 mL/day) while assessing tolerance and therapeutic response. Monitoring should include periodic blood chemistries, vital signs, plasma carnitine concentrations, and overall clinical condition. Levocarnitine oral solution may be consumed alone or dissolved in drink or other liquid food. Doses should be spaced evenly throughout the day (every three or four hours) preferably during or following meals and should be consumed slowly in order to maximize tolerance.",
+    "indications_and_usage": "INDICATIONS AND USAGE Levocarnitine oral solution is indicated in the treatment of primary systemic carnitine deficiency. In the reported cases, the clinical presentation consisted of recurrent episodes of Reye-like encephalopathy, hypoketotic hypoglycemia, and/or cardiomyopathy. Associated symptoms included hypotonia, muscle weakness and failure to thrive. A diagnosis of primary carnitine deficiency requires that serum, red cell and/or tissue carnitine levels be low and that the patient does not have a primary defect in fatty acid or organic acid oxidation (see CLINICAL PHARMACOLOGY ). In some patients, particularly those presenting with cardiomyopathy, carnitine supplementation rapidly alleviated signs and symptoms. Treatment should include, in addition to carnitine, supportive and other therapy as indicated by the condition of the patient. Levocarnitine oral solution is also indicated for the acute and chronic treatment of patients with an inborn error of metabolism which results in a secondary carnitine deficiency."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA212533"
+    ],
+    "brand_name": [
+      "Levocarnitine"
+    ],
+    "generic_name": [
+      "LEVOCARNITINE"
+    ],
+    "manufacturer_name": [
+      "TRUPHARMA, LLC"
+    ],
+    "product_ndc": [
+      "52817-830"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LEVOCARNITINE"
+    ],
+    "rxcui": [
+      "315134"
+    ],
+    "spl_id": [
+      "2a4543d7-2fcf-548c-e063-6394a90af66e"
+    ],
+    "spl_set_id": [
+      "05ab18c1-fb01-48fa-8f05-0200bb8a5edf"
+    ],
+    "package_ndc": [
+      "52817-830-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0352817830043"
+    ],
+    "nui": [
+      "M0003493",
+      "N0000175903"
+    ],
+    "pharm_class_cs": [
+      "Carnitine [CS]"
+    ],
+    "pharm_class_epc": [
+      "Carnitine Analog [EPC]"
+    ],
+    "unii": [
+      "0G389FZZ9M"
+    ]
+  }
+}

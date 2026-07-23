@@ -1,0 +1,60 @@
+{
+  "drug_name": "Ivabradine",
+  "drug_id": 969,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Fetal toxicity: Females should use effective contraception. ( 5.1 ) Monitor patients for atrial fibrillation. ( 5.2 ) Monitor heart rate decreases and bradycardia symptoms during treatment. ( 5.3 ) Not recommended in patients with 2 nd degree AV block. ( 5.3 ) 5.1 Fetal Toxicity Ivabradine tablets may cause fetal toxicity when administered to a pregnant woman based on findings in animal studies. Embryo-fetal toxicity and cardiac teratogenic effects were observed in fetuses of pregnant rats treated during organogenesis at exposures 1 to 3 times the human exposures (AUC 0 - 24hr ) at the maximum recommended human dose (MRHD) [see Use in Specific Populations (8.1) ]. Advise females of reproductive potential to use effective contraception when taking ivabradine tablets [see Use in Specific Populations (8.3) ] . 5.2 Atrial Fibrillation Ivabradine tablets increases the risk of atrial fibrillation. In the Systolic Heart Failure Treatment with the I f Inhibitor Ivabradine Trial (SHIFT), the rate of atrial fibrillation was 5.0% per patient-year in patients treated with ivabradine tablets and 3.9% per patient-year in patients treated with placebo [see Clinical Studies (14) ] . Regularly monitor cardiac rhythm. Discontinue ivabradine tablets if atrial fibrillation develops. 5.3 Bradycardia and Conduction Disturbances Adult Patients Bradycardia, sinus arrest, and heart block have occurred with ivabradine tablets. The rate of bradycardia was 6.0% per patient-year in patients treated with ivabradine tablets (2.7% symptomatic; 3.4% asymptomatic) and 1.3% per patient-year in patients treated with placebo. Risk factors for bradycardia include sinus node dysfunction, conduction defects (e.g., 1 st or 2 nd degree atrioventricular block, bundle branch block), ventricular dyssynchrony, and use of other negative chronotropes (e.g., digoxin, diltiazem, verapamil, amiodarone). Bradycardia may increase the risk of QT prolongation which may lead to severe ventricular arrhythmias, including torsade de pointes, especially in patients with risk factors such as use of QTc prolonging drugs [see Adverse Reactions (6.2) ] . Concurrent use of verapamil or diltiazem will increase ivabradine tablets exposure, may themselves contribute to heart rate lowering, and should be avoided [see Clinical Pharmacology (12.3) ] . Avoid use of ivabradine tablets in patients with 2 nd degree atrioventricular block unless a functioning demand pacemaker is present [see Contraindications (4) ].",
+    "drug_interactions": "7 DRUG INTERACTIONS Avoid CYP3A4 inhibitors or inducers. ( 7.1 ) Negative chronotropes increase risk of bradycardia; monitor heart rate. ( 7.2 ) 7.1 Cytochrome P450-Based Interactions Ivabradine is primarily metabolized by CYP3A4. Concomitant use of CYP3A4 inhibitors increases ivabradine plasma concentrations and use of CYP3A4 inducers decreases them. Increased plasma concentrations may exacerbate bradycardia and conduction disturbances. The concomitant use of strong CYP3A4 inhibitors is contraindicated [see Contraindications (4) and Clinical Pharmacology (12.3) ]. Examples of strong CYP3A4 inhibitors include azole antifungals (e.g.,itraconazole), macrolide antibiotics (e.g., clarithromycin, telithromycin), HIV protease inhibitors (e.g.nelfinavir), and nefazodone. Avoid concomitant use of moderate CYP3A4 inhibitors when using ivabradine tablets. Examples of moderate CYP3A4 inhibitors include diltiazem, verapamil, and grapefruit juice [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3) ]. Avoid concomitant use of CYP3A4 inducers when using ivabradine tablets. Examples of CYP3A4 inducers include St. John's wort, rifampicin, barbiturates, and phenytoin [see Clinical Pharmacology (12.3) ]. 7.2 Negative Chronotropes Most patients receiving ivabradine tablets will also be treated with a beta-blocker. The risk of bradycardia increases with concomitant administration of drugs that slow heart rate (e.g., digoxin, amiodarone, beta-blockers). Monitor heart rate in patients taking ivabradine tablets with other negative chronotropes. 7.3 Pacemakers in Adults Ivabradine tablets dosing is based on heart rate reduction, targeting a heart rate of 50 to 60 beats per minute in adults [see Dosage and Administration (2.1) ]. Patients with demand pacemakers set to a rate \u2265 60 beats per minute cannot achieve a target heart rate < 60 beats per minute, and these patients were excluded from clinical trials [see Clinical Studies (14.1) ]. The use of ivabradine tablets is not recommended in patients with demand pacemakers set to rates \u2265 60 beats per minute.",
+    "contraindications": "4 CONTRAINDICATIONS Ivabradine tablets are contraindicated in patients with: Acute decompensated heart failure Clinically significant hypotension Sick sinus syndrome, sinoatrial block or 3 rd degree AV block, unless a functioning demand pacemaker is present Clinically significant bradycardia [see Warnings and Precautions (5.3) ] Severe hepatic impairment [see Use in Specific Populations (8.6) ] Pacemaker dependence (heart rate maintained exclusively by the pacemaker) [see Drug Interactions (7.3) ] Concomitant use of strong cytochrome P450 3A4 (CYP3A4) inhibitors [see Drug Interactions (7.1) ] Acute decompensated heart failure ( 4 ) Clinically significant hypotension ( 4 ) Sick sinus syndrome, sinoatrial block or 3 rd degree AV block, unless a functioning demand pacemaker is present ( 4 ) Clinically significant bradycardia ( 4 ) Severe hepatic impairment ( 4 ) Heart rate maintained exclusively by the pacemaker ( 4 ) In combination with strong cytochrome CYP3A4 inhibitors ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Adult patients \u25cf Starting dose is 2.5 (vulnerable adults) or 5 mg twice daily with food. After 2 weeks of treatment, adjust dose based on heart rate. The maximum dose is 7.5 mg twice daily. ( 2.1 ) 2.1 Adults The recommended starting dose of ivabradine tablets is 5 mg twice daily with food. Assess patient after two weeks and adjust dose to achieve a resting heart rate between 50 and 60 beats per minute (bpm) as shown in Table 1. Thereafter, adjust dose as needed based on resting heart rate and tolerability. The maximum dose is 7.5 mg twice daily. In adult patients unable to swallow tablets, Corlanor oral solution can be used [see Clinical Pharmacology (12.3) ] . In patients with a history of conduction defects or other patients in whom bradycardia could lead to hemodynamic compromise, initiate therapy at 2.5 mg twice daily before increasing the dose based on heart rate [see Warnings and Precautions (5.3) ] . Table 1. Dose Adjustment for Adults * [see Warnings and Precautions (5.3) ] Heart Rate Dose Adjustment > 60 bpm Increase dose by 2.5 mg (given twice daily) up to a maximum dose of 7.5 mg twice daily 50-60 bpm Maintain dose < 50 bpm or signs and symptoms of bradycardia Decrease dose by 2.5 mg (given twice daily); if current dose is 2.5 mg twice daily, discontinue therapy*",
+    "dosage_and_administration_table": "<table ID=\"ID7\" width=\"619\" styleCode=\"Noautorules\"><caption>Table 1. Dose Adjustment for Adults</caption><col width=\"303\"/><col width=\"316\"/><tfoot><tr><td align=\"left\" colspan=\"2\"><paragraph styleCode=\"Footnote\">* <content styleCode=\"italics\">[see <linkHtml href=\"#ID19\">Warnings and Precautions (5.3)</linkHtml>] </content></paragraph></td></tr></tfoot><tbody><tr><td align=\"left\" styleCode=\"Lrule Toprule Botrule Rrule\" valign=\"top\"><content styleCode=\"bold\">Heart Rate</content> </td><td align=\"left\" styleCode=\" Toprule Botrule Rrule\" valign=\"top\"><content styleCode=\"bold\">Dose Adjustment</content> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Botrule Rrule\" valign=\"top\">&gt; 60 bpm  </td><td align=\"left\" styleCode=\" Botrule Rrule\" valign=\"top\">Increase dose by 2.5 mg (given twice   daily) up to a maximum dose of 7.5 mg   twice daily  </td></tr><tr><td align=\"left\" styleCode=\"Lrule Botrule Rrule\" valign=\"top\">50-60 bpm  </td><td align=\"left\" styleCode=\" Botrule Rrule\" valign=\"top\">Maintain dose  </td></tr><tr><td align=\"left\" styleCode=\"Lrule Botrule Rrule\" valign=\"top\">&lt; 50 bpm or signs and symptoms of   bradycardia  </td><td align=\"left\" styleCode=\" Botrule Rrule\" valign=\"top\">Decrease dose by 2.5 mg (given twice   daily); if current dose is 2.5 mg twice   daily, discontinue therapy*  </td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Ivabradine is a hyperpolarization-activated cyclic nucleotide-gated channel blocker indicated: To reduce the risk of hospitalization for worsening heart failure in adult patients with stable, symptomatic chronic heart failure with reduced left ventricular ejection fraction. ( 1.1 ) 1.1 Heart Failure in Adult Patients Ivabradine tablets are indicated to reduce the risk of hospitalization for worsening heart failure in adult patients with stable, symptomatic chronic heart failure with left ventricular ejection fraction \u2264 35%, who are in sinus rhythm with resting heart rate \u2265 70 beats per minute and either are on maximally tolerated doses of beta-blockers or have a contraindication to beta-blocker use."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA214051"
+    ],
+    "brand_name": [
+      "IVABRADINE"
+    ],
+    "generic_name": [
+      "IVABRADINE"
+    ],
+    "manufacturer_name": [
+      "Golden State Medical Supply, Inc."
+    ],
+    "product_ndc": [
+      "51407-592",
+      "51407-593"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "IVABRADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1649485",
+      "1649493"
+    ],
+    "spl_id": [
+      "32d59c63-db88-3e0c-e063-6294a90acd9f"
+    ],
+    "spl_set_id": [
+      "236cc914-7eef-600c-e063-6394a90a4bd1"
+    ],
+    "package_ndc": [
+      "51407-592-60",
+      "51407-593-60"
+    ],
+    "original_packager_product_ndc": [
+      "50742-362",
+      "50742-363"
+    ],
+    "unii": [
+      "TP19837BZK"
+    ]
+  }
+}

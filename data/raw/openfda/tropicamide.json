@@ -1,0 +1,65 @@
+{
+  "drug_name": "Tropicamide",
+  "drug_id": 1492,
+  "sections": {
+    "warnings": "WARNINGS For topical ophthalmic use only. Not for injection. This preparation may cause CNS disturbances which may be dangerous in pediatric patients. The possibility of psychotic reactions and behavioral disturbances due to hypersensitivity to anticholinergic drugs should be considered. Mydriatics may produce a transient elevation of intraocular pressure. Remove contact lenses before using.",
+    "contraindications": "CONTRAINDICATIONS Contraindicated in persons showing hypersensitivity to any component of this preparation.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION For refraction, instill one or two drops of 1% solution in the eye(s), repeated in five minutes. If patient is not seen within 20 to 30 minutes, an additional drop may be instilled to prolong mydriatic effect. For examination of fundus, instill one or two drops of 0.5% solution 15 or 20 minutes prior to examination. Individuals with heavily pigmented irides may require higher strength or more doses. Mydriasis will reverse spontaneously with time, typically in 4 to 8 hours. However, in some cases, complete recovery may take up to 24 hours. To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.",
+    "indications_and_usage": "INDICATIONS AND USAGE For mydriasis and cycloplegia for diagnostic procedures."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA084306"
+    ],
+    "brand_name": [
+      "Tropicamide"
+    ],
+    "generic_name": [
+      "TROPICAMIDE"
+    ],
+    "manufacturer_name": [
+      "Sandoz Inc"
+    ],
+    "product_ndc": [
+      "61314-355"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "TROPICAMIDE"
+    ],
+    "rxcui": [
+      "314238"
+    ],
+    "spl_id": [
+      "51620df4-8e34-4ffa-bf5a-077efc3a1911"
+    ],
+    "spl_set_id": [
+      "0104ffe4-013d-4afa-996d-dcba4f08e93d"
+    ],
+    "package_ndc": [
+      "61314-355-01",
+      "61314-355-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175574",
+      "N0000175370"
+    ],
+    "pharm_class_epc": [
+      "Anticholinergic [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Cholinergic Antagonists [MoA]"
+    ],
+    "unii": [
+      "N0A3Z5XTC6"
+    ]
+  }
+}

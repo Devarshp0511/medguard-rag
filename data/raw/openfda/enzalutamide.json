@@ -1,0 +1,89 @@
+{
+  "drug_name": "Enzalutamide",
+  "drug_id": 635,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Seizure occurred in 0.6% of patients receiving XTANDI. In patients with predisposing factors, seizures were reported in 2.2% of patients. Permanently discontinue XTANDI in patients who develop a seizure during treatment. ( 5.1 ) \u2022 Posterior reversible encephalopathy syndrome (PRES): Discontinue XTANDI. ( 5.2 ) \u2022 Hypersensitivity: Discontinue XTANDI. ( 5.3 ) \u2022 Ischemic Heart Disease: Optimize management of cardiovascular risk factors. Discontinue XTANDI for Grade 3-4 adverse reactions ( 5.4 ) \u2022 Falls and Fractures: Evaluate patients for fracture and fall risk, and treat patients with bone-targeted agents according to established guidelines. ( 5.5 ) \u2022 Embryo-Fetal Toxicity: XTANDI can cause fetal harm and loss of pregnancy. Advise males with female partners of reproductive potential to use effective contraception. ( 5.6 , 8.1 , 8.3 ) \u2022 Severe Dysphagia or Choking Related to Product Size: Consider using smaller XTANDI tablet(s) in patients who have difficulty swallowing. Discontinue XTANDI for patients who cannot swallow capsules or tablets. ( 2.1 , 5.7 ) \u2022 Interference with Immunoassay Measurement of Digoxin XTANDI can interfere with certain digoxin immunoassays, resulting in falsely elevated digoxin plasma concentration results. ( 5.8 , 7.3 ) 5.1 Seizure Seizure occurred in 0.6% of patients receiving XTANDI in eight randomized clinical trials. In these trials, patients with predisposing factors for seizure were generally excluded. Seizure occurred from 13 to 2250 days after initiation of XTANDI. Patients experiencing seizure were permanently discontinued from therapy, and all seizure events resolved. In a single-arm trial designed to assess the risk of seizure in patients with pre-disposing factors for seizure, 8 of 366 (2.2%) XTANDI-treated patients experienced a seizure. Three of the 8 patients experienced a second seizure during continued treatment with XTANDI after their first seizure resolved. It is unknown whether anti-epileptic medications will prevent seizures with XTANDI. Patients in the study had one or more of the following pre-disposing factors: the use of medications that may lower the seizure threshold (~ 54%), history of traumatic brain or head injury (~ 28%), history of cerebrovascular accident or transient ischemic attack (~ 24%), and Alzheimer\u2019s disease, meningioma, or leptomeningeal disease from prostate cancer, unexplained loss of consciousness within the last 12 months, past history of seizure, presence of a space occupying lesion of the brain, history of arteriovenous malformation, or history of brain infection (all < 5%). Approximately 17% of patients had more than one risk factor. Advise patients of the risk of developing a seizure while receiving XTANDI and of engaging in any activity where sudden loss of consciousness could cause serious harm to themselves or others. Permanently discontinue XTANDI in patients who develop a seizure during treatment. 5.2 Posterior Reversible Encephalopathy Syndrome (PRES) There have been reports of posterior reversible encephalopathy syndrome (PRES) in patients receiving XTANDI [see Adverse Reactions ( 6.2 )] . PRES is a neurological disorder which can present with rapidly evolving symptoms including seizure, headache, lethargy, confusion, blindness, and other visual and neurological disturbances, with or without associated hypertension. A diagnosis of PRES requires confirmation by brain imaging, preferably magnetic resonance imaging (MRI). Discontinue XTANDI in patients who develop PRES. 5.3 Hypersensitivity Hypersensitivity reactions, including edema of the face (0.5%), tongue (0.1%), or lip (0.1%) have been observed with enzalutamide in eight randomized clinical trials. Pharyngeal edema has been reported in post-marketing cases. Advise patients who experience any symptoms of hypersensitivity to temporarily discontinue XTANDI and promptly seek medical care. Permanently discontinue XTANDI for serious hypersensitivity reactions. 5.4 Ischemic Heart Disease In the combined data of five randomized, placebo-controlled clinical studies, ischemic heart disease occurred more commonly in patients on the XTANDI arm compared to patients on the placebo arm (3.5% vs 2%). Grade 3-4 ischemic events occurred in 1.8% of patients on the XTANDI arm compared to 1.1% on the placebo arm. Ischemic events led to death in 0.4% of patients on the XTANDI arm compared to 0.1% on the placebo arm. Monitor for signs and symptoms of ischemic heart disease. Optimize management of cardiovascular risk factors, such as hypertension, diabetes, or dyslipidemia. Discontinue XTANDI for Grade 3-4 ischemic heart disease. 5.5 Falls and Fractures Falls and fractures occurred in patients receiving XTANDI. Evaluate patients for fracture and fall risk. Monitor and manage patients at risk for fractures according to established treatment guidelines and consider use of bone-targeted agents. In the combined data of five randomized, placebo-controlled clinical studies, falls occurred in 12% of patients treated with XTANDI compared to 6% of patients treated with placebo. Falls were not associated with loss of consciousness or seizure. Fractures occurred in 13% of patients treated with XTANDI and in 6% of patients treated with placebo. Grade 3-4 fractures occurred in 3.4% of patients treated with XTANDI and in 1.9% of patients treated with placebo. The median time to onset of fracture was 420 days (range: 1 to 2348 days) for patients treated with XTANDI. Routine bone density assessment and treatment of osteoporosis with bone-targeted agents were not performed in the studies. 5.6 Embryo-Fetal Toxicity The safety and efficacy of XTANDI have not been established in females. Based on animal reproductive studies and mechanism of action, XTANDI can cause fetal harm and loss of pregnancy when administered to a pregnant female. Advise males with female partners of reproductive potential to use effective contraception during treatment with XTANDI and for 3 months after the last dose of XTANDI [see Use in Specific Populations ( 8.1 , 8.3 )] . 5.7 Dysphagia or Choking Severe dysphagia or choking, including events that could be life-threatening requiring medical intervention or fatal, can occur due to XTANDI product size. Advise patients to take each capsule or tablet whole with a sufficient amount of water to ensure that all medication is successfully swallowed. Consider use of a smaller tablet size of XTANDI in patients who have difficulty swallowing. Discontinue XTANDI for patients who cannot swallow capsules or tablets. 5.8 Interference with Immunoassay Measurement of Digoxin: XTANDI can interfere with certain digoxin immunoassays (e.g., Chemiluminescent Microparticle Immunoassays), resulting in falsely elevated digoxin plasma concentration results. Notify the laboratory conducting the digoxin plasma concentration assay to use an appropriate method in patients receiving XTANDI and digoxin [ see Drug Interactions ( 7.3 )] .",
+    "drug_interactions": "7 DRUG INTERACTIONS \u2022 Strong CYP2C8 Inhibitors: Avoid strong CYP2C8 inhibitors. If coadministration cannot be avoided, reduce the dosage of XTANDI. ( 2.3 , 7.1 ) \u2022 Strong CYP3A4 Inducers: Avoid strong CYP3A4 inducers. If coadministration cannot be avoided, increase the dosage of XTANDI. ( 2.3 , 7.1 ) \u2022 Avoid coadministration with certain CYP3A4, CYP2C9, or CYP2C19 substrates for which a minimal decrease in concentration may lead to therapeutic failure of the substrate. In cases where active metabolites are formed, there may be increased exposure to the active metabolites. ( 7.2 ) 7.1 Effect of Other Drugs on XTANDI Strong CYP2C8 Inhibitors The coadministration of XTANDI with gemfibrozil (a strong CYP2C8 inhibitor) increases plasma concentrations of enzalutamide plus N-desmethyl enzalutamide, which may increase the incidence and severity of adverse reactions of XTANDI. Avoid the coadministration of XTANDI with strong CYP2C8 inhibitors. If the coadministration of XTANDI with a strong CYP2C8 inhibitor cannot be avoided, reduce the dosage of XTANDI [see Dosage and Administration ( 2.3 ), Clinical Pharmacology ( 12.3 )]. Strong CYP3A4 Inducers The coadministration of XTANDI with rifampin (a strong CYP3A4 inducer and a moderate CYP2C8 inducer) decreases plasma concentrations of enzalutamide plus N-desmethyl enzalutamide, which may decrease the efficacy of XTANDI. Avoid the coadministration of XTANDI with strong CYP3A4 inducers. If the coadministration of XTANDI with a strong CYP3A4 inducer cannot be avoided, increase the dosage of XTANDI [see Dosage and Administration ( 2.3 ), Clinical Pharmacology ( 12.3 )]. 7.2 Effect of XTANDI on Other Drugs Certain CYP3A4, CYP2C9, or CYP2C19 Substrates XTANDI is a strong CYP3A4 inducer and a moderate CYP2C9 and CYP2C19 inducer. The coadministration of XTANDI decreases the concentrations of certain CYP3A4, CYP2C9, or CYP2C19 substrates [see Clinical Pharmacology ( 12.3 )] , which may reduce the efficacy of these substrates. Avoid the coadministration of XTANDI with certain CYP3A4, CYP2C9, or CYP2C19 substrates for which a minimal decrease in concentration may lead to therapeutic failure of the substrate. If the coadministration cannot be avoided, increase the dosage of these substrates in accordance with their Prescribing Information. In cases where active metabolites are formed, there may be increased exposure to the active metabolites. 7.3 Laboratory Test Interference XTANDI can interfere with certain digoxin immunoassays (e.g., Chemiluminescent Microparticle Immunoassays), resulting in falsely elevated digoxin plasma concentration results. Notify the laboratory conducting the digoxin plasma concentration assay to use an appropriate method in patients receiving XTANDI and digoxin [see Warnings and Precautions ( 5.8 )] .",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION \u2022 Take XTANDI 160 mg administered orally once daily with or without food. ( 2.1 ) \u2022 Advise patients to take each capsule or tablet whole with a sufficient amount of water to ensure that all medication is successfully swallowed. ( 2.1 , 5.7 ) \u2022 Patients receiving XTANDI for castration-resistant prostate cancer, or metastatic castration sensitive prostate cancer should also receive a gonadotropin-releasing hormone (GnRH) analog concurrently or should have had bilateral orchiectomy. ( 2.1 ) \u2022 Patients with non-metastatic castration-sensitive prostate cancer with biochemical recurrence at high risk for metastasis may be treated with or without a GnRH analog. ( 2.1 ) 2.1 Recommended Dosage The recommended dosage of XTANDI is 160 mg administered orally once daily with or without food [see Clinical Pharmacology ( 12.3 )] until disease progression or unacceptable toxicity. Advise patients to take each capsule or tablet whole with a sufficient amount of water to ensure that all medication is successfully swallowed. Do NOT chew, dissolve, or open the capsules. Do NOT cut, crush, or chew the tablets. Patients with CRPC or mCSPC receiving XTANDI should also receive a gonadotropic-releasing hormone (GnRH) analog concurrently or should have had bilateral orchiectomy. Patients with nmCSPC with high-risk BCR may be treated with XTANDI with or without a GnRH analog. For patients who receive XTANDI with or without a GnRH analog, treatment can be suspended if PSA is undetectable (< 0.2 ng/mL) after 36 weeks of therapy. Reinitiate treatment when PSA has increased to \u2265 2.0 ng/mL for patients who had prior radical prostatectomy or \u2265 5.0 ng/mL for patients who had prior primary radiation therapy [see Clinical Studies ( 14 )] . 2.2 Dosage Modifications for Adverse Reactions If a patient experiences a \u2265 Grade 3 or an intolerable adverse reaction, withhold XTANDI for one week or until symptoms improve to \u2264 Grade 2, then resume at the same or a reduced dose (120 mg or 80 mg) if warranted [see Warnings and Precautions ( 5.1 , 5.2 )] . 2.3 Dosage Modifications for Drug Interactions Strong CYP2C8 Inhibitors Avoid the coadministration of strong CYP2C8 inhibitors. If the coadministration of a strong CYP2C8 inhibitor cannot be avoided, reduce the XTANDI dosage to 80 mg once daily. If the coadministration of the strong inhibitor is discontinued, increase the XTANDI dosage to the dosage used prior to initiation of the strong CYP2C8 inhibitor [see Clinical Pharmacology ( 12.3 )]. Strong CYP3A4 Inducers Avoid the coadministration of strong CYP3A4 inducers. If the coadministration of a strong CYP3A4 inducer cannot be avoided, increase the XTANDI dosage from 160 mg to 240 mg orally once daily. If the coadministration of the strong CYP3A4 inducer is discontinued, decrease the XTANDI dosage to the dosage used prior to initiation of the strong CYP3A4 inducer [see Clinical Pharmacology ( 12.3 )].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE XTANDI \u00ae is indicated for the treatment of patients with: \u2022 castration-resistant prostate cancer (CRPC) \u2022 metastatic castration-sensitive prostate cancer (mCSPC) \u2022 non\u2011metastatic castration\u2011sensitive prostate cancer (nmCSPC) with biochemical recurrence at high risk for metastasis (high-risk BCR) XTANDI is an androgen receptor inhibitor indicated for the treatment of patients with: \u2022 castration-resistant prostate cancer. ( 1 ) \u2022 metastatic castration-sensitive prostate cancer. ( 1 ) \u2022 non\u2011metastatic castration\u2011sensitive prostate cancer with biochemical recurrence at high risk for metastasis. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA203415",
+      "NDA213674"
+    ],
+    "brand_name": [
+      "Xtandi"
+    ],
+    "generic_name": [
+      "ENZALUTAMIDE"
+    ],
+    "manufacturer_name": [
+      "Astellas Pharma US, Inc."
+    ],
+    "product_ndc": [
+      "0469-0125",
+      "0469-0625",
+      "0469-0725",
+      "0469-1125",
+      "0469-1725"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ENZALUTAMIDE"
+    ],
+    "rxcui": [
+      "1307303",
+      "1307309",
+      "2390644",
+      "2390646",
+      "2390648",
+      "2390650"
+    ],
+    "spl_id": [
+      "19915931-0d59-441f-a678-2bedceab387c"
+    ],
+    "spl_set_id": [
+      "b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf"
+    ],
+    "package_ndc": [
+      "0469-0125-99",
+      "0469-0625-99",
+      "0469-0725-60",
+      "0469-1125-56",
+      "0469-1725-56"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0304690725602",
+      "0304690125990"
+    ],
+    "nui": [
+      "N0000175560",
+      "N0000000243",
+      "N0000185506",
+      "N0000185507",
+      "N0000185607"
+    ],
+    "pharm_class_epc": [
+      "Androgen Receptor Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Androgen Receptor Antagonists [MoA]",
+      "Cytochrome P450 3A4 Inducers [MoA]",
+      "Cytochrome P450 2C9 Inducers [MoA]",
+      "Cytochrome P450 2C19 Inducers [MoA]"
+    ],
+    "unii": [
+      "93T0T9GKNU"
+    ]
+  }
+}

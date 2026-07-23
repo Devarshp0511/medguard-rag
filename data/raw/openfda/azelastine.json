@@ -1,0 +1,55 @@
+{
+  "drug_name": "Azelastine",
+  "drug_id": 1469,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Somnolence: Avoid engaging in hazardous occupations requiring complete mental alertness such as driving or operating machinery when taking azelastine hydrochloride nasal spray. ( 5.1 ) Alcohol and other central nervous system (CNS) depressants: Avoid concurrent use with azelastine hydrochloride nasal spray because further decreased alertness and impairment of CNS performance may occur. ( 5.1 ) 5.1 Somnolence in Activities Requiring Mental Alertness In clinical trials, the occurrence of somnolence has been reported in some patients taking azelastine hydrochloride nasal spray [see Adverse Reactions ( 6.1 )] . Patients should be cautioned against engaging in hazardous occupations requiring complete mental alertness and motor coordination such as operating machinery or driving a motor vehicle after administration of azelastine hydrochloride nasal spray. Concurrent use of azelastine hydrochloride nasal spray with alcohol or other central nervous system depressants should be avoided because additional reductions in alertness and additional impairment of central nervous system performance may occur [see Drug Interactions ( 7.1 )] .",
+    "drug_interactions": "7 DRUG INTERACTIONS 7.1 Central Nervous System Depressants Concurrent use of azelastine hydrochloride nasal spray with alcohol or other central nervous system depressants should be avoided because reductions in alertness and impairment of central nervous system performance may occur [see Warnings and Precautions ( 5.1 )].",
+    "contraindications": "4 CONTRAINDICATIONS None. None ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION For intranasal use only ( 2.3 ) Seasonal allergic rhinitis: Pediatric patients 5 to 11 years of age: 1 spray per nostril twice daily ( 2.1 ) Adults and adolescents 12 years of age and older: 1 or 2 sprays per nostril twice daily ( 2.1 ) Vasomotor rhinitis: 2 sprays per nostril twice daily in adults and adolescents 12 years of age and older ( 2.2 ) Prime azelastine hydrochloride nasal spray before initial use and when it has not been used for 3 or more days ( 2.3 ) 2.1 Seasonal Allergic Rhinitis The recommended dosage of azelastine hydrochloride nasal spray in adults and adolescent patients 12 years and older with seasonal allergic rhinitis is one or two sprays per nostril twice daily. The recommended dosage of azelastine hydrochloride nasal spray in pediatric patients 5 years to 11 years of age is one spray per nostril twice daily. 2.2 Vasomotor Rhinitis The recommended dosage of azelastine hydrochloride nasal spray in adults and adolescent patients 12 years and older with vasomotor rhinitis is two sprays per nostril twice daily. 2.3 Important Administration Instructions Administer azelastine hydrochloride nasal spray by the intranasal route only. Priming Prime azelastine hydrochloride nasal spray before initial use by releasing 4 sprays or until a fine mist appears. When azelastine hydrochloride nasal spray has not been used for 3 or more days, reprime with 2 sprays or until a fine mist appears. Avoid spraying azelastine hydrochloride nasal spray into the eyes.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Azelastine hydrochloride nasal spray is indicated for the treatment of the symptoms of seasonal allergic rhinitis in adults and pediatric patients 5 years and older, and for the treatment of the symptoms of vasomotor rhinitis in adults and adolescent patients 12 years and older. Azelastine hydrochloride nasal spray is an H1-receptor antagonist indicated for the treatment of the symptoms of seasonal allergic rhinitis in adults and pediatric patients 5 years and older and for the treatment of the symptoms of vasomotor rhinitis in adults and adolescent patients 12 years and older. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077954"
+    ],
+    "brand_name": [
+      "Azelastine Hydrochloride"
+    ],
+    "generic_name": [
+      "AZELASTINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "A-S Medication Solutions"
+    ],
+    "product_ndc": [
+      "50090-2330"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "NASAL"
+    ],
+    "substance_name": [
+      "AZELASTINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1797867"
+    ],
+    "spl_id": [
+      "d2dfdb55-40a8-441e-8454-9f3b1eb3e89d"
+    ],
+    "spl_set_id": [
+      "02257284-4bb1-4fe6-8134-e5a67a645114"
+    ],
+    "package_ndc": [
+      "50090-2330-0"
+    ],
+    "original_packager_product_ndc": [
+      "60505-0833"
+    ],
+    "unii": [
+      "0L591QR10I"
+    ]
+  }
+}

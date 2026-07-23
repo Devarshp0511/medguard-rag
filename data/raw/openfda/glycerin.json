@@ -1,0 +1,77 @@
+{
+  "drug_name": "Glycerin",
+  "drug_id": 957,
+  "sections": {
+    "warnings": "Warnings For external use only Do not use If solution changes color or becomes cloudy If you are sensitive to any ingredient in this product When using this product To avoid contamination do not touch tip of container to any surface Replace cap after using Stop use and ask a doctor if You experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "dosage_and_administration": "Directions Instill 1 or 2 drops in the affected eye(s) as needed.",
+    "indications_and_usage": "Uses For the temporary relief of burning and irritation due to dryness of the eye For the temporary relief of discomfort due to minor irritations of the eye or to exposure to wind or sun For use as a protectant against further irritation or to relieve dryness of the eye"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "OASIS Tears Lubricant Eye"
+    ],
+    "generic_name": [
+      "GLYCERIN"
+    ],
+    "manufacturer_name": [
+      "OASIS Medical, Inc."
+    ],
+    "product_ndc": [
+      "42126-6310"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "GLYCERIN"
+    ],
+    "rxcui": [
+      "998232",
+      "998236"
+    ],
+    "spl_id": [
+      "5bc358cb-c2f9-49c7-a1db-5bec3e65ef5c"
+    ],
+    "spl_set_id": [
+      "00071697-4ac6-4962-8eee-388b8b52bd40"
+    ],
+    "package_ndc": [
+      "42126-6310-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0342126631011"
+    ],
+    "nui": [
+      "N0000185370",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0009417"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Glycerol [CS]"
+    ],
+    "unii": [
+      "PDC6A3C0OX"
+    ]
+  }
+}

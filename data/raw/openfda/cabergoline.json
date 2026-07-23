@@ -1,0 +1,68 @@
+{
+  "drug_name": "Cabergoline",
+  "drug_id": 1451,
+  "sections": {
+    "warnings": "WARNINGS 1. Pregnancy: Dopamine agonists in general should not be used in patients with pregnancy-induced hypertension, for example, preeclampsia, eclampsia, and postpartum hypertension, unless the potential benefit is judged to outweigh the possible risk. 2. Fibrotic Complications: a. Cardiac Valvulopathy: All patients should undergo a cardiovascular evaluation, including echocardiogram to assess the potential presence of valvular disease. If valvular disease is detected, the patient should not be treated with Cabergoline (See CONTRAINDICATIONS ) . Post-marketing cases of cardiac valvulopathy have been reported in patients receiving Cabergoline. These cases have generally occurred during administration of high doses of Cabergoline (>2mg/day) used for the treatment of Parkinson\u2019s disease. Cases of cardiac valvulopathy have also been reported in patients receiving lower doses for the treatment of hyperprolactinemic disorders. A multi-country, retrospective cohort study using general practice records and record linkage systems in the UK, Italy and the Netherlands was conducted to assess the association between new use of dopamine agonists including cabergoline (n=27,812) for Parkinson\u2019s disease and hyperprolactinemia and cardiac valvular regurgitation (CVR), other fibroses, and other cardiopulmonary events over a maximum of 12 years of follow up. In this study, the use of cabergoline among persons with Parkinson\u2019s disease was associated with an increased risk of CVR when compared to non-ergot-derived dopamine agonists (Das) and levodopa [Incidence Rate (IR) per 10,000 person years of 68.1 (95% confidence interval (CI): 37.2 to 115.3) for cabergoline vs. 10.0 (95% CI: 5.2 to 19.4) for non-ergot Das and 11.3 (95% CI: 7.2 to 17.0) for levodopa]. In the study analysis confined to persons with dopamine agonist-treated hyperprolactinemia (n=8,386), when compared to non-use (n=15,147), persons exposed to cabergoline did not have an elevated risk of CVR. The findings with respect to the risk of CVR associated with cabergoline treatment for persons with Parkinson\u2019s disease (increased risk) and those with hyperprolactinemia (no increased risk) are consistent with the findings in other published studies. Physicians should use the lowest effective dose of Cabergoline for the treatment of hyperprolactinemic disorders and should periodically reassess the need for continuing therapy with Cabergoline. Following treatment initiation, clinical and diagnostic monitoring (for example, chest x-ray, CT scan and cardiac echocardiogram) should be conducted to assess the risk of cardiac valvulopathy. The recommended frequency of routine echocardiographic monitoring is every 6 to 12 months or as clinically indicated with the presence of signs and symptoms such as edema, new cardiac murmer, dyspnea or congestive heart failure. Cabergoline should be discontinued if an echocardiogram reveals new valvular regurgitation, valvular restriction or valve leaflet thickening. Cabergoline should be used with caution in patients exposed to other medications associated with valvulopathy. b. Extracardiac Fibrotic Reactions: Post-marketing cases of pleural, pericardial and retroperitoneal fibrosis have been following administration of Cabergoline. Some reports were in patients previously treated with other ergotinic dopamine agonists. Cabergoline should not be used in patients with a history of cardiac or extracardiac fibrotic disorders. Fibrotic disorders can have an insidious onset and patients should be monitored for manifestations of progressive fibrosis. Therefore, during treatment, attention should be paid to the signs and symptoms of: Pleuro-pulmonary disease such as dyspnea, shortness of breath, persistent cough or chest pain. Renal insufficiency or ureteral/abdominal vascular obstruction that may occur with pain in the loin/flank and lower limb edema as well as any possible abdominal masses or tenderness that may indicate retroperitoneal fibrosis. Cardiac failure: Cases of valvular and pericardial fibrosis have ofter manifested as cardiac failure. Therefore, valvular fibrosis (and constrictive pericarditis) should be excluded if such symptoms occur. Clinical and diagnostic monitoring such as erythrocyte sedimentation rate, chest x-ray, serum creatinine measurements, and other investigations should be considered at baseline and as necessary while patients are treated with Cabergoline. Following diagnosis of pleural effusion or pulmonary fibrosis, the discontinuance of Cabergoline was reported to result in improvement of signs and symptoms.",
+    "drug_interactions": "Drug Interactions: Cabergoline should not be administered concurrently with D 2 -antagonists, such as phenothiazines, butyrophenones, thioxanthenes, or metoclopramide.",
+    "contraindications": "CONTRAINDICATIONS Cabergoline Tablets, USP are contraindicated in patients with Uncontrolled hypertension or known hypersensitivity to ergot derivatives. History of cardiac valvular disorders, as suggested by anatomical evidence of valvulopathy of any valve, determined by pre-treatment evaluation including echocardiographic demonstration of valve leaflet thickening, valve restriction, or mixed valve restriction-stenosis (See WARNINGS ). History of pulmonary, pericardial, or retroperitoneal fibrotic disorders (See WARNINGS ).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The recommended dosage of Cabergoline Tablets, USP for initiation of therapy is 0.25 mg twice a week. Dosage may be increased by 0.25 mg twice weekly up to a dosage of 1 mg twice a week according to the patient\u2019s serum prolactin level. Before initiating treatment, cardiovascular evaluation should be performed and echocardiography should be considered to assess for valvular disease. Dosage increases should not occur more rapidly than every 4 weeks, so that the physician can assess the patient's response to each dosage level. If the patient does not respond adequately, and no additional benefit is observed with higher doses, the lowest dose that achieved maximal response should be used and other therapeutic approaches considered. Patients receiving long term treatment with Cabergoline should undergo periodic assessment of their cardiac status and echocardiography should be considered. After a normal serum prolactin level has been maintained for 6 months, cabergoline may be discontinued, with periodic monitoring of the serum prolactin level to determine whether or when treatment with cabergoline should be reinstituted. The durability of efficacy beyond 24 months of therapy with cabergoline has not been established.",
+    "indications_and_usage": "INDICATIONS AND USAGE Cabergoline Tablets, USP are indicated for the treatment of hyperprolactinemic disorders, either idiopathic or due to pituitary adenomas."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA076310"
+    ],
+    "brand_name": [
+      "Cabergoline"
+    ],
+    "generic_name": [
+      "CABERGOLINE"
+    ],
+    "manufacturer_name": [
+      "SOLA Pharmaceuticals, LLC"
+    ],
+    "product_ndc": [
+      "70512-860"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CABERGOLINE"
+    ],
+    "rxcui": [
+      "199703"
+    ],
+    "spl_id": [
+      "45723c3c-bc96-6df6-e063-6294a90a8e1f"
+    ],
+    "spl_set_id": [
+      "275a6a25-c3c9-4258-a610-0b00752517f7"
+    ],
+    "package_ndc": [
+      "70512-860-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0370512860080"
+    ],
+    "nui": [
+      "M0007652",
+      "N0000175827"
+    ],
+    "pharm_class_cs": [
+      "Ergolines [CS]"
+    ],
+    "pharm_class_epc": [
+      "Ergot Derivative [EPC]"
+    ],
+    "unii": [
+      "LL60K9J05T"
+    ]
+  }
+}

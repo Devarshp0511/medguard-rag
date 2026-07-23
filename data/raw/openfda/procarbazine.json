@@ -1,0 +1,57 @@
+{
+  "drug_name": "Procarbazine",
+  "drug_id": 331,
+  "sections": {
+    "boxed_warning": "WARNING It is recommended that MATULANE be given only by or under the supervision of a physician experienced in the use of potent antineoplastic drugs. Adequate clinical and laboratory facilities should be available to patients for proper monitoring of treatment.",
+    "warnings": "WARNINGS To minimize CNS depression and possible potentiation, barbiturates, antihistamines, narcotics, hypotensive agents or phenothiazines should be used with caution. Ethyl alcohol should not be used since there may be an Antabuse (disulfiram)-like reaction. Because Matulane exhibits some monoamine oxidase inhibitory activity, sympathomimetic drugs, tricyclic antidepressant drugs (eg, amitriptyline HCI, imipramine HCI) and other drugs and foods with known high tyramine content, such as wine, yogurt, ripe cheese and bananas, should be avoided. A further phenomenon of toxicity common to many hydrazine derivatives is hemolysis and the appearance of Heinz\u2011Ehrlich inclusion bodies in erythrocytes. Pregnancy Teratogenic Effects Procarbazine hydrochloride can cause fetal harm when administered to a pregnant woman. While there are no adequate and well\u2011controlled studies with procarbazine hydrochloride in pregnant women, there are case reports of malformations in the offspring of women who were exposed to procarbazine hydrochloride in combination with other antineoplastic agents during pregnancy. Matulane should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus. Women of childbearing potential should be advised to avoid becoming pregnant. Procarbazine hydrochloride is teratogenic in the rat when given at doses approximately 4 to 13 times the maximum recommended human therapeutic dose of 6 mg/kg/day. Nonteratogenic Effects Procarbazine hydrochloride has not been adequately studied in animals for its effects on peri- and postnatal development. However, neurogenic tumors were noted in the offspring of rats given intravenous injections of 125 mg/kg of procarbazine hydrochloride on day 22 of gestation. Compounds which inhibit DNA, RNA and protein synthesis might be expected to have adverse effects on peri- and postnatal development. Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis The carcinogenicity of procarbazine hydrochloride in mice, rats and monkeys has been reported in a considerable number of studies. Instances of a second nonlymphoid malignancy, including lung cancer and acute myelocytic leukemia, have been reported in patients with Hodgkin's disease treated with procarbazine in combination with other chemotherapy and/or radiation. The risks of secondary lung cancer from treatment appear to be multiplied by tobacco use. The International Agency for Research on Cancer (IARC) considers that there is \"sufficient evidence\" for the human carcinogenicity of procarbazine hydrochloride when it is given in intensive regimens which include other antineoplastic agents but that there is inadequate evidence of carcinogenicity in humans given procarbazine hydrochloride alone. Mutagenesis Procarbazine hydrochloride has been shown to be mutagenic in a variety of bacterial and mammalian test systems. Impairment of Fertility Azoospermia and antifertility effects associated with procarbazine hydrochloride administration in combination with other chemotherapeutic agents for treating Hodgkin's disease have been reported in human clinical studies. Since these patients received multicombination therapy, it is difficult to determine to what extent procarbazine hydrochloride alone was involved in the male germcell damage. The usual Segment I fertility/reproduction studies in laboratory animals have not been carried out with procarbazine hydrochloride. However, compounds which inhibit DNA, RNA and/or protein synthesis might be expected to have adverse effects on gametogenesis. Unscheduled DNA synthesis in the testis of rabbits and decreased fertility in male mice treated with procarbazine hydrochloride have been reported.",
+    "drug_interactions": "Drug Interactions See WARNINGS section. No cross-resistance with other chemotherapeutic agents, radiotherapy or steroids has been demonstrated.",
+    "contraindications": "CONTRAINDICATIONS Matulane is contraindicated in patients with known hypersensitivity to the drug or inadequate marrow reserve as demonstrated by bone marrow aspiration. Due consideration of this possible state should be given to each patient who has leukopenia, thrombocytopenia or anemia.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The following doses are for administration of the drug as a single agent. When used in combination with other anticancer drugs, the Matulane dose should be appropriately reduced, eg, in the MOPP regimen, the Matulane dose is 100 mg/m2 daily for 14 days. All dosages are based on the patient's actual weight. However, the estimated lean body mass (dry weight) is used if the patient is obese or if there has been a spurious weight gain due to edema, ascites or other forms of abnormal fluid retention. Adults: To minimize the nausea and vomiting experienced by a high percentage of patients beginning Matulane therapy, single or divided doses of 2 to 4 mg/kg/day for the first week are recommended. Daily dosage should then be maintained at 4 to 6 mg/kg/day until maximum response is obtained or until the white blood count falls below 4000/cmm or the platelets fall below 100,000/ cmm. When maximum response is obtained, the dose may be maintained at 1 to 2 mg/kg/day. Upon evidence of hematologic or other toxicity (see PRECAUTIONS section), the drug should be discontinued until there has been satisfactory recovery. After toxic side effects have subsided, therapy may then be resumed at the discretion of the physician, based on clinical evaluation and appropriate laboratory studies, at a dosage of 1 to 2 mg/kg/day. Pediatric Patients: Very close clinical monitoring is mandatory. Undue toxicity, evidenced by tremors, coma and convulsions, has occurred in a few cases. Dosage, therefore, should be individualized. The following dosage schedule is provided as a guideline only. Fifty (50) mg per square meter of body surface per day is recommended for the first week. Dosage should then be maintained at 100 mg per square meter of body surface per day until maximum response is obtained or until leukopenia or thrombocytopenia occurs. When maximum response is attained, the dose may be maintained at 50 mg per square meter of body surface per day. Upon evidence of hematologic or other toxicity (see PRECAUTIONS section), the drug should be discontinued until there has been satisfactory recovery, based on clinical evaluation and appropriate laboratory tests. After toxic side effects have subsided, therapy may then be resumed. Procedures for proper handling and disposal of anticancer drugs should be considered. Several guidelines on this subject have been published. 1-6 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.",
+    "indications_and_usage": "INDICATIONS AND USAGE Matulane is indicated for use in combination with other anticancer drugs for the treatment of Stage III and IV Hodgkin's disease. Matulane is used as part of the MOPP (nitrogen mustard, vincristine, procarbazine, prednisone) regimen."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA016785"
+    ],
+    "brand_name": [
+      "Matulane"
+    ],
+    "generic_name": [
+      "PROCARBAZINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Leadiant Biosciences, Inc."
+    ],
+    "product_ndc": [
+      "54482-054"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PROCARBAZINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "207588",
+      "314167"
+    ],
+    "spl_id": [
+      "caa705fa-c467-49b5-a7cb-ae2c8b872a86"
+    ],
+    "spl_set_id": [
+      "1aa75a3a-18c9-49e1-91a6-293d0b7da756"
+    ],
+    "package_ndc": [
+      "54482-054-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "XH0NPH5ZX8"
+    ]
+  }
+}

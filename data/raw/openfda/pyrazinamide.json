@@ -1,0 +1,69 @@
+{
+  "drug_name": "Pyrazinamide",
+  "drug_id": 1456,
+  "sections": {
+    "warnings": "WARNINGS Patients started on pyrazinamide should have baseline serum uric acid and liver function determinations. Those patients with preexisting liver disease or those at increased risk for drug related hepatitis (e.g., alcohol abusers) should be followed closely. Pyrazinamide should be discontinued and not be resumed if signs of hepatocellular damage or hyperuricemia accompanied by an acute gouty arthritis appear.",
+    "contraindications": "CONTRAINDICATIONS Pyrazinamide is contraindicated in persons: with severe hepatic damage. who have shown hypersensitivity to it. with acute gout.",
+    "dosage_and_administration": "DOSAGE & ADMINISTRATION Pyrazinamide should always be administered with other effective antituberculous drugs. It is administered for the initial 2 months of a 6-month or longer treatment regimen for drug-susceptible patients. Patients who are known or suspected to have drug-resistant disease should be treated with regimens individualized to their situation. Pyrazinamide frequently will be an important component of such therapy. Patients with concomitant HIV infection may require longer courses of therapy. Physicians treating such patients should be alert to any revised recommendations from CDC for this group of patients. Usual dose: Pyrazinamide is administered orally, 15 to 30 mg/kg once daily. Older regimens employed 3 to 4 divided doses daily, but most current recommendations are for once a day. Three grams per day should not be exceeded. The CDC recommendations do not exceed 2 g per day when given as a daily regimen (see table). Alternatively, a twice weekly dosing regimen (50 to 70 mg/kg twice weekly based on lean body weight) has been developed to promote patient compliance with a regimen on an outpatient basis. In studies evaluating the twice weekly regimen, doses of pyrazinamide in excess of 3 g twice weekly have been administered. This exceeds the recommended maximum 3 g/daily dose. However, an increased incidence of adverse reactions has not been reported. The table is taken from the CDC-American Thoracic Society joint recommendations: 4 Recommended Drugs for the Initial Treatment of Tuberculosis in Children and Adults Drug Daily Dose* Maximal Daily Dose in Children and Adults Twice Weekly Dose Children Adults Children Adults Isoniazid 10 to 20 mg/kg PO or IM 5 mg/kg PO or IM 300 mg 20 to 40 mg/kg Max. 900 mg 15 mg/kg Max. 900 mg Rifampin 10 to 20 mg/kg PO 10 mg/kg PO 600 mg 10 to 20 mg/kg Max. 600 mg 10 mg/kg Max. 600 mg Pyrazinamide 15 to 30 mg/kg PO 15 to 30 mg/kg PO 2 g 50 to 70 mg/kg 50 to 70 mg/kg Streptomycin 20 to 40 mg/kg IM 15 mg/kg** IM 1 g** 25 to 30 mg/kg IM 25 to 30 mg/kg IM Ethambutol 15 to 25 mg/kg PO 15 to 25 mg/kg PO 2.5 g 50 mg/kg 50 mg/kg Definition of abbreviations: PO = perorally; IM = intramuscularly. * Doses based on weight should be adjusted as weight changes. **In persons older than 60 yrs of age the daily dose of streptomycin should be limited to 10 mg/kg with a maximal dose of 750 mg.",
+    "dosage_and_administration_table": "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"599.564\"><colgroup><col width=\"15.6721384205856%\"/><col width=\"17.9680567879326%\"/><col width=\"16.5927240461402%\"/><col width=\"16.6038154392192%\"/><col width=\"16.6038154392192%\"/><col width=\"16.5594498669033%\"/></colgroup><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" rowspan=\"2\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">Drug</content> </td><td styleCode=\"Rrule\" colspan=\"2\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">Daily Dose*</content> </td><td styleCode=\"Rrule\" rowspan=\"2\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">Maximal Daily Dose in Children and Adults</content> </td><td styleCode=\"Rrule\" colspan=\"2\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">Twice Weekly Dose</content> </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">Children</content> </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">Adults</content> </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">Children</content> </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">Adults</content> </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" align=\"center\" valign=\"middle\">Isoniazid </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">10 to 20 mg/kg PO or IM </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">5 mg/kg PO or IM </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">300 mg </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">20 to 40 mg/kg Max. 900 mg </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">15 mg/kg Max. 900 mg </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" align=\"center\" valign=\"middle\">Rifampin </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">10 to 20 mg/kg PO </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">10 mg/kg PO </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">600 mg </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">10 to 20 mg/kg Max. 600 mg </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">10 mg/kg Max. 600 mg </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" align=\"center\" valign=\"middle\">Pyrazinamide </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">15 to 30 mg/kg PO </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">15 to 30 mg/kg PO </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">2 g </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">50 to 70 mg/kg </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">50 to 70 mg/kg </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" align=\"center\" valign=\"middle\">Streptomycin </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">20 to 40 mg/kg IM </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">15 mg/kg** IM </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">1 g** </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">25 to 30 mg/kg IM </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">25 to 30 mg/kg IM </td></tr><tr><td styleCode=\"Lrule Rrule\" align=\"center\" valign=\"middle\">Ethambutol </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">15 to 25 mg/kg PO </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">15 to 25 mg/kg PO </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">2.5 g </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">50 mg/kg </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">50 mg/kg </td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS & USAGE Pyrazinamide is indicated for the initial treatment of active tuberculosis in adults and children when combined with other antituberculous agents. (The current recommendation of the CDC for drug-susceptible disease is to use a six-month regimen for initial treatment of active tuberculosis, consisting of isoniazid, rifampin and pyrazinamide given for 2 months, followed by isoniazid and rifampin for 4 months. *4 ) (Patients with drug-resistant disease should be treated with regimens individualized to their situation. Pyrazinamide frequently will be an important component of such therapy.) (In patients with concomitant HIV infection, the physician should be aware of current recommendations of CDC. It is possible these patients may require a longer course of treatment.) It is also indicated after treatment failure with other primary drugs in any form of active tuberculosis. Pyrazinamide should only be used in conjunction with other effective antituberculous agents. *See recommendations of Center for Disease Control (CDC) and American Thoracic Society for complete regimen and dosage recommendations. 4"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA080157"
+    ],
+    "brand_name": [
+      "Pyrazinamide"
+    ],
+    "generic_name": [
+      "PYRAZINAMIDE"
+    ],
+    "manufacturer_name": [
+      "ANI Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "70954-484"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PYRAZINAMIDE"
+    ],
+    "rxcui": [
+      "198181"
+    ],
+    "spl_id": [
+      "e043f21d-4a30-4d23-bc03-12207af7d6d7"
+    ],
+    "spl_set_id": [
+      "262d8829-728c-48db-b89b-88d13b87e684"
+    ],
+    "package_ndc": [
+      "70954-484-10",
+      "70954-484-20",
+      "70954-484-30",
+      "70954-484-40"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0370954484103",
+      "0370954484301",
+      "0370954484202"
+    ],
+    "nui": [
+      "N0000175483"
+    ],
+    "pharm_class_epc": [
+      "Antimycobacterial [EPC]"
+    ],
+    "unii": [
+      "2KNI5N06TI"
+    ]
+  }
+}

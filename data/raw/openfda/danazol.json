@@ -1,0 +1,79 @@
+{
+  "drug_name": "Danazol",
+  "drug_id": 946,
+  "sections": {
+    "boxed_warning": "WARNINGS Use of danazol in pregnancy is contraindicated. A sensitive test (e.g., beta subunit test if available) capable of determining early pregnancy is recommended immediately prior to start of therapy. Additionally a non-hormonal method of contraception should be used during therapy. If a patient becomes pregnant while taking danazol, administration of the drug should be discontinued and the patient should be apprised of the potential risk to the fetus. Exposure to danazol in utero may result in androgenic effects on the female fetus; reports of clitoral hypertrophy, labial fusion, urogenital sinus defect, vaginal atresia, and ambiguous genitalia have been received (see PRECAUTIONS: Pregnancy, Teratogenic Effects ). Thromboembolism, thrombotic and thrombophlebitic events including sagittal sinus thrombosis and life-threatening or fatal strokes have been reported. Experience with long-term therapy with danazol is limited. Peliosis hepatis and benign hepatic adenoma have been observed with long-term use. Peliosis hepatis and hepatic adenoma may be silent until complicated by acute, potentially life-threatening intraabdominal hemorrhage. The physician therefore should be alert to this possibility. Attempts should be made to determine the lowest dose that will provide adequate protection. If the drug was begun at a time of exacerbation of hereditary angioneurotic edema due to trauma, stress or other cause, periodic attempts to decrease or withdraw therapy should be considered. Danazol has been associated with several cases of benign intracranial hypertension also known as pseudotumor cerebri. Early signs and symptoms of benign intracranial hypertension include papilledema, headache, nausea and vomiting, and visual disturbances. Patients with these symptoms should be screened for papilledema and, if present, the patients should be advised to discontinue danazol immediately and be referred to a neurologist for further diagnosis and care.",
+    "contraindications": "CONTRAINDICATIONS Danazol capsules should not be administered to patients with: Undiagnosed abnormal genital bleeding. Markedly impaired hepatic, renal, or cardiac function. Pregnancy (see WARNINGS ). Breast feeding. Porphyria-Danazol capsules can induce ALA synthetase activity and hence porphyrin metabolism. Androgen-dependent tumor. Active thrombosis or thromboembolic disease and history of such events. Hypersensitivity to danazol.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Endometriosis. In moderate to severe disease, or in patients infertile due to endometriosis, a starting dose of 800 mg given in two divided doses is recommended. Amenorrhea and rapid response to painful symptoms is best achieved at this dosage level. Gradual downward titration to a dose sufficient to maintain amenorrhea may be considered depending upon patient response. For mild cases, an initial daily dose of 200 mg to 400 mg given in two divided doses is recommended and may be adjusted depending on patient response. Therapy should begin during menstruation. Otherwise, appropriate tests should be performed to ensure that the patient is not pregnant while on therapy with danazol capsules (see CONTRAINDICATIONS and WARNINGS ). It is essential that therapy continue uninterrupted for 3 to 6 months but may be extended to 9 months if necessary. After termination of therapy, if symptoms recur, treatment can be reinstituted. Hereditary Angioedema. The dosage requirements for continuous treatment of hereditary angioedema with danazol capsules should be individualized on the basis of the clinical response of the patient. It is recommended that the patient be started on 200 mg, two or three times a day. After a favorable initial response is obtained in terms of prevention of episodes of edematous attacks, the proper continuing dosage should be determined by decreasing the dosage by 50% or less at intervals of one to three months or longer if frequency of attacks prior to treatment dictates. If an attack occurs, the daily dosage may be increased by up to 200 mg. During the dose adjusting phase, close monitoring of the patient's response is indicated, particularly if the patient has a history of airway involvement.",
+    "indications_and_usage": "INDICATIONS AND USAGE Endometriosis. Danazol capsules are indicated for the treatment of endometriosis amenable to hormonal management. Hereditary Angioedema. Danazol capsules are indicated for the prevention of attacks of angioedema of all types (cutaneous, abdominal, laryngeal) in males and females."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077246"
+    ],
+    "brand_name": [
+      "Danazol"
+    ],
+    "generic_name": [
+      "DANAZOL"
+    ],
+    "manufacturer_name": [
+      "Chartwell RX, LLC."
+    ],
+    "product_ndc": [
+      "62135-475",
+      "62135-476",
+      "62135-477"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DANAZOL"
+    ],
+    "rxcui": [
+      "197554",
+      "197555",
+      "197556"
+    ],
+    "spl_id": [
+      "241f23e1-4b4b-4adb-e063-6394a90adcc5"
+    ],
+    "spl_set_id": [
+      "55ad6325-16f6-4f0c-a1dc-734847052d0b"
+    ],
+    "package_ndc": [
+      "62135-475-60",
+      "62135-476-60",
+      "62135-477-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0362135477608",
+      "0362135475604",
+      "0362135476601"
+    ],
+    "nui": [
+      "N0000175824",
+      "N0000000146",
+      "M0001109"
+    ],
+    "pharm_class_epc": [
+      "Androgen [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Androgen Receptor Agonists [MoA]"
+    ],
+    "pharm_class_cs": [
+      "Androstanes [CS]"
+    ],
+    "unii": [
+      "N29QWW3BUO"
+    ]
+  }
+}

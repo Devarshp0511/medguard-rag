@@ -1,0 +1,75 @@
+{
+  "drug_name": "Eplerenone",
+  "drug_id": 765,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Hyperkalemia: Patients with decreased renal function, diabetes, proteinuria or patients who are taking ACEs and ARBs, NSAIDs or moderate CYP3A inhibitors are at increased risk. Monitor serum potassium levels and adjust dose as needed. ( 5.1 ) 5.1 Hyperkalemia The risk of hyperkalemia is higher in patients with impaired renal function, proteinuria, diabetes and those concomitantly treated with ACEs, ARBs, NSAIDs and moderate CYP3A inhibitors. Minimize the risk of hyperkalemia with proper patient selection and monitoring [see Dosage and Administration (2.1) , Contraindications (4) , Adverse Reactions (6.2) , and Drug Interactions (7) ] . Monitor patients for the development of hyperkalemia until the effect of INSPRA is established. Patients who develop hyperkalemia (5.5-5.9 mEq/L) may continue INSPRA therapy with proper dose adjustment. Dose reduction decreases potassium levels. Patients on moderate CYP3A inhibitors that cannot be avoided should have their dose of eplerenone reduced [see Drug Interactions (7.2) ] .",
+    "drug_interactions": "7 DRUG INTERACTIONS \u2022 CYP3A Inhibitors: In post-MI HFrEF patients, do not exceed 25 mg once daily when used with moderate CYP3A inhibitors (e.g., verapamil, erythromycin, saquinavir, fluconazole). In patients with hypertension, initiate at 25 mg once daily. For inadequate blood pressure response, dosing may be increased to a maximum of 25 mg twice daily. ( 2.4 , 7.1 , 12.3 ) 7.1 CYP3A Inhibitors Eplerenone metabolism is predominantly mediated via CYP3A. Do not use INSPRA with drugs that are strong inhibitors of CYP3A [see Contraindications (4) and Clinical Pharmacology (12.3) ] . In post-MI HFrEF patients taking a moderate CYP3A inhibitor, do not exceed 25 mg once daily. In patients with hypertension taking a moderate CYP3A inhibitor, initiate at 25 mg once daily. For inadequate blood pressure response, dosing may be increased to a maximum of 25 mg twice daily [see Dosage and Administration (2.3 , 2.4) and Clinical Pharmacology (12.3) ] . 7.2 ACE Inhibitors and Angiotensin II Receptor Antagonists The risk of hyperkalemia increases when eplerenone is used in combination with an ACE inhibitor and/or an ARB. A close monitoring of serum potassium and renal function is recommended, especially in patients at risk for impaired renal function, e.g., the elderly [see Warnings and Precautions (5.1) ] . 7.3 Lithium A drug interaction study of eplerenone with lithium has not been conducted. Lithium toxicity has been reported in patients receiving lithium concomitantly with diuretics and ACE inhibitors. Serum lithium levels should be monitored frequently if INSPRA is administered concomitantly with lithium. 7.4 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) A drug interaction study of eplerenone with an NSAID has not been conducted. The administration of other potassium-sparing antihypertensives with NSAIDs has been shown to reduce the antihypertensive effect in some patients and result in severe hyperkalemia in patients with impaired renal function. Therefore, when INSPRA and NSAIDs are used concomitantly, monitor blood pressure and serum potassium levels.",
+    "contraindications": "4 CONTRAINDICATIONS For All Patients INSPRA is contraindicated in all patients with: \u2022 serum potassium >5.5 mEq/L at initiation, \u2022 creatinine clearance \u226430 mL/min, or \u2022 concomitant administration of strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, and nelfinavir) [see Drug Interactions (7.1) , Clinical Pharmacology (12.3) ] . For Patients Treated for Hypertension INSPRA is contraindicated for the treatment of hypertension in patients with: \u2022 type 2 diabetes with microalbuminuria, \u2022 serum creatinine >2.0 mg/dL in males or >1.8 mg/dL in females, \u2022 creatinine clearance <50 mL/min, or \u2022 concomitant administration of potassium supplements or potassium-sparing diuretics (e.g., amiloride, spironolactone, or triamterene) [see Warnings and Precautions (5.1) , Adverse Reactions (6.2) , Drug Interactions (7) , and Clinical Pharmacology (12.3) ] . For all patients: \u2022 Serum potassium >5.5 mEq/L at initiation ( 4 ) \u2022 Creatinine clearance \u226430 mL/min ( 4 ) \u2022 Concomitant use with strong CYP3A inhibitors ( 4 , 7.1 ) For the treatment of hypertension: \u2022 Type 2 diabetes with microalbuminuria ( 4 ) \u2022 Serum creatinine >2.0 mg/dL in males, >1.8 mg/dL in females ( 4 ) \u2022 Creatinine clearance <50 mL/min ( 4 ) \u2022 Concomitant use of potassium supplements or potassium-sparing diuretics ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION HFrEF Post-MI: Initiate treatment with 25 mg once daily. Titrate to maximum of 50 mg once daily within 4 weeks, as tolerated. Dose adjustments may be required based on potassium levels. ( 2.1 ) Hypertension: 50 mg once daily, alone or combined with other antihypertensive agents. For inadequate response, increase to 50 mg twice daily. Higher dosages are not recommended. ( 2.2 ) For all patients: Measure serum potassium before starting INSPRA and periodically thereafter. ( 2.3 ) 2.1 Heart Failure Post-Myocardial Infarction Initiate treatment at 25 mg once daily and titrate to the recommended dose of 50 mg once daily, preferably within 4 weeks as tolerated by the patient. Once treatment with INSPRA has begun, adjust the dose based on the serum potassium level as shown in Table 1. Table 1. Dose Adjustment in Heart Failure Post-MI Serum Potassium (mEq/L) Dose Adjustment <5.0 25 mg every other day to 25 mg once daily 25 mg once daily to 50 mg once daily 5.0-5.4 No adjustment 5.5-5.9 50 mg once daily to 25 mg once daily 25 mg once daily to 25 mg every other day 25 mg every other day to withhold \u22656.0 Withhold and restart at 25 mg every other day when potassium levels fall to <5.5 mEq/L 2.2 Hypertension The recommended starting dose of INSPRA is 50 mg administered once daily. The full therapeutic effect of INSPRA is apparent within 4 weeks. For patients with an inadequate blood pressure response to 50 mg once daily increase the dosage of INSPRA to 50 mg twice daily. Higher dosages of INSPRA are not recommended because they have no greater effect on blood pressure than 100 mg and are associated with an increased risk of hyperkalemia [see Clinical Studies (14.2) ] . 2.3 Recommended Monitoring Measure serum potassium before initiating INSPRA therapy, within the first week, and at one month after the start of treatment or dose adjustment. Assess serum potassium periodically thereafter. Check serum potassium and serum creatinine within 3-7 days of a patient initiating a moderate CYP3A inhibitor ACE inhibitors, angiotensin II blockers or nonsteroidal anti-inflammatories. 2.4 Dose Modification for Use with Moderate CYP3A Inhibitors In post-MI HFrEF patients receiving a moderate CYP3A inhibitor (e.g., erythromycin, saquinavir, verapamil, and fluconazole), do not exceed 25 mg once daily. In patients with hypertension receiving a moderate CYP3A inhibitor, initiate at 25 mg once daily. For inadequate blood pressure response, dosing may be increased to a maximum of 25 mg twice daily [see Drug Interactions (7.1) ] .",
+    "dosage_and_administration_table": "<table styleCode=\"Noautorules\" width=\"100%\"><caption>Table 1. Dose Adjustment in Heart Failure Post-MI</caption><col width=\"50%\"/><col width=\"50%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Serum Potassium (mEq/L)</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Dose Adjustment</content></paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>&lt;5.0</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>25 mg every other day to 25 mg once daily 25 mg once daily to 50 mg once daily</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>5.0-5.4</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>No adjustment</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>5.5-5.9</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>50 mg once daily to 25 mg once daily 25 mg once daily to 25 mg every other day 25 mg every other day to withhold</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>&#x2265;6.0</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>Withhold and restart at 25 mg every other day when potassium levels fall to &lt;5.5 mEq/L</paragraph></td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE INSPRA is an aldosterone antagonist indicated for: \u2022 Improving survival of stable adult patients with symptomatic heart failure with reduced ejection fraction (HFrEF) after an acute myocardial infarction. ( 1.1 ) \u2022 The treatment of hypertension in adults, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. ( 1.2 ) 1.1 Heart Failure Post-Myocardial Infarction INSPRA is indicated to improve survival of stable adult patients with symptomatic heart failure with reduced ejection fraction (\u226440%) (HFrEF) after an acute myocardial infarction (MI). 1.2 Hypertension INSPRA is indicated for the treatment of hypertension in adults, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular (CV) events, primarily strokes and MI. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes. Control of high blood pressure should be part of comprehensive CV risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than one drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program\u2019s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC). Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce CV morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent CV outcome benefit has been a reduction in the risk of stroke, but reductions in MI and CV mortality also have been seen regularly. Elevated systolic or diastolic pressure causes increased CV risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal. Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease). These considerations may guide selection of therapy. INSPRA may be used alone or in combination with other antihypertensive agents."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA021437"
+    ],
+    "brand_name": [
+      "Inspra"
+    ],
+    "generic_name": [
+      "EPLERENONE"
+    ],
+    "manufacturer_name": [
+      "Viatris Specialty LLC"
+    ],
+    "product_ndc": [
+      "58151-142",
+      "58151-143"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "EPLERENONE"
+    ],
+    "rxcui": [
+      "351256",
+      "351257",
+      "402105",
+      "402106"
+    ],
+    "spl_id": [
+      "77698b88-befe-44ae-b67d-03c56dcbbdf6"
+    ],
+    "spl_set_id": [
+      "1a52bedc-8e2c-4116-a296-a87770676b4a"
+    ],
+    "package_ndc": [
+      "58151-142-93",
+      "58151-143-93"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0358151142934",
+      "0358151143931"
+    ],
+    "nui": [
+      "N0000175557",
+      "N0000011310"
+    ],
+    "pharm_class_epc": [
+      "Aldosterone Antagonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Aldosterone Antagonists [MoA]"
+    ],
+    "unii": [
+      "6995V82D0B"
+    ]
+  }
+}

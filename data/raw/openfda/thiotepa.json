@@ -1,0 +1,68 @@
+{
+  "drug_name": "Thiotepa",
+  "drug_id": 1359,
+  "sections": {
+    "warnings": "WARNINGS Death has occurred after intravesical administration, caused by bone-marrow depression from systematically absorbed drug. Death from septicemia and hemorrhage has occurred as a direct result of hematopoietic depression by thiotepa. Thiotepa is highly toxic to the hematopoietic system. A rapidly falling white blood cell or platelet count indicates the necessity for discontinuing or reducing the dosage of thiotepa. Weekly blood and platelet counts are recommended during therapy and for at least 3 weeks after therapy has been discontinued. Thiotepa can cause fetal harm when administered to a pregnant woman. Thiotepa given by the intraperitoneal (IP) route was teratogenic in mice at doses \u2265 1 mg/kg (3.2 mg/m 2 ), approximately 8-fold less than the maximum recommended human therapeutic dose (0.8 mg/kg, 27 mg/m 2 ), based on body-surface area. Thiotepa given by the IP route was teratogenic in rats at doses \u2265 3 mg/kg (21 mg/m 2 ), approximately equal to the maximum recommended human therapeutic dose, based on body-surface area. Thiotepa was lethal to rabbit fetuses at a dose of 3 mg/kg (41 mg/m 2 ), approximately two times the maximum recommended human therapeutic dose based on body-surface area. Effective contraception should be used during thiotepa therapy if either the patient or partner is of childbearing potential. There are no adequate and well-controlled studies in pregnant women. If thiotepa is used during pregnancy, or if pregnancy occurs during thiotepa therapy, the patient and partner should be apprised of the potential hazard to the fetus. Thiotepa is a polyfunctional alkylating agent, capable of cross-linking the DNA within a cell and changing its nature. The replication of the cell is, therefore, altered, and thiotepa may be described as mutagenic. An in vitro study has shown that it causes chromosomal aberrations of the chromatid type and that the frequency of induced aberrations increases with the age of the subject. Like many alkylating agents, thiotepa has been reported to be carcinogenic when administered to laboratory animals. Carcinogenicity is shown most clearly in studies using mice, but there is some evidence of carcinogenicity in man. In patients treated with thiotepa, cases of myelodysplastic syndromes and acute non-lymphocytic leukemia have been reported.",
+    "drug_interactions": "Drug Interactions It is not advisable to combine, simultaneously or sequentially, cancer chemotherapeutic agents or a cancer chemotherapeutic agent and a therapeutic modality having the same mechanism of action. Therefore, thiotepa combined with other alkylating agents such as nitrogen mustard or cyclophosphamide or thiotepa combined with irradiation would serve to intensify toxicity rather than to enhance therapeutic response. If these agents must follow each other, it is important that recovery from the first agent, as indicated by white blood cell count, be complete before therapy with the second agent is instituted. Other drugs which are known to produce bone-marrow depression should be avoided.",
+    "contraindications": "CONTRAINDICATIONS Thiotepa is contraindicated in patients with a known hypersensitivity (allergy) to this preparation. Therapy is probably contraindicated in cases of existing hepatic, renal, or bone-marrow damage. However, if the need outweighs the risk in such patients, thiotepa may be used in low dosage, and accompanied by hepatic, renal and hemopoietic function tests.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Since absorption from the gastrointestinal tract is variable, thiotepa should not be administered orally. Dosage must be carefully individualized. A slow response to thiotepa does not necessarily indicate a lack of effect. Therefore, increasing the frequency of dosing may only increase toxicity. After maximum benefit is obtained by initial therapy, it is necessary to continue the patient on maintenance therapy (1 to 4 week intervals). In order to continue optimal effect, maintenance doses should not be administered more frequently than weekly in order to preserve correlation between dose and blood counts. Preparation and Administration Precautions: Thiotepa is a cytotoxic anticancer drug and as with other potentially toxic compounds, caution should be exercised in handling and preparation of thiotepa. Skin reactions associated with accidental exposure to thiotepa may occur. The use of gloves is recommended. If thiotepa solution contacts the skin, immediately wash the skin thoroughly with soap and water. If thiotepa contacts mucous membranes, the membranes should be flushed thoroughly with water. Preparation of Solution: Thiotepa for injection should be reconstituted with 1.5 m L of sterile water for injection resulting in a drug concentration of approximately 10 mg/mL . The actual withdrawable quantities and concentration achieved are illustrated in the following table: Label Claim (mg/vial) Actual Content (mg/vial) Amount of Diluent to be Added (mL) Approximate Withdrawable Volume (mL) Approximate Withdrawable Amount (mg/vial) Approximate Reconstituted Concentration (mg/mL) 15 15.6 1.5 1.4 14.7 10.4 The reconstituted solution is hypotonic and should be further diluted with sodium chloride injection (0. 9% sodium chloride) before use. When reconstituted with sterile water for injection, solutions of thiotepa should be stored in a refrigerator and used within 8 hours. Reconstituted solutions further diluted with sodium chloride injection should be used immediately. In order to eliminate haze, filter solutions through a 0.22 micron filter* prior to administration. Filtering does not alter solution potency. Reconstituted solutions should be clear. Solutions that remain opaque or precipitate after filtration should not be used. *Polysulfone membrane (Gelman\u2019s Sterile AerodiscR, Single Use) or triton-free mixed ester of cellulose/PVC (Millipore\u2019s MILLEXR-GS Filter Unit). Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Initial and Maintenance Doses: Initially the higher dose in the given range is commonly administered. The maintenance dose should be adjusted weekly on the basis of pretreatment control blood counts and subsequent blood counts. Intravenous Administration: Thiotepa may be given by rapid intravenous administration in doses of 0.3 to 0.4 mg/kg. Doses should be given at 1 to 4 week intervals. Intracavitary Administration: The dosage recommended is 0.6 to 0.8 mg/kg. Administration is usually effected through the same tubing which is used to remove the fluid from the cavity involved. Intravesical Administration: Patients with papillary carcinoma of the bladder are dehydrated for 8 to 12 hours prior to treatment. Then 60 mg of thiotepa in 30 to 60 mL of Sodium Chloride Injection is instilled into the bladder by catheter. For maximum effect, the solution should be retained for 2 hours. If the patient finds it impossible to retain 60 mL for 2 hours, the dose may be given in a volume of 30 mL. If desired, the patient may be positioned every 15 minutes for maximum area contact. The usual course of treatment is once a week for 4 weeks. The course may be repeated if necessary, but second and third courses must be given with caution since bone-marrow depression may be increased. Deaths have occurred after intravesical administration, caused by bone-marrow depression from systemically absorbed drug. Handling and Disposal: Follow safe cytotoxic agent handling procedures. Several guidelines on this subject have been published. 1-6 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.",
+    "dosage_and_administration_table": "<table border=\"1\" cellpadding=\"3\"><tbody><tr><td> Label Claim (mg/vial) </td><td> Actual Content (mg/vial) </td><td> Amount of Diluent to be Added (mL) </td><td> Approximate Withdrawable Volume (mL) </td><td> Approximate Withdrawable Amount (mg/vial) </td><td> Approximate Reconstituted Concentration (mg/mL) </td></tr><tr><td> 15 </td><td> 15.6 </td><td> 1.5 </td><td> 1.4 </td><td> 14.7 </td><td> 10.4 </td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE Thiotepa for Injection, USP has been tried with varying results in the palliation of a wide variety of neoplastic diseases. However, the most consistent results have been seen in the following tumors: 1. Adenocarcinoma of the breast. 2. Adenocarcinoma of the ovary. 3. For controlling intracavitary effusions secondary to diffuse or localized neoplastic diseases of various serosal cavities. 4. For the treatment of superficial papillary carcinoma of the urinary bladder. While now largely superseded by other treatments, thiotepa has been effective against other lymphomas, such as lymphosarcoma and Hodgkin\u2019s disease."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA210337"
+    ],
+    "brand_name": [
+      "Thiotepa"
+    ],
+    "generic_name": [
+      "THIOTEPA"
+    ],
+    "manufacturer_name": [
+      "Dr.Reddy's Laboratories Inc.,"
+    ],
+    "product_ndc": [
+      "43598-650"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRACAVITARY",
+      "INTRAVENOUS",
+      "INTRAVESICAL"
+    ],
+    "substance_name": [
+      "THIOTEPA"
+    ],
+    "rxcui": [
+      "1660009"
+    ],
+    "spl_id": [
+      "e880a370-00f9-f7c7-a992-64756718360b"
+    ],
+    "spl_set_id": [
+      "0def6a5e-4bf5-b1fd-47b7-0f17ecfd9bc2"
+    ],
+    "package_ndc": [
+      "43598-650-11"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000000236",
+      "N0000175558"
+    ],
+    "pharm_class_moa": [
+      "Alkylating Activity [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Alkylating Drug [EPC]"
+    ],
+    "unii": [
+      "905Z5W3GKH"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "drug_name": "Bethanechol",
+  "drug_id": 1499,
+  "sections": {
+    "contraindications": "CONTRAINDICATIONS Hypersensitivity to bethanechol chloride tablets, hyperthyroidism, peptic ulcer, latent or active bronchial asthma, pronounced bradycardia or hypotension, vasomotor instability, coronary artery disease, epilepsy and parkinsonism. Bethanechol chloride should not be employed when the strength or integrity of the gastrointestinal or bladder wall is in question, or in the presence of mechanical obstruction; when increased muscular activity of the gastrointestinal tract or urinary bladder might prove harmful, as following recent urinary bladder surgery, gastrointestinal resection and anastomosis, or when there is possible gastrointestinal obstruction; in bladder neck obstruction, spastic gastrointestinal disturbances, acute inflammatory lesions of the gastrointestinal tract, or peritonitis; or in marked vagotonia.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Dosage must be individualized, depending on the type and severity of the condition to be treated. Preferably give the drug when the stomach is empty. If taken soon after eating, nausea and vomiting may occur. The usual adult oral dose ranges from 10 to 50 mg three or four times a day. The minimum effective dose is determined by giving 5 to 10 mg initially and repeating the same amount at hourly intervals until satisfactory response occurs, or until a maximum of 50 mg has been given. The effects of the drug sometimes appear within 30 minutes and are usually maximal within 60 to 90 minutes. The drug effects persist for about one hour. If necessary, the effects of the drug can be abolished promptly by atropine (see OVERDOSAGE ).",
+    "indications_and_usage": "INDICATIONS AND USAGE Bethanechol chloride is indicated for the treatment of acute postoperative and postpartum nonobstructive (functional) urinary retention and for neurogenic atony of the urinary bladder with retention."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA091256"
+    ],
+    "brand_name": [
+      "Bethanechol Chloride"
+    ],
+    "generic_name": [
+      "BETHANECHOL CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Heritage Pharma Labs Inc. d/b/a Avet Pharmaceuticals Labs Inc."
+    ],
+    "product_ndc": [
+      "23155-934",
+      "23155-935",
+      "23155-936",
+      "23155-937"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BETHANECHOL CHLORIDE"
+    ],
+    "rxcui": [
+      "857321",
+      "857328",
+      "857336",
+      "857340"
+    ],
+    "spl_id": [
+      "ffe9461d-3417-4da1-af45-185d7b3bd2aa"
+    ],
+    "spl_set_id": [
+      "11ba3d38-a61b-4b03-ba03-4ccf2e450d1f"
+    ],
+    "package_ndc": [
+      "23155-934-01",
+      "23155-935-01",
+      "23155-936-01",
+      "23155-937-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0323155936018"
+    ],
+    "unii": [
+      "H4QBZ2LO84"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+# Never bake secrets into an image
+.env
+*.env
+!.env.example
+
+# Local dev artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Large raw data not needed inside the container (only data/processed is mounted)
+data/raw/
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Don't ship docs into the image
+docs/

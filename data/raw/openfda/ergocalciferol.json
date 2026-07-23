@@ -1,0 +1,67 @@
+{
+  "drug_name": "Ergocalciferol",
+  "drug_id": 1199,
+  "sections": {
+    "warnings": "WARNINGS Hypersensitivity to vitamin D may be one etiologic factor in infants with idiopathic hypercalcemia. In these cases vitamin D must be strictly restricted. Keep out of the reach of children.",
+    "drug_interactions": "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia.",
+    "contraindications": "CONTRAINDICATIONS Ergocalciferol is contraindicated in patients with hypercalcemia, malabsorption syndrome, abnormal sensitivity to the toxic effects of vitamin D, and hypervitaminosis D.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION THE RANGE BETWEEN THERAPEUTIC AND TOXIC DOSES IS NARROW. Vitamin D Resistant Rickets: 12,000 to 500,000 USP units daily. Hypoparathyroidism: 50,000 to 200,000 USP units daily concomitantly with calcium lactate 4 g, six times per day. DOSAGE MUST BE INDIVIDUALIZED UNDER CLOSE MEDICAL SUPERVISION. Calcium intake should be adequate. Blood calcium and phosphorous determinations must be made every 2 weeks or more frequently if necessary. X-rays of the bones should be taken every month until condition is corrected and stabilized.",
+    "indications_and_usage": "INDICATIONS AND USAGE Ergocalciferol is indicated for use in the treatment of hypoparathyroidism, refractory rickets, also known as vitamin D resistant rickets, and familial hypophosphatemia."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA080704"
+    ],
+    "brand_name": [
+      "Ergocalciferol"
+    ],
+    "generic_name": [
+      "ERGOCALCIFEROL"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "71335-2246"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ERGOCALCIFEROL"
+    ],
+    "rxcui": [
+      "1367410"
+    ],
+    "spl_id": [
+      "0c8eeb9e-179a-4af3-9d6e-706dea805a31"
+    ],
+    "spl_set_id": [
+      "0d230fd8-2ea7-4dd6-a506-5f7804e539fc"
+    ],
+    "package_ndc": [
+      "71335-2246-1",
+      "71335-2246-2",
+      "71335-2246-3"
+    ],
+    "original_packager_product_ndc": [
+      "69452-151"
+    ],
+    "nui": [
+      "M0007651",
+      "N0000175909"
+    ],
+    "pharm_class_cs": [
+      "Ergocalciferols [CS]"
+    ],
+    "pharm_class_epc": [
+      "Provitamin D2 Compound [EPC]"
+    ],
+    "unii": [
+      "VS041H42XC"
+    ]
+  }
+}

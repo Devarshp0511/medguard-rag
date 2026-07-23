@@ -1,0 +1,78 @@
+{
+  "drug_name": "Cimetidine",
+  "drug_id": 450,
+  "sections": {
+    "contraindications": "CONTRAINDICATIONS Cimetidine tablets are contraindicated for patients known to have hypersensitivity to the product.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Duodenal Ulcer Active Duodenal Ulcer Clinical studies have indicated that suppression of nocturnal acid is the most important factor in duodenal ulcer healing (see CLINICAL PHARMACOLOGY: Antisecretory Activity: Acid Secretion ). This is supported by recent clinical trials (see CLINICAL TRIALS: Duodenal Ulcer: Active Duodenal Ulcer ). Therefore, there is no apparent rationale, except for familiarity with use, for treating with anything other than a once-daily at bedtime dosage regimen. In a U.S. dose-ranging study of 400 mg at bedtime, 800 mg at bedtime and 1600 mg at bedtime, a continuous dose-response relationship for ulcer healing was demonstrated. However, 800 mg at bedtime is the dose of choice for most patients, as it provides a high healing rate (the difference between 800 mg at bedtime and 1,600 mg at bedtime being small), maximal pain relief, a decreased potential for drug interactions (see PRECAUTIONS: Drug Interactions ) and maximal patient convenience. Patients unhealed at 4 weeks, or those with persistent symptoms, have been shown to benefit from 2 to 4 weeks of continued therapy. It has been shown that patients who both have an endoscopically demonstrated ulcer larger than 1.0 cm and are also heavy smokers (i.e., smoke 1 pack of cigarettes or more per day) are more difficult to heal. There is some evidence which suggests that more rapid healing can be achieved in this subpopulation with 1,600 mg of cimetidine tablets at bedtime. While early pain relief with either 800 mg at bedtime or 1,600 mg at bedtime is equivalent in all patients, 1,600 mg at bedtime provides an appropriate alternative when it is important to ensure healing within 4 weeks for this subpopulation. Alternatively, approximately 94% of all patients will also heal in 8 weeks with 800 mg of cimetidine tablets at bedtime. Other regimens of cimetidine tablets in the United States which have been shown to be effective are: 300 mg 4 times daily, with meals and at bedtime, the original regimen with which U.S. physicians have the most experience, and 400 mg twice daily, in the morning and at bedtime (see CLINICAL TRIALS: Duodenal Ulcer: Active Duodenal Ulcer ). Concomitant antacids should be given as needed for relief of pain. However, simultaneous administration of cimetidine tablets and antacids is not recommended, since antacids have been reported to interfere with the absorption of cimetidine. While healing with cimetidine tablets often occurs during the first week or two, treatment should be continued for 4 to 6 weeks unless healing has been demonstrated by endoscopic examination. Maintenance Therapy for Duodenal Ulcer In those patients requiring maintenance therapy, the recommended adult oral dose is 400 mg at bedtime. Active Benign Gastric Ulcer The recommended adult oral dosage for short-term treatment of active benign gastric ulcer is 800 mg at bedtime, or 300 mg 4 times a day with meals and at bedtime. Controlled clinical studies were limited to 6 weeks of treatment (see CLINICAL TRIALS ). A dose of 800 mg at bedtime is the preferred regimen for most patients based upon convenience and reduced potential for drug interactions. Symptomatic response to cimetidine tablets does not preclude the presence of a gastric malignancy. It is important to follow gastric ulcer patients to assure rapid progress to complete healing. Erosive Gastroesophageal Reflux Disease (GERD) The recommended adult oral dosage for the treatment of erosive esophagitis that has been diagnosed by endoscopy is 1,600 mg daily in divided doses (800 mg twice daily or 400 mg 4 times daily) for 12 weeks. The use of cimetidine tablets beyond 12 weeks has not been established. Pathological Hypersecretory Conditions (such as Zollinger-Ellison Syndrome) Recommended adult oral dosage: 300 mg 4 times a day with meals and at bedtime. In some patients it may be necessary to administer higher doses more frequently. Doses should be adjusted to individual patient needs, but should not usually exceed 2,400 mg per day and should continue as long as clinically indicated. Dosage Adjustment for Patients with Impaired Renal Function Patients with severely impaired renal function have been treated with cimetidine tablets. However, such usage has been very limited. On the basis of this experience the recommended dosage is 300 mg every 12 hours orally. Should the patient\u2019s condition require, the frequency of dosing may be increased to every 8 hours or even further with caution. In severe renal failure, accumulation may occur and the lowest frequency of dosing compatible with an adequate patient response should be used. When liver impairment is also present, further reductions in dosage may be necessary. Hemodialysis reduces the level of circulating cimetidine tablets. Ideally, the dosage schedule should be adjusted so that the timing of a scheduled dose coincides with the end of hemodialysis.",
+    "indications_and_usage": "INDICATIONS AND USAGE Cimetidine tablets are indicated in: 1. Short-term treatment of active duodenal ulcer. Most patients heal within 4 weeks and there is rarely reason to use cimetidine tablets at full dosage for longer than 6 to 8 weeks (see DOSAGE AND ADMINISTRATION: Duodenal Ulcer ). Concomitant antacids should be given as needed for relief of pain. However, simultaneous administration of cimetidine tablets and antacids is not recommended, since antacids have been reported to interfere with the absorption of cimetidine. 2. Maintenance therapy for duodenal ulcer patients at reduced dosage after healing of active ulcer. Patients have been maintained on continued treatment with cimetidine tablets 400 mg at bedtime for periods of up to 5 years. 3. Short-term treatment of active benign gastric ulcer. There is no information concerning usefulness of treatment periods of longer than 8 weeks. 4. Erosive gastroesophageal reflux (GERD). Erosive esophagitis diagnosed by endoscopy. Treatment is indicated for 12 weeks for healing of lesions and control of symptoms. The use of cimetidine tablets beyond 12 weeks has not been established (see DOSAGE AND ADMINISTRATION: GERD ). 5. The treatment of pathological hypersecretory conditions (i.e., Zollinger-Ellison Syndrome, systemic mastocytosis, multiple endocrine adenomas)."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA074329"
+    ],
+    "brand_name": [
+      "CIMETIDINE"
+    ],
+    "generic_name": [
+      "CIMETIDINE"
+    ],
+    "manufacturer_name": [
+      "Chartwell RX, LLC"
+    ],
+    "product_ndc": [
+      "62135-630",
+      "62135-631",
+      "62135-632",
+      "62135-633"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CIMETIDINE"
+    ],
+    "rxcui": [
+      "197505",
+      "197506",
+      "197507",
+      "197508"
+    ],
+    "spl_id": [
+      "0337689b-c5d5-d881-e063-6394a90aaec9"
+    ],
+    "spl_set_id": [
+      "01997826-7ca1-473e-bfc9-075b14b58a35"
+    ],
+    "package_ndc": [
+      "62135-630-30",
+      "62135-631-90",
+      "62135-632-90",
+      "62135-633-90"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0362135633905",
+      "0362135630300",
+      "0362135631901",
+      "0362135632908"
+    ],
+    "nui": [
+      "N0000000151",
+      "N0000175784"
+    ],
+    "pharm_class_moa": [
+      "Histamine H2 Receptor Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Histamine-2 Receptor Antagonist [EPC]"
+    ],
+    "unii": [
+      "80061L1WGD"
+    ]
+  }
+}

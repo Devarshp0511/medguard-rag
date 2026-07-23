@@ -1,0 +1,66 @@
+{
+  "drug_name": "Bumetanide",
+  "drug_id": 756,
+  "sections": {
+    "boxed_warning": "WARNING Bumetanide is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion. Therefore, careful medical supervision is required, and dose and dosage schedule have to be adjusted to the individual patient\u2019s needs (see DOSAGE AND ADMINISTRATION ) .",
+    "warnings": "WARNINGS Volume and Electrolyte Depletion The dose of bumetanide should be adjusted to the patient\u2019s need. Excessive doses or too frequent administration can lead to profound water loss, electrolyte depletion, dehydration, reduction in blood volume and circulatory collapse with the possibility of vascular thrombosis and embolism, particularly in elderly patients. Hypokalemia Hypokalemia can occur as a consequence of bumetanide administration. Prevention of hypokalemia requires particular attention in the following conditions: patients receiving digitalis and diuretics for congestive heart failure, hepatic cirrhosis and ascites, states of aldosterone excess with normal renal function, potassium-losing nephropathy, certain diarrheal states, or other states where hypokalemia is thought to represent particular added risks to the patient, i.e., history of ventricular arrhythmias. In patients with hepatic cirrhosis and ascites, sudden alterations of electrolyte balance may precipitate hepatic encephalopathy and coma. Treatment in such patients is best initiated in the hospital with small doses and careful monitoring of the patient\u2019s clinical status and electrolyte balance. Supplemental potassium and/or spironolactone may prevent hypokalemia and metabolic alkalosis in these patients. Ototoxicity In cats, dogs and guinea pigs, bumetanide has been shown to produce ototoxicity. In these test animals bumetanide was 5 to 6 times more potent than furosemide and, since the diuretic potency of bumetanide is about 40 to 60 times furosemide, it is anticipated that blood levels necessary to produce ototoxicity will rarely be achieved. The potential exists, however, and must be considered a risk of intravenous therapy, especially at high doses, repeated frequently in the face of renal excretory function impairment. Potentiation of aminoglycoside ototoxicity has not been tested for bumetanide. Like other members of this class of diuretics, bumetanide probably shares this risk. Allergy to Sulfonamides Patients allergic to sulfonamides may show hypersensitivity to bumetanide. Thrombocytopenia Since there have been rare spontaneous reports of thrombocytopenia from postmarketing experience, patients should be observed regularly for possible occurrence of thrombocytopenia.",
+    "contraindications": "CONTRAINDICATIONS Bumetanide is contraindicated in anuria. Although bumetanide can be used to induce diuresis in renal insufficiency, any marked increase in blood urea nitrogen or creatinine, or the development of oliguria during therapy of patients with progressive renal disease, is an indication for discontinuation of treatment with bumetanide. Bumetanide is also contraindicated in patients in hepatic coma or in states of severe electrolyte depletion until the condition is improved or corrected. Bumetanide is contraindicated in patients hypersensitive to this drug.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Individualize dosage with careful monitoring of patient response. Oral Administration The usual total daily dosage of bumetanide tablets is 0.5 mg to 2 mg and in most patients is given as a single dose. If the diuretic response to an initial dose of bumetanide tablets is not adequate, in view of its rapid onset and short duration of action, a second or third dose may be given at 4- to 5- hour intervals up to a maximum daily dose of 10 mg. An intermittent dose schedule, whereby bumetanide tablets are given on alternate days or for 3 to 4 days with rest periods of 1 to 2 days in between, is recommended as the safest and most effective method for the continued control of edema. In patients with hepatic failure, keep the dosage to a minimum. Because cross-sensitivity with furosemide has rarely been observed, bumetanide can be substituted at approximately a 1:40 ratio of bumetanide in proportion to furosemide in patients allergic to furosemide. Parenteral Administration Bumetanide injection may be administered parenterally (intravenously and intramuscularly) to patients in whom gastrointestinal absorption may be impaired or in whom oral administration is not practical. Terminate parenteral treatment and institute oral treatment as soon as possible.",
+    "indications_and_usage": "INDICATIONS AND USAGE Bumetanide tablets, USP are indicated for the treatment of edema associated with congestive heart failure, hepatic and renal disease, including the nephrotic syndrome. Almost equal diuretic response occurs after oral and parenteral administration of bumetanide. Therefore, if impaired gastrointestinal absorption is suspected or oral administration is not practical, bumetanide should be given by the intramuscular or intravenous route. Successful treatment with bumetanide tablets, USP following instances of allergic reactions to furosemide suggests a lack of cross-sensitivity."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA074700"
+    ],
+    "brand_name": [
+      "Bumetanide"
+    ],
+    "generic_name": [
+      "BUMETANIDE"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "72162-2196"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BUMETANIDE"
+    ],
+    "rxcui": [
+      "197418"
+    ],
+    "spl_id": [
+      "c7876588-7f40-4121-9473-30c2ae958dc7"
+    ],
+    "spl_set_id": [
+      "056be255-5880-48e9-b160-bd5b3d82c24a"
+    ],
+    "package_ndc": [
+      "72162-2196-1",
+      "72162-2196-5"
+    ],
+    "original_packager_product_ndc": [
+      "0185-0129"
+    ],
+    "nui": [
+      "N0000175366",
+      "N0000175590"
+    ],
+    "pharm_class_pe": [
+      "Increased Diuresis at Loop of Henle [PE]"
+    ],
+    "pharm_class_epc": [
+      "Loop Diuretic [EPC]"
+    ],
+    "unii": [
+      "0Y2S3XUQ5H"
+    ]
+  }
+}

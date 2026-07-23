@@ -1,0 +1,75 @@
+{
+  "drug_name": "Aztreonam",
+  "drug_id": 839,
+  "sections": {
+    "warnings": "WARNINGS Both animal and human data suggest that aztreonam for injection, USP is rarely cross-reactive with other beta-lactam antibiotics and weakly immunogenic. Treatment with aztreonam can result in hypersensitivity reactions in patients with or without prior exposure. (See CONTRAINDICATIONS . ) Careful inquiry should be made to determine whether the patient has any history of hypersensitivity reactions to any allergens. While cross-reactivity of aztreonam with other beta-lactam antibiotics is rare, this drug should be administered with caution to any patient with a history of hypersensitivity to beta-lactams (e.g., penicillins, cephalosporins, and/or carbapenems). Treatment with aztreonam can result in hypersensitivity reactions in patients with or without prior exposure to aztreonam. If an allergic reaction to aztreonam occurs, discontinue the drug and institute supportive treatment as appropriate (e.g., maintenance of ventilation, pressor amines, antihistamines, corticosteroids). Serious hypersensitivity reactions may require epinephrine and other emergency measures. (See ADVERSE REACTIONS . ) Clostridium difficile- associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including aztreonam for injection, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over 2 months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated. Rare cases of toxic epidermal necrolysis have been reported in association with aztreonam in patients undergoing bone marrow transplant with multiple risk factors including sepsis, radiation therapy, and other concomitantly administered drugs associated with toxic epidermal necrolysis.",
+    "contraindications": "CONTRAINDICATIONS This preparation is contraindicated in patients with known hypersensitivity to aztreonam or any other component in the formulation.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Dosage in Adult Patients Aztreonam for injection may be administered intravenously or by intramuscular injection. Dosage and route of administration should be determined by susceptibility of the causative organisms, severity and site of infection, and the condition of the patient. Table 2: Aztreonam for Injection Dosage Guidelines for Adults* * Maximum recommended dose is 8 g per day. Type of Infection Dose Frequency (hours) Urinary tract infections 500 mg or 1 g 8 or 12 Moderately severe systemic infections 1 g or 2 g 8 or 12 Severe systemic or life-threatening infections 2 g 6 or 8 Because of the serious nature of infections due to Pseudomonas aeruginosa , dosage of 2 g every six or eight hours is recommended, at least upon initiation of therapy, in systemic infections caused by this organism. The intravenous route is recommended for patients requiring single doses greater than 1 g or those with bacterial septicemia, localized parenchymal abscess (e.g., intra-abdominal abscess), peritonitis, or other severe systemic or life-threatening infections. The duration of therapy depends on the severity of infection. Generally, aztreonam for injection should be continued for at least 48 hours after the patient becomes asymptomatic or evidence of bacterial eradication has been obtained. Persistent infections may require treatment for several weeks. Doses smaller than those indicated should not be used. Renal Impairment in Adult Patients Prolonged serum levels of aztreonam may occur in patients with transient or persistent renal insufficiency. Therefore, the dosage of aztreonam for injection should be halved in patients with estimated creatinine clearances between 10 and 30 mL/min/1.73 m 2 after an initial loading dose of 1 or 2 g. When only the serum creatinine concentration is available, the following formula (based on sex, weight, and age of the patient) may be used to approximate the creatinine clearance (Clcr). The serum creatinine should represent a steady state of renal function. Males: Clcr = weight (kg) x (140 - age) 72 x serum creatinine (mg/dL) Females: 0.85 x above value In patients with severe renal failure (creatinine clearance less than 10 mL/min/1.73 m 2 ), such as those supported by hemodialysis, the usual dose of 500 mg, 1 g, or 2 g should be given initially. The maintenance dose should be one-fourth of the usual initial dose given at the usual fixed interval of 6, 8, or 12 hours. For serious or life-threatening infections, in addition to the maintenance doses, one-eighth of the initial dose should be given after each hemodialysis session. Dosage in the Elderly Renal status is a major determinant of dosage in the elderly; these patients in particular may have diminished renal function. Serum creatinine may not be an accurate determinant of renal status. Therefore, as with all antibiotics eliminated by the kidneys, estimates of creatinine clearance should be obtained and appropriate dosage modifications made if necessary. Dosage in Pediatric Patients Aztreonam for injection should be administered intravenously to pediatric patients with normal renal function. There are insufficient data regarding intramuscular administration to pediatric patients or dosing in pediatric patients with renal impairment. (See PRECAUTIONS: Pediatric Use . ) Table 3: Aztreonam for Injection Dosage Guidelines for Pediatric Patients* * Maximum recommended dose is 120 mg/kg/day. Type of Infection Dose Frequency (hours) Mild to moderate infections 30 mg/kg 8 Moderate to severe infections 30 mg/kg 6 or 8",
+    "dosage_and_administration_table": "<table ID=\"t2\" width=\"100%\"><caption>Table 2: Aztreonam for Injection Dosage Guidelines for Adults* </caption><col width=\"35.088%\" align=\"left\"/><col width=\"32.656%\" align=\"left\"/><col width=\"32.256%\" align=\"left\"/><tfoot><tr><td colspan=\"3\" align=\"left\" valign=\"top\"><paragraph styleCode=\"footnote\">* Maximum recommended dose is 8 g per day. </paragraph></td></tr></tfoot><tbody><tr><td align=\"left\" valign=\"top\" styleCode=\"Toprule Botrule Lrule Rrule\"><content styleCode=\"bold\">Type of Infection</content></td><td align=\"center\" valign=\"top\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">Dose</content></td><td align=\"center\" valign=\"top\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">Frequency (hours)</content></td></tr><tr><td align=\"left\" valign=\"top\" styleCode=\"Botrule Lrule Rrule\">Urinary tract infections </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">500 mg or 1 g </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">8 or 12 </td></tr><tr><td align=\"left\" valign=\"top\" styleCode=\"Botrule Lrule Rrule\">Moderately severe systemic infections </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">1 g or 2 g </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">8 or 12 </td></tr><tr><td align=\"left\" valign=\"top\" styleCode=\"Botrule Lrule Rrule\">Severe systemic or life-threatening infections </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">2 g </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">6 or 8 </td></tr></tbody></table> <table width=\"100%\" styleCode=\"Noautorules\"><col width=\"16.350%\" align=\"left\"/><col width=\"83.650%\" align=\"left\"/><tbody><tr><td align=\"left\" valign=\"top\">Males: Clcr = </td><td align=\"left\" valign=\"top\"><content styleCode=\"underline\"> weight (kg) x (140 - age)</content></td></tr><tr><td align=\"left\" valign=\"top\"/><td align=\"left\" valign=\"top\"> 72 x serum creatinine (mg/dL) </td></tr><tr><td colspan=\"2\" align=\"left\" valign=\"top\">Females: 0.85 x above value </td></tr></tbody></table> <table ID=\"t3\" width=\"100%\"><caption>Table 3: Aztreonam for Injection Dosage Guidelines for Pediatric Patients* </caption><col width=\"40.100%\" align=\"left\"/><col width=\"30.400%\" align=\"left\"/><col width=\"29.500%\" align=\"left\"/><tfoot><tr><td colspan=\"3\" align=\"left\" valign=\"top\"><paragraph styleCode=\"footnote\">* Maximum recommended dose is 120 mg/kg/day. </paragraph></td></tr></tfoot><tbody><tr><td align=\"left\" valign=\"top\" styleCode=\"Toprule Botrule Lrule Rrule\"><content styleCode=\"bold\">Type of Infection</content></td><td align=\"center\" valign=\"top\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">Dose</content></td><td align=\"center\" valign=\"top\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">Frequency (hours)</content></td></tr><tr><td align=\"left\" valign=\"top\" styleCode=\"Botrule Lrule Rrule\">Mild to moderate infections </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">30 mg/kg </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">8 </td></tr><tr><td align=\"left\" valign=\"top\" styleCode=\"Botrule Lrule Rrule\">Moderate to severe infections </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">30 mg/kg </td><td align=\"center\" valign=\"top\" styleCode=\"Botrule Rrule\">6 or 8 </td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE To reduce the development of drug-resistant bacteria and maintain the effectiveness of aztreonam for injection, USP and other antibacterial drugs, aztreonam for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy. Aztreonam for Injection is indicated for the treatment of the following infections caused by susceptible Gram-negative microorganisms: Urinary Tract Infections (complicated and uncomplicated), including pyelonephritis and cystitis (initial and recurrent) caused by Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Enterobacter cloacae, Klebsiella oxytoca *, Citrobacter species*, and Serratia marcescens *. Lower Respiratory Tract Infections , including pneumonia and bronchitis caused by Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Haemophilus influenzae, Proteus mirabilis, Enterobacter species, and Serratia marcescens *. Septicemia caused by Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Proteus mirabilis *, Serratia marcescens *, and Enterobacter species. Skin and Skin-Structure Infections , including those associated with postoperative wounds, ulcers, and burns, caused by Escherichia coli, Proteus mirabilis, Serratia marcescens, Enterobacter species, Pseudomonas aeruginosa, Klebsiella pneumoniae, and Citrobacter species*. *Efficacy for this organism in this organ system was studied in fewer than 10 infections. Intra-abdominal Infections , including peritonitis caused by Escherichia coli, Klebsiella species including K. pneumoniae, Enterobacter species including E. cloacae *, Pseudomonas aeruginosa, Citrobacter species* including C. freundii *, and Serratia species* including S. marcescens *. Gynecologic Infections , including endometritis and pelvic cellulitis caused by Escherichia coli, Klebsiella pneumoniae *, Enterobacter species* including E. cloacae *, and Proteus mirabilis *. Aztreonam for injection is indicated for adjunctive therapy to surgery in the management of infections caused by susceptible organisms, including abscesses, infections complicating hollow viscus perforations, cutaneous infections, and infections of serous surfaces. Aztreonam for injection is effective against most of the commonly encountered Gram-negative aerobic pathogens seen in general surgery. Concurrent Therapy Concurrent initial therapy with other antimicrobial agents and aztreonam for injection is recommended before the causative organism(s) is known in seriously ill patients who are also at risk of having an infection due to Gram-positive aerobic pathogens. If anaerobic organisms are also suspected as etiologic agents, therapy should be initiated using an anti-anaerobic agent concurrently with aztreonam for injection (see DOSAGE AND ADMINISTRATION ). Certain antibiotics (e.g., cefoxitin, imipenem) may induce high levels of beta-lactamase in vitro in some Gram-negative aerobes such as Enterobacter and Pseudomonas species, resulting in antagonism to many beta-lactam antibiotics including aztreonam. These in vitro findings suggest that such beta-lactamase-inducing antibiotics not be used concurrently with aztreonam. Following identification and susceptibility testing of the causative organism(s), appropriate antibiotic therapy should be continued."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA065439"
+    ],
+    "brand_name": [
+      "Aztreonam"
+    ],
+    "generic_name": [
+      "AZTREONAM"
+    ],
+    "manufacturer_name": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "product_ndc": [
+      "63323-401",
+      "63323-402"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAMUSCULAR",
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "AZTREONAM"
+    ],
+    "rxcui": [
+      "1664981",
+      "1664986"
+    ],
+    "spl_id": [
+      "6cd42e51-1a5d-4c6a-8881-0cbde3ca8d70"
+    ],
+    "spl_set_id": [
+      "302fd27d-0a22-44ea-91fb-1b1ffcf17a1f"
+    ],
+    "package_ndc": [
+      "63323-401-21",
+      "63323-401-26",
+      "63323-402-03",
+      "63323-402-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0363323402037",
+      "0363323401214"
+    ],
+    "nui": [
+      "N0000175493",
+      "M0014030"
+    ],
+    "pharm_class_epc": [
+      "Monobactam Antibacterial [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Monobactams [CS]"
+    ],
+    "unii": [
+      "G2B4VE5GH8"
+    ]
+  }
+}

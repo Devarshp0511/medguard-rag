@@ -1,0 +1,105 @@
+{
+  "drug_name": "Nicotine",
+  "drug_id": 1450,
+  "sections": {
+    "warnings": "Warnings If you are pregnant or breast-feeding, only use this medicine on the advice of your health care provider. Smoking can seriously harm your child. Try to stop smoking without using any nicotine replacement medicine. This medicine is believed to be safer than smoking. However, the risks to your child from this medicine are not fully known. Ask a doctor before use if you have a sodium-restricted diet heart disease, recent heart attack, or irregular heartbeat. Nicotine can increase your heart rate. high blood pressure not controlled with medication. Nicotine can increase your blood pressure. stomach ulcer or diabetes history of seizures Ask a doctor or pharmacist before use if you are using a non-nicotine stop smoking drug taking prescription medicine for depression or asthma. Your prescription dose may need to be adjusted. Stop use and ask doctor if mouth problems occur persistent indigestion or severe sore throat occurs irregular heartbeat or palpitations occur you get symptoms of nicotine overdose such as nausea, vomiting, dizziness, diarrhea, weakness and rapid heartbeat you have symptoms of an allergic reaction (such as difficulty breathing or rash) Keep out of reach of children and pets Nicotine lozenges may have enough nicotine to make children and pets sick. If you need to remove the lozenge, wrap it in paper and throw away in the trash. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).",
+    "dosage_and_administration": "Directions 2 mg : if you are under 18 years of age, ask a doctor before use. No studies have been done to show if this product will work for you. before using this product, read the enclosed User\u2019s Guide for complete directions and other important information begin using the lozenge on your quit day if you smoke your first cigarette within 30 minutes of waking up, use 4 mg nicotine lozenge if you smoke your first cigarette more than 30 minutes after waking up, use 2 mg nicotine lozenge according to the following 12 week schedule: Weeks 1 to 6 Weeks 7 to 9 Weeks 10 to 12 1 lozenge every 1 to 2 hours 1 lozenge every 2 to 4 hours 1 lozenge every 4 to 8 hours nicotine lozenge is a medicine and must be used a certain way to get the best results place the lozenge in your mouth and allow the lozenge to slowly dissolve (about 20-30 minutes). Minimize swallowing. Do not chew or swallow lozenge. you may feel a warm or tingling sensation occasionally move the lozenge from one side of your mouth to the other until completely dissolved (about 20-30 minutes) do not eat or drink 15 minutes before using or while the lozenge is in your mouth to improve your chances of quitting, use at least 9 lozenges per day for the first 6 weeks do not use more than one lozenge at a time or continuously use one lozenge after another since this may cause you hiccups, heartburn, nausea or other side effects do not use more than 5 lozenges in 6 hours. Do not use more than 20 lozenges per day. it is important to complete treatment. If you feel you need to use the lozenge for a longer period to keep from smoking, talk to your health care provider. 4 mg: if you are under 18 years of age, ask a doctor before use. No studies have been done to show if this product will work for you. before using this product, read the enclosed User\u2019s Guide for complete directions and other important information begin using the lozenge on your quit day if you smoke your first cigarette more than 30 minutes after waking up, use 2 mg nicotine lozenge if you smoke your first cigarette within 30 minutes of waking up, use 4 mg nicotine lozenge according to the following 12 week schedule: Weeks 1 to 6 Weeks 7 to 9 Weeks 10 to 12 1 lozenge every 1 to 2 hours 1 lozenge every 2 to 4 hours 1 lozenge every 4 to 8 hours nicotine lozenge is a medicine and must be used a certain way to get the best results place the lozenge in your mouth and allow the lozenge to slowly dissolve (about 20-30 minutes). Minimize swallowing. Do not chew or swallow lozenge . you may feel a warm or tingling sensation occasionally move the lozenge from one side of your mouth to the other until completely dissolved (about 20-30 minutes) do not eat or drink 15 minutes before using or while the lozenge is in your mouth to improve your chances of quitting, use at least 9 lozenges per day for the first 6 weeks do not use more than one lozenge at a time or continuously use one lozenge after another since this may cause you hiccups, heartburn, nausea or other side effects do not use more than 5 lozenges in 6 hours. Do not use more than 20 lozenges per day . it is important to complete treatment. If you feel you need to use the lozenge for a longer period to keep from smoking, talk to your health care provider.",
+    "dosage_and_administration_table": "<table border=\"1\" cellpadding=\"3\"><tbody><tr><td> Weeks 1 to 6 </td><td> Weeks 7 to 9 </td><td> Weeks 10 to 12 </td></tr><tr><td> 1 lozenge every 1 to 2 hours </td><td> 1 lozenge every 2 to 4 hours </td><td> 1 lozenge every 4 to 8 hours </td></tr></tbody></table> <table border=\"1\" cellpadding=\"3\"><tbody><tr><td>Weeks 1 to 6</td><td>Weeks 7 to 9</td><td>Weeks 10 to 12</td></tr><tr><td>1 lozenge every 1 to 2 hours</td><td>1 lozenge every 2 to 4 hours</td><td>1 lozenge every 4 to 8 hours</td></tr></tbody></table>",
+    "indications_and_usage": "Use reduces withdrawal symptoms, including nicotine craving, associated with quitting smoking"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA212983"
+    ],
+    "brand_name": [
+      "Nicotine Polacrilex"
+    ],
+    "generic_name": [
+      "NICOTINE POLACRILEX"
+    ],
+    "manufacturer_name": [
+      "Dr. Reddy's Laboratories Inc."
+    ],
+    "product_ndc": [
+      "43598-484",
+      "43598-485"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NICOTINE"
+    ],
+    "rxcui": [
+      "359817",
+      "359818"
+    ],
+    "spl_id": [
+      "1ae4bead-7050-e5ac-74ee-bcb145e68af8"
+    ],
+    "spl_set_id": [
+      "003b863c-06b0-715d-ccc2-b7da4deac621"
+    ],
+    "package_ndc": [
+      "43598-484-24",
+      "43598-484-48",
+      "43598-484-72",
+      "43598-484-96",
+      "43598-484-12",
+      "43598-484-14",
+      "43598-484-17",
+      "43598-484-73",
+      "43598-484-19",
+      "43598-484-22",
+      "43598-484-27",
+      "43598-484-54",
+      "43598-484-81",
+      "43598-484-10",
+      "43598-484-13",
+      "43598-484-16",
+      "43598-484-18",
+      "43598-484-74",
+      "43598-484-23",
+      "43598-484-29",
+      "43598-485-24",
+      "43598-485-48",
+      "43598-485-72",
+      "43598-485-96",
+      "43598-485-12",
+      "43598-485-14",
+      "43598-485-17",
+      "43598-485-73",
+      "43598-485-19",
+      "43598-485-22",
+      "43598-485-27",
+      "43598-485-54",
+      "43598-485-81",
+      "43598-485-10",
+      "43598-485-13",
+      "43598-485-16",
+      "43598-485-18",
+      "43598-485-74",
+      "43598-485-23",
+      "43598-485-29"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175706",
+      "M0014836"
+    ],
+    "pharm_class_epc": [
+      "Cholinergic Nicotinic Agonist [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Nicotine [CS]"
+    ],
+    "unii": [
+      "6M3C89ZY6R"
+    ]
+  }
+}

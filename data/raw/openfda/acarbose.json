@@ -1,0 +1,66 @@
+{
+  "drug_name": "Acarbose",
+  "drug_id": 161,
+  "sections": {
+    "drug_interactions": "Drug Interactions Certain drugs tend to produce hyperglycemia and may lead to loss of blood glucose control. These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel-blocking drugs, and isoniazid. When such drugs are administered to a patient receiving acarbose tablets, the patient should be closely observed for loss of blood glucose control. When such drugs are withdrawn from patients receiving acarbose tablets in combination with sulfonylureas or insulin, patients should be observed closely for any evidence of hypoglycemia. Patients Receiving Sulfonylureas or Insulin: Sulfonylurea agents or insulin may cause hypoglycemia. Acarbose tablets given in combination with a sulfonylurea or insulin may cause a further lowering of blood glucose and may increase the potential for hypoglycemia. If hypoglycemia occurs, appropriate adjustments in the dosage of these agents should be made. Very rarely, individual cases of hypoglycemic shock have been reported in patients receiving acarbose tablets therapy in combination with sulfonylureas and/or insulin. Intestinal adsorbents (for example, charcoal) and digestive enzyme preparations containing carbohydrate-splitting enzymes (for example, amylase, pancreatin) may reduce the effect of acarbose tablets and should not be taken concomitantly. Acarbose tablets has been shown to change the bioavailability of digoxin when they are co administered, which may require digoxin dose adjustment. (See CLINICAL PHARMACOLOGY, Drug-Drug Interactions ).",
+    "contraindications": "CONTRAINDICATIONS Acarbose tablets are contraindicated in patients with known hypersensitivity to the drug. Acarbose tablets are contraindicated in patients with diabetic ketoacidosis or cirrhosis. Acarbose tablets are also contraindicated in patients with inflammatory bowel disease, colonic ulceration, partial intestinal obstruction or in patients predisposed to intestinal obstruction. In addition, acarbose tablets are contraindicated in patients who have chronic intestinal diseases associated with marked disorders of digestion or absorption and in patients who have conditions that may deteriorate as a result of increased gas formation in the intestine.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION There is no fixed dosage regimen for the management of diabetes mellitus with acarbose tablets or any other pharmacologic agent. Dosage of acarbose tablets must be individualized on the basis of both effectiveness and tolerance while not exceeding the maximum recommended dose of 100 mg t.i.d. Acarbose tablets should be taken three times daily at the start (with the first bite) of each main meal. Acarbose tablets should be started at a low dose, with gradual dose escalation as described below, both to reduce gastrointestinal side effects and to permit identification of the minimum dose required for adequate glycemic control of the patient.If the prescribed diet is not observed, the intestinal side effects may be intensified. If strongly distressing symptoms develop in spite of adherence to the diabetic diet prescribed, the doctor must be consulted and the dose temporarily or permanently reduced. During treatment initiation and dose titration (see below), one-hour postprandial plasma glucose may be used to determine the therapeutic response to acarbose tablets and identify the minimum effective dose for the patient. Thereafter, glycosylated hemoglobin should be measured at intervals of approximately three months. The therapeutic goal should be to decrease both postprandial plasma glucose and glycosylated hemoglobin levels to normal or near normal by using the lowest effective dose of acarbose tablets, either as monotherapy or in combination with sulfonylureas, insulin or metformin. Initial Dosage The recommended starting dosage of acarbose tablets is 25 mg given orally three times daily at the start (with the first bite) of each main meal. However, some patients may benefit from more gradual dose titration to minimize gastrointestinal side effects. This may be achieved by initiating treatment at 25 mg once per day and subsequently increasing the frequency of administration to achieve 25 mg t.i.d. Maintenance Dosage Once a 25 mg t.i.d. dosage regimen is reached, dosage of acarbose tablets should be adjusted at 4-8 week intervals based on one-hour postprandial glucose or glycosylated hemoglobin levels, and on tolerance. The dosage can be increased from 25 mg t.i.d. to 50 mg t.i.d. Some patients may benefit from further increasing the dosage to 100 mg t.i.d. The maintenance dose ranges from 50 mg t.i.d. to 100 mg t.i.d. However, since patients with low body weight may be at increased risk for elevated serum transaminases, only patients with body weight > 60 kg should be considered for dose titration above 50 mg t.i.d. (see PRECAUTIONS ). If no further reduction in postprandial glucose or glycosylated hemoglobin levels is observed with titration to 100 mg t.i.d., consideration should be given to lowering the dose. Once an effective and tolerated dosage is established, it should be maintained. Maximum Dosage The maximum recommended dose for patients \u2264 60 kg is 50 mg t.i.d. The maximum recommended dose for patients > 60 kg is 100 mg t.i.d. Patients Receiving Sulfonylureas or Insulin Sulfonylurea agents or insulin may cause hypoglycemia. Acarbose tablets given in combination with a sulfonylurea or insulin will cause a further lowering of blood glucose and may increase the potential for hypoglycemia. If hypoglycemia occurs, appropriate adjustments in the dosage of these agents should be made.",
+    "indications_and_usage": "INDICATIONS AND USAGE Acarbose tablets, USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA202271"
+    ],
+    "brand_name": [
+      "Acarbose"
+    ],
+    "generic_name": [
+      "ACARBOSE"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "71335-9725"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACARBOSE"
+    ],
+    "rxcui": [
+      "199149"
+    ],
+    "spl_id": [
+      "5b695702-3a0b-4370-a452-7894329970ba"
+    ],
+    "spl_set_id": [
+      "067c0adc-7322-489d-9baa-1d061b37be36"
+    ],
+    "package_ndc": [
+      "71335-9725-1",
+      "71335-9725-2",
+      "71335-9725-3"
+    ],
+    "original_packager_product_ndc": [
+      "23155-148"
+    ],
+    "nui": [
+      "N0000000166",
+      "N0000175559"
+    ],
+    "pharm_class_moa": [
+      "alpha Glucosidase Inhibitors [MoA]"
+    ],
+    "pharm_class_epc": [
+      "alpha-Glucosidase Inhibitor [EPC]"
+    ],
+    "unii": [
+      "T58MSI464G"
+    ]
+  }
+}

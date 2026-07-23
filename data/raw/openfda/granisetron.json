@@ -1,0 +1,56 @@
+{
+  "drug_name": "Granisetron",
+  "drug_id": 960,
+  "sections": {
+    "warnings": "WARNINGS Serotonin Syndrome The development of serotonin syndrome has been reported with 5-HT3 receptor antagonists alone but particularly with concomitant use of serotonergic drugs (e.g., selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), monoamine oxidase inhibitors, mirtazapine, fentanyl, lithium, tramadol, and intravenous methylene blue). Some of the reported cases were fatal. Serotonin syndrome occurring with overdose of another 5-HT3 receptor antagonist alone has also been reported. The majority of reports of serotonin syndrome related to 5-HT3 receptor antagonist use occurred in a post-anesthesia care unit or an infusion center. Symptoms associated with serotonin syndrome may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea). Patients should be monitored for the emergence of serotonin syndrome, especially with concomitant use of granisetron and other serotonergic drugs. If symptoms of serotonin syndrome occur, discontinue granisetron and initiate supportive treatment. Patients should be informed of the increased risk of serotonin syndrome, especially if granisetron is used concomitantly with other serotonergic drugs [see Drug Interactions ].",
+    "drug_interactions": "Drug Interactions Granisetron does not induce or inhibit the cytochrome P-450 drug-metabolizing enzyme system in vitro. There have been no definitive drug-drug interaction studies to examine pharmacokinetic or pharmacodynamic interaction with other drugs; however, in humans, Kytril injection has been safely administered with drugs representing benzodiazepines, neuroleptics, and anti-ulcer medications commonly prescribed with antiemetic treatments. Kytril injection also does not appear to interact with emetogenic cancer chemotherapies. Because granisetron is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes, inducers or inhibitors of these enzymes may change the clearance and, hence, the half-life of granisetron. No specific interaction studies have been conducted in anesthetized patients. In addition, the activity of the cytochrome P-450 subfamily 3A4 (involved in the metabolism of some of the main narcotic analgesic agents) is not modified by granisetron in vitro. In in vitro human microsomal studies, ketoconazole inhibited ring oxidation of granisetron. However, the clinical significance of in vivo pharmacokinetic interactions with ketoconazole is not known. In a human pharmacokinetic study, hepatic enzyme induction with phenobarbital resulted in a 25% increase in total plasma clearance of intravenous granisetron. The clinical significance of this change is not known. QT prolongation has been reported with granisetron. Use of GRANISOL oral solution in patients concurrently treated with drugs known to prolong the QT interval and/or are arrhythmogenic may result in clinical consequences.",
+    "contraindications": "CONTRAINDICATIONS Granisetron is contraindicated in patients with known hypersensitivity to the drug or any of its components.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Emetogenic Chemotherapy The recommended adult dosage of oral granisetron hydrochloride is 2 mg once daily or 1 mg twice daily. In the 2 mg once-daily regimen, 10 mL of GRANISOL oral solution (2 teaspoonfuls, equivalent to 2 mg of granisetron) are given up to 1 hour before chemotherapy. In the 1 mg twice-daily regimen, the first teaspoonful (5 mL) of GRANISOL oral solution is given up to 1 hour before chemotherapy, and the second teaspoonful (5 mL) of GRANISOL oral solution, 12 hours after the first. Either regimen is administered only on the day(s) chemotherapy is given. Continued treatment, while not on chemotherapy, has not been found to be useful. Use in the Elderly, Renal Failure Patients or Hepatically Impaired Patients No dosage adjustment is recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics ). Pediatric Use Safety and effectiveness in pediatric patients have not been established. Radiation (Either Total Body Irradiation or Fractionated Abdominal Radiation) The recommended adult dosage of oral granisetron hydrochloride is 2 mg once daily. Ten milliliters of GRANISOL oral solution (2 teaspoonfuls, equivalent to 2 mg of granisetron) are taken within 1 hour of radiation. Pediatric Use Safety and effectiveness in pediatric patients have not been established. Use in the Elderly No dosage adjustment is recommended.",
+    "indications_and_usage": "INDICATIONS AND USAGE Granisetron is indicated for the prevention of: Nausea and vomiting associated with initial and repeat courses of emetogenic cancer therapy, including high-dose cisplatin. Nausea and vomiting associated with radiation, including total body irradiation and fractionated abdominal radiation."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA219282"
+    ],
+    "brand_name": [
+      "Granisol"
+    ],
+    "generic_name": [
+      "GRANISETRON HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Intra-Sana Laboratories"
+    ],
+    "product_ndc": [
+      "80056-801"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GRANISETRON HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "251426",
+      "763507"
+    ],
+    "spl_id": [
+      "30daad07-468f-c766-e063-6294a90a0019"
+    ],
+    "spl_set_id": [
+      "2758eb4d-2fe0-4f74-b3f5-b4903009e97c"
+    ],
+    "package_ndc": [
+      "80056-801-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "318F6L70J8"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "drug_name": "Flutamide",
+  "drug_id": 953,
+  "sections": {
+    "boxed_warning": "WARNINGS Hepatic Injury There have been postmarketing reports of hospitalization and rarely death due to liver failure in patients taking Eulexin \u00ae . Evidence of hepatic injury included elevated serum transaminase levels, jaundice, hepatic encephalopathy and death related to acute hepatic failure. The hepatic injury was reversible after discontinuation of therapy in some patients. Approximately half of the reported cases occurred within the initial 3 months of treatment with Eulexin \u00ae . Serum transaminase levels should be measured prior to starting treatment with Eulexin \u00ae . Eulexin \u00ae is not recommended in patients whose ALT values exceed twice the upper limit of normal. Serum transaminase levels should then be measured monthly for the first 4 months of therapy, and periodically thereafter. Liver function tests also should be obtained at the first signs and symptoms suggestive of liver dysfunction, e.g., nausea, vomiting, abdominal pain, fatigue, anorexia, \"flu-like\" symptoms, hyperbilirubinuria, jaundice or right upper quadrant tenderness. If at any time, a patient has jaundice, or their ALT rises above 2 times the upper limit of normal, Eulexin \u00ae should be immediately discontinued with close follow-up of liver function tests until resolution.",
+    "warnings": "WARNINGS Hepatic Injury SEE BOXED WARNINGS Use in Women Eulexin \u00ae capsules are for use only in men. This product has no indication for women and should not be used in this population, particularly for nonserious or nonlife-threatening conditions. Fetal toxicity Eulexin \u00ae may cause fetal harm when administered to a pregnant woman (see Pregnancy ). Aniline toxicity One metabolite of Eulexin \u00ae is 4-nitro-3-fluoro-methylaniline. Several toxicities consistent with aniline exposure, including methemoglobinemia, hemolytic anemia and cholestatic jaundice have been observed in both animals and humans after Eulexin \u00ae administration. In patients susceptible to aniline toxicity (e.g. persons with glucose-6-phosphate dehydrogenase deficiency, hemoglobin M disease and smokers), monitoring of methemoglobin levels should be considered.",
+    "drug_interactions": "Drug Interactions Increases in prothrombin time have been noted in patients receiving long-term warfarin therapy after Eulexin \u00ae was initiated. Therefore close monitoring of prothrombin time is recommended and adjustment of the anticoagulant dose may be necessary when Eulexin \u00ae capsules are administered concomitantly with warfarin.",
+    "contraindications": "CONTRAINDICATIONS Eulexin \u00ae capsules are contraindicated in patients who are hypersensitive to Eulexin \u00ae or any component of this preparation. Eulexin \u00ae capsules are contraindicated in patients with severe hepatic impairment (baseline hepatic enzymes should be evaluated prior to treatment).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The recommended dosage is 2 capsules 3 times a day at 8 hour intervals for a total daily dose of 750 mg.",
+    "indications_and_usage": "INDICATIONS AND USAGE Eulexin \u00ae capsules are indicated for use in combination with LHRH-agonists for the management of locally confined Stage B 2 -C and Stage D 2 metastatic carcinoma of the prostate. Stage B 2 -C Prostatic Carcinoma Treatment with Eulexin \u00ae capsules and the goserelin acetate implant should start eight weeks prior to initiating radiation therapy and continue during radiation therapy. Stage D 2 Metastatic Carcinoma To achieve benefit from treatment, Eulexin \u00ae capsules should be initiated with the LHRH-agonist and continued until progression."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA075298"
+    ],
+    "brand_name": [
+      "Eulexin"
+    ],
+    "generic_name": [
+      "FLUTAMIDE"
+    ],
+    "manufacturer_name": [
+      "Waylis Therapeutics LLC"
+    ],
+    "product_ndc": [
+      "80725-143"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FLUTAMIDE"
+    ],
+    "rxcui": [
+      "197726",
+      "205646"
+    ],
+    "spl_id": [
+      "497f8d4c-3d59-43d3-93ee-6bdbc391b457"
+    ],
+    "spl_set_id": [
+      "0a905e25-42b6-4937-a689-f01a8f22e644"
+    ],
+    "package_ndc": [
+      "80725-143-18"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0380725143184"
+    ],
+    "nui": [
+      "N0000000243",
+      "N0000175560"
+    ],
+    "pharm_class_moa": [
+      "Androgen Receptor Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Androgen Receptor Inhibitor [EPC]"
+    ],
+    "unii": [
+      "76W6J0943E"
+    ]
+  }
+}

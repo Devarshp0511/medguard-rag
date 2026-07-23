@@ -1,0 +1,56 @@
+{
+  "drug_name": "Miconazole",
+  "drug_id": 674,
+  "sections": {
+    "warnings": "Warnings For external use only Do not use on children under 2 years of age unless directed by a doctor on scalp or nails When using this product avoid contact with the eyes Stop use and ask a doctor if irritation occurs there is no improvement within 4 weeks when used for the treatment of athlete's foot or ringworm there is no improvement within 2 weeks when used for the treatment of jock itch Keep out of reach of children If swallowed, get medical help or contact a Poison Control center right away.",
+    "dosage_and_administration": "Directions Clean the affected area and dry thoroughly Apply a thin layer of powder over affected area twice daily (morning and night) or as directed by a doctor Supervise children in the use of this product For athlete's foot, pay special attention between spaces in toes; wear well-fitting, ventilated shoes, and change shoes and socks at least once daily For athlete's foot and ringworm, use daily for 4 weeks For jock itch, use daily for 2 weeks If condition persists longer, consult a doctor This product is not effective on the scalp or nails.",
+    "indications_and_usage": "Uses for the treatment of most athlete's foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis) relieves most itching, scaling, cracking, burning, redness, soreness, irritation, discomfort and chafing associated with jock itch"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "Remedy Antifungal"
+    ],
+    "generic_name": [
+      "MICONAZOLE NITRATE"
+    ],
+    "manufacturer_name": [
+      "Medline Industries, LP"
+    ],
+    "product_ndc": [
+      "53329-169"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MICONAZOLE NITRATE"
+    ],
+    "rxcui": [
+      "998461"
+    ],
+    "spl_id": [
+      "425303b5-9f9c-efc3-e063-6294a90ae594"
+    ],
+    "spl_set_id": [
+      "021b4a31-d7f6-4921-b4b1-cbe832eecd93"
+    ],
+    "package_ndc": [
+      "53329-169-79"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0080196528564"
+    ],
+    "unii": [
+      "VW4H1CYW1K"
+    ]
+  }
+}

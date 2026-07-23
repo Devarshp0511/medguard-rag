@@ -1,0 +1,53 @@
+{
+  "drug_name": "Ketotifen",
+  "drug_id": 1421,
+  "sections": {
+    "warnings": "",
+    "dosage_and_administration": "",
+    "indications_and_usage": ""
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA204059"
+    ],
+    "brand_name": [
+      "KETOTIFEN FUMARATE"
+    ],
+    "generic_name": [
+      "KETOTIFEN FUMARATE"
+    ],
+    "manufacturer_name": [
+      "Unichem Pharmaceuticals (USA), Inc."
+    ],
+    "product_ndc": [
+      "76385-106"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "KETOTIFEN FUMARATE"
+    ],
+    "rxcui": [
+      "311237"
+    ],
+    "spl_id": [
+      "948d4259-9d62-4bc7-9149-6961034364bf"
+    ],
+    "spl_set_id": [
+      "0fe119ad-cb44-4e90-a096-0ed0ba63dc31"
+    ],
+    "package_ndc": [
+      "76385-106-17"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "HBD503WORO"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "drug_name": "Darolutamide",
+  "drug_id": 1087,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Ischemic Heart Disease : Optimize management of cardiovascular risk factors. Monitor for signs and symptoms of coronary artery disease. Discontinue NUBEQA for Grade 3-4 events. ( 5.1 ) Seizure : Consider discontinuation of NUBEQA in patients who develop a seizure during treatment. ( 5.2 ) Embryo-Fetal Toxicity : NUBEQA can cause fetal harm and loss of pregnancy. Advise males with female partners of reproductive potential to use effective contraception. ( 5.3 , 8.1 , 8.3 ) 5.1 Ischemic Heart Disease Ischemic heart disease, including fatal cases, occurred in patients receiving NUBEQA. In a pooled analysis of ARAMIS and ARANOTE, ischemic heart disease occurred in 3.4% of patients receiving NUBEQA and 2.2% receiving placebo, including Grade 3-4 events in 1.4% and 0.3%, respectively. Ischemic events led to death in 0.4% of patients receiving NUBEQA and 0.4% receiving placebo. In ARASENS, ischemic heart disease occurred in 3.2% of patients receiving NUBEQA with docetaxel and 2% receiving placebo with docetaxel, including Grade 3-4 events in 1.3% and 1.1%, respectively. Ischemic events led to death in 0.3% of patients receiving NUBEQA with docetaxel and 0% receiving placebo with docetaxel. Monitor for signs and symptoms of ischemic heart disease. Optimize management of cardiovascular risk factors, such as hypertension, diabetes, or dyslipidemia. Discontinue NUBEQA for Grade 3-4 ischemic heart disease. 5.2 Seizure Seizure occurred in patients receiving NUBEQA. In a pooled analysis of ARAMIS and ARANOTE, Grade 1-3 seizure occurred in 0.2% of patients receiving NUBEQA. Seizure occurred from 261 to 665 days after initiation of NUBEQA. In ARASENS, seizure occurred in 0.8% of patients receiving NUBEQA with docetaxel, including two Grade 3 events. Seizure occurred from 38 to 1754 days after initiation of NUBEQA. It is unknown whether anti-epileptic medications will prevent seizures with NUBEQA. Advise patients of the risk of developing a seizure while receiving NUBEQA and of engaging in any activity where sudden loss of consciousness could cause harm to themselves or others. Consider discontinuation of NUBEQA in patients who develop a seizure during treatment. 5.3 Embryo-Fetal Toxicity The safety and efficacy of NUBEQA have not been established in females. Based on its mechanism of action, NUBEQA can cause fetal harm and loss of pregnancy when administered to a pregnant female [see Clinical Pharmacology (12.1) ] . Advise males with female partners of reproductive potential to use effective contraception during treatment and for 1 week after the last dose of NUBEQA [see Use in Specific Populations (8.1 , 8.3) ] .",
+    "drug_interactions": "7 DRUG INTERACTIONS Combined P-gp and Strong or Moderate CYP3A Inducers : Avoid concomitant use. ( 7.1 ) Combined P-gp and Strong CYP3A Inhibitors : Monitor patients more frequently for NUBEQA adverse reactions. ( 7.1 ) BCRP Substrates : Avoid concomitant use with drugs that are BCRP substrates where possible. If used together, monitor patients more frequently for adverse reactions and consider dose reduction of the BCRP substrate drug. ( 7.2 ) OATP1B1 and OATP1B3 Substrates : Concomitant use of NUBEQA may increase the plasma concentrations of OATP1B1 or OATP1B3 substrates. If used together, monitor patients more frequently for adverse reactions and consider dose reduction of these drugs. ( 7.2 ) 7.1 Effects of Other Drugs on NUBEQA Combined P-gp and Strong or Moderate CYP3A4 Inducer Concomitant use of NUBEQA with a combined P-gp and strong or moderate CYP3A4 inducer decreases darolutamide exposure which may decrease NUBEQA activity [see Clinical Pharmacology (12.3) ] . Avoid concomitant use of NUBEQA with combined P-gp and strong or moderate CYP3A4 inducers. Combined P-gp and Strong CYP3A4 Inhibitors Concomitant use of NUBEQA with a combined P-gp and strong CYP3A4 inhibitor increases darolutamide exposure [see Clinical Pharmacology (12.3) ] which may increase the risk of NUBEQA adverse reactions . Monitor patients more frequently for NUBEQA adverse reactions and modify NUBEQA dosage as needed [see Dosage and Administration (2.2) ] . 7.2 Effects of NUBEQA on Other Drugs Breast Cancer Resistance Protein (BCRP) and Organic Anion Transporting Polypeptides (OATP) 1B1 and 1B3 Substrates NUBEQA is an inhibitor of BCRP transporter. Concomitant use of NUBEQA increases the AUC and C max of BCRP substrates [see Clinical Pharmacology (12.3) ], which may increase the risk of BCRP substrate-related toxicities. Avoid concomitant use with drugs that are BCRP substrates where possible. If used together, monitor patients more frequently for adverse reactions, and consider dose reduction of the BCRP substrate drug. NUBEQA is an inhibitor of OATP1B1 and OATP1B3 transporters. Concomitant use of NUBEQA may increase the plasma concentrations of OATP1B1 or OATP1B3 substrates. Monitor patients more frequently for adverse reactions of these drugs and consider dose reduction while patients are taking NUBEQA [see Clinical Pharmacology (12.3) ] , Review the prescribing information of the BCRP, OATP1B1 and OATP1B3 substrates when used concomitantly with NUBEQA.",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Recommended Dosage : NUBEQA 600 mg (two 300 mg tablets) administered orally twice daily. Swallow tablets whole. Take NUBEQA with food. ( 2.1 ) For patients with mCSPC treated with NUBEQA in combination with docetaxel, administer the first cycle of docetaxel within 6 weeks after the start of NUBEQA treatment. ( 2.1 ) Patients should also receive a gonadotropin-releasing hormone (GnRH) agonist or antagonist concurrently or have had bilateral orchiectomy. ( 2.1 ) 2.1 Recommended Dosage The recommended dose of NUBEQA is 600 mg (two 300 mg tablets) taken orally, twice daily, with food [see Clinical Pharmacology (12.3) ]. Continue treatment until disease progression or unacceptable toxicity occurs. Patients receiving NUBEQA should also receive a gonadotropin-releasing hormone (GnRH) agonist or antagonist concurrently or have had a bilateral orchiectomy. When used in combination with docetaxel for mCSPC, administer the first of 6 cycles of docetaxel within 6 weeks after the start of NUBEQA treatment. Refer to docetaxel prescribing information for additional dosing information, including dosage modifications. Treatment with NUBEQA may be continued until disease progression or unacceptable toxicity, even if a cycle of docetaxel is delayed, interrupted, or discontinued [see Dosage and Administration (2.2) ] . Advise patients to swallow tablets whole with food, to take any missed dose as soon as they remember prior to the next scheduled dose, and not to take two doses together to make up for a missed dose. 2.2 Dosage Modification If a patient experiences a greater than or equal to Grade 3 or an intolerable adverse reaction, withhold NUBEQA or reduce dosage to 300 mg twice daily until symptoms improve. NUBEQA may be resumed at a dose of 600 mg twice daily, when adverse reaction returns to baseline [see Adverse Reactions (6.1) ]. Dosage reduction below 300 mg twice daily is not recommended. For patients who experience ischemic heart disease or seizure, additional dose modifications may be required [ see Warnings and Precautions (5.1 and 5.2) ]. 2.3 Recommended Dosage in Patients with Severe Renal Impairment For patients with severe renal impairment (eGFR 15\u201329 mL/min/1.73 m 2 ) not receiving hemodialysis, the recommended dose of NUBEQA is 300 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3) ] . 2.4 Recommended Dosage in Patients with Moderate Hepatic Impairment For patients with moderate hepatic impairment (Child-Pugh Class B), the recommended dose of NUBEQA is 300 mg twice daily [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3) ] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE NUBEQA is an androgen receptor inhibitor indicated for the treatment of adult patients with: non-metastatic castration-resistant prostate cancer (nmCRPC). ( 1 ) metastatic castration-sensitive prostate cancer (mCSPC). ( 1 ) metastatic castration-sensitive prostate cancer (mCSPC) in combination with docetaxel. ( 1 ) NUBEQA is indicated for the treatment of adult patients with: non-metastatic castration resistant prostate cancer (nmCRPC) metastatic castration-sensitive prostate cancer (mCSPC) metastatic castration-sensitive prostate cancer (mCSPC) in combination with docetaxel."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA212099"
+    ],
+    "brand_name": [
+      "NUBEQA"
+    ],
+    "generic_name": [
+      "DAROLUTAMIDE"
+    ],
+    "manufacturer_name": [
+      "Bayer HealthCare Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "50419-395"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DAROLUTAMIDE"
+    ],
+    "rxcui": [
+      "2180330",
+      "2180336"
+    ],
+    "spl_id": [
+      "fd96ab4c-d7f4-446f-93d8-1dae246a450a"
+    ],
+    "spl_set_id": [
+      "1a7cb212-56e4-4b9d-a73d-bfee7fe4735e"
+    ],
+    "package_ndc": [
+      "50419-395-01",
+      "50419-395-72"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "X05U0N2RCO"
+    ]
+  }
+}

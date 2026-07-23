@@ -1,0 +1,61 @@
+{
+  "drug_name": "Naldemedine",
+  "drug_id": 1288,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Gastrointestinal perforation : Consider the overall risk benefit in patients with known or suspected lesions of the GI tract. Monitor for severe, persistent, or worsening abdominal pain; discontinue if development of symptoms ( 5.1 ) Opioid withdrawal : Consider the overall risk benefit in patients with disruptions to the blood-brain barrier. Monitor symptoms of opioid withdrawal ( 5.2 ) 5.1 Gastrointestinal Perforation Cases of gastrointestinal (GI) perforation have been reported with use of another peripherally acting opioid antagonist, including SYMPROIC. Postmarketing cases of GI perforation, including fatal cases, were reported when SYMPROIC was used in patients at risk of GI perforation (e.g., GI cancer, past GI surgery, diverticulitis, chemotherapy/radiation). SYMPROIC is contraindicated in patients with known or suspected gastrointestinal obstruction or in patients at risk of recurrent obstruction. Take into account the overall risk-benefit profile when using SYMPROIC in patients with these conditions or other conditions which might result in impaired integrity of the gastrointestinal tract wall (e.g., Crohn's disease). Monitor for the development of severe, persistent, or worsening abdominal pain; discontinue SYMPROIC in patients who develop this symptom. 5.2 Opioid Withdrawal Clusters of symptoms consistent with opioid withdrawal, including hyperhidrosis, chills, increased lacrimation, hot flush/flushing, pyrexia, sneezing, feeling cold, abdominal pain, diarrhea, nausea, and vomiting have occurred in patients treated with SYMPROIC [see Adverse Reactions (6.1) ] . Patients having disruptions to the blood-brain barrier may be at increased risk for opioid withdrawal or reduced analgesia. Take into account the overall risk-benefit profile when using SYMPROIC in such patients. Monitor for symptoms of opioid withdrawal in such patients.",
+    "drug_interactions": "7 DRUG INTERACTIONS Table 3 includes drugs with clinically important drug interactions with SYMPROIC and instructions for preventing or managing the interaction. Table 3: Clinically Relevant Interactions Affecting Naldemedine When Co-Administered with Other Drugs Strong CYP3A Inducers (e.g., rifampin, carbamazepine, phenytoin, St. John's Wort) Clinical Impact Significant decrease in plasma naldemedine concentrations, which may reduce efficacy [see Clinical Pharmacology (12.3) ] Intervention Avoid use of SYMPROIC with strong CYP3A inducers. Other Opioid Antagonists Clinical Impact Potential for additive effect of opioid receptor antagonism and increased risk of opioid withdrawal. Intervention Avoid use of SYMPROIC with another opioid antagonist. Moderate (e.g., fluconazole, atazanavir, aprepitant, diltiazem, erythromycin) and Strong (e.g., itraconazole, ketoconazole, clarithromycin, ritonavir, saquinavir) CYP3A Inhibitors Clinical Impact Increase in plasma naldemedine concentrations [see Clinical Pharmacology (12.3) ] Intervention Monitor for potential naldemedine-related adverse reactions [see Adverse Reactions (6.1) ] . P-glycoprotein (P-gp) Inhibitors (e.g., amiodarone, captopril, cyclosporine, quercetin, quinidine, verapamil) Clinical Impact Increase in plasma naldemedine concentrations [see Clinical Pharmacology (12.3) ] Intervention Monitor for potential naldemedine-related adverse reactions [see Adverse Reactions (6.1) ] . Strong CYP3A inducers (e.g., rifampin) : Decreased naldemedine concentrations; avoid concomitant use ( 7 ) Other opioid antagonists : Potential for additive effect and increased risk of opioid withdrawal; avoid concomitant use ( 7 ) Moderate (e.g., fluconazole) and strong (e.g., itraconazole) CYP3A4 inhibitors : Increased naldemedine concentrations; monitor for adverse reactions ( 7 ) P-gp inhibitors (e.g., cyclosporine) : Monitor for adverse reactions ( 7 )",
+    "drug_interactions_table": "<table width=\"80%\"><caption>Table 3: Clinically Relevant Interactions Affecting Naldemedine When Co-Administered with Other Drugs </caption><col width=\"30%\" align=\"left\" valign=\"middle\"/><col width=\"70%\" align=\"left\" valign=\"middle\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Strong CYP3A Inducers (e.g., rifampin, carbamazepine, phenytoin, St. John&apos;s Wort)</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">Significant decrease in plasma naldemedine concentrations, which may reduce efficacy <content styleCode=\"italics\">[see <linkHtml href=\"#S12.3\">Clinical Pharmacology (12.3)</linkHtml>]</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">Avoid use of SYMPROIC with strong CYP3A inducers.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Other Opioid Antagonists</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">Potential for additive effect of opioid receptor antagonism and increased risk of opioid withdrawal.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">Avoid use of SYMPROIC with another opioid antagonist.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Moderate (e.g., fluconazole, atazanavir, aprepitant, diltiazem, erythromycin) and Strong (e.g., itraconazole, ketoconazole, clarithromycin, ritonavir, saquinavir) CYP3A Inhibitors</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">Increase in plasma naldemedine concentrations <content styleCode=\"italics\">[see <linkHtml href=\"#S12.3\">Clinical Pharmacology (12.3)</linkHtml>]</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"/><td styleCode=\"Rrule\"/></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">Monitor for potential naldemedine-related adverse reactions <content styleCode=\"italics\">[see <linkHtml href=\"#S6.1\">Adverse Reactions (6.1)</linkHtml>]</content>.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">P-glycoprotein (P-gp) Inhibitors (e.g., amiodarone, captopril, cyclosporine, quercetin, quinidine, verapamil)</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">Increase in plasma naldemedine concentrations <content styleCode=\"italics\">[see <linkHtml href=\"#S12.3\">Clinical Pharmacology (12.3)</linkHtml>]</content></td></tr><tr><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">Monitor for potential naldemedine-related adverse reactions <content styleCode=\"italics\">[see <linkHtml href=\"#S6.1\">Adverse Reactions (6.1)</linkHtml>]</content>.</td></tr></tbody></table>",
+    "contraindications": "4 CONTRAINDICATIONS SYMPROIC is contraindicated in: Patients with known or suspected gastrointestinal obstruction and patients at increased risk of recurrent obstruction, due to the potential for gastrointestinal perforation [see Warnings and Precautions (5.1) ]. Patients with a history of a hypersensitivity reaction to naldemedine. Reactions have included bronchospasm and rash [see Adverse Reactions (6.1) ] . Patients with known or suspected gastrointestinal obstruction or at increased risk of recurrent obstruction ( 4 , 5.1 ) Patients with a history of a hypersensitivity reaction to naldemedine ( 6.1 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Administration ( 2.1 ) : Alteration of analgesic dosing regimen prior to initiating SYMPROIC is not required Patients receiving opioids for less than 4 weeks may be less responsive to SYMPROIC Discontinue SYMPROIC if treatment with the opioid pain medication is also discontinued Dosage ( 2.2 ) : In adults, the recommended dosage is 0.2 mg once daily with or without food 2.1 Administration Alteration of analgesic dosing regimen prior to initiating SYMPROIC is not required. Patients receiving opioids for less than 4 weeks may be less responsive to SYMPROIC [see Clinical Studies (14) ] . Discontinue SYMPROIC if treatment with the opioid pain medication is also discontinued. 2.2 Adult Dosage The recommended dosage of SYMPROIC is 0.2 mg orally once daily with or without food.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE SYMPROIC is indicated for the treatment of opioid-induced constipation (OIC) in adult patients with chronic non-cancer pain, including patients with chronic pain related to prior cancer or its treatment who do not require frequent (e.g., weekly) opioid dosage escalation. SYMPROIC is an opioid antagonist indicated for the treatment of opioid-induced constipation (OIC) in adult patients with chronic non-cancer pain, including patients with chronic pain related to prior cancer or its treatment who do not require frequent (e.g., weekly) opioid dosage escalation ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA208854"
+    ],
+    "brand_name": [
+      "SYMPROIC"
+    ],
+    "generic_name": [
+      "NALDEMEDINE"
+    ],
+    "manufacturer_name": [
+      "BioDelivery Sciences International Inc"
+    ],
+    "product_ndc": [
+      "59385-041"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NALDEMEDINE TOSYLATE"
+    ],
+    "rxcui": [
+      "1876603",
+      "1876609"
+    ],
+    "spl_id": [
+      "7ce44be3-47a7-411e-ad1f-a2efc4916425"
+    ],
+    "spl_set_id": [
+      "b1a1256c-a1eb-4abe-ab1e-30e4711afd16"
+    ],
+    "package_ndc": [
+      "59385-041-30",
+      "59385-041-07"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0359385041307"
+    ],
+    "unii": [
+      "V1N8F1RVVO"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "drug_name": "Sonidegib",
+  "drug_id": 1293,
+  "sections": {
+    "boxed_warning": "WARNING: EMBRYO-FETAL TOXICITY ODOMZO can cause embryo-fetal death or severe birth defects when administered to a pregnant woman. ODOMZO is embryotoxic, fetotoxic, and teratogenic in animals [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1) ] . Verify the pregnancy status of females of reproductive potential prior to initiating therapy. Advise females of reproductive potential to use effective contraception during treatment with ODOMZO and for at least 20 months after the last dose [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3) ] . Advise males of the potential risk of exposure through semen and to use condoms with a pregnant partner or a female partner of reproductive potential during treatment with ODOMZO and for at least 8 months after the last dose [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3) ] . WARNING: EMBRYO-FETAL TOXICITY See full prescribing information for complete boxed warning. ODOMZO can cause embryo-fetal death or severe birth defects when administered to a pregnant woman and is embryotoxic, fetotoxic, and teratogenic in animals. ( 5.1 , 8.1 ) Verify the pregnancy status of females of reproductive potential prior to initiating therapy. Advise females of reproductive potential to use effective contraception during treatment with ODOMZO and for at least 20 months after the last dose. ( 5.1 , 8.3 ) Advise males of the potential risk of exposure through semen and to use condoms with a pregnant partner or a female partner of reproductive potential during treatment with ODOMZO and for at least 8 months after the last dose. ( 5.1 , 8.3 )",
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Embryo-Fetal Toxicity: Advise patients not to donate blood or blood products during treatment with ODOMZO and for at least 20 months after the last dose. ( 5.1 ) Musculoskeletal Adverse Reactions: Obtain serum creatine kinase (CK) and creatinine levels prior to initiating therapy, periodically during treatment, and as clinically indicated. Temporary dose interruption or discontinuation of ODOMZO may be required based on the severity of musculoskeletal adverse reactions. ( 2.2 , 5.2 ) Premature fusion of the epiphyses ( 5.3 , 8.4 ) 5.1 Embryo-Fetal Toxicity ODOMZO can cause embryo-fetal death or severe birth defects when administered to a pregnant woman. In animal reproduction studies, sonidegib was embryotoxic, fetotoxic, and teratogenic at maternal exposures below the recommended human dose of 200 mg [see Use in Specific Populations (8.1) ] . Females of Reproductive Potential Verify pregnancy status of females of reproductive potential prior to initiating ODOMZO treatment. Advise pregnant women of the potential risk to a fetus. Advise females to use effective contraception during treatment with ODOMZO and for at least 20 months after the last dose [see Use in Specific Populations (8.3) ] . Males Advise male patients with female partners to use condoms, even after a vasectomy, during treatment with ODOMZO and for at least 8 months after the last dose to avoid potential drug exposure in pregnant females or females of reproductive potential [see Use in Specific Populations (8.3) ] . Blood Donation Advise patients not to donate blood or blood products while taking ODOMZO and for at least 20 months after the last dose of ODOMZO, because their blood or blood products might be given to a female of reproductive potential. 5.2 Musculoskeletal Adverse Reactions Musculoskeletal adverse reactions, which may be accompanied by serum creatine kinase (CK) elevations, occur with ODOMZO and other drugs which inhibit the hedgehog (Hh) pathway. In a pooled safety analysis of 12 clinical studies involving 571 patients with various advanced cancers treated with ODOMZO at doses ranging from 100 mg to 3000 mg, rhabdomyolysis (defined as serum CK increase of more than ten times the baseline value with a concurrent 1.5-fold or greater increase in serum creatinine above baseline value) occurred in one patient (0.2%) treated with ODOMZO 800 mg. In the BOLT study, musculoskeletal adverse reactions occurred in 68% (54/79) of patients treated with ODOMZO 200 mg daily with 9% (7/79) reported as Grade 3 or 4. The most frequent manifestations of musculoskeletal adverse reactions reported as an adverse event were muscle spasms (54%), musculoskeletal pain (32%), and myalgia (19%). Increased serum CK laboratory values occurred in 61% (48/79) of patients with 8% (6/79) of patients having Grade 3 or 4 serum CK elevations. Musculoskeletal pain and myalgia usually preceded serum CK elevation. Among patients with Grade 2 or higher CK elevations, the median time to onset was 12.9 weeks (range: 2 to 39 weeks) and the median time to resolution (to \u2264 Grade 1) was 12 days (95% CI: 8 to 14 days). ODOMZO was temporarily interrupted in 8% of patients or permanently discontinued in 8% of patients for musculoskeletal adverse reactions. The incidence of musculoskeletal adverse reactions requiring medical intervention (magnesium supplementation, muscle relaxants, and analgesics or narcotics) was 29%, including four patients (5%) who received intravenous hydration or were hospitalized. Obtain baseline serum CK and creatinine levels prior to initiating ODOMZO, periodically during treatment, and as clinically indicated (e.g., if muscle symptoms are reported). Obtain serum creatinine and CK levels at least weekly in patients with musculoskeletal adverse reactions with concurrent serum CK elevation greater than 2.5 times ULN until resolution of clinical signs and symptoms. Depending on the severity of symptoms, temporary dose interruption or discontinuation may be required for musculoskeletal adverse reactions or serum CK elevation [see Dosage and Administration (2.2) ] . Advise patients starting therapy with ODOMZO of the risk of muscle-related adverse reactions. Advise patients to report promptly any new unexplained muscle pain, tenderness or weakness occurring during treatment or that persists after discontinuing ODOMZO. 5.3 Premature Fusion of the Epiphyses Premature fusion of the epiphyses has been reported in pediatric patients exposed to ODOMZO and other Hh pathway inhibitors. Despite discontinuation of drug, cases of progressive of epiphyseal fusion have been reported in pediatric patients receiving other Hh pathway inhibitors. ODOMZO is not indicated for use in pediatric patients.",
+    "drug_interactions": "7 DRUG INTERACTIONS CYP3A inhibitors: Avoid strong CYP3A inhibitors. Avoid long-term (greater than 14 days) use of moderate CYP3A inhibitors. ( 7.1 ) CYP3A inducers: Avoid strong and moderate CYP3A inducers. ( 7.1 ) 7.1 Effects of Other Drugs on ODOMZO Strong and Moderate CYP3A Inhibitors Avoid concomitant administration of ODOMZO with strong CYP3A inhibitors [see Clinical Pharmacology (12.3) ]. Avoid concomitant administration of ODOMZO with moderate CYP3A inhibitors. If a moderate CYP3A inhibitor must be used, administer the moderate CYP3A inhibitor for less than 14 days and monitor closely for adverse reactions particularly musculoskeletal adverse reactions [see Clinical Pharmacology (12.3) ]. Strong and Moderate CYP3A Inducers Avoid concomitant administration of ODOMZO with strong and moderate CYP3A inducers [see Clinical Pharmacology (12.3) ].",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Recommended dosage: 200 mg orally once daily taken on an empty stomach, at least 1 hour before or 2 hours after a meal. ( 2.2 ) 2.1 Important Safety Information Verify the pregnancy status of females of reproductive potential prior to initiating ODOMZO [see Use in Specific Populations (8.1 , 8.3 )] . 2.2 Recommended Dosage The recommended dosage of ODOMZO is 200 mg taken orally once daily on an empty stomach, at least 1 hour before or 2 hours after a meal, administered until disease progression or unacceptable toxicity [see Clinical Pharmacology (12.3) ]. Obtain serum creatine kinase (CK) levels and renal function tests prior to initiating ODOMZO in all patients [see Dosage and Administration (2.2) and Warnings and Precautions (5.2) ]. If a dose of ODOMZO is missed, resume dosing with the next scheduled dose. 2.3 Dosage Modifications for Adverse Reactions Interrupt ODOMZO for Severe or intolerable musculoskeletal adverse reactions. First occurrence of serum CK elevation between 2.5 and 10 times upper limit of normal (ULN). Recurrent serum CK elevation between 2.5 and 5 times ULN. Resume ODOMZO at 200 mg daily upon resolution of clinical signs and symptoms. Permanently discontinue ODOMZO for Serum CK elevation greater than 2.5 times ULN with worsening renal function. Serum CK elevation greater than 10 times ULN. Recurrent serum CK elevation greater than 5 times ULN. Recurrent severe or intolerable musculoskeletal adverse reactions.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ODOMZO (sonidegib) is indicated for the treatment of adult patients with locally advanced basal cell carcinoma (BCC) that has recurred following surgery or radiation therapy, or those who are not candidates for surgery or radiation therapy. ODOMZO is a hedgehog pathway inhibitor indicated for the treatment of adult patients with locally advanced basal cell carcinoma (BCC) that has recurred following surgery or radiation therapy, or those who are not candidates for surgery or radiation therapy. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA205266"
+    ],
+    "brand_name": [
+      "Odomzo"
+    ],
+    "generic_name": [
+      "SONIDEGIB"
+    ],
+    "manufacturer_name": [
+      "Sun Pharmaceutical Industries, Inc."
+    ],
+    "product_ndc": [
+      "47335-303"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SONIDEGIB PHOSPHATE"
+    ],
+    "rxcui": [
+      "1659921",
+      "1659927"
+    ],
+    "spl_id": [
+      "001dc6f2-7476-4ffd-8ea4-be2f97a2b6b3"
+    ],
+    "spl_set_id": [
+      "028312dc-d155-4fd5-8abd-6bb9f011d3cc"
+    ],
+    "package_ndc": [
+      "47335-303-83",
+      "47335-303-15"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "W421AI34UW"
+    ]
+  }
+}

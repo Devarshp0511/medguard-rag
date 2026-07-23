@@ -1,0 +1,69 @@
+{
+  "drug_name": "Nilutamide",
+  "drug_id": 980,
+  "sections": {
+    "boxed_warning": "Interstitial Pneumonitis Interstitial pneumonitis has been reported in 2% of patients in controlled clinical trials in patients exposed to nilutamide. A small study in Japanese subjects showed that 8 of 47 patients (17%) developed interstitial pneumonitis. Reports of interstitial changes including pulmonary fibrosis that led to hospitalization and death have been reported rarely post-marketing. Symptoms included exertional dyspnea, cough, chest pain, and fever. X-rays showed interstitial or alveolo-interstitial changes, and pulmonary function tests revealed a restrictive pattern with decreased DLco. Most cases occurred within the first 3 months of treatment with Nilutamide Tablets, and most reversed with discontinuation of therapy. A routine chest X-ray should be performed prior to initiating treatment with Nilutamide Tablets. Baseline pulmonary function tests may be considered. Patients should be instructed to report any new or worsening shortness of breath that they experience while on Nilutamide Tablets. If symptoms occur, Nilutamide Tablets should be immediately discontinued until it can be determined if the symptoms are drug related.",
+    "warnings": "WARNINGS Interstitial Pneumonitis Interstitial pneumonitis has been reported in 2% of patients in controlled clinical trials in patients exposed to nilutamide. A small study in Japanese subjects showed that 8 of 47 patients (17%) developed interstitial pneumonitis. Reports of interstitial changes including pulmonary fibrosis that led to hospitalization and death have been reported rarely post-marketing. Symptoms included exertional dyspnea, cough, chest pain, and fever. X-rays showed interstitial or alveolo-interstitial changes, and pulmonary function tests revealed a restrictive pattern with decreased DLco. Most cases occurred within the first 3 months of treatment with Nilutamide Tablets, and most reversed with discontinuation of therapy. A routine chest X-ray should be performed prior to initiating treatment with Nilutamide Tablets. Baseline pulmonary function tests may be considered. Patients should be instructed to report any new or worsening shortness of breath that they experience while on Nilutamide Tablets. If symptoms occur, Nilutamide Tablets should be immediately discontinued until it can be determined if the symptoms are drug related. Hepatitis Rare cases of death or hospitalization due to severe liver injury have been reported post-marketing in association with the use of Nilutamide Tablets. Hepatotoxicity in these reports generally occurred within the first 3 to 4 months of treatment. Hepatitis or marked increases in liver enzymes leading to drug discontinuation occurred in 1% of Nilutamide Tablet patients in controlled clinical trials. Serum transaminase levels should be measured prior to starting treatment with Nilutamide Tablets, at regular intervals for the first 4 months of treatment, and periodically thereafter. Liver function tests should also be obtained at the first sign or symptom suggestive of liver dysfunction, e.g. nausea, vomiting, abdominal pain, fatigue, anorexia, \"flu-like\" symptoms, dark urine, jaundice, or right upper quadrant tenderness. If at any time, a patient has jaundice, or their ALT rises above 2 times the upper limit of normal, Nilutamide Tablets should be immediately discontinued with close follow-up of liver function tests until resolution. Use in Women Nilutamide Tablets have no indication for women, and should not be used in this population, particularly for non-serious or non-life threatening conditions. Other Foreign post-marketing surveillance has revealed isolated cases of aplastic anemia in which a causal relationship with Nilutamide Tablets could not be ascertained.",
+    "drug_interactions": "Drug Interactions In vitro , nilutamide has been shown to inhibit the activity of liver cytochrome P-450 isoenzymes and, therefore, may reduce the metabolism of compounds requiring these systems. Consequently, drugs with a low therapeutic margin, such as vitamin K antagonists, phenytoin, and theophylline, could have a delayed elimination and increases in their serum half-life leading to a toxic level. The dosage of these drugs or others with a similar metabolism may need to be modified if they are administered concomitantly with nilutamide. For example, when vitamin K antagonists are administered concomitantly with nilutamide, prothrombin time should be carefully monitored and, if necessary, the dosage of vitamin K antagonists should be reduced.",
+    "contraindications": "CONTRAINDICATIONS Nilutamide Tablets are contraindicated: \u2022 in patients with severe hepatic impairment (baseline hepatic enzymes should be evaluated prior to treatment) \u2022 in patients with severe respiratory insufficiency \u2022 in patients with hypersensitivity to nilutamide or any component of this preparation.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The recommended dosage is 300 mg once a day for 30 days, followed thereafter by 150 mg once a day. Nilutamide Tablets can be taken with or without food.",
+    "indications_and_usage": "INDICATIONS AND USAGE Metastatic Prostate Cancer Nilutamide Tablets are indicated for use in combination with surgical castration for the treatment of metastatic prostate cancer (Stage D 2 ). For maximum benefit, treatment with Nilutamide Tablets must begin on the same day as or on the day after surgical castration."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA207631"
+    ],
+    "brand_name": [
+      "Nilutamide"
+    ],
+    "generic_name": [
+      "NILUTAMIDE"
+    ],
+    "manufacturer_name": [
+      "ANI Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "62559-173"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NILUTAMIDE"
+    ],
+    "rxcui": [
+      "311982"
+    ],
+    "spl_id": [
+      "eab327c3-3ce0-4118-b1eb-76a3f247625f"
+    ],
+    "spl_set_id": [
+      "d5740b8f-fbb3-4023-9133-9e359a9ab980"
+    ],
+    "package_ndc": [
+      "62559-173-31"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0362559173315"
+    ],
+    "nui": [
+      "N0000000243",
+      "N0000175560"
+    ],
+    "pharm_class_moa": [
+      "Androgen Receptor Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Androgen Receptor Inhibitor [EPC]"
+    ],
+    "unii": [
+      "51G6I8B902"
+    ]
+  }
+}

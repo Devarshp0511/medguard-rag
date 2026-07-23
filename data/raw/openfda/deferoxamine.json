@@ -1,0 +1,57 @@
+{
+  "drug_name": "Deferoxamine",
+  "drug_id": 1484,
+  "sections": {
+    "warnings_and_cautions": "",
+    "drug_interactions": "",
+    "contraindications": "",
+    "dosage_and_administration": "",
+    "indications_and_usage": ""
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA016267"
+    ],
+    "brand_name": [
+      "Desferal"
+    ],
+    "generic_name": [
+      "DEFEROXAMINE MESYLATE"
+    ],
+    "manufacturer_name": [
+      "MITEM PHARMA"
+    ],
+    "product_ndc": [
+      "87081-467"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS",
+      "SUBCUTANEOUS"
+    ],
+    "substance_name": [
+      "DEFEROXAMINE MESYLATE"
+    ],
+    "rxcui": [
+      "1731350",
+      "1731352"
+    ],
+    "spl_id": [
+      "38eff751-96c6-c48a-e063-6294a90a0e48"
+    ],
+    "spl_set_id": [
+      "38eff751-96c5-c48a-e063-6294a90a0e48"
+    ],
+    "package_ndc": [
+      "87081-467-91"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "V9TKO7EO6K"
+    ]
+  }
+}

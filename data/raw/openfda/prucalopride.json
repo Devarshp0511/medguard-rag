@@ -1,0 +1,62 @@
+{
+  "drug_name": "Prucalopride",
+  "drug_id": 1337,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Suicidal Ideation and Behavior: Monitor patients for suicidal ideation and behavior as well as self-injurious ideation and new-onset or worsening of depression. Instruct patients to discontinue prucalopride tablets immediately and contact their healthcare provider if they experience any unusual changes in mood or behavior, or they experience emerging suicidal thoughts or behaviors. ( 5.1 ) 5.1 Suicidal Ideation and Behavior In clinical trials, suicides, suicide attempts, and suicidal ideation have been reported. Postmarketing cases of suicidal ideation and behavior as well as self-injurious ideation and new onset or worsening of depression have been reported within the first few weeks of starting prucalopride tablets [see Adverse Reactions ( 6.1 , 6.2 )]. A causal association between treatment with prucalopride tablets and an increased risk of suicidal ideation and behavior has not been established. Monitor all patients treated with prucalopride tablets for new onset or worsening of depression or the emergence of suicidal thoughts and behaviors. Counsel patients, their caregivers, and family members of patients to be aware of any unusual changes in mood or behavior and alert the healthcare provider. Instruct patients to discontinue prucalopride tablets immediately and contact their healthcare provider if they experience any of these symptoms.",
+    "contraindications": "4 CONTRAINDICATIONS Prucalopride tablets are contraindicated in patients with: A history of hypersensitivity to prucalopride tablets. Reactions including dyspnea, rash, pruritus, urticaria, and facial edema have been observed [see Adverse Reactions ( 6.2 )]. Intestinal perforation or obstruction due to structural or functional disorder of the gut wall, obstructive ileus, severe inflammatory conditions of the intestinal tract such as Crohn\u2019s disease, ulcerative colitis, and toxic megacolon/megarectum. Hypersensitivity to prucalopride tablets. ( 4 ) Intestinal perforation or obstruction due to structural or functional disorder of the gut wall, obstructive ileus, severe inflammatory conditions of the intestinal tract such as Crohn\u2019s disease, ulcerative colitis, and toxic megacolon/megarectum. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Prucalopride tablets can be taken with or without food. The recommended dosage by patient population is shown in Table 1. Table 1: Recommended Dosage Regimen and Dosage Adjustments by Population Population with CIC Recommended Oral Dose Regimen Adults 2 mg once daily Patients with severe renal impairment (creatinine clearance (CrCL) less than 30 mL/min) [ see Use in Specific Populations (8.5, 8.6 ) ] . 1 mg once daily Take with or without food. ( 2 ) Recommended dosage by patient population: Population with CIC Recommended Oral Dose Regimen Adults 2 mg once daily. ( 2 ) Patients with severe renal impairment (creatinine clearance (CrCL) less than 30 mL/min 1 mg once daily. ( 2 , 8.5 , 8.6 )",
+    "dosage_and_administration_table": "<table frame=\"border\" rules=\"all\"><tbody><tr><td><content styleCode=\"bold\">Population with CIC</content></td><td><content styleCode=\"bold\">Recommended Oral Dose Regimen</content></td></tr><tr><td> Adults </td><td> 2 mg once daily </td></tr><tr><td> Patients with severe renal impairment (creatinine clearance (CrCL)  less than 30 mL/min)  [<content styleCode=\"italics\">see Use in Specific Populations (8.5, <linkHtml href=\"#_3fc42bac-fa64-530e-ba34-d4218ca748fe\"> 8.6</linkHtml>)</content><content styleCode=\"italics\">]</content>. </td><td> 1 mg once daily </td></tr></tbody></table> <table frame=\"border\" rules=\"all\"><tbody><tr><td><content styleCode=\"bold\">Population with CIC</content></td><td><content styleCode=\"bold\">Recommended</content><content styleCode=\"bold\"> Oral Dose Regimen</content></td></tr><tr><td> Adults </td><td> 2 mg once daily. (<linkHtml href=\"#DOSAGE_AND_ADMINISTRATION\">2</linkHtml>) </td></tr><tr><td> Patients with severe renal impairment  (creatinine clearance (CrCL) less than 30 mL/min </td><td> 1 mg once daily. (<linkHtml href=\"#DOSAGE_AND_ADMINISTRATION\">2</linkHtml>, <linkHtml href=\"#GERIATRIC_USE\">8.5</linkHtml>, <linkHtml href=\"#_3fc42bac-fa64-530e-ba34-d4218ca748fe\">8.6</linkHtml>) </td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Prucalopride tablets are indicated for the treatment of chronic idiopathic constipation (CIC) in adults. Prucalopride tablets are a serotonin-4 (5-HT 4 ) receptor agonist indicated for the treatment of chronic idiopathic constipation (CIC) in adults. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA218977"
+    ],
+    "brand_name": [
+      "Prucalopride"
+    ],
+    "generic_name": [
+      "PRUCALOPRIDE"
+    ],
+    "manufacturer_name": [
+      "Apotex Corp."
+    ],
+    "product_ndc": [
+      "60505-4806",
+      "60505-4807"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PRUCALOPRIDE SUCCINATE"
+    ],
+    "rxcui": [
+      "2107345",
+      "2107353"
+    ],
+    "spl_id": [
+      "06f30acf-a55e-9a8d-e4e2-46d3a7d66639"
+    ],
+    "spl_set_id": [
+      "01dcea95-b391-79da-bbfe-412f39022e9a"
+    ],
+    "package_ndc": [
+      "60505-4806-3",
+      "60505-4807-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0360505480630",
+      "0360505480739"
+    ],
+    "unii": [
+      "4V2G75E1CK"
+    ]
+  }
+}

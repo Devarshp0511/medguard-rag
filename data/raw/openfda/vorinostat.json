@@ -1,0 +1,69 @@
+{
+  "drug_name": "Vorinostat",
+  "drug_id": 1213,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Thromboembolism: Monitor for pertinent signs and symptoms of pulmonary embolism and deep vein thrombosis. ( 5.1 ) Myelosuppression: Thrombocytopenia and anemia may require dose modification or discontinuation. Monitor blood counts every 2 weeks during the first 2 months of therapy and monthly thereafter. ( 2.2 , 5.2 , 6 ) Gastrointestinal Toxicity: Nausea, vomiting and diarrhea; patients may require antiemetics, antidiarrheals, and fluid and electrolyte replacement to prevent dehydration. ( 5.3 , 6 ) Hyperglycemia: Monitor blood glucose every 2 weeks during the first 2 months of therapy and monthly thereafter. ( 5.4 ) Clinical Chemistry Abnormalities: Measure and correct abnormal electrolytes, creatinine, magnesium and calcium at baseline. Monitor every 2 weeks during the first 2 months of therapy and at least monthly during treatment. ( 5.5 ) Severe Thrombocytopenia with Concomitant Use of other HDAC Inhibitors: Severe thrombocytopenia with gastrointestinal bleeding has been reported with concomitant use of ZOLINZA and other HDAC inhibitors (e.g., valproic acid). Monitor platelet counts more frequently. ( 5.6 , 7.2 ) Embryo-Fetal Toxicity: Fetal harm can occur when administered to a pregnant woman. Women should be apprised of the potential harm to the fetus. ( 5.7 ) 5.1 Thromboembolism Pulmonary embolism occurred in 5% (4/86) of patients receiving ZOLINZA, and deep vein thrombosis has also been reported. Monitor for signs and symptoms of these events, particularly in patients with a prior history of thromboembolic events [see Adverse Reactions (6) ] . 5.2 Myelosuppression Treatment with ZOLINZA can cause dose-related thrombocytopenia and anemia. Monitor blood counts every 2 weeks during the first 2 months of therapy and monthly thereafter. Adjust dosage or discontinue treatment with ZOLINZA as clinically appropriate [see Dosage and Administration (2.2) , Warnings and Precautions (5.6) and Adverse Reactions (6) ]. 5.3 Gastrointestinal Toxicity Gastrointestinal disturbances, including nausea, vomiting and diarrhea, have been reported [see Adverse Reactions (6) ] and may require the use of antiemetic and antidiarrheal medications. Fluid and electrolytes should be replaced to prevent dehydration [see Adverse Reactions (6.1) ] . Pre-existing nausea, vomiting, and diarrhea should be adequately controlled before beginning therapy with ZOLINZA. 5.4 Hyperglycemia Hyperglycemia has been observed in patients receiving ZOLINZA and was severe in 5% (4/86) of patients [see Adverse Reactions (6.1) ] . Monitor serum glucose every 2 weeks during the first 2 months of therapy and monthly thereafter. 5.5 Clinical Chemistry Abnormalities Obtain chemistry tests, including serum electrolytes, creatinine, magnesium, and calcium, every 2 weeks during the first 2 months of therapy and monthly thereafter. Correct hypokalemia and hypomagnesemia prior to administration of ZOLINZA. Monitor potassium and magnesium more frequently in symptomatic patients (e.g., patients with nausea, vomiting, diarrhea, fluid imbalance or cardiac symptoms). 5.6 Severe Thrombocytopenia when Combined with Other Histone Deacetylase (HDAC) Inhibitors Severe thrombocytopenia leading to gastrointestinal bleeding has been reported with concomitant use of ZOLINZA and other HDAC inhibitors (e.g., valproic acid). Monitor platelet counts more frequently [see Drug Interactions (7.2) ] . 5.7 Embryo-Fetal Toxicity Based on findings from animal studies and its mechanism of action, ZOLINZA can cause fetal harm when administered to a pregnant woman. There are insufficient data on ZOLINZA use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage. In animal reproduction studies, vorinostat crossed the placenta and caused adverse developmental outcomes at exposures approximately 0.5 times the human exposure based on AUC 0-24 hours . Advise females of reproductive potential to use effective contraception during treatment and for at least 6 months after the last dose. Advise males with female sexual partners of reproductive potential to use effective contraception during treatment and for at least 3 months after the last dose [see Use in Specific Populations (8.1 , 8.3) and Clinical Pharmacology (12.1) ] .",
+    "drug_interactions": "7 DRUG INTERACTIONS Coumarin-derivative anticoagulants: Prolongation of prothrombin time and International Normalized Ratio (INR) have been observed with concomitant use. Monitor INR frequently. ( 7.1 ) 7.1 Coumarin-Derivative Anticoagulants Prolongation of prothrombin time (PT) and International Normalized Ratio (INR) were observed in patients receiving ZOLINZA concomitantly with coumarin-derivative anticoagulants. Physicians should monitor PT and INR more frequently in patients concurrently administered ZOLINZA and coumarin derivatives. 7.2 Other HDAC Inhibitors Severe thrombocytopenia and gastrointestinal bleeding have been reported with concomitant use of ZOLINZA and other HDAC inhibitors (e.g., valproic acid). Monitor platelet count every 2 weeks for the first 2 months [see Warnings and Precautions (5.6) ].",
+    "contraindications": "4 CONTRAINDICATIONS None. None ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION 400 mg orally once daily with food. ( 2.1 ) If patient is intolerant to therapy, reduce the dose to 300 mg orally once daily with food. If necessary, reduce the dose further to 300 mg once daily with food for 5 consecutive days each week. ( 2.2 , 5 ) Reduce dose in patients with mild or moderate hepatic impairment. ( 2.2 ) 2.1 Dosing Information The recommended dose is 400 mg orally once daily with food. Treatment may be continued as long as there is no evidence of progressive disease or unacceptable toxicity. ZOLINZA capsules should not be opened or crushed [see How Supplied/Storage and Handling (16) ] . 2.2 Dose Modifications For Toxicity If a patient is intolerant to therapy, the dose may be reduced to 300 mg orally once daily with food. The dose may be further reduced to 300 mg once daily with food for 5 consecutive days each week, as necessary. Hepatic Impairment Reduce the starting dose to 300 mg orally once daily with food in patients with mild to moderate hepatic impairment (bilirubin 1 to 3 \u00d7 ULN or AST greater than ULN). There is insufficient evidence to recommend a starting dose for patients with severe hepatic impairment (bilirubin greater than 3 \u00d7 ULN) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3) ] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ZOLINZA \u00ae is indicated for the treatment of cutaneous manifestations in patients with cutaneous T-cell lymphoma who have progressive, persistent or recurrent disease on or following two systemic therapies. ZOLINZA is a histone deacetylase (HDAC) inhibitor indicated for the treatment of cutaneous manifestations in patients with cutaneous T-cell lymphoma (CTCL) who have progressive, persistent or recurrent disease on or following two systemic therapies. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA021991"
+    ],
+    "brand_name": [
+      "ZOLINZA"
+    ],
+    "generic_name": [
+      "VORINOSTAT"
+    ],
+    "manufacturer_name": [
+      "Merck Sharp & Dohme LLC"
+    ],
+    "product_ndc": [
+      "0006-0568"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "VORINOSTAT"
+    ],
+    "rxcui": [
+      "668579",
+      "668606"
+    ],
+    "spl_id": [
+      "27d99e44-bbc6-445d-b08b-e32fd8702dc3"
+    ],
+    "spl_set_id": [
+      "cd86ee78-2781-468b-930c-3c4677bcc092"
+    ],
+    "package_ndc": [
+      "0006-0568-40"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0300060568404"
+    ],
+    "nui": [
+      "N0000175588",
+      "N0000175071"
+    ],
+    "pharm_class_epc": [
+      "Histone Deacetylase Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Histone Deacetylase Inhibitors [MoA]"
+    ],
+    "unii": [
+      "58IFB293JI"
+    ]
+  }
+}

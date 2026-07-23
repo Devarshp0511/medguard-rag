@@ -1,0 +1,91 @@
+{
+  "drug_name": "Perphenazine",
+  "drug_id": 321,
+  "sections": {
+    "boxed_warning": "WARNING Increased Mortality in Elderly Patients with Dementia-Related Psychosis Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Analyses of seventeen placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients. Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group. Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature. Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality. The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear. Perphenazine tablets, USP are not approved for the treatment of patients with dementia-related psychosis ( see WARNINGS ).",
+    "warnings": "WARNINGS Increased Mortality in Elderly Patients with Dementia-Related Psychosis Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Perphenazine tablets, USP are not approved for the treatment of patients with dementia-related psychosis ( see BOXED WARNING ). Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with antipsychotic drugs. Older patients are at increased risk for development of tardive dyskinesia. Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome. Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown. Both the risk of developing the syndrome and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase. However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses. There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn. Antipsychotic treatment itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome, and thereby may possibly mask the underlying disease process. The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown. Given these considerations, especially in the elderly, antipsychotics should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia. Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that 1) is known to respond to antipsychotic drugs, and 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate. In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought. The need for continued treatment should be reassessed periodically. If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered. However, some patients may require treatment despite the presence of the syndrome. (For further information about the description of tardive dyskinesia and its clinical detection, please refer to Information for Patients and ADVERSE REACTIONS .) Neuroleptic Malignant Syndrome (NMS) A potentially fatal symptom complex, sometimes referred to as Neuroleptic Malignant Syndrome (NMS), has been reported in association with antipsychotic drugs. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias). The diagnostic evaluation of patients with this syndrome is complicated. In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS). Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology. The management of NMS should include 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available. There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS. If a patient requires antipsychotic drug treatment after recovery from NMS, the reintroduction of drug therapy should be carefully considered. The patient should be carefully monitored, since recurrences of NMS have been reported. If hypotension develops, epinephrine should not be administered since its action is blocked and partially reversed by perphenazine. If a vasopressor is needed, norepinephrine may be used. Severe, acute hypotension has occurred with the use of phenothiazines and is particularly likely to occur in patients with mitral insufficiency or pheochromocytoma. Rebound hypertension may occur in pheochromocytoma patients. Perphenazine products can lower the convulsive threshold in susceptible individuals; they should be used with caution in alcohol withdrawal and in patients with convulsive disorders. If the patient is being treated with an anticonvulsant agent, increased dosage of that agent may be required when perphenazine products are used concomitantly. Perphenazine products should be used with caution in patients with psychic depression. Perphenazine may impair the mental and/or physical abilities required for the performance of hazardous tasks such as driving a car or operating machinery; therefore, the patient should be warned accordingly. Perphenazine products are not recommended for pediatric patients under 12 years of age. Falls Perphenazine tablets may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries. For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy. Usage in Pregnancy Safe use of perphenazine during pregnancy and lactation has not been established; therefore, in administering the drug to pregnant patients, nursing mothers, or women who may become pregnant, the possible benefits must be weighed against the possible hazards to mother and child.",
+    "drug_interactions": "Drug Interactions Metabolism of a number of medications, including antipsychotics, antidepressants, \u00df- blockers, and antiarrhythmics, occurs through the cytochrome P450 2D6 isoenzyme (debrisoquine hydroxylase). Approximately 10% of the Caucasian population has reduced activity of this enzyme, so-called \"poor\" metabolizers. Among other populations the prevalence is not known. Poor metabolizers demonstrate higher plasma concentrations of antipsychotic drugs at usual doses, which may correlate with emergence of side effects. In one study of 45 elderly patients suffering from dementia treated with perphenazine, the 5 patients who were prospectively identified as poor P450 2D6 metabolizers had reported significantly greater side effects during the first 10 days of treatment than the 40 extensive metabolizers, following which the groups tended to converge. Prospective phenotyping of elderly patients prior to antipsychotic treatment may identify those at risk for adverse events. The concomitant administration of other drugs that inhibit the activity of P450 2D6 may acutely increase plasma concentrations of antipsychotics. Among these are tricyclic antidepressants and selective serotonin reuptake inhibitors, e.g., fluoxetine, sertraline and paroxetine. When prescribing these drugs to patients already receiving antipsychotic therapy, close monitoring is essential and dose reduction may become necessary to avoid toxicity. Lower doses than usually prescribed for either the antipsychotic or the other drug may be required.",
+    "contraindications": "CONTRAINDICATIONS Perphenazine products are contraindicated in comatose or greatly obtunded patients and in patients receiving large doses of central nervous system depressants (barbiturates, alcohol, narcotics, analgesics, or antihistamines); in the presence of existing blood dyscrasias, bone marrow depression, or liver damage; and in patients who have shown hypersensitivity to perphenazine products, their components, or related compounds. Perphenazine products are also contraindicated in patients with suspected or established subcortical brain damage, with or without hypothalamic damage, since a hyperthermic reaction with temperatures in excess of 104\u00b0F may occur in such patients, sometimes not until 14 to 16 hours after drug administration. Total body ice-packing is recommended for such a reaction; antipyretics may also be useful.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Dosage must be individualized and adjusted according to the severity of the condition and the response obtained. As with all potent drugs, the best dose is the lowest dose that will produce the desired clinical effect. Since extrapyramidal symptoms increase in frequency and severity with increased dosage, it is important to employ the lowest effective dose. These symptoms have disappeared upon reduction of dosage, withdrawal of the drug, or administration of an antiparkinsonian agent. Prolonged administration of doses exceeding 24 mg daily should be reserved for hospitalized patients or patients under continued observation for early detection and management of adverse reactions. An antiparkinsonian agent, such as trihexyphenidyl hydrochloride or benztropine mesylate, is valuable in controlling drug-induced extrapyramidal symptoms. Suggested dosages for various conditions follow: Moderately disturbed nonhospitalized patients with schizophrenia 4 mg to 8 mg three times daily initially; reduce as soon as possible to minimum effective dosage. Hospitalized patients with schizophrenia 8 mg to 16 mg two times daily to four times daily; avoid dosages in excess of 64 mg daily. Severe nausea and vomiting in adults 8 mg to 16 mg daily in divided doses; 24 mg occasionally may be necessary; early dosage reduction is desirable. Elderly Patients With increasing age, plasma concentrations of perphenazine per daily ingested dose increase. Geriatric dosages of perphenazine preparations have not been established, but initiation of lower dosages is recommended. Optimal clinical effect or benefit may require lower doses for a longer duration. Dosing of perphenazine may occur before bedtime, if required. Manifestations The toxic effects of perphenazine are typically mild to moderate with death occurring in cases involving a large overdose. Overdosage of perphenazine primarily involves the extrapyramidal mechanism and produces the same side effects described under ADVERSE REACTIONS , but to a more marked degree. It is usually evidenced by stupor or coma; children may have convulsive seizures. Signs of arousal may not occur for 48 hours. The primary effects of medical concern are cardiac in origin including tachycardia, prolongation of the QRS or QTc intervals, atrioventricular block, torsade de pointes, ventricular dysrhythmia, hypotension or cardiac arrest, which indicate serious poisoning. Deaths by deliberate or accidental overdosage have occurred with this class of drugs. Treatment Treatment is symptomatic and supportive. Induction of emesis is not recommended because of the possibility of a seizure, CNS depression, or dystonic reaction of the head or neck and subsequent aspiration. Gastric lavage (after intubation, if the patient is unconscious) and administration of activated charcoal together with a laxative should be considered. There is no specific antidote. Standard measures (oxygen, intravenous fluids, corticosteroids) should be used to manage circulatory shock or metabolic acidosis. An open airway and adequate fluid intake should be maintained. Body temperature should be regulated. Hypothermia is expected, but severe hyperthermia may occur and must be treated vigorously. ( See CONTRAINDICATIONS. ) An electrocardiogram should be taken and close monitoring of cardiac function instituted if there is any sign of abnormality. Close monitoring of cardiac function is advisable for not less than five days. Vasopressors such as norepinephrine may be used to treat hypotension, but epinephrine should NOT be used. Hemodialysis and peritoneal dialysis is of no value because of low plasma concentrations of the drug. Since overdosage is often deliberate, patients may attempt suicide by other means during the recovery phase.",
+    "indications_and_usage": "INDICATIONS AND USAGE Perphenazine tablets, USP are indicated for use in the treatment of schizophrenia and for the control of severe nausea and vomiting in adults. Perphenazine tablets, USP have not been shown effective for the management of behavioral complications in patients with mental retardation."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA205232"
+    ],
+    "brand_name": [
+      "perphenazine"
+    ],
+    "generic_name": [
+      "PERPHENAZINE"
+    ],
+    "manufacturer_name": [
+      "Zydus Lifesciences Limited"
+    ],
+    "product_ndc": [
+      "70771-1041",
+      "70771-1042",
+      "70771-1043",
+      "70771-1044"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PERPHENAZINE"
+    ],
+    "rxcui": [
+      "198075",
+      "198076",
+      "198077",
+      "198078"
+    ],
+    "spl_id": [
+      "e7ec4ac9-7976-4574-9837-56b48606144b"
+    ],
+    "spl_set_id": [
+      "003fe32c-a55d-4191-99fa-1013522b1b2e"
+    ],
+    "package_ndc": [
+      "70771-1041-1",
+      "70771-1041-5",
+      "70771-1041-2",
+      "70771-1041-4",
+      "70771-1042-1",
+      "70771-1042-5",
+      "70771-1042-2",
+      "70771-1042-4",
+      "70771-1043-1",
+      "70771-1043-5",
+      "70771-1043-2",
+      "70771-1043-4",
+      "70771-1044-1",
+      "70771-1044-5",
+      "70771-1044-2",
+      "70771-1044-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0370771104215",
+      "0370771104116"
+    ],
+    "nui": [
+      "N0000175746",
+      "M0016525"
+    ],
+    "pharm_class_epc": [
+      "Phenothiazine [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Phenothiazines [CS]"
+    ],
+    "unii": [
+      "FTA7XXY4EZ"
+    ]
+  }
+}

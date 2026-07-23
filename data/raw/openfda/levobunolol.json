@@ -1,0 +1,56 @@
+{
+  "drug_name": "Levobunolol",
+  "drug_id": 1490,
+  "sections": {
+    "warnings": "WARNINGS As with other topically applied ophthalmic drugs, levobunolol hydrochloride ophthalmic solution may be absorbed systemically. The same adverse reactions found with systemic administration of beta-adrenergic blocking agents may occur with topical administration. For example, severe respiratory reactions and cardiac reactions, including death due to bronchospasm in patients with asthma, and rarely death in association with cardiac failure, have been reported with topical application of beta-adrenergic blocking agents (see CONTRAINDICATIONS ). Additionally, ophthalmic beta-blockers may impair compensatory tachycardia and increase risk of hypotension. Cardiac Failure Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by beta-adrenergic receptor blockade may precipitate more severe failure. In Patients Without a History of Cardiac Failure Continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure. At the first sign or symptom of cardiac failure, levobunolol hydrochloride ophthalmic solution should be discontinued (see CONTRAINDICATIONS ). Potentiation of Vascular Insufficiency Levobunolol hydrochloride ophthalmic solution may potentiate syndromes associated with vascular insufficiency (i.e. Raynaud\u2019s phenomenon), and therefore, should be used with caution in these patients. Obstructive Pulmonary Disease PATIENTS WITH CHRONIC OBSTRUCTIVE PULMONARY DISEASE (e.g., CHRONIC BRONCHITIS, EMPHYSEMA) OF MILD OR MODERATE SEVERITY, BRONCHOSPASTIC DISEASE OR A HISTORY OF BRONCHOSPASTIC DISEASE (OTHER THAN BRONCHIAL ASTHMA OR A HISTORY OF BRONCHIAL ASTHMA, IN WHICH LEVOBUNOLOL HYDROCHLORIDE OPHTHALMIC SOLUTION IS CONTRAINDICATED, SEE CONTRAINDICATIONS ), SHOULD IN GENERAL NOT RECEIVE BETA BLOCKERS, INCLUDING LEVOBUNOLOL HYDROCHLORIDE OPHTHALMIC SOLUTION. However, if levobunolol hydrochloride ophthalmic solution is deemed necessary in such patients, then it should be administered cautiously since it may block bronchodilation produced by endogenous and exogenous catecholamine stimulation of beta 2 receptors. Major Surgery The necessity or desirability of withdrawal of beta-adrenergic blocking agents prior to major surgery is controversial. Beta-adrenergic receptor blockade impairs the ability of the heart to respond to beta-adrenergically mediated reflex stimuli. This may augment the risk of general anesthesia in surgical procedures. Some patients receiving beta-adrenergic receptor blocking agents have been subject to protracted severe hypotension during anesthesia. Difficulty in restarting and maintaining the heartbeat has also been reported. For these reasons, in patients undergoing elective surgery, gradual withdrawal of beta-adrenergic blocking agents may be appropriate. If necessary during surgery, the effects of beta-adrenergic blocking agents may be reversed by sufficient doses of such agonists as isoproterenol, dopamine, dobutamine or levarterenol (see OVERDOSAGE ). Diabetes Mellitus Beta-adrenergic blocking agents should be administered with caution in patients subject to spontaneous hypoglycemia or to diabetic patients (especially those with labile diabetes) who are receiving insulin or oral hypoglycemic agents. Beta-adrenergic blocking agents may mask the signs and symptoms of acute hypoglycemia. Thyrotoxicosis Beta-adrenergic blocking agents may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism. Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-adrenergic blocking agents which might precipitate a thyroid storm. Choroidal Detachment Choroidal detachment after filtration procedures has been reported with the administration of aqueous suppressant therapy. These products contain sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.",
+    "contraindications": "CONTRAINDICATIONS Levobunolol hydrochloride ophthalmic solution is contraindicated in those individuals with bronchial asthma, or with a history of bronchial asthma, or severe chronic obstructive pulmonary disease (see WARNINGS ); sinus bradycardia; second and third degree atrioventricular block; overt cardiac failure (see WARNINGS ); cardiogenic shock; or hypersensitivity to any component of these products.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The recommended starting dose is one to two drops of levobunolol hydrochloride ophthalmic solution, 0.5% in the affected eye(s) once a day. In patients with more severe or uncontrolled glaucoma, levobunolol hydrochloride ophthalmic solution, 0.5% can be administered twice a day. As with any new medication, careful monitoring of patients is advised. Dosages above one drop of levobunolol hydrochloride ophthalmic solution, 0.5% twice a day are not generally more effective. If the patient's IOP is not at a satisfactory level on this regimen, concomitant therapy with other ophthalmic IOP-lowering agents can be instituted. Patients should not typically use two or more topical ophthalmic beta-adrenergic blocking agents simultaneously.",
+    "indications_and_usage": "INDICATIONS AND USAGE Levobunolol hydrochloride ophthalmic solution has been shown to be effective in lowering intraocular pressure and may be used in patients with chronic open-angle glaucoma or ocular hypertension."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA074326"
+    ],
+    "brand_name": [
+      "Levobunolol Hydrochloride"
+    ],
+    "generic_name": [
+      "LEVOBUNOLOL HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Bausch & Lomb Incorporated"
+    ],
+    "product_ndc": [
+      "24208-505"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "LEVOBUNOLOL HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1150836"
+    ],
+    "spl_id": [
+      "1e033456-2f30-9208-e063-6394a90a094f"
+    ],
+    "spl_set_id": [
+      "5ab1efbe-530b-4787-b40a-c7dbf18161e1"
+    ],
+    "package_ndc": [
+      "24208-505-05",
+      "24208-505-10",
+      "24208-505-15"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O90S49LDHH"
+    ]
+  }
+}

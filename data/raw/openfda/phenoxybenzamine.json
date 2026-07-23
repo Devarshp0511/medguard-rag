@@ -1,0 +1,55 @@
+{
+  "drug_name": "Phenoxybenzamine",
+  "drug_id": 1331,
+  "sections": {
+    "warnings": "WARNING Phenoxybenzamine hydrochloride-induced alpha -adrenergic blockade leaves beta -adrenergic receptors unopposed. Compounds that stimulate both types of receptors may, therefore, produce an exaggerated hypotensive response and tachycardia.",
+    "drug_interactions": "Drug Interactions 2 \u2013 Phenoxybenzamine hydrochloride may interact with compounds that stimulate both alpha- and beta- adrenergic receptors (i.e. epinephrine) to produce an exaggerated hypotensive response and tachycardia (see WARNING ). Phenoxybenzamine hydrochloride blocks hyperthermia production by levarterenol, and blocks hypothermia production by reserpine.",
+    "contraindications": "CONTRAINDICATIONS Conditions where a fall in blood pressure may be undesirable; hypersensitivity to the phenoxybenzamine hydrochloride capsules, or any of its components.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The dosage should be adjusted to fit the needs of each patient. Small initial doses should be slowly increased until the desired effect is obtained or the side effects from blockade become troublesome. After each increase, the patient should be observed on that level before instituting another increase . The dosage should be carried to a point where symptomatic relief and/or objective improvement are obtained, but not so high that the side effects from blockade become troublesome. Initially, 10 mg of phenoxybenzamine hydrochloride twice a day. Dosage should be increased every other day, usually to 20 mg to 40 mg 2 or 3 times a day, until an optimal dosage is obtained, as judged by blood pressure control. Long-term use of phenoxybenzamine is not recommended (see PRECAUTIONS - Carcinogenesis and Mutagenesis ).",
+    "indications_and_usage": "INDICATION AND USAGE Phenoxybenzamine hydrochloride capsules are indicated in the treatment of pheochromocytoma, to control episodes of hypertension and sweating. If tachycardia is excessive, it may be necessary to use a beta -blocking agent concomitantly."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA212568"
+    ],
+    "brand_name": [
+      "Phenoxybenzamine hydrochloride"
+    ],
+    "generic_name": [
+      "PHENOXYBENZAMINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Amneal Pharmaceuticals NY LLC"
+    ],
+    "product_ndc": [
+      "60219-1502"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PHENOXYBENZAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "861402"
+    ],
+    "spl_id": [
+      "7e30ff83-c617-4830-b75e-1897242c3a1a"
+    ],
+    "spl_set_id": [
+      "0be6a394-cd10-42fc-97cf-ad53d81d8d93"
+    ],
+    "package_ndc": [
+      "60219-1502-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "X1IEG24OHL"
+    ]
+  }
+}

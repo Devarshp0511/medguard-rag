@@ -1,0 +1,55 @@
+{
+  "drug_name": "Nafcillin",
+  "drug_id": 679,
+  "sections": {
+    "warnings": "WARNINGS SERIOUS AND OCCASIONALLY FATAL HYPERSENSITIVITY (ANAPHYLACTIC) REACTIONS HAVE BEEN REPORTED IN PATIENTS ON PENICILLIN THERAPY. THESE REACTIONS ARE MORE LIKELY TO OCCUR IN INDIVIDUALS WITH A HISTORY OF PENICILLIN HYPERSENSITIVITY AND/OR A HISTORY OF SENSITIVITY TO MULTIPLE ALLERGENS. THERE HAVE BEEN REPORTS OF INDIVIDUALS WITH A HISTORY OF PENICILLIN HYPERSENSITIVITY WHO HAVE EXPERIENCED SEVERE REACTIONS WHEN TREATED WITH CEPHALOSPORINS. BEFORE INITIATING THERAPY WITH NAFCILLIN, CAREFUL INQUIRY SHOULD BE MADE CONCERNING PREVIOUS HYPERSENSITIVITY REACTIONS TO PENICILLINS, CEPHALOSPORINS, OR OTHER ALLERGENS. IF AN ALLERGIC REACTION OCCURS, NAFCILLIN SHOULD BE DISCONTINUED AND APPROPRIATE THERAPY INSTITUTED. SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE. OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED. Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Nafcillin for Injection, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated.",
+    "drug_interactions": "Drug Interactions Tetracycline, a bacteriostatic antibiotic, may antagonize the bactericidal effect of penicillin, and concurrent use of these drugs should be avoided. Nafcillin in high dosage regimens, i.e., 2 grams every 4 hours, has been reported to decrease the effects of warfarin. When nafcillin and warfarin are used concomitantly, the prothrombin time should be closely monitored and the dose of warfarin adjusted as necessary. This effect may persist for up to 30 days after nafcillin has been discontinued. Nafcillin when administered concomitantly with cyclosporine has been reported to result in subtherapeutic cyclosporine levels. The nafcillin-cyclosporine interaction was documented in a patient during two separate courses of therapy. When cyclosporine and nafcillin are used concomitantly in organ transplant patients, the cyclosporine levels should be monitored.",
+    "contraindications": "CONTRAINDICATIONS A history of a hypersensitivity (anaphylactic) reaction to any penicillin is a contraindication.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Nafcillin for Injection, in the Pharmacy Bulk Package Bottle is for intravenous injection only. The usual intravenous dosage for adults is 500 mg every 4 hours. For severe infections, 1 gram every 4 hours is recommended. Administer slowly over at least 30 to 60 minutes to minimize the risk of vein irritation and extravasation. Bacteriologic studies to determine the causative organisms and their susceptibility to nafcillin should always be performed. Duration of therapy varies with the type and severity of infection as well as the overall condition of the patient; therefore, it should be determined by the clinical and bacteriological response of the patient. In severe staphylococcal infections, therapy with nafcillin should be continued for at least 14 days. Therapy should be continued for at least 48 hours after the patient has become afebrile, asymptomatic, and cultures are negative. The treatment of endocarditis and osteomyelitis may require a longer duration of therapy. Nafcillin-probenecid therapy is generally limited to those infections where very high serum levels of nafcillin are necessary. No dosage alterations are necessary for patients with renal dysfunction, including those on hemodialysis. Hemodialysis does not accelerate nafcillin clearance from the blood. For patients with hepatic insufficiency and renal failure, measurement of nafcillin serum levels should be performed and dosage adjusted accordingly. With intravenous administration, particularly in elderly patients, care should be taken because of the possibility of thrombophlebitis. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit. Do not add supplementary medication to Nafcillin for Injection, USP.",
+    "indications_and_usage": "INDICATIONS AND USAGE Nafcillin is indicated in the treatment of infections caused by penicillinase-producing staphylococci which have demonstrated susceptibility to the drug. Culture and susceptibility tests should be performed initially to determine the causative organism and its susceptibility to the drug (see CLINICAL PHARMACOLOGY - Susceptibility Testing ). Nafcillin should not be used in infections caused by organisms susceptible to penicillin G. If the susceptibility tests indicate that the infection is due to a methicillin-resistant Staphylococcus spp., therapy with Nafcillin for Injection should be discontinued and alternative therapy provided. To reduce the development of drug-resistant bacteria and maintain the effectiveness of Nafcillin for Injection and other antibacterial drugs, Nafcillin for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA090005"
+    ],
+    "brand_name": [
+      "Nafcillin"
+    ],
+    "generic_name": [
+      "NAFCILLIN SODIUM"
+    ],
+    "manufacturer_name": [
+      "Avenacy Inc."
+    ],
+    "product_ndc": [
+      "83634-101"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "NAFCILLIN SODIUM"
+    ],
+    "rxcui": [
+      "239189"
+    ],
+    "spl_id": [
+      "7a4b6e14-65c7-456d-999a-eb8dacaaeece"
+    ],
+    "spl_set_id": [
+      "0556378a-b794-4235-ba09-ebdc295e9092"
+    ],
+    "package_ndc": [
+      "83634-101-99"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "49G3001BCK"
+    ]
+  }
+}

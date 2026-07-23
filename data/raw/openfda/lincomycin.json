@@ -1,0 +1,59 @@
+{
+  "drug_name": "Lincomycin",
+  "drug_id": 1501,
+  "sections": {
+    "boxed_warning": "WARNING Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including lincomycin and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile. Because lincomycin therapy has been associated with severe colitis which may end fatally, it should be reserved for serious infections where less toxic antimicrobial agents are inappropriate, as described in the INDICATIONS AND USAGE section. It should not be used in patients with nonbacterial infections such as most upper respiratory tract infections. C. diffficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated.",
+    "warnings": "WARNINGS See BOXED WARNING . Clostridioides difficile associated diarrhea Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Lincomycin, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated. Hypersensitivity Severe hypersensitivity reactions, including anaphylactic reactions and severe cutaneous adverse reactions (SCAR) such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), acute generalized exanthematous pustulosis (AGEP), and erythema multiforme (EM) have been reported in patients receiving lincomycin therapy. If an anaphylactic reaction or severe skin reaction occurs, lincomycin should be discontinued and appropriate therapy should be initiated. (see ADVERSE REACTIONS ) Benzyl Alcohol Toxicity in Pediatric Patients (Gasping Syndrome) Lincomycin injection contains benzyl alcohol as a preservative. The preservative benzyl alcohol has been associated with serious adverse events, including the \u201cgasping syndrome\u201d, and death in pediatric patients. Although normal therapeutic doses of this product ordinarily deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the \u201cgasping syndrome\u201d, the minimum amount of benzyl alcohol at which toxicity may occur is not known. The risk of benzyl alcohol toxicity depends on the quantity administered and the liver and kidneys\u2019 capacity to detoxify the chemical. Premature and low-birth weight infants may be more likely to develop toxicity. Inadequate for Use in Meningitis Although lincomycin appears to diffuse into cerebrospinal fluid, concentrations of lincomycin in the CSF may be inadequate for the treatment of meningitis.",
+    "drug_interactions": "Drug Interactions Lincomycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents; therefore, it should be used with caution in patients receiving such agents.",
+    "contraindications": "CONTRAINDICATIONS Lincomycin injection is contraindicated in patients previously found to be hypersensitive to lincomycin or clindamycin.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION If significant diarrhea occurs during therapy, lincomycin should be discontinued. (see BOXED WARNING ) INTRAMUSCULAR - Adults: Serious infections \u2014600 mg (2 mL) intramuscularly every 24 hours. More severe infections \u2014600 mg (2 mL) intramuscularly every 12 hours or more often. Pediatric patients over 1 month of age: Serious infections \u2014one intramuscular injection of 10 mg/kg (5 mg/lb) every 24 hours. More severe infections \u2014 one intramuscular injection of 10 mg/kg (5 mg/lb) every 12 hours or more often. INTRAVENOUS - Adults: The intravenous dose will be determined by the severity of the infection. For serious infections doses of 600 mg of lincomycin (2 mL of lincomycin) to 1 gram are given every 8 to 12 hours. For more severe infections these doses may have to be increased. In life-threatening situations daily intravenous doses of as much as 8 grams have been given. Intravenous doses are given on the basis of 1 gram of lincomycin diluted in not less than 100 mL of appropriate solution (see PHYSICAL COMPATIBILITIES) and infused over a period of not less than one hour. Dose Vol. Diluent Time 600 mg 100 mL 1 hr 1 gram 100 mL 1 hr 2 grams 200 mL 2 hr 3 grams 300 mL 3 hr 4 grams 400 mL 4 hr These doses may be repeated as often as required to the limit of the maximum recommended daily dose of 8 grams of lincomycin. Pediatric patients over 1 month of age: 10 to 20 mg/kg/day (5 to 10 mg/lb/day) depending on the severity of the infection may be infused in divided doses as described above for adults. NOTE: Severe cardiopulmonary reactions have occurred when lincomycin has been given at greater than the recommended concentration and rate (see PRECAUTIONS ). SUBCONJUNCTIVAL INJECTION - 0.25 mL (75 mg) injected subconjunctivally will result in ocular fluid concentrations of antibacterial (lasting for at least 5 hours) sufficient for most susceptible pathogens. Patients with Renal Impairment When therapy with lincomycin is required in individuals with severe renal impairment, an appropriate dose is 25 to 30% of that recommended for patients with normally functioning kidneys (see PRECAUTIONS ). Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.",
+    "dosage_and_administration_table": "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\"><col width=\"33.34%\"/><col width=\"33.34%\"/><col width=\"33.32%\"/><tbody><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\" valign=\"top\"><content styleCode=\"bold\"> Dose</content> </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"> <content styleCode=\"bold\">Vol.</content><content styleCode=\"bold\"> Diluent</content> </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"> <content styleCode=\"bold\">Time</content></td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"top\"> 600 mg </td><td align=\"left\" styleCode=\"Rrule\" valign=\"top\">100 mL  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"> 1 hr </td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"top\">1 gram  </td><td align=\"left\" styleCode=\"Rrule\" valign=\"top\">100 mL  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"> 1 hr </td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"top\"> 2 grams </td><td align=\"left\" styleCode=\"Rrule\" valign=\"top\">200 mL  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"> 2 hr </td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"top\"> 3 grams </td><td align=\"left\" styleCode=\"Rrule\" valign=\"top\">300 mL  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"> 3 hr </td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"top\"> 4 grams </td><td align=\"left\" styleCode=\"Rrule\" valign=\"top\">400 mL  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"> 4 hr </td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE Lincomycin injection is indicated in the treatment of serious infections due to susceptible strains of streptococci, pneumococci, and staphylococci. Its use should be reserved for penicillin-allergic patients or other patients for whom, in the judgment of the physician, a penicillin is inappropriate. Because of the risk of CDAD, as described in the BOXED WARNING , before selecting lincomycin the physician should consider the nature of the infection and the suitability of other alternatives. Indicated surgical procedures should be performed in conjunction with antibacterial therapy. Lincomycin injection may be administered concomitantly with other antimicrobial agents when indicated. Lincomycin is not indicated in the treatment of minor bacterial infections or viral infections. To reduce the development of drug-resistant bacteria and maintain the effectiveness of lincomycin and other antibacterial drugs, lincomycin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA215082"
+    ],
+    "brand_name": [
+      "Lincomycin"
+    ],
+    "generic_name": [
+      "LINCOMYCIN"
+    ],
+    "manufacturer_name": [
+      "Micro Labs Limited"
+    ],
+    "product_ndc": [
+      "42571-374"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAMUSCULAR",
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "LINCOMYCIN HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "239212"
+    ],
+    "spl_id": [
+      "e2cf9f04-64e0-4a9c-e053-2a95a90a25ba"
+    ],
+    "spl_set_id": [
+      "20c0e8af-a78f-47f8-ace4-06b80def7003"
+    ],
+    "package_ndc": [
+      "42571-374-75",
+      "42571-374-88"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "M6T05Z2B68"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "drug_name": "Pentamidine",
+  "drug_id": 989,
+  "sections": {
+    "warnings": "WARNINGS The potential for development of acute PJP still exists in patients receiving Pentamidine Isethionate prophylaxis. Therefore, any patient with symptoms suggestive of the presence of a pulmonary infection, including but not limited to dyspnea, fever or cough, should receive a thorough medical evaluation and appropriate diagnostic tests for possible acute PJP as well as for other opportunistic and nonopportunistic pathogens. The use of Pentamidine Isethionate may alter the clinical and radiographic features of PJP and could result in an atypical presentation, including but not limited to mild disease or focal \u00adinfection. Prior to initiating Pentamidine Isethionate prophylaxis, symptomatic patients should be evaluated appropriately to exclude the presence of PJP. The recommended dose of Pentamidine Isethionate for the prevention of PJP is insufficient to treat acute PJP.",
+    "drug_interactions": "Drug Interactions While specific studies on drug interactions with pentamidine isethionate have not been conducted, the majority of patients in clinical trials received concomitant medications, including zidovudine, with no reported interactions. Because the nephrotoxic effects may be additive, the concomitant or sequential use of pentamidine isethionate and other nephrotoxic drugs such as aminoglycosides, amphotericin B, cisplatin, foscarnet, or vancomycin should be closely monitored and avoided, if possible.",
+    "contraindications": "CONTRAINDICATIONS Pentamidine Isethionate is contraindicated in patients with a \u00adhistory of an anaphylactic reaction to inhaled or parenteral pentamidine isethionate.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION IMPORTANT: PENTAMIDINE ISETHIONATE MUST BE DISSOLVED ONLY IN STERILE WATER FOR INJECTION, USP. DO NOT USE SALINE SOLUTION FOR RECONSTITUTION BECAUSE THE DRUG WILL PRECIPITATE. DO NOT MIX THE PENTAMIDINE ISETHIONATE SOLUTION WITH ANY OTHER DRUGS. DO NOT USE THE RESPIRGARD \u00ae II NEBULIZER TO ADMINISTER A BRONCHODILATOR. Reconstitution The contents of one vial (300 mg) must be dissolved in 6 mL Sterile Water for Injection, USP. Place the entire reconstituted contents of the vial into the Respirgard \u00ae II nebulizer reservoir for administration. Dosage The recommended adult dosage of Pentamidine Isethionate for the prevention of Pneumocystis jiroveci pneumonia is 300 mg once every four weeks administered via the Respirgard \u00ae II nebulizer. The dose should be delivered until the nebulizer chamber is empty (approximately 30 to 45 minutes). The flow rate should be 5 to 7 liters per minute from a 40 to 50 pounds per square inch (PSI) air or oxygen source. Alternatively, a 40 to 50 PSI air compressor can be used with flow limited by setting the flowmeter at 5 to 7 liters per minute or by setting the pressure at 22 to 25 PSI. Low pressure (less than 20 PSI) compressors should not be used. Stability Freshly prepared solutions for aerosol use are \u00adrecommended. After reconstitution with sterile water, the pentamidine isethionate solution is stable for 48 hours in the original vial at room temperature if protected from light.",
+    "indications_and_usage": "INDICATIONS AND USAGE Pentamidine Isethionate is indicated for the prevention of Pneumocystis jiroveci pneumonia (PJP) in high-risk, HIV-infected patients defined by one or both of the following criteria: i. a history of one or more episodes of PJP ii. a peripheral CD4+ (T4 helper/inducer) lymphocyte count less than or equal to 200/mm 3 . These indications are based on the results of an 18-month randomized, dose-response trial in high risk HIV-infected patients and on existing epidemiological data from natural history studies. The patient population of the controlled trial consisted of 408 patients, 237 of whom had a history of one or more episodes of PJP. The remaining patients without a history of PJP included 55 patients with Kaposi\u2019s sarcoma and 116 patients with other AIDS diagnoses, ARC or asymptomatic HIV infection. Patients were randomly assigned to receive Pentamidine isethionate via the Respirgard \u00ae II nebulizer at one of the following three doses: 30 mg every two weeks (n=135), 150 mg every two weeks (n=134) or 300 mg every four weeks (n=139). The results of the trial demonstrated a significant protective effect (p<0.01) against PJP with the 300 mg every four week dosage regimen compared to the 30 mg every two week dosage regimen. The 300 mg dose regimen reduced the risk of developing PJP by 50 to 70% compared to the 30 mg regimen. A total of 293 patients (72% of all patients) also received zidovudine at sometime during the trial. The analysis of the data demonstrated the efficacy of the 300 mg dose even after adjusting for the effect of zidovudine. The results of the trial further demonstrate that the dose and frequency of dosing are important to the efficacy of Pentamidine Isethionate prophylaxis in that multiple analyses consistently demonstrated a trend toward greater efficacy with 300 mg every four weeks as compared to 150 mg every two weeks. No dose-response was observed for reduction in overall mortality; however, mortality from PJP was low in all three dosage groups."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA206983"
+    ],
+    "brand_name": [
+      "Pentamidine Isethionate"
+    ],
+    "generic_name": [
+      "PENTAMIDINE ISETHIONATE"
+    ],
+    "manufacturer_name": [
+      "XGen Pharmaceuticals DJB, Inc."
+    ],
+    "product_ndc": [
+      "39822-3030"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "PENTAMIDINE ISETHIONATE"
+    ],
+    "rxcui": [
+      "861597"
+    ],
+    "spl_id": [
+      "13f0833c-208d-be41-e063-6294a90a627b"
+    ],
+    "spl_set_id": [
+      "490a231d-bb24-403d-9733-1a562ecd5917"
+    ],
+    "package_ndc": [
+      "39822-3030-1",
+      "39822-3030-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0339822303021"
+    ],
+    "unii": [
+      "V2P3K60DA2"
+    ]
+  }
+}

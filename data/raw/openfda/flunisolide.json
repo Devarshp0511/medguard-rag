@@ -1,0 +1,54 @@
+{
+  "drug_name": "Flunisolide",
+  "drug_id": 1408,
+  "sections": {
+    "warnings": "WARNINGS The replacement of a systemic corticosteroid with a topical corticoid can be accompanied by signs of adrenal insufficiency, and in addition some patients may experience symptoms of withdrawal, e.g., joint and/or muscular pain, lassitude and/or depression. Patients previously treated for prolonged periods with systemic corticosteroids and transferred to flunisolide should be carefully monitored to avoid acute adrenal insufficiency in response to stress. When transferred to flunisolide, careful attention must be given to patients previously treated for prolonged periods with systemic corticosteroids. This is particularly important in those patients who have associated asthma or other clinical conditions, where too rapid a decrease in systemic corticosteroids may cause a severe exacerbation of their symptoms. The use of flunisolide with alternate-day prednisone systemic treatment could increase the likelihood of HPA suppression compared to a therapeutic dose of either one alone. Therefore, flunisolide treatment should be used with caution in patients already on alternate-day prednisone regimens for any disease. Persons who are on drugs that suppress the immune system are more susceptible to infections than healthy individuals. Chickenpox and measles, for example, can have a more serious or even fatal course in non-immune pediatric patients or adults on corticosteroids. In such pediatric patients or adults who have not had these diseases, particular care should be taken to avoid exposure. How the dose, route and duration of corticosteroid administration affects the risk of developing a disseminated infection is not known. The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known. If a nonimmune patient is exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated. If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated. (See the respective package insert for complete VZIG and IG prescribing information.) If chickenpox develops, treatment with antiviral agents may be considered.",
+    "contraindications": "CONTRAINDICATIONS Hypersensitivity to any of the ingredients.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Adults: The recommended starting dose of Flunisolide Nasal Solution is 2 sprays (50 mcg) in each nostril 2 times a day (total dose 200 mcg/day). If needed, this dose may be increased to 2 sprays in each nostril 3 times a day (total dose 300 mcg/day). Pediatric Patients 6 to 14 years: The recommended starting dose of Flunisolide Nasal Solution is 1 spray (25 mcg) in each nostril 3 times a day or 2 sprays (50 mcg) in each nostril 2 times a day (total dose 150 to 200 mcg/day). Flunisolide Nasal Solution is not recommended for use in pediatric patients less than 6 years of age as safety and efficacy studies, including possible adverse effects on growth, have not been conducted. Maximum total daily doses should not exceed 8 sprays in each nostril for adults (total dose 400 mcg/day) and 4 sprays in each nostril for pediatric patients under 14 years of age (total dose 200 mcg/day). Since there is no evidence that exceeding the maximum recommended dosage is more effective and increased systemic absorption would occur, higher doses should be avoided. After the desired clinical effect is obtained, the maintenance dose should be reduced to the smallest amount necessary to control the symptoms. Approximately 15% of patients with perennial rhinitis may be maintained on as little as 1 spray in each nostril per day. For priming and repriming the nasal spray unit after storage: The patient should remove the dust cover. Put two fingers on \u201cshoulders\u201d of pump unit, and place thumb on bottom of bottle. Push bottle with thumb FIRMLY and QUICKLY 5-6 times or until fine spray appears. Now your pump is primed. The patient must prime the pump unit again if it has not been used for 5 days or more, or if it has been disassembled for cleaning. Directions for Use: A patient leaflet of instructions accompanies each package of Flunisolide Nasal Solution. WARNING: Do not spray in eyes.",
+    "indications_and_usage": "INDICATIONS AND USAGE Flunisolide Nasal Solution is indicated for the treatment of the nasal symptoms of seasonal or perennial rhinitis. Flunisolide Nasal Solution should not be used in the presence of untreated localized infection involving nasal mucosa."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA074805"
+    ],
+    "brand_name": [
+      "Flunisolide"
+    ],
+    "generic_name": [
+      "FLUNISOLIDE"
+    ],
+    "manufacturer_name": [
+      "Oceanside Pharmaceuticals"
+    ],
+    "product_ndc": [
+      "68682-344"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "NASAL"
+    ],
+    "substance_name": [
+      "FLUNISOLIDE"
+    ],
+    "rxcui": [
+      "1797863"
+    ],
+    "spl_id": [
+      "7e2cb3f0-5475-4c13-aadd-7cd14047a978"
+    ],
+    "spl_set_id": [
+      "50d87523-e1fb-4342-825f-9dba972c6a25"
+    ],
+    "package_ndc": [
+      "68682-344-25"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "QK4DYS664X"
+    ]
+  }
+}

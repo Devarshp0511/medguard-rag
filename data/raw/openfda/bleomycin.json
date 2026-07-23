@@ -1,0 +1,63 @@
+{
+  "drug_name": "Bleomycin",
+  "drug_id": 1471,
+  "sections": {
+    "boxed_warning": "WARNING It is recommended that Bleomycin for Injection, USP be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. Appropriate management of therapy and complications is possible only when adequate diagnostic and treatment facilities are readily available. Pulmonary fibrosis is the most severe toxicity associated with bleomycin. The most frequent presentation is pneumonitis occasionally progressing to pulmonary fibrosis. Its occurrence is higher in elderly patients and in those receiving greater than 400 units total dose, but pulmonary toxicity has been observed in young patients and those treated with low doses. A severe idiosyncratic reaction consisting of hypotension, mental confusion, fever, chills, and wheezing has been reported in approximately 1% of lymphoma patients treated with bleomycin.",
+    "warnings": "WARNINGS Patients receiving bleomycin must be observed carefully and frequently during and after therapy. It should be used with extreme caution in patients with significant impairment of renal function or compromised pulmonary function. Pulmonary toxicities occur in 10% of treated patients. In approximately 1%, the nonspecific pneumonitis induced by bleomycin progresses to pulmonary fibrosis and death. Although this is age and dose related, the toxicity is unpredictable. Frequent roentgenograms are recommended (see ADVERSE REACTIONS: Pulmonary ). A severe idiosyncratic reaction (similar to anaphylaxis) consisting of hypotension, mental confusion, fever, chills, and wheezing has been reported in approximately 1% of lymphoma patients treated with bleomycin. Since these reactions usually occur after the first or second dose, careful monitoring is essential after these doses (see ADVERSE REACTIONS: Idiosyncratic Reactions ). Renal or hepatic toxicity, beginning as a deterioration in renal or liver function tests, have been reported. These toxicities may occur at any time after initiation of therapy. Usage in Pregnancy Pregnancy \u201cCategory D\u201d Bleomycin can cause fetal harm when administered to a pregnant woman. It has been shown to be teratogenic in rats. Administration of intraperitoneal doses of 1.5 mg/kg/day to rats (about 1.6 times the recommended human dose on a unit/m 2 basis) on days 6 to 15 of gestation caused skeletal malformations, shortened innominate artery and hydroureter. Bleomycin is abortifacient but not teratogenic in rabbits at intravenous doses of 1.2 mg/kg/day (about 2.4 times the recommended human dose on a unit/m 2 basis) given on gestation days 6 to 18. There have been no studies in pregnant women. If bleomycin is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus. Women of childbearing potential should be advised to avoid becoming pregnant during therapy with bleomycin.",
+    "drug_interactions": "Drug Interactions Drugs that Can Affect Renal Clearance Because bleomycin is eliminated predominantly through renal excretion, the administration of nephrotoxic drugs with bleomycin may affect its renal clearance. Specifically, in one report of 2 children receiving concomitant cisplatin with bleomycin, total body clearance of bleomycin decreased from 39 to 18 mL/min/m 2 as the cumulative dose of cisplatin exceeded 300 mg/m 2 . Terminal half-life of bleomycin also increased from 4.4 to 6 hours. Fatal bleomycin pulmonary toxicity has been reported in a patient with unrecognized cisplatin-induced oliguric renal failure.",
+    "contraindications": "CONTRAINDICATIONS Bleomycin for injection is contraindicated in patients who have demonstrated a hypersensitive or an idiosyncratic reaction to it.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Because of the possibility of an anaphylactoid reaction, lymphoma patients should be treated with 2 units or less for the first 2 doses. If no acute reaction occurs, then the regular dosage schedule may be followed. The following dose schedule is recommended: Squamous cell carcinoma, non-Hodgkin's lymphoma, testicular carcinoma \u2013 0.25 to 0.50 units/kg (10 to 20 units/m 2 ) given intravenously, intramuscularly, or subcutaneously weekly or twice weekly. Hodgkin's Disease \u2013 0.25 to 0.50 units/kg (10 to 20 units/m 2 ) given intravenously, intramuscularly, or subcutaneously weekly or twice weekly. After a 50% response, a maintenance dose of 1 unit daily or 5 units weekly intravenously or intramuscularly should be given. Pulmonary toxicity of bleomycin for injection appears to be dose-related with a striking increase when the total dose is over 400 units. Total doses over 400 units should be given with great caution. Note: When bleomycin for injection is used in combination with other antineoplastic agents, pulmonary toxicities may occur at lower doses. Improvement of Hodgkin's disease and testicular tumors is prompt and noted within 2 weeks. If no improvement is seen by this time, improvement is unlikely. Squamous cell cancers respond more slowly, sometimes requiring as long as 3 weeks before any improvement is noted. Malignant Pleural Effusion \u2013 60 units administered as a single dose bolus intrapleural injection (see ADMINISTRATION: Intrapleural ). Use in Patients with Renal Insufficiency The following dosing reductions are proposed for patients with creatinine clearance (CrCL) values of less than 50 mL/min: CrCL can be estimated from the individual patient's measured serum creatinine (Scr) values using the Cockcroft and Gault formula: Males CrCL = [weight \u00d7 (140 \u2013 Age)]/(72 \u00d7 Scr) Females CrCL = 0.85 \u00d7 [weight \u00d7 (140 \u2013 Age)]/(72 \u00d7 Scr) Where CrCL in mL/min/1.73m 2 , weight in kg, age in years, and Scr in mg/dL. Patient CrCL (mL/min) Bleomycin for Injection Dose (%) 50 and above 100 40 to 50 70 30 to 40 60 20 to 30 55 10 to 20 45 5 to 10 40",
+    "dosage_and_administration_table": "<table width=\"100%\"><colgroup><col width=\"50.000%\" align=\"left\"/><col width=\"50.000%\" align=\"left\"/></colgroup><tfoot><tr><td colspan=\"2\" align=\"left\" valign=\"top\"><paragraph styleCode=\"First Footnote\">CrCL can be estimated from the individual patient&apos;s measured serum creatinine (Scr) values using the Cockcroft and Gault formula:</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" valign=\"top\"><paragraph styleCode=\"First Footnote\">Males CrCL = [weight &#xD7; (140 &#x2013; Age)]/(72 &#xD7; Scr)</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" valign=\"top\"><paragraph styleCode=\"First Footnote\">Females CrCL = 0.85 &#xD7; [weight &#xD7; (140 &#x2013; Age)]/(72 &#xD7; Scr)</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" valign=\"top\"><paragraph styleCode=\"First Footnote\">Where CrCL in mL/min/1.73m<sup>2</sup>, weight in kg, age in years, and Scr in mg/dL.</paragraph></td></tr></tfoot><tbody><tr><td styleCode=\"Botrule Lrule Rrule Toprule\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">Patient CrCL</content> <content styleCode=\"bold\">(mL/min)</content></td><td styleCode=\"Botrule Rrule Toprule\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">Bleomycin</content> <content styleCode=\"bold\">for Injection</content> <content styleCode=\"bold\">Dose (%)</content></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" align=\"center\" valign=\"top\">50 and above</td><td styleCode=\"Botrule Rrule\" align=\"center\" valign=\"top\">100</td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" align=\"center\" valign=\"top\">40 to 50</td><td styleCode=\"Botrule Rrule\" align=\"center\" valign=\"top\">70</td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" align=\"center\" valign=\"top\">30 to 40</td><td styleCode=\"Botrule Rrule\" align=\"center\" valign=\"top\">60</td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" align=\"center\" valign=\"top\">20 to 30</td><td styleCode=\"Botrule Rrule\" align=\"center\" valign=\"top\">55</td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" align=\"center\" valign=\"top\">10 to 20</td><td styleCode=\"Botrule Rrule\" align=\"center\" valign=\"top\">45</td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" align=\"center\" valign=\"top\">5 to 10</td><td styleCode=\"Botrule Rrule\" align=\"center\" valign=\"top\">40</td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE Bleomycin for Injection, USP should be considered a palliative treatment. It has been shown to be useful in the management of the following neoplasms either as a single agent or in proven combinations with other approved chemotherapeutic agents: Squamous Cell Carcinoma: Head and neck (including mouth, tongue, tonsil, nasopharynx, oropharynx, sinus, palate, lip, buccal mucosa, gingivae, epiglottis, skin, larynx), penis, cervix, and vulva. The response to Bleomycin for Injection, USP is poorer in patients with previously irradiated head and neck cancer. Lymphomas: Hodgkin's disease, non-Hodgkin's lymphoma. Testicular Carcinoma: Embryonal cell, choriocarcinoma, and teratocarcinoma. Bleomycin for Injection, USP has also been shown to be useful in the management of: Malignant Pleural Effusion: Bleomycin for Injection, USP is effective as a sclerosing agent for the treatment of malignant pleural effusion and prevention of recurrent pleural effusions."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA205030"
+    ],
+    "brand_name": [
+      "Bleomycin"
+    ],
+    "generic_name": [
+      "BLEOMYCIN SULFATE"
+    ],
+    "manufacturer_name": [
+      "Meitheal Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "71288-106",
+      "71288-107"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAMUSCULAR",
+      "INTRAPLEURAL",
+      "INTRAVENOUS",
+      "SUBCUTANEOUS"
+    ],
+    "substance_name": [
+      "BLEOMYCIN SULFATE"
+    ],
+    "rxcui": [
+      "1726673",
+      "1726676"
+    ],
+    "spl_id": [
+      "322a4cec-4797-49a9-b880-ea80fdb133f5"
+    ],
+    "spl_set_id": [
+      "640602f9-a7df-46f0-a9b1-19c471008bee"
+    ],
+    "package_ndc": [
+      "71288-106-10",
+      "71288-107-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "7DP3NTV15T"
+    ]
+  }
+}

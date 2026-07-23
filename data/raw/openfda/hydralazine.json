@@ -1,0 +1,60 @@
+{
+  "drug_name": "Hydralazine",
+  "drug_id": 773,
+  "sections": {
+    "warnings": "WARNINGS \u200b In a few patients hydrALAZINE may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydrALAZINE should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug. Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See PRECAUTIONS, Laboratory Tests .)",
+    "contraindications": "CONTRAINDICATIONS Hypersensitivity to hydrALAZINE; coronary artery disease; mitral valvular rheumatic heart disease.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Initiate therapy in gradually increasing dosages; adjust according to individual response. Start with 10 mg four times daily for the first 2 to 4 days, increase to 25 mg four times daily for the balance of the first week. For the second and subsequent weeks, increase dosage to 50 mg four times daily. For maintenance, adjust dosage to the lowest effective levels. The incidence of toxic reactions, particularly the L.E. cell syndrome, is high in the group of patients receiving large doses of hydrALAZINE hydrochloride tablets. In a few resistant patients, up to 300 mg of hydrALAZINE hydrochloride tablets daily may be required for a significant antihypertensive effect. In such cases, a lower dosage of hydrALAZINE hydrochloride tablets combined with a thiazide and/or reserpine or a beta blocker may be considered. However, when combining therapy, individual titration is essential to ensure the lowest possible therapeutic dose of each drug.",
+    "indications_and_usage": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA040858"
+    ],
+    "brand_name": [
+      "Hydralazine Hydrochloride"
+    ],
+    "generic_name": [
+      "HYDRALAZINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Proficient Rx LP"
+    ],
+    "product_ndc": [
+      "82804-081"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "HYDRALAZINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "905225"
+    ],
+    "spl_id": [
+      "004f0059-4ede-4748-9489-45e27c177424"
+    ],
+    "spl_set_id": [
+      "024ac6b8-5ce0-4435-9b11-b1806c511d7b"
+    ],
+    "package_ndc": [
+      "82804-081-30",
+      "82804-081-60",
+      "82804-081-90",
+      "82804-081-72"
+    ],
+    "original_packager_product_ndc": [
+      "23155-833"
+    ],
+    "upc": [
+      "0382804081301"
+    ],
+    "unii": [
+      "FD171B778Y"
+    ]
+  }
+}

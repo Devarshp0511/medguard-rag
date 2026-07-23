@@ -1,0 +1,59 @@
+{
+  "drug_name": "Glycopyrronium",
+  "drug_id": 901,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS New or worsening urinary retention: Use with caution in patients with a history of documented urinary retention ( 5.1 ). Control of body temperature: In the presence of high ambient temperature, heat illness may occur; avoid use if patients develop generalized lack of sweating when exposed to hot or very warm environmental temperatures ( 5.2 ). Operating machinery or an automobile: Transient blurred vision may occur with use of Qbrexza. If blurred vision occurs, discontinue use of Qbrexza until symptoms resolve; avoid operating a motor vehicle or other machinery until symptoms resolve ( 5.3 ). 5.1 New or Worsening Urinary Retention New or worsening signs and symptoms of urinary retention (e.g., difficulty passing urine, distended bladder) have occurred in patients taking Qbrexza with or without a history of documented urinary retention. Instruct patients to discontinue use immediately and consult a physician should any of these signs or symptoms develop. Qbrexza should be used with caution in patients with prostatic hypertrophy or bladder-neck obstruction. 5.2 Control of Body Temperature In the presence of high ambient temperature, heat illness (hyperpyrexia and heat stroke due to decreased sweating) can occur with the use of anticholinergic drugs such as Qbrexza. Advise patients using Qbrexza to watch for generalized lack of sweating when in hot or very warm environmental temperatures and to avoid use if not sweating under these conditions. 5.3 Operating Machinery or an Automobile Transient blurred vision may occur with use of Qbrexza. If blurred vision occurs, the patient should discontinue use until symptoms resolve. Patients should be warned not to engage in activities that require clear vision such as operating a motor vehicle or other machinery, or performing hazardous work until the symptoms have resolved. 5.4 Risk of Accidental Exposure Cases of accidental exposure resulting in mydriasis, anisocoria, and blurred vision have been reported in postmarketing surveillance of Qbrexza. The exposures occurred when children accessed Qbrexza wipes discarded in trash or when patients touched the periocular area after using Qbrexza. In most cases, the mydriasis, anisocoria, and blurred vision were temporary and resolved within one week following exposure. The risk of accidental exposure was increased in these cases by not adhering to recommendations for the appropriate use of Qbrexza. Strict adherence to the recommended hand washing after use and disposal instructions is of the utmost importance to prevent accidental exposure. [see Dosage and Administration (2) ].",
+    "drug_interactions": "7 DRUG INTERACTIONS Coadministration of Qbrexza with anticholinergic medications may result in additive interaction leading to an increase in anticholinergic adverse effects. Avoid coadministration of Qbrexza with other anticholinergic-containing drugs ( 7 ). 7.1 Anticholinergics Coadministration of Qbrexza with anticholinergic medications may result in additive interaction leading to an increase in anticholinergic adverse effects [see Warnings and Precautions ( 5 ) and Adverse Reactions ( 6 )] . Avoid coadministration of Qbrexza with other anticholinergic-containing drugs.",
+    "contraindications": "4 CONTRAINDICATIONS Qbrexza is contraindicated in patients with medical conditions that can be exacerbated by the anticholinergic effect of Qbrexza (e.g., glaucoma, paralytic ileus, unstable cardiovascular status in acute hemorrhage, severe ulcerative colitis, toxic megacolon complicating ulcerative colitis, myasthenia gravis, Sjogren\u2019s syndrome). Qbrexza is contraindicated in patients with medical conditions that can be exacerbated by the anticholinergic effect of Qbrexza (e.g., glaucoma, paralytic ileus, unstable cardiovascular status in acute hemorrhage, severe ulcerative colitis, toxic megacolon complicating ulcerative colitis, myasthenia gravis, Sjogren\u2019s syndrome) ( 4 ).",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION For topical use only. Qbrexza is for topical use in the underarm area only and not for use in other body areas. Qbrexza is administered by a single-use pre-moistened cloth packaged in individual pouches. Qbrexza should be applied to clean dry skin on the underarm areas only. Qbrexza should not be used more frequently than once every 24 hours. Tear open the pouch and pull out the cloth, unfold the cloth, and wipe it across one entire underarm once. Using the same cloth, wipe the other underarm once. A single cloth should be used to apply Qbrexza to both underarms. After applying Qbrexza, discard the cloth in the household trash out of reach of children and others. Wash hands immediately with soap and water after applying and discarding the Qbrexza cloth. Qbrexza may cause temporary dilation of the pupils and blurred vision if it comes in contact with the eyes. Avoid transfer of Qbrexza to the periocular area [see Warnings and Precautions ( 5.3 )] . Do not apply Qbrexza to broken skin. Avoid using Qbrexza with occlusive dressings. For topical use only. Apply Qbrexza once daily to both axillae using a single cloth ( 2 ).",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Qbrexza is indicated for topical treatment of primary axillary hyperhidrosis in adult and pediatric patients 9 years of age and older. Qbrexza is an anticholinergic indicated for topical treatment of primary axillary hyperhidrosis in adults and pediatric patients 9 years of age and older ( 1 )."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA210361"
+    ],
+    "brand_name": [
+      "Qbrexza"
+    ],
+    "generic_name": [
+      "GLYCOPYRRONIUM"
+    ],
+    "manufacturer_name": [
+      "Journey Medical Corporation"
+    ],
+    "product_ndc": [
+      "69489-411"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "GLYCOPYRRONIUM TOSYLATE"
+    ],
+    "rxcui": [
+      "2054118",
+      "2054120"
+    ],
+    "spl_id": [
+      "52537ea0-9410-1691-e063-6394a90a9468"
+    ],
+    "spl_set_id": [
+      "5b372650-e56e-47a5-93e2-c0c292017059"
+    ],
+    "package_ndc": [
+      "69489-411-01",
+      "69489-411-30",
+      "69489-411-51",
+      "69489-411-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "1PVF6JLU7B"
+    ]
+  }
+}

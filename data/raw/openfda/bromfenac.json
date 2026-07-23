@@ -1,0 +1,57 @@
+{
+  "drug_name": "Bromfenac",
+  "drug_id": 513,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Sulfite Allergic Reactions (5.1) Slow or Delayed Healing (5.2) Potential for cross-sensitivity (5.3) Increase bleeding of ocular tissues (5.4) Corneal effects including keratitis (5.5) Contact Lens Wear (5.6) 5.1 Sulfite Allergic Reactions Contains sodium sulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people. 5.2 Slow or Delayed Healing All topical nonsteroidal anti-inflammatory drugs (NSAIDs) may slow or delay healing. Topical corticosteroids are also known to slow or delay healing. Concomitant use of topical NSAIDs and topical steroids may increase the potential for healing problems. 5.3 Potential for Cross-Sensitivity There is the potential for cross-sensitivity to acetylsalicylic acid, phenylacetic acid derivatives, and other NSAIDs. Therefore, caution should be used when treating individuals who have previously exhibited sensitivities to these drugs. 5.4 Increased Bleeding Time With some NSAIDs, there exists the potential for increased bleeding time due to interference with platelet aggregation. There have been reports that ocularly applied NSAIDs may cause increased bleeding of ocular tissues (including hyphemas) in conjunction with ocular surgery. It is recommended that bromfenac ophthalmic solution be used with caution in patients with known bleeding tendencies or who are receiving other medications which may prolong bleeding time. 5.5 Keratitis and Corneal Reactions Use of topical NSAIDs may result in keratitis. In some susceptible patients, continued use of topical NSAIDs may result in epithelial breakdown, corneal thinning, corneal erosion, corneal ulceration or corneal perforation. These events may be sight threatening. Patients with evidence of corneal epithelial breakdown should immediately discontinue use of topical NSAIDs and should be closely monitored for corneal health. Post-marketing experience with topical NSAIDs suggests that patients with complicated ocular surgeries, corneal denervation, corneal epithelial defects, diabetes mellitus, ocular surface diseases (e.g., dry eye syndrome), rheumatoid arthritis, or repeat ocular surgeries within a short period of time may be at increased risk for corneal adverse events which may become sight threatening. Topical NSAIDs should be used with caution in these patients. Post-marketing experience with topical NSAIDs also suggests that use more than 24 hours prior to surgery or use beyond 14 days post surgery may increase patient risk for the occurrence and severity of corneal adverse events. 5.6 Contact Lens Wear Bromfenac should not be administered while wearing contact lenses.",
+    "contraindications": "4 CONTRAINDICATIONS None.",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Instill one drop into the affected eye once daily beginning 1 day prior to surgery, continued on the day of surgery and through the first 14 days post-surgery (2.1) . 2.1 Recommended Dosing For the treatment of postoperative inflammation in patients who have undergone cataract extraction, one drop of bromfenac ophthalmic solution should be applied to the affected eye once daily beginning 1 day prior to cataract surgery, continued on the day of surgery, and through the first 14 days of the postoperative period. 2.2 Use with Other Topical Ophthalmic Medications Bromfenac ophthalmic solution may be administered in conjunction with other topical ophthalmic medications such as alpha-agonists, beta-blockers, carbonic anhydrase inhibitors, cycloplegics, and mydriatics. Drops should be administered at least 5 minutes apart.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Bromfenac Ophthalmic Solution 0.09% is indicated for the treatment of postoperative inflammation and reduction of ocular pain in patients who have undergone cataract surgery. Bromfenac is a nonsteroidal anti-inflammatory drug (NSAID) indicated for the treatment of postoperative inflammation and reduction of ocular pain in patients who have undergone cataract extraction (1) ."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA203395"
+    ],
+    "brand_name": [
+      "Bromfenac"
+    ],
+    "generic_name": [
+      "BROMFENAC"
+    ],
+    "manufacturer_name": [
+      "ARMAS PHARMACEUTICALS INC."
+    ],
+    "product_ndc": [
+      "72485-649"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "BROMFENAC SODIUM"
+    ],
+    "rxcui": [
+      "578018"
+    ],
+    "spl_id": [
+      "08a05c09-5f0e-dca3-e063-6294a90a1bc1"
+    ],
+    "spl_set_id": [
+      "08a0591e-6cb3-30ce-e063-6394a90a33fb"
+    ],
+    "package_ndc": [
+      "72485-649-71"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0372485649716"
+    ],
+    "unii": [
+      "8ECV571Y37"
+    ]
+  }
+}

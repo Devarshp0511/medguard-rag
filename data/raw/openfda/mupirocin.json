@@ -1,0 +1,58 @@
+{
+  "drug_name": "Mupirocin",
+  "drug_id": 1437,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Severe Allergic Reactions: Anaphylaxis, urticaria, angioedema, and generalized rash have been reported in patients treated with formulations of mupirocin, including mupirocin cream. ( 5.1 ) Eye Irritation: Avoid contact with eyes. ( 5.2 ) Local Irritation: Discontinue in the event of sensitization or severe local irritation. ( 5.3 ) Clostridium difficile -Associated Diarrhea (CDAD): If diarrhea occurs, evaluate patients for CDAD. ( 5.4 ) Potential for Microbial Overgrowth: Prolonged use may result in overgrowth of nonsusceptible microorganisms, including fungi. ( 5.5 ) Risk Associated with Mucosal Use: Mupirocin cream is not formulated for use on mucosal surfaces. A separate formulation, BACTROBAN nasal ointment, is available for intranasal use. ( 5.6 ) 5.1 Severe Allergic Reactions Systemic allergic reactions, including anaphylaxis, urticaria, angioedema, and generalized rash, have been reported in patients treated with formulations of mupirocin, including mupirocin cream [see Adverse Reactions ( 6.2 )] . 5.2 Eye Irritation Avoid contact with the eyes. In case of accidental contact, rinse well with water. 5.3 Local Irritation In the event of a sensitization or severe local irritation from mupirocin cream, usage should be discontinued, and appropriate alternative therapy for the infection instituted. 5.4 Clostridium difficile -Associated Diarrhea Clostridium difficile -associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial drug use. Careful medical history is necessary since CDAD has been reported to occur over 2 months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated. 5.5 Potential for Microbial Overgrowth As with other antibacterial products, prolonged use of mupirocin cream may result in overgrowth of nonsusceptible microorganisms, including fungi [see Dosage and Administration ( 2 )] . 5.6 Risk Associated with Mucosal Use Mupirocin cream is not formulated for use on mucosal surfaces. A separate formulation, BACTROBAN (mupirocin calcium) nasal ointment, is available for intranasal use.",
+    "contraindications": "4 CONTRAINDICATIONS Mupirocin cream is contraindicated in patients with known hypersensitivity to mupirocin or any of the excipients of mupirocin cream. Known hypersensitivity to mupirocin or any of the excipients of mupirocin cream. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION For Topical Use Only. Apply a small amount of mupirocin cream, with a cotton swab or gauze pad, to the affected area 3 times daily for 10 days. Cover the treated area with gauze dressing if desired. Re-evaluate patients not showing a clinical response within 3 to 5 days. Mupirocin cream is not for intranasal, ophthalmic, or other mucosal use [see Warnings and Precautions ( 5.2 , 5.6 )]. Do not apply mupirocin cream concurrently with any other lotions, creams or ointments [see Clinical Pharmacology ( 12.3 )]. For Topical Use Only. ( 2 ) Apply a small amount of mupirocin cream, with a cotton swab or gauze pad, to the affected area 3 times daily for 10 days. ( 2 ) Re-evaluate patients not showing a clinical response within 3 to 5 days. ( 2 ) Not for intranasal, ophthalmic, or other mucosal use. ( 2 )",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Mupirocin cream is indicated for the treatment of secondarily infected traumatic skin lesions (up to 10 cm in length or 100 cm 2 in area) due to susceptible isolates of Staphylococcus aureus (S. aureus) and Streptococcus pyogenes (S. pyogenes) . Mupirocin cream is an RNA synthetase inhibitor antibacterial indicated for the treatment of secondarily infected traumatic skin lesions (up to 10 cm in length or 100 cm 2 in area) due to susceptible isolates of Staphylococcus aureus and Streptococcus pyogenes . ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA213053"
+    ],
+    "brand_name": [
+      "MUPIROCIN"
+    ],
+    "generic_name": [
+      "MUPIROCIN"
+    ],
+    "manufacturer_name": [
+      "Alembic Pharmaceuticals Limited"
+    ],
+    "product_ndc": [
+      "46708-624"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MUPIROCIN CALCIUM"
+    ],
+    "rxcui": [
+      "311877"
+    ],
+    "spl_id": [
+      "9c983738-f481-4e39-b812-69b45c7e9401"
+    ],
+    "spl_set_id": [
+      "0580458d-7178-4031-8ac7-0cda281ade8b"
+    ],
+    "package_ndc": [
+      "46708-624-15",
+      "46708-624-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0346708624156"
+    ],
+    "unii": [
+      "RG38I2P540"
+    ]
+  }
+}

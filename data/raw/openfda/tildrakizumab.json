@@ -1,0 +1,68 @@
+{
+  "drug_name": "Tildrakizumab",
+  "drug_id": 1208,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Hypersensitivity: If a serious allergic reaction occurs, discontinue ILUMYA immediately and initiate appropriate therapy. ( 5.1 ) Infections : ILUMYA may increase the risk of infection. Instruct patients to seek medical advice if signs or symptoms of clinically important chronic or acute infection occur. If a serious infection develops, consider discontinuing ILUMYA until the infection resolves. ( 5.2 ) Pretreatment Evaluation for Tuberculosis (TB): Evaluate for TB prior to initiating treatment. ( 5.3 ) Immunizations : Avoid use of live vaccines. ( 5.4 ) 5.1 Hypersensitivity Cases of angioedema and urticaria occurred in ILUMYA treated subjects in clinical trials. If a serious hypersensitivity reaction occurs, discontinue ILUMYA immediately and initiate appropriate therapy [see Adverse Reactions (6.1) ]. 5.2 Infections ILUMYA may increase the risk of infection. Although infections were more common in the ILUMYA group (23%), the difference in frequency of infections between the ILUMYA group and the placebo group (22%) was less than 1% during the placebo-controlled period. However, subjects with active infections or a history of recurrent infections were not included in clinical trials. Upper respiratory infections occurred more frequently in the ILUMYA group than in the placebo group [see Adverse Reactions (6.1) ] . The rates of serious infections for the ILUMYA group and the placebo group were \u22640.3%. Treatment with ILUMYA should not be initiated in patients with any clinically important active infection until the infection resolves or is adequately treated. In patients with a chronic infection or a history of recurrent infection, consider the risks and benefits prior to prescribing ILUMYA. Instruct patients to seek medical help if signs or symptoms of clinically important chronic or acute infection occur. If a patient develops a clinically important or serious infection or is not responding to standard therapy, monitor the patient closely and consider discontinuation of ILUMYA until the infection resolves [see Adverse Reactions (6.1) ] . 5.3 Pretreatment Evaluation for Tuberculosis Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with ILUMYA. Initiate treatment of latent TB prior to administering ILUMYA. In clinical trials, of 55 subjects with latent TB who were concurrently treated with ILUMYA and appropriate TB prophylaxis, no subjects developed active TB (during the mean follow-up of 56.5 weeks). One other subject developed TB while receiving ILUMYA. Monitor patients for signs and symptoms of active TB during and after ILUMYA treatment. Consider anti-TB therapy prior to initiation of ILUMYA in patients with a past history of latent or active TB in whom an adequate course of treatment cannot be confirmed. Do not administer ILUMYA to patients with active TB infection. 5.4 Immunizations Prior to initiating therapy with ILUMYA, consider completion of all age appropriate immunizations according to current immunization guidelines. Avoid the use of live vaccines in patients treated with ILUMYA. No data are available on the response to live or inactive vaccines.",
+    "contraindications": "4 CONTRAINDICATIONS ILUMYA is contraindicated in patients with a previous serious hypersensitivity reaction to tildrakizumab or to any of the excipients [see Warnings and Precautions (5.1) ]. Serious hypersensitivity reaction to tildrakizumab or to any of the excipients. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION See the full prescribing information for recommended evaluations and immunizations prior to treatment. ( 2.1 ) Administer by subcutaneous injection. ( 2.2 ) Recommended dosage is 100 mg at Weeks 0, 4, and every 12 weeks thereafter. ( 2.2 ) 2.1 Recommended Evaluation and Immunization Prior to Treatment Initiation Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with ILUMYA [see Warnings and Precautions ( 5.3 )] . Consider completion of all age appropriate immunizations according to current immunization guidelines. [see Warnings and Precautions ( 5.4 )] 2.2 Dosage ILUMYA is administered by subcutaneous injection. The recommended dosage is 100 mg at Weeks 0, 4, and every 12 weeks thereafter. Each syringe contains 1 mL of 100 mg/mL tildrakizumab-asmn. 2.3 Important Administration Instructions ILUMYA should only be administered by a healthcare provider. Administer ILUMYA subcutaneously. Each prefilled syringe is for single-dose only. Inject the full amount (1 mL), which provides 100 mg of tildrakizumab per syringe. If a dose is missed, administer the dose as soon as possible. Thereafter, resume dosing at the regularly scheduled interval. 2.4 Preparation and Administration of ILUMYA Before injection, remove ILUMYA carton from the refrigerator, and let the prefilled syringe (in the ILUMYA carton with the lid closed) sit at room temperature for 30 minutes. Follow the instructions on the ILUMYA carton to remove the prefilled syringe correctly, and remove only when ready to inject. Do not pull off the needle cover until you are ready to inject. Inspect ILUMYA visually for particulate matter and discoloration prior to administration. ILUMYA is a clear to slightly opalescent, colorless to slightly yellow solution. Do not use if the liquid contains visible particles or the syringe is damaged. Air bubbles may be present; there is no need to remove them. Choose an injection site with clear skin and easy access (such as abdomen, thighs, or upper arm). Do not administer 2 inches around the navel or where the skin is tender, bruised, erythematous, indurated, or affected by psoriasis. Also, do not inject into scars, stretch marks, or blood vessels. While holding the body of the syringe, pull the needle cover straight off (do not twist) and discard. Inject ILUMYA subcutaneously as recommended [see Dosage and Administration (2.3) ] . Press down the blue plunger until it can go no further. This activates the safety mechanism that will ensure full retraction of the needle after the injection is given. Remove the needle from the skin entirely before letting go of the blue plunger. After the blue plunger is released, the safety lock will draw the needle inside the needle guard. Discard any unused portion. Dispose of used syringe. image-1 image-2 image-3",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ILUMYA \u00ae is indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy. ILUMYA is an interleukin-23 antagonist indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "BLA761067"
+    ],
+    "brand_name": [
+      "ILUMYA"
+    ],
+    "generic_name": [
+      "TILDRAKIZUMAB-ASMN"
+    ],
+    "manufacturer_name": [
+      "Sun Pharmaceutical Industries, Inc."
+    ],
+    "product_ndc": [
+      "47335-177"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "SUBCUTANEOUS"
+    ],
+    "substance_name": [
+      "TILDRAKIZUMAB"
+    ],
+    "rxcui": [
+      "2053453",
+      "2053458"
+    ],
+    "spl_id": [
+      "7718538c-3c74-4470-9951-cf9634ab2f31"
+    ],
+    "spl_set_id": [
+      "c6a322bb-51b9-4f0e-8642-62a9682ffcde"
+    ],
+    "package_ndc": [
+      "47335-177-10",
+      "47335-177-01",
+      "47335-177-95",
+      "47335-177-96"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000192799",
+      "N0000192798"
+    ],
+    "pharm_class_epc": [
+      "Interleukin-23 Antagonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Interleukin-23 Antagonists [MoA]"
+    ],
+    "unii": [
+      "DEW6X41BEK"
+    ]
+  }
+}

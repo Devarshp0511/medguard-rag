@@ -1,0 +1,76 @@
+{
+  "drug_name": "Nitroglycerin",
+  "drug_id": 520,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Tolerance: Excessive use may lead to tolerance. ( 5.1 ) \u2022 Hypotension: Severe hypotension may occur. ( 5.2 ) 5.1 Tolerance Excessive use may lead to the development of tolerance. Only the smallest dose required for effective relief of the acute angina attack should be used. A decrease in therapeutic effect of sublingual nitroglycerin may result from use of long-acting nitrates. 5.2 Hypotension Severe hypotension, particularly with upright posture, may occur with small doses of nitroglycerin particularly in patients with constrictive pericarditis, aortic or mitral stenosis, patients who may be volume-depleted, or are already hypotensive. Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris. Symptoms of severe hypotension (nausea, vomiting, weakness, pallor, perspiration and collapse/syncope) may occur even with therapeutic doses. 5.3 Hypertrophic Obstructive Cardiomyopathy Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy. 5.4 Headache Nitroglycerin produces dose-related headaches, especially at the start of nitroglycerin therapy, which may be severe and persist but usually subside with continued use.",
+    "drug_interactions": "7 DRUG INTERACTIONS Ergotamine: increased bioavailability of ergotamine. Avoid concomitant use. ( 7.2 ) 7.1 PDE-5-Inhibitors and sGC-Stimulators Nitroglycerin sublingual tablets are contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE-5). PDE-5-Inhibitors such as avanafil, sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates. Nitroglycerin sublingual tablets are contraindicated in patients who are taking soluble guanylate cyclase (sGC) stimulators. Concomitant use can cause hypotension. The time course and dose dependence of these interactions have not been studied, and use within a few days of one another is not recommended. Appropriate supportive care for the severe hypotension has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion. 7.2 Ergotamine Oral administration of nitroglycerin markedly decreases the first-pass metabolism of dihydroergotamine and subsequently increases its oral bioavailability. Ergotamine is known to precipitate angina pectoris. Therefore, patients receiving sublingual nitroglycerin should avoid ergotamine and related drugs or be monitored for symptoms of ergotism if this is not possible. Drug interactions Aspirin: Coadministration of nitroglycerin with high dose aspirin (1000 mg) results in increased exposure to nitroglycerin. The vasodilatory and hemodynamic effects of nitroglycerin may be enhanced by concomitant administration of nitroglycerin with high dose aspirin. Tissue-type plasminogen activator (t-PA) : Concomitant administration of t-PA and intravenous nitroglycerin has been shown to reduce plasma levels of t-PA and its thrombolytic effect.",
+    "contraindications": "4 CONTRAINDICATIONS \u2022 Use of phosphodiesterase type 5 (PDE-5) inhibitors, such as avanafil, sildenafil, tadalafil, or vardenafil, or soluble guanylate cyclase (sGC) stimulators. ( 4.1 , 7.1 ) \u2022 Severe anemia ( 4.2 ) \u2022 Increased intracranial pressure ( 4.3 ) \u2022 Hypersensitivity to nitroglycerin or to other nitrates or nitrites or any excipient ( 4.4 ) \u2022 Circulatory failure and shock ( 4.5 ) 4.1 PDE-5-Inhibitors and sGC-Stimulators Do not use nitroglycerin sublingual tablets in patients who are taking PDE-5 Inhibitors, such as avanafil, sildenafil, tadalafil, vardenafil hydrochloride. Concomitant use can cause severe hypotension, syncope, or myocardial ischemia [see Drug Interactions (7.1) ]. Do not use nitroglycerin sublingual tablets in patients who are taking the soluble guanylate cyclase stimulators, such as riociguat. Concomitant use can cause hypotension. 4.2 Severe Anemia Nitroglycerin sublingual tablets are contraindicated in patients with severe anemia (large doses of nitroglycerin may cause oxidation of hemoglobin to methemoglobin and could exacerbate anemia). 4.3 Increased Intracranial Pressure Nitroglycerin sublingual tablets may precipitate or aggravate increased intracranial pressure and thus should not be used in patients with possible increased intracranial pressure (e.g., cerebral hemorrhage or traumatic brain injury). 4.4 Hypersensitivity Nitroglycerin sublingual tablets are contraindicated in patients who are allergic to nitroglycerin, other nitrates or nitrites or any excipient. 4.5 Circulatory Failure and Shock Nitroglycerin sublingual tablets are contraindicated in patients with acute circulatory failure or shock.",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Administer one tablet under the tongue or in the buccal pouch at the first sign of an acute anginal attack. Allow tablet to dissolve without swallowing. One additional tablet may be administered every 5 minutes until relief is obtained. No more than three tablets are recommended within a 15-minute period. If the pain persists after a total of 3 tablets in a 15-minute period, or if the pain is different than is typically experienced, seek prompt medical attention. Nitroglycerin sublingual tablets may be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack. For patients with xerostomia, a small sip of water prior to placing the tablet under the tongue may help maintain mucosal hydration and aid dissolution of the tablet. Administer nitroglycerin sublingual tablets at rest, preferably in the sitting position. \u2022 At the onset of an attack, administer one tablet under the tongue or buccal pouch. One additional tablet may be administered every 5 minutes as needed. No more than 3 total tablets are recommended within a 15 minute period. ( 2 ) \u2022 If chest pain persists after three tablets, seek prompt medical attention. ( 2 ) \u2022 May be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack. ( 2 )",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Nitroglycerin sublingual tablets are indicated for the acute relief of an attack or acute prophylaxis of angina pectoris due to coronary artery disease. Nitroglycerin sublingual tablets are a nitrate vasodilator indicated for relief of an attack or prophylaxis of angina pectoris due to coronary artery disease. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA021134"
+    ],
+    "brand_name": [
+      "NITROGLYCERIN"
+    ],
+    "generic_name": [
+      "NITROGLYCERIN"
+    ],
+    "manufacturer_name": [
+      "Mylan Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "59762-0489",
+      "59762-4921",
+      "59762-3304"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "SUBLINGUAL"
+    ],
+    "substance_name": [
+      "NITROGLYCERIN"
+    ],
+    "rxcui": [
+      "198038",
+      "198039",
+      "198040"
+    ],
+    "spl_id": [
+      "2ac009f2-257f-4603-a1e8-c50aa9e31f4b"
+    ],
+    "spl_set_id": [
+      "041f127e-5166-4484-bc1a-0a373d1187ae"
+    ],
+    "package_ndc": [
+      "59762-4921-1",
+      "59762-3304-1",
+      "59762-3304-3",
+      "59762-0489-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175415",
+      "M0014874",
+      "N0000009909"
+    ],
+    "pharm_class_epc": [
+      "Nitrate Vasodilator [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Nitrates [CS]"
+    ],
+    "pharm_class_pe": [
+      "Vasodilation [PE]"
+    ],
+    "unii": [
+      "G59M7S0WS3"
+    ]
+  }
+}

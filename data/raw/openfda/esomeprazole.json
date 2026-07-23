@@ -1,0 +1,54 @@
+{
+  "drug_name": "Esomeprazole",
+  "drug_id": 767,
+  "sections": {
+    "warnings": "Warnings Allergy alert : Do not use if you are allergic to esomeprazole. Esomeprazole may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If an allergic reaction occurs, stop use and seek medical help right away.",
+    "dosage_and_administration": "Directions adults 18 years of age and older this product is to be used once a day (every 24 hours), every day for 14 days may take 1 to 4 days for full effect 14-Day Course of Treatment \u2022 swallow 1 tablet with a glass of water before eating in the morning \u2022 take every day for 14 days \u2022 do not take more than 1 tablet a day \u2022 swallow whole. Do not crush or chew capsules. \u2022 do not use for more than 14 days unless directed by your doctor Repeated 14-Day Courses (if needed) \u2022 you may repeat a 14-day course every 4 months \u2022 do not take for more than 14 days or more often than every 4 months unless directed by a doctor children under 18 years of age: ask a doctor before use. Heartburn in children may sometimes be caused by a serious condition .",
+    "indications_and_usage": "Uses treats frequent heartburn (occurs 2 or more days a week) not intended for immediate relief of heartburn; this drug may take 1 to 4 days for full effect"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA212088"
+    ],
+    "brand_name": [
+      "Acid Reducer"
+    ],
+    "generic_name": [
+      "ESOMEPRAZOLE MAGNESIUM"
+    ],
+    "manufacturer_name": [
+      "CVS Pharmacy"
+    ],
+    "product_ndc": [
+      "69842-679"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ESOMEPRAZOLE MAGNESIUM"
+    ],
+    "rxcui": [
+      "433733"
+    ],
+    "spl_id": [
+      "5f0bc616-6126-4f48-b56c-e8874aed6e90"
+    ],
+    "spl_set_id": [
+      "001817ea-906e-47f7-8605-41ba5a9abd21"
+    ],
+    "package_ndc": [
+      "69842-679-14",
+      "69842-679-42"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "R6DXU4WAY9"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "drug_name": "Flucytosine",
+  "drug_id": 1316,
+  "sections": {
+    "boxed_warning": "WARNING Use with extreme caution in patients with impaired renal function. Close monitoring of hematologic, renal and hepatic status of all patients is essential. These instructions should be thoroughly reviewed before administration of Flucytosine Capsules USP.",
+    "warnings": "WARNINGS Flucytosine Capsules USP must be given with extreme caution to patients with impaired renal function. Since Flucytosine Capsules USP is excreted primarily by the kidneys, renal impairment may lead to accumulation of the drug. Flucytosine Capsules USP serum concentrations should be monitored to determine the adequacy of renal excretion in such patients. Dosage adjustments should be made in patients with renal insufficiency to prevent progressive accumulation of active drug. Flucytosine Capsules USP must be given with extreme caution to patients with bone marrow depression. Patients may be more prone to depression of bone marrow function if they: 1) have a hematologic disease, 2) are being treated with radiation or drugs which depress bone marrow, or 3) have a history of treatment with such drugs or radiation. Bone marrow toxicity can be irreversible and may lead to death in immunosuppressed patients. Frequent monitoring of hepatic function and of the hematopoietic system is indicated during therapy. 5-Fluorouracil is a metabolite of flucytosine. Dihydropyrimidine dehydrogenase is a key enzyme involved in the metabolism and elimination of 5-fluorouracil. Therefore, the risk of severe drug toxicity is increased when Flucytosine Capsules, USP is used in individuals with deficiency in DPD. Possible drug toxicities include mucositis, diarrhea, neutropenia, and neurotoxicity. Determination of DPD activity may be considered where drug toxicity is confirmed or suspected. In the event of suspected drug toxicity, consider stopping Flucytosine Capsules USP, treatment.",
+    "drug_interactions": "Drug Interactions Cytosine arabinoside, a cytostatic agent, has been reported to inactivate the antifungal activity of Flucytosine Capsules USP by competitive inhibition. Drugs which impair glomerular filtration may prolong the biological half-life of flucytosine.",
+    "contraindications": "CONTRAINDICATIONS Flucytosine Capsules, USP is contraindicated in patients with a known hypersensitivity to the drug. Flucytosine Capsules, USP is contraindicated in patients with known complete dihydropyrimidine dehydrogenase (DPD) enzyme deficiency (see WARNINGS ).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The usual dosage of Flucytosine Capsules USP is 50 to 150 mg/kg/day administered in divided doses at 6-hour intervals. Nausea or vomiting may be reduced or avoided if the capsules are given a few at a time over a 15-minute period. If the BUN or the serum creatinine is elevated, or if there are other signs of renal impairment, the initial dose should be at the lower level (see WARNINGS ). Flucytosine Capsules USP should be used in combination with amphotericin B for the treatment of systemic candidiasis and cryptococcosis because of the emergence of resistance to Flucytosine Capsules USP (See MICROBIOLOGY ).",
+    "indications_and_usage": "INDICATIONS AND USAGE Flucytosine Capsules USP is indicated only in the treatment of serious infections caused by susceptible strains of Candida and/or Cryptococcus . Candida: Septicemia, endocarditis and urinary system infections have been effectively treated with flucytosine. Limited trials in pulmonary infections justify the use of flucytosine. Cryptococcus: Meningitis and pulmonary infections have been treated effectively. Studies in septicemias and urinary tract infections are limited, but good responses have been reported. Flucytosine Capsules USP should be used in combination with amphotericin B for the treatment of systemic candidiasis and cryptococcosis because of the emergence of resistance to Flucytosine Capsules USP (See MICROBIOLOGY )."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA204652"
+    ],
+    "brand_name": [
+      "Flucytosine"
+    ],
+    "generic_name": [
+      "FLUCYTOSINE"
+    ],
+    "manufacturer_name": [
+      "Major Pharmaceuticals"
+    ],
+    "product_ndc": [
+      "0904-6834",
+      "0904-6835"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FLUCYTOSINE"
+    ],
+    "rxcui": [
+      "197702",
+      "197703"
+    ],
+    "spl_id": [
+      "f6d603f8-d4ee-4541-928a-eb81b26bd4db"
+    ],
+    "spl_set_id": [
+      "01d874f9-e073-4092-94ad-da361551d4bf"
+    ],
+    "package_ndc": [
+      "0904-6834-07",
+      "0904-6835-07"
+    ],
+    "original_packager_product_ndc": [
+      "43386-771",
+      "43386-770"
+    ],
+    "nui": [
+      "N0000175459",
+      "N0000175467"
+    ],
+    "pharm_class_epc": [
+      "Nucleoside Analog Antifungal [EPC]"
+    ],
+    "unii": [
+      "D83282DT06"
+    ]
+  }
+}

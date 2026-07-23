@@ -1,0 +1,58 @@
+{
+  "drug_name": "Defibrotide",
+  "drug_id": 53,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS \u2022 Hemorrhage: Monitor patients for bleeding. Withhold or discontinue DEFITELIO if significant bleeding occurs. ( 2.3 , 5.1 ) \u2022 Hypersensitivity Reactions: If severe or life threatening allergic reaction occurs, discontinue DEFITELIO, treat according to standard of care, and monitor until signs and symptoms resolve. ( 2.3 , 5.2 ) 5.1 Hemorrhage DEFITELIO increased the activity of fibrinolytic enzymes in vitro, and it may increase the risk of bleeding in patients with VOD after hematopoietic stem-cell transplantation (HSCT). Do not initiate DEFITELIO in patients with active bleeding. Monitor patients for signs of bleeding. If patients on DEFITELIO develop bleeding, discontinue DEFITELIO, treat the underlying cause, and provide supportive care until the bleeding has stopped [see Dosage and Administration (2.3) ] . Concomitant use of DEFITELIO and a systemic anticoagulant or fibrinolytic therapy (not including use for routine maintenance or reopening of central venous lines) may increase the risk of bleeding. Discontinue anticoagulants and fibrinolytic agents prior to DEFITELIO treatment, and consider delaying the start of DEFITELIO administration until the effects of the anticoagulant have abated [see Contraindications (4) ] . 5.2 Hypersensitivity Reactions Hypersensitivity reactions have occurred in less than 2% of patients treated with DEFITELIO. These reactions include rash, urticaria and angioedema. One case of an anaphylactic reaction was reported in a patient who had previously received DEFITELIO. Monitor patients for hypersensitivity reactions, especially if there is a history of previous exposure. If a severe hypersensitivity reaction occurs, discontinue DEFITELIO, treat according to the standard of care, and monitor until symptoms resolve [see Dosage and Administration (2.3) ] .",
+    "drug_interactions": "7 DRUG INTERACTIONS Antithrombotic Agents DEFITELIO may enhance the pharmacodynamic activity of antithrombotic/fibrinolytic drugs such as heparin or alteplase. Concomitant use of DEFITELIO with antithrombotic or fibrinolytic drugs is contraindicated because of an increased risk of hemorrhage [see Contraindications (4) ] . \u2022 DEFITELIO may enhance the activity of antithrombotic/fibrinolytic drugs. ( 7 )",
+    "contraindications": "4 CONTRAINDICATIONS The use of DEFITELIO is contraindicated in the following conditions: \u2022 Concomitant administration with systemic anticoagulant or fibrinolytic therapy [see Warnings and Precautions (5.1) ] \u2022 Known hypersensitivity to DEFITELIO or to any of its excipients [see Warnings and Precautions (5.2) ] \u2022 Concomitant administration with systemic anticoagulant or fibrinolytic therapy. ( 4 ) \u2022 Known hypersensitivity to DEFITELIO or to any of its excipients. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION \u2022 Administer DEFITELIO 6.25 mg/kg every 6 hours given as a 2-hour intravenous infusion. ( 2.1 ) \u2022 Treat for a minimum of 21 days. If after 21 days signs and symptoms of VOD have not resolved, continue treatment until resolution. ( 2.1 ) 2.1 Recommended Dosage The recommended dosage of DEFITELIO for adult and pediatric patients is 6.25 mg/kg every 6 hours given as a 2\u2011hour intravenous infusion. The dose should be based on patient\u2019s baseline body weight, defined as the patient\u2019s weight prior to the preparative regimen for HSCT. Administer DEFITELIO for a minimum of 21 days. If after 21 days signs and symptoms of hepatic VOD have not resolved, continue DEFITELIO until resolution of VOD or up to a maximum of 60 days. 2.2 Administration Instructions \u2022 DEFITELIO must be diluted prior to infusion [see Dosage and Administration (2.4) ] . \u2022 Prior to administration of DEFITELIO, confirm that the patient is not experiencing clinically significant bleeding and is hemodynamically stable on no more than one vasopressor [see Warnings and Precautions (5.1) ] . \u2022 Administer DEFITELIO by constant intravenous infusion over a 2-hour period. \u2022 Administer the diluted DEFITELIO solution using an infusion set equipped with a 0.2 micron in-line filter. Flush the intravenous administration line (peripheral or central) with 5% Dextrose Injection, USP or 0.9% Sodium Chloride Injection, USP immediately before and after administration. \u2022 Do not co\u2011administer DEFITELIO and other intravenous drugs concurrently within the same intravenous line. 2.3 Treatment Modification Treatment modification, including temporary or permanent discontinuation of DEFITELIO, should follow the recommendations in Table 1. Table 1: Treatment Modifications for Toxicity or Invasive Procedures Event Recommended Action Hypersensitivity Reaction Severe or life-threatening (anaphylaxis) 1. Discontinue DEFITELIO permanently; do not resume treatment. Bleeding Persistent, severe or potentially life-threatening 1. Withhold DEFITELIO. 2. Treat the cause of bleeding and give supportive care as clinically indicated. 3. Consider resuming treatment (at the same dose and infusion volume) when bleeding has stopped and the patient is hemodynamically stable. Recurrent significant bleeding 1. Discontinue DEFITELIO permanently; do not resume treatment. Invasive Procedures 1. There is no known reversal agent for the profibrinolytic effects of DEFITELIO. Discontinue DEFITELIO infusion at least 2 hours prior to an invasive procedure. 2. Resume DEFITELIO treatment after the procedure as soon as any procedure-related risk of bleeding is resolved. 2.4 Preparation Instructions Dilute DEFITELIO in 5% Dextrose Injection, USP or 0.9% Sodium Chloride Injection, USP to a concentration of 4 mg/mL to 20 mg/mL. Administer the diluted solution over 2 hours. Vials contain no antimicrobial preservatives and are intended for a single-patient-use only. Partially used vials should be discarded. Use the diluted DEFITELIO solution within 4 hours if stored at room temperature or within 24 hours if stored under refrigeration. Up to four doses of DEFITELIO solution may be prepared at one time, if refrigerated. Preparation Instructions: \u2022 Determine the dose (mg) and number of vials of DEFITELIO based on the individual patient\u2019s baseline weight (weight prior to the preparative regimen for HSCT). \u2022 Calculate the volume of DEFITELIO needed, withdraw this amount from the vial(s) and add it to the infusion bag containing 0.9% Sodium Chloride Injection or 5% Dextrose Injection for each dose to make a final concentration of 4 mg/mL to 20 mg/mL. \u2022 Gently mix the solution for infusion. \u2022 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Only clear solutions without visible particles should be used. Depending on the type and amount of diluent, the color of the diluted solution may vary from colorless to light yellow.",
+    "dosage_and_administration_table": "<table width=\"100%\"><col width=\"42%\"/><col width=\"58%\"/><tbody><tr styleCode=\"Toprule\"><td valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"><paragraph><content styleCode=\"bold\">Event</content></paragraph></td><td valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"><paragraph><content styleCode=\"bold\">Recommended Action</content></paragraph></td></tr><tr><td valign=\"top\" styleCode=\"Rrule Lrule Botrule \"><paragraph><content styleCode=\"bold\">Hypersensitivity Reaction</content></paragraph></td><td valign=\"top\" styleCode=\"Rrule Lrule Toprule Botrule \"/></tr><tr><td valign=\"top\" styleCode=\"Rrule Lrule Botrule \"><paragraph>Severe or life-threatening (anaphylaxis)</paragraph></td><td valign=\"top\" styleCode=\"Rrule Lrule Toprule Botrule \"><list listType=\"ordered\"><item><caption>1.</caption>Discontinue DEFITELIO permanently; do not resume treatment.</item></list></td></tr><tr><td valign=\"top\" styleCode=\"Rrule Lrule Botrule \"><paragraph><content styleCode=\"bold\">Bleeding</content></paragraph></td><td valign=\"top\" styleCode=\"Rrule Lrule Toprule Botrule \"/></tr><tr><td valign=\"top\" styleCode=\"Rrule Lrule Botrule \"><paragraph>Persistent, severe or potentially life-threatening</paragraph></td><td valign=\"top\" styleCode=\"Rrule Lrule Toprule Botrule \"><list listType=\"ordered\"><item><caption>1.</caption>Withhold DEFITELIO.</item><item><caption>2.</caption>Treat the cause of bleeding and give supportive care as clinically indicated.</item><item><caption>3.</caption>Consider resuming treatment (at the same dose and infusion volume) when bleeding has stopped and the patient is hemodynamically stable.</item></list></td></tr><tr><td valign=\"top\" styleCode=\"Rrule Lrule Botrule \"><paragraph>Recurrent significant bleeding</paragraph></td><td valign=\"top\" styleCode=\"Rrule Lrule Toprule Botrule \"><list listType=\"ordered\"><item><caption>1.</caption>Discontinue DEFITELIO permanently; do not resume treatment.</item></list></td></tr><tr><td valign=\"top\" styleCode=\"Rrule Lrule Botrule \"><paragraph><content styleCode=\"bold\">Invasive Procedures</content></paragraph></td><td valign=\"top\" styleCode=\"Rrule Lrule Toprule Botrule \"/></tr><tr styleCode=\"Botrule\"><td valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"/><td valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"><list listType=\"ordered\"><item><caption>1.</caption>There is no known reversal agent for the profibrinolytic effects of DEFITELIO. Discontinue DEFITELIO infusion at least 2 hours prior to an invasive procedure.</item><item><caption>2.</caption>Resume DEFITELIO treatment after the procedure as soon as any procedure-related risk of bleeding is resolved.</item></list></td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE DEFITELIO is indicated for the treatment of adult and pediatric patients with hepatic veno-occlusive disease (VOD), also known as sinusoidal obstruction syndrome (SOS), with renal or pulmonary dysfunction following hematopoietic stem-cell transplantation (HSCT). DEFITELIO is indicated for the treatment of adult and pediatric patients with hepatic veno-occlusive disease (VOD), also known as sinusoidal obstruction syndrome (SOS), with renal or pulmonary dysfunction following hematopoietic stem-cell transplantation (HSCT). ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA208114"
+    ],
+    "brand_name": [
+      "DEFITELIO"
+    ],
+    "generic_name": [
+      "DEFIBROTIDE SODIUM"
+    ],
+    "manufacturer_name": [
+      "Jazz Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "68727-800"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "DEFIBROTIDE SODIUM"
+    ],
+    "rxcui": [
+      "1746527",
+      "1746532"
+    ],
+    "spl_id": [
+      "0269ad44-e351-4411-8866-d8d53e28fb74"
+    ],
+    "spl_set_id": [
+      "2c3db989-d7ad-41ed-9ebf-698dcf6c24ec"
+    ],
+    "package_ndc": [
+      "68727-800-01",
+      "68727-800-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7CHH2B2J0"
+    ]
+  }
+}

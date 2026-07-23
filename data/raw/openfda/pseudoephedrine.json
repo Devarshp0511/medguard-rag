@@ -1,0 +1,54 @@
+{
+  "drug_name": "Pseudoephedrine",
+  "drug_id": 183,
+  "sections": {
+    "warnings": "Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland When using this product do not exceed recommended dosage Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with a fever If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "dosage_and_administration": "Directions adults and children 12 years and over take 1 tablet every 12 hours do not take more than 2 tablets in 24 hours children under 12 years do not use this product in children under 12 years of age",
+    "dosage_and_administration_table": "<table width=\"40%\" styleCode=\"Noautorules\"><col width=\"40%\" align=\"left\" valign=\"top\"/><col width=\"60%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">adults and children 12 years and over</td><td><list styleCode=\"square\" listType=\"unordered\"><item>take 1 tablet every 12 hours</item><item>do not take more than 2 tablets in 24 hours</item></list></td></tr><tr><td styleCode=\"Rrule\">children under 12 years</td><td>do not use this product in children under 12 years of age</td></tr></tbody></table>",
+    "indications_and_usage": "Uses temporarily relieves nasal congestion due to the common cold, hay fever or other upper respiratory allergies temporarily relieves sinus congestion and pressure"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077442"
+    ],
+    "brand_name": [
+      "Pseudoephedrine hydrochloride"
+    ],
+    "generic_name": [
+      "PSEUDOEPHEDRINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "The Kroger Company"
+    ],
+    "product_ndc": [
+      "30142-967"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PSEUDOEPHEDRINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1049154"
+    ],
+    "spl_id": [
+      "77ce98b8-4c34-41de-8d2b-45137f48a692"
+    ],
+    "spl_set_id": [
+      "00a8327b-41f0-4498-ad13-331256b539f9"
+    ],
+    "package_ndc": [
+      "30142-967-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "6V9V2RYJ8N"
+    ]
+  }
+}

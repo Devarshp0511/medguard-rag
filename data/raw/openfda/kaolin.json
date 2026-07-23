@@ -1,0 +1,50 @@
+{
+  "drug_name": "Kaolin",
+  "drug_id": 1121,
+  "sections": {
+    "warnings": "When using cosmetics or after use, do not expose to direct sunlight. Consult with a specialist if there are any abnormal symptoms or side effects such as red spots, swelling, or itching in the area of use due to the use of the product. Keep out of reach of children b) Keep away from direct sunlight . Avoid use around the eyes",
+    "dosage_and_administration": "topical use only",
+    "indications_and_usage": "After washing your face, use a toner to refine your skin texture. 2. Take an appropriate amount of the mask and apply it evenly over the entire face, avoiding the eye area. 3. After 10 to 20 minutes after applying the product, rinse thoroughly with lukewarm water"
+  },
+  "openfda_meta": {
+    "brand_name": [
+      "Derladie Vegan Pink Clay Mask Deep Pore Tightening"
+    ],
+    "generic_name": [
+      "KAOLIN"
+    ],
+    "manufacturer_name": [
+      "LAON COMMERCE co ltd"
+    ],
+    "product_ndc": [
+      "82083-0027"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "KAOLIN"
+    ],
+    "spl_id": [
+      "0be4881b-9f86-764a-e063-6394a90a77bf"
+    ],
+    "spl_set_id": [
+      "0be49a3c-ca6d-e83b-e063-6394a90a6e5d"
+    ],
+    "package_ndc": [
+      "82083-0027-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "8809713361758"
+    ],
+    "unii": [
+      "24H4NWX5CO"
+    ]
+  }
+}

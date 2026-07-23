@@ -1,0 +1,53 @@
+{
+  "drug_name": "Clobetasol",
+  "drug_id": 1447,
+  "sections": {
+    "contraindications": "CONTRAINDICATIONS Clobetasol propionate ointment is contraindicated in those patients with a history of hypersensitivity to any of the components of the preparations.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Apply a thin layer of clobetasol propionate ointment to the affected skin areas twice daily and rub in gently and completely. (See INDICATIONS AND USAGE .) Clobetasol propionate ointment are super- high potency topical corticosteroids; therefore, treatment should be limited to 2 consecutive weeks , and amounts greater than 50 g per week should not be used . As with other highly active corticosteroids, therapy should be discontinued when control has been achieved. If no improvement is seen within 2 weeks, reassessment of diagnosis may be necessary. Clobetasol propionate ointment should not be used with occlusive dressings . Geriatric Use : In studies where geriatric patients (65 years of age or older, see PRECAUTIONS ) have been treated with clobetasol propionate ointment, safety did not differ from that in younger patients; therefore, no dosage adjustment is recommended.",
+    "indications_and_usage": "INDICATIONS AND USAGE Clobetasol propionate ointment USP, 0.05% is super-high potency corticosteroid formulations indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Treatment beyond 2 consecutive weeks is not recommended, and the total dosage should not exceed 50 g/week because of the potential for the drug to suppress the hypothalamic-pituitary- adrenal (HPA) axis. Use in pediatric patients under 12 years of age is not recommended. As with other highly active corticosteroids, therapy should be discontinued when control has been achieved. If no improvement is seen within 2 weeks, reassessment of the diagnosis may be necessary."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA211295"
+    ],
+    "brand_name": [
+      "Clobetasol Propionate"
+    ],
+    "generic_name": [
+      "CLOBETASOL PROPIONATE OINTMENT USP, 0.05%"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "63629-2456"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CLOBETASOL PROPIONATE"
+    ],
+    "rxcui": [
+      "861448"
+    ],
+    "spl_id": [
+      "734aafd4-05a6-4c72-a08a-fb0ca7ba8809"
+    ],
+    "spl_set_id": [
+      "032f1f4e-1f1c-409a-8fac-6449ee543caa"
+    ],
+    "package_ndc": [
+      "63629-2456-1"
+    ],
+    "original_packager_product_ndc": [
+      "21922-017"
+    ],
+    "unii": [
+      "779619577M"
+    ]
+  }
+}

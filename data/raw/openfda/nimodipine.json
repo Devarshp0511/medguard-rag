@@ -1,0 +1,70 @@
+{
+  "drug_name": "Nimodipine",
+  "drug_id": 793,
+  "sections": {
+    "boxed_warning": "DO NOT ADMINISTER NIMODIPINE INTRAVENOUSLY OR BY OTHER PARENTERAL ROUTES. DEATHS AND SERIOUS, LIFE THREATENING ADVERSE EVENTS HAVE OCCURRED WHEN THE CONTENTS OF NIMODIPINE CAPSULES HAVE BEEN INJECTED PARENTERALLY (See WARNINGS and DOSAGE AND ADMINISTRATION ).",
+    "warnings": "WARNINGS DEATH DUE TO INADVERTENT INTRAVENOUS ADMINISTRATION: DO NOT ADMINISTER NIMODIPINE INTRAVENOUSLY OR BY OTHER PARENTERAL ROUTES. DEATHS AND SERIOUS, LIFE THREATENING ADVERSE EVENTS, INCLUDING CARDIAC ARREST, CARDIOVASCULAR COLLAPSE, HYPOTENSION, AND BRADYCARDIA, HAVE OCCURRED WHEN THE CONTENTS OF NIMODIPINE CAPSULES HAVE BEEN INJECTED PARENTERALLY (SEE DOSAGE AND ADMINISTRATION ). Reduced Efficacy with CYP3A4 Inducers: Concomitant use of strong CYP3A4 inducers (e.g. rifampin, phenobarbital, phenytoin, carbamazepine, St John's wort) and nimodipine should generally be avoided, as nimodipine plasma concentration and efficacy may be very significantly reduced (see PRECAUTIONS, Drug Interactions ). Moderate and weak inducers of CYP3A4 may also reduce the efficacy of nimodipine to a lesser extent. Patients on these should be closely monitored for lack of effectiveness, and a nimodipine dosage increase may be required. Moderate and weak CYP3A4 inhibitors include, for example: amprenavir, aprepitant, armodafinil, bosentan, efavirenz, etravirine, echinacea, modafinil, nafcillin, pioglitazone, prednisone and rufinamide.",
+    "contraindications": "CONTRAINDICATIONS The concomitant use of nimodipine with strong inhibitors of CYP3A4 such as some macrolide antibiotics (e.g., clarithromycin, telithromycin), some anti-HIV protease inhibitors (e.g., delaviridine, indinavir, nelfinavir, ritonavir, saquinavir), some azole antimycotics (e.g., ketoconazole, itraconazole, voriconazole) and some antidepressants (e.g., nefazadone) is contraindicated because of a risk of significant hypotension (see PRECAUTIONS, Drug Interactions ).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION DO NOT ADMINISTER NIMODIPINE CAPSULES INTRAVENOUSLY OR BY OTHER PARENTERAL ROUTES (see WARNINGS ). If nimodipine is inadvertently administered intravenously, clinically significant hypotension may require cardiovascular support with pressor agents. Specific treatments for calcium channel blocker overdose should also be given promptly. Nimodipine is given orally in the form of soft gelatin 30 mg capsules for subarachnoid hemorrhage. The recommended oral dose is 60 mg (two 30 mg capsules) every 4 hours for 21 consecutive days. In general, the capsules should be swallowed whole with a little liquid, preferably not less than one hour before or two hours after meals. Grapefruit juice is to be avoided (see PRECAUTIONS, Drug Interactions ). Oral nimodipine therapy should commence as soon as possible within 96 hours of the onset of subarachnoid hemorrhage. If the capsule cannot be swallowed, e.g., at the time of surgery, or if the patient is unconscious, a hole should be made in both ends of the capsule with an 18 gauge needle, and the contents of the capsule extracted into a syringe. A parenteral syringe can be used to extract the liquid inside the capsule, but the liquid should always be transferred to a syringe that cannot accept a needle and that is designed for administration orally or via a naso-gastric tube or PEG. To help minimize administration errors, it is recommended that the syringe used for administration be labeled \"Not for IV Use\". The contents should then be emptied into the patient's in situ naso-gastric tube and washed down the tube with 30 mL of normal saline (0.9%). Severely disturbed liver function, particularly liver cirrhosis, may result in an increased bioavailability of nimodipine due to a decreased first pass capacity and a reduced metabolic clearance. The reduction in blood pressure and other adverse effects may be more pronounced in these patients. Dosage should be reduced to one 30 mg capsule every 4 hours with close monitoring of blood pressure and heart rate; if necessary, discontinuation of the treatment should be considered. Strong inhibitors of CYP3A4 should not be administered concomitantly with nimodipine (see CONTRAINDICATIONS ). Strong inducers of CYP3A4 should generally not be administered with nimodipine (see WARNINGS ). Patients on moderate and weak inducers of CYP3A4 should be closely monitored for lack of effectiveness, and a nimodipine dose increase may be required. Patients on moderate and weak CYP3A4 inhibitors may require a nimodipine dose reduction in case of hypotension (see PRECAUTIONS, Drug Interactions ).",
+    "indications_and_usage": "INDICATIONS AND USAGE Nimodipine is indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in patients with subarachnoid hemorrhage from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I to V)."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077811"
+    ],
+    "brand_name": [
+      "nimodipine"
+    ],
+    "generic_name": [
+      "NIMODIPINE"
+    ],
+    "manufacturer_name": [
+      "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "23155-512"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NIMODIPINE"
+    ],
+    "rxcui": [
+      "198037"
+    ],
+    "spl_id": [
+      "05594f64-8cb4-4cc0-b1b9-93fb5313b197"
+    ],
+    "spl_set_id": [
+      "a323ebd8-ef1b-439b-93d1-ba73a5b0127d"
+    ],
+    "package_ndc": [
+      "23155-512-30",
+      "23155-512-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000000069",
+      "N0000175421",
+      "M0006414"
+    ],
+    "pharm_class_moa": [
+      "Calcium Channel Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Dihydropyridine Calcium Channel Blocker [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Dihydropyridines [CS]"
+    ],
+    "unii": [
+      "57WA9QZ5WH"
+    ]
+  }
+}

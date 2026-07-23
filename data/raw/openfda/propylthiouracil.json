@@ -1,0 +1,68 @@
+{
+  "drug_name": "Propylthiouracil",
+  "drug_id": 1275,
+  "sections": {
+    "boxed_warning": "WARNING Severe liver injury and acute liver failure, in some cases fatal, have been reported in patients treated with propylthiouracil. These reports of hepatic reactions include cases requiring liver transplantation in adult and pediatric patients. Propylthiouracil should be reserved for patients who cannot tolerate methimazole and in whom radioactive iodine therapy or surgery are not appropriate treatments for the management of hyperthyroidism. Propylthiouracil may be the treatment of choice when an antithyroid drug is indicated during or just prior to the first trimester of pregnancy (see Warnings and Precautions ).",
+    "warnings": "WARNINGS Liver Toxicity Liver injury resulting in liver failure, liver transplantation, or death, has been reported with propylthiouracil therapy in adult and pediatric patients. No cases of liver failure have been reported with the use of methimazole in pediatric patients. For this reason, propylthiouracil is not recommended for pediatric patients except when methimazole is not well-tolerated and surgery or radioactive iodine therapy are not appropriate therapies. Biochemical monitoring of liver function (bilirubin, alkaline phosphatase) and hepatocellular integrity (ALT, AST) is not expected to attenuate the risk of severe liver injury due to its rapid and unpredictable onset. Patients should be informed of the risk of liver failure. Patients should be instructed to report any symptoms of hepatic dysfunction (anorexia, pruritus, right upper quadrant pain, etc.), particularly in the first six months of therapy. When these symptoms occur, propylthiouracil should be discontinued immediately and liver function tests and ALT and AST levels obtained. Use in Pregnancy There are cases of liver injury, including liver failure and death, in women treated with propylthiouracil during pregnancy. Two reports of in utero exposure with liver failure and death of a newborn have been reported. If propylthiouracil is used during pregnancy, or if the patient becomes pregnant while taking propylthiouracil, the patient should be warned of the rare potential hazard to the mother and fetus of liver damage. Propylthiouracil crosses the placenta and can cause fetal goiter and cretinism when administered to a pregnant woman (see Precautions, Pregnancy ). After the first trimester of pregnancy, the use of an alternative antithyroid medication may be advisable (see Precautions, Pregnancy ). Agranulocytosis Agranulocytosis occurs in approximately 0.2% to 0.5% of patients and is a potentially life-threatening side effect of propylthiouracil therapy. Agranulocytosis typically occurs within the first 3 months of therapy. Patients should be instructed to immediately report any symptoms suggestive of agranulocytosis, such as fever or sore throat. Leukopenia, thrombocytopenia, and aplastic anemia (pancytopenia) may also occur. Propylthiouracil should be discontinued if agranulocytosis, aplastic anemia (pancytopenia) is suspected, and the patient's bone marrow indices should be obtained. Vasculitis Cases of vasculitis resulting in severe complications and death have been reported in patients receiving propylthiouracil therapy. The cases of vasculitis include: glomerulonephritis, leukocytoclastic cutaneous vasculitis, alveolar/pulmonary hemorrhage, cerebral angiitis, and ischemic colitis. Most cases were associated with anti-neutrophilic cytoplasmic antibodies (ANCA)-positive vasculitis. In some cases, vasculitis resolved/improved with drug discontinuation; however, more severe cases required treatment with additional measures including corticosteroids, immunosuppressant therapy, and plasmapheresis. If vasculitis is suspected, discontinue therapy and initiate appropriate intervention. Hypothyroidism Propylthiouracil can cause hypothyroidism necessitating routine monitoring of TSH and free T4 levels with adjustments in dosing to maintain a euthyroid state. Because the drug readily crosses placental membranes, propylthiouracil can cause fetal goiter and cretinism when administered to a pregnant woman (see Precaution, Pregnancy ).",
+    "contraindications": "CONTRAINDICATIONS Propylthiouracil is contraindicated in patients who have demonstrated hypersensitivity to the drug or any of the other product components.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Propylthiouracil is administered orally. The total daily dosage is usually given in 3 equal doses at approximately 8-hour intervals. Adults The initial dose is 300 mg daily. In patients with severe hyperthyroidism, very large goiters, or both, the initial dose may be increased to 400 mg daily; an occasional patient will require 600 to 900 mg daily initially. The usual maintenance dose is 100 to 150 mg daily. Pediatric Patients Propylthiouracil is generally not recommended for use in the pediatric patient population except in rare instances in which other alternative therapies are not appropriate options. Studies evaluating appropriate dosing regimen have not been conducted in the pediatric population although general practice would suggest initiation of therapy in patients 6 years or older at a dosage of 50 mg daily with careful upward titration based on clinical response and evaluation of TSH and free T4 levels. Although cases of severe liver injury have been reported with doses as low as 50 mg/day, most cases were associated with doses of 300 mg/day and higher. Geriatric Patients Clinical studies of propylthiouracil did not include sufficient numbers of subjects aged 65 or over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.",
+    "indications_and_usage": "INDICATIONS AND USAGE Propylthiouracil is indicated: in patients with Graves\u2019 disease with hyperthyroidism or toxic multinodular goiter who are intolerant of methimazole and for whom surgery or radioactive iodine therapy is not an appropriate treatment option to ameliorate symptoms of hyperthyroidism in preparation for thyroidectomy or radioactive iodine therapy in patients who are intolerant of methimazole."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA080016"
+    ],
+    "brand_name": [
+      "Propylthiouracil"
+    ],
+    "generic_name": [
+      "PROPYLTHIOURACIL"
+    ],
+    "manufacturer_name": [
+      "Chartwell RX, LLC"
+    ],
+    "product_ndc": [
+      "62135-606"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PROPYLTHIOURACIL"
+    ],
+    "rxcui": [
+      "198175"
+    ],
+    "spl_id": [
+      "0d6cc91d-1da2-25ae-e063-6394a90aa6a0"
+    ],
+    "spl_set_id": [
+      "53c5f586-3e72-479d-89ba-379683c8f6ba"
+    ],
+    "package_ndc": [
+      "62135-606-90"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0362135606909"
+    ],
+    "nui": [
+      "N0000175918",
+      "N0000175917"
+    ],
+    "pharm_class_epc": [
+      "Thyroid Hormone Synthesis Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Thyroid Hormone Synthesis Inhibitors [MoA]"
+    ],
+    "unii": [
+      "721M9407IY"
+    ]
+  }
+}

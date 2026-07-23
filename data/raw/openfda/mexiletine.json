@@ -1,0 +1,54 @@
+{
+  "drug_name": "Mexiletine",
+  "drug_id": 579,
+  "sections": {
+    "warnings": "WARNINGS BOXED WARNING WARNINGS Mortality In the National Heart, Lung and Blood Institute\u2019s Cardiac Arrhythmia Suppression Trial (CAST), a long-term, multicentered, randomized, double-blind study in patients with asymptomatic non-life-threatening ventricular arrhythmias who had a myocardial infarction more than six days but less than two years previously, an excessive mortality or non-fatal cardiac arrest rate (7.7%) was seen in patients treated with encainide or flecainide compared with that seen in patients assigned to carefully matched placebo-treated groups (3%). The average duration of treatment with encainide or flecainide in this study was ten months. The applicability of the CAST results to other populations (e.g., those without recent myocardial infarction) is uncertain. Considering the known proarrhythmic properties of mexiletine and the lack of evidence of improved survival for any antiarrhythmic drug in patients without life-threatening arrhythmias, the use of mexiletine as well as other antiarrhythmic agents should be reserved for patients with life-threatening ventricular arrhythmia. Acute Liver Injury In postmarketing experience abnormal liver function tests have been reported, some in the first few weeks of therapy with mexiletine hydrochloride. Most of these have been observed in the setting of congestive heart failure or ischemia and their relationship to mexiletine hydrochloride has not been established. Drug Reactions with Eosinophilia and Systemic Symptoms (DRESS) Drug reactions with eosinophilia and systemic symptoms (DRESS) have been reported in patients taking mexiletine. DRESS typically presents with eosinophilia, fever, rash, and/or lymphadenopathy in association with other organ involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection. Discontinue mexiletine if DRESS is suspected.",
+    "contraindications": "CONTRAINDICATIONS Mexiletine hydrochloride capsules are contraindicated in the presence of cardiogenic shock or preexisting second- or third-degree AV block (if no pacemaker is present).",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The dosage of mexiletine hydrochloride must be individualized on the basis of response and tolerance, both of which are dose-related. Administration with food or antacid is recommended. Initiate mexiletine therapy with 200 mg every eight hours when rapid control of arrhythmia is not essential. A minimum of two to three days between dose adjustments is recommended. Dose may be adjusted in 50 or 100 mg increments up or down. As with any antiarrhythmic drug, clinical and electrocardiographic evaluation (including Holter monitoring if necessary for evaluation) are needed to determine whether the desired antiarrhythmic effect has been obtained and to guide titration and dose adjustment. Satisfactory control can be achieved in most patients by 200 to 300 mg given every eight hours with food or antacid. If satisfactory response has not been achieved at 300 mg q8h, and the patient tolerates mexiletine well, a dose of 400 mg q8h may be tried. As the severity of CNS side effects increases with total daily dose, the dose should not exceed 1200 mg/day. In general, patients with renal failure will require the usual doses of mexiletine hydrochloride. Patients with severe liver disease, however, may require lower doses and must be monitored closely. Similarly, marked right-sided congestive heart failure can reduce hepatic metabolism and reduce the needed dose. Plasma level may also be affected by certain concomitant drugs (see PRECAUTIONS, Drug Interactions ). Loading Dose When rapid control of ventricular arrhythmia is essential, an initial loading dose of 400 mg of mexiletine hydrochloride may be administered, followed by a 200 mg dose in eight hours. Onset of therapeutic effect is usually observed within 30 minutes to two hours. Q12H Dosage Schedule Some patients responding to mexiletine may be transferred to a 12 hour dosage schedule to improve convenience and compliance. If adequate suppression is achieved on a mexiletine hydrochloride dose of 300 mg or less every eight hours, the same total daily dose may be given in divided doses every 12 hours while carefully monitoring the degree of suppression of ventricular ectopy. This dose may be adjusted up to a maximum of 450 mg every 12 hours to achieve the desired response. Transferring to Mexiletine Hydrochloride The following dosage schedule, based on theoretical considerations rather than experimental data, is suggested for transferring patients from other Class I oral antiarrhythmic agents to mexiletine: mexiletine hydrochloride treatment may be initiated with a 200 mg dose, and titrated to response as described above, 6 to 12 hours after the last dose of quinidine sulfate, 3 to 6 hours after the last dose of procainamide, 6 to 12 hours after the last dose of disopryramide or 8 to 12 hours after the last dose of tocainide. In patients in whom withdrawal of the previous antiarrhythmic agent is likely to produce life-threatening arrhythmias, hospitalization of the patient is recommended. When transferring from lidocaine to mexiletine, the lidocaine infusion should be stopped when the first oral dose of mexiletine hydrochloride is administered. The infusion line should be left open until suppression of the arrhythmia appears to be satisfactorily maintained. Consideration should be given to the similarity of the adverse effects of lidocaine and mexiletine and the possibility that they may be additive.",
+    "indications_and_usage": "INDICATIONS AND USAGE Mexiletine hydrochloride capsules, USP are indicated for the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, that, in the judgment of the physician, are life-threatening. Because of the proarrhythmic effects of mexiletine, its use with lesser arrhythmias is generally not recommended. Treatment of patients with asymptomatic ventricular premature contractions should be avoided. Initiation of mexiletine treatment, as with other antiarrhythmic agents used to treat life-threatening arrhythmias, should be carried out in the hospital. Antiarrhythmic drugs have not been shown to enhance survival in patients with ventricular arrhythmias."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA214089"
+    ],
+    "brand_name": [
+      "MEXILETINE HYDROCHLORIDE"
+    ],
+    "generic_name": [
+      "MEXILETINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "72162-1784"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MEXILETINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1362720"
+    ],
+    "spl_id": [
+      "19b815db-4a55-462d-a7c1-5fa18ab97789"
+    ],
+    "spl_set_id": [
+      "0ff45dbf-b555-4f55-a286-98bfaea9ea29"
+    ],
+    "package_ndc": [
+      "72162-1784-1"
+    ],
+    "original_packager_product_ndc": [
+      "62756-957"
+    ],
+    "unii": [
+      "606D60IS38"
+    ]
+  }
+}

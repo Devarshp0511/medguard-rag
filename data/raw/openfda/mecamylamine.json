@@ -1,0 +1,59 @@
+{
+  "drug_name": "Mecamylamine",
+  "drug_id": 293,
+  "sections": {
+    "warnings": "WARNINGS Mecamylamine, a secondary amine, readily penetrates into the brain and thus may produce central nervous system effects. Tremor, choreiform movements, mental aberrations, and convulsions may occur rarely. These have occurred most often when large doses of Mecamylamine HCl were used, especially in patients with cerebral or renal insufficiency. When ganglion blockers or other potent antihypertensive drugs are discontinued suddenly, hypertensive levels return. In patients with malignant hypertension and others, this may occur abruptly and may cause fatal cerebral vascular accidents or acute congestive heart failure. When Mecamylamine HCl is withdrawn, this should be done gradually and other antihypertensive therapy usually must be substituted. On the other hand, the effects of Mecamylamine HCl sometimes may last from hours to days after therapy is discontinued.",
+    "drug_interactions": "Drug Interactions Patients receiving antibiotics and sulfonamides generally should not be treated with ganglion blockers. The action of Mecamylamine HCl may be potentiated by anesthesia, other antihypertensive drugs and alcohol.",
+    "contraindications": "CONTRAINDICATIONS Mecamylamine HCl should not be used in mild, moderate, labile hypertension and may prove unsuitable in uncooperative patients. It is contraindicated in coronary insufficiency or recent myocardial infarction. Mecamylamine HCl should be given with great discretion, if at all, when renal insufficiency is manifested by a rising or elevated BUN. The drug is contraindicated in uremia. Patients receiving antibiotics and sulfonamides should generally not be treated with ganglion blockers. Other contraindications are glaucoma, organic pyloric stenosis or hypersensitivity to the product.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Therapy is usually started with one 2.5 mg tablet of Mecamylamine HCl twice a day. This initial dosage should be modified by increments of one 2.5 mg tablet at intervals of not less than 2 days until the desired blood pressure response occurs (the criterion being a dosage just under that which causes signs of mild postural hypotension). The average total daily dosage of Mecamylamine HCl is 25 mg, usually in three divided doses. However, as little as 2.5 mg daily may be sufficient to control hypertension in some patients. A range of two to four or even more doses may be required in severe cases when smooth control is difficult to obtain. In severe or urgent cases, larger increments at smaller intervals may be needed. Partial tolerance may develop in certain patients, requiring an increase in the daily dosage of Mecamylamine HCl. Administration of Mecamylamine HCl after meals may cause a more gradual absorption and smoother control of excessively high blood pressure. The timing of doses in relation to meals should be consistent. Since the blood pressure response to antihypertensive drugs is increased in the early morning, the larger dose should be given at noontime and perhaps in the evening. The morning dose, as a rule, should be relatively small and in some instances may even be omitted. The initial regulation of dosage should be determined by blood pressure readings in the erect position at the time of maximal effect of the drug, as well as by other signs and symptoms of orthostatic hypotension. The effective maintenance dosage should be regulated by blood pressure readings in the erect position and by limitation of dosage to that which causes slight faintness or dizziness in this position. If the patient or a relative can use a sphygmomanometer, instructions may be given to reduce or omit a dose if readings fall below a designated level or if faintness or lightheadedness occurs. However, no change should be instituted without the knowledge of the physician. Close supervision and education of the patient, as well as critical adjustment of dosage, are essential to successful therapy. Other Antihypertensive Agents When Mecamylamine HCl is given with other antihypertensive drugs, the dosage of these other agents, as well as that of Mecamylamine HCl, should be reduced to avoid excessive hypotension. However, thiazides should be continued in their usual dosage, while that of Mecamylamine HCl is decreased by at least 50 percent.",
+    "indications_and_usage": "INDICATIONS AND USAGE For the management of moderately severe to severe essential hypertension and in uncomplicated cases of malignant hypertension."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA204054"
+    ],
+    "brand_name": [
+      "Vecamyl"
+    ],
+    "generic_name": [
+      "MECAMYLAMINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Vyera Pharmaceuticals, LLC"
+    ],
+    "product_ndc": [
+      "69413-558"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MECAMYLAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1298874",
+      "1373008"
+    ],
+    "spl_id": [
+      "a29db678-f591-44c7-be1c-3ec7ae06bea7"
+    ],
+    "spl_set_id": [
+      "0774cc48-7287-4093-91d6-9df41a81408a"
+    ],
+    "package_ndc": [
+      "69413-558-40"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0369413558400"
+    ],
+    "unii": [
+      "4956DJR58O"
+    ]
+  }
+}

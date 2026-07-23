@@ -1,0 +1,57 @@
+{
+  "drug_name": "Apraclonidine",
+  "drug_id": 740,
+  "sections": {
+    "warnings": "WARNINGS FOR TOPICAL OPHTHALMIC USE ONLY. Not for injection or oral ingestion. Topical administration of apraclonidine have been reported to cause cardiovascular collapse requiring intubation and ventilation in pediatric patients 6 years and younger, including neonates. Systemic adverse reactions such as prolonged lethargy and unresponsiveness, apnea, hypoxia, respiratory failure, bradycardia, hypertension, hypotension, hypothermia, hypotonia, pallor have also been reported. Appropriate monitoring in a clinical setting should be in place.",
+    "drug_interactions": "DRUG INTERACTIONS Interactions with other agents have not been investigated.",
+    "contraindications": "CONTRAINDICATIONS IOPIDINE 1% Ophthalmic Solution is contraindicated for patients receiving monoamine oxidase inhibitor therapy and for patients with hypersensitivity to any component of this medication or to clonidine.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION One drop of IOPIDINE* 1% Ophthalmic Solution should be instilled in the scheduled operative eye one hour before initiating anterior segment laser surgery and a second drop should be instilled to the same eye immediately upon completion of the laser surgical procedure. Use a separate container for each single\u2011drop dose and discard each container after use.",
+    "indications_and_usage": "INDICATIONS AND USAGE IOPIDINE 1% Ophthalmic Solution is indicated to control or prevent post-surgical elevations in IOP that occur in patients after argon laser trabeculoplasty, argon laser iridotomy or Nd:YAG posterior capsulotomy."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA019779"
+    ],
+    "brand_name": [
+      "IOPIDINE 1%"
+    ],
+    "generic_name": [
+      "APRACLONIDINE HYDROCHLORIDE OPHTHALMIC SOLUTION"
+    ],
+    "manufacturer_name": [
+      "Harrow Eye, LLC"
+    ],
+    "product_ndc": [
+      "82667-200"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "APRACLONIDINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "211020",
+      "308346"
+    ],
+    "spl_id": [
+      "515542b6-cc36-ff77-e063-6294a90ad59e"
+    ],
+    "spl_set_id": [
+      "00f18845-ccde-8678-e063-6294a90a3374"
+    ],
+    "package_ndc": [
+      "82667-200-01",
+      "82667-200-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "D2VW67N38H"
+    ]
+  }
+}

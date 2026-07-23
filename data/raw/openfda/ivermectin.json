@@ -1,0 +1,64 @@
+{
+  "drug_name": "Ivermectin",
+  "drug_id": 1219,
+  "sections": {
+    "warnings": "WARNINGS Historical data have shown that microfilaricidal drugs, such as diethylcarbamazine citrate (DEC-C), might cause cutaneous and/or systemic reactions of varying severity (the Mazzotti reaction) and ophthalmological reactions in patients with onchocerciasis. These reactions are probably due to allergic and inflammatory responses to the death of microfilariae. Patients treated with ivermectin for onchocerciasis may experience these reactions in addition to clinical adverse reactions possibly, probably, or definitely related to the drug itself (See ADVERSE REACTIONS, Onchocerciasis ). The treatment of severe Mazzotti reactions has not been subjected to controlled clinical trials. Oral hydration, recumbency, intravenous normal saline, and/or parenteral corticosteroids have been used to treat postural hypotension. Antihistamines and/or aspirin have been used for most mild to moderate cases. Neurotoxicity with the use of ivermectin, including alteration of consciousness of variable severity (e.g., somnolence/drowsiness, stupor, and coma), confusion, disorientation and death, has been reported in patients without onchocerciasis or in patients with onchocerciasis in the absence of Loa loa infection. These reactions have generally resolved with supportive care and the discontinuation of ivermectin.",
+    "drug_interactions": "Drug Interactions Post-marketing reports of increased INR (International Normalized Ratio) have been rarely reported when ivermectin was co-administered with warfarin.",
+    "contraindications": "CONTRAINDICATIONS Ivermectin Tablets are contraindicated in patients who are hypersensitive to any component of this product.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Strongyloidiasis The recommended dosage of ivermectin Tablets for the treatment of strongyloidiasis is a single oral dose designed to provide approximately 200 mcg of ivermectin per kg of body weight. See Table 1 for dosage guidelines. Patients should take tablets on an empty stomach with water (See CLINICAL PHARMACOLOGY, Pharmacokinetics ). In general, additional doses are not necessary. However, follow-up stool examinations should be performed to verify eradication of infection (See CLINICAL PHARMACOLOGY, Clinical Studies ). Table 1: Dosage Guidelines for Ivermectin Tablets for Strongyloidiasis Body Weight (kg) Single Oral Dose Number of 3-mg Tablets 15-24 1 tablet 25-35 2 tablets 36-50 3 tablets 51-65 4 tablets 66-79 5 tablets \u2265 80 200 mcg/kg Onchocerciasis The recommended dosage of ivermectin Tablets for the treatment of onchocerciasis is a single oral dose designed to provide approximately 150 mcg of ivermectin per kg of body weight. See Table 2 for dosage guidelines. Patients should take tablets on an empty stomach with water (See CLINICAL PHARMACOLOGY, Pharmacokinetics ). In mass distribution campaigns in international treatment programs, the most commonly used dose interval is 12 months. For the treatment of individual patients, retreatment may be considered at intervals as short as 3 months. Table 2: Dosage Guidelines for Ivermectin Tablets for Onchocerciasis Body Weight (kg) Single Oral Dose Number of 3-mg Tablets 15-25 1 tablet 26-44 2 tablets 45-64 3 tablets 65-84 4 tablets \u2265 85 150 mcg/kg",
+    "dosage_and_administration_table": "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" ID=\"T1\" width=\"60%\"><caption>Table 1: Dosage Guidelines for Ivermectin Tablets for Strongyloidiasis</caption><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"><content styleCode=\"bold\">Body Weight (kg)</content></td><td styleCode=\"Rrule\" valign=\"middle\"><content styleCode=\"bold\">Single Oral Dose   Number of 3-mg Tablets </content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">15-24</td><td styleCode=\"Rrule\" valign=\"middle\">1 tablet</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">25-35</td><td styleCode=\"Rrule\" valign=\"middle\">2 tablets</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">36-50</td><td styleCode=\"Rrule\" valign=\"middle\">3 tablets</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">51-65</td><td styleCode=\"Rrule\" valign=\"middle\">4 tablets</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">66-79</td><td styleCode=\"Rrule\" valign=\"middle\">5 tablets</td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"middle\">&#x2265; 80</td><td styleCode=\"Rrule\" valign=\"middle\">200 mcg/kg</td></tr></tbody></table> <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" ID=\"T2\" width=\"60%\"><caption>Table 2: Dosage Guidelines for Ivermectin Tablets for Onchocerciasis</caption><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"><content styleCode=\"bold\">Body Weight (kg)</content></td><td styleCode=\"Rrule\" valign=\"middle\"><content styleCode=\"bold\">Single Oral Dose   Number of 3-mg Tablets </content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">15-25</td><td styleCode=\"Rrule\" valign=\"middle\">1 tablet</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">26-44</td><td styleCode=\"Rrule\" valign=\"middle\">2 tablets</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">45-64</td><td styleCode=\"Rrule\" valign=\"middle\">3 tablets</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">65-84</td><td styleCode=\"Rrule\" valign=\"middle\">4 tablets</td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"middle\">&#x2265; 85</td><td styleCode=\"Rrule\" valign=\"middle\">150 mcg/kg</td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE Ivermectin is indicated for the treatment of the following infections: Strongyloidiasis of the intestinal tract Ivermectin is indicated for the treatment of intestinal (i.e., nondisseminated) strongyloidiasis due to the nematode parasite Strongyloides stercoralis . This indication is based on clinical studies of both comparative and open-label designs, in which 64-100% of infected patients were cured following a single 200-mcg/kg dose of ivermectin (See CLINICAL PHARMACOLOGY, Clinical Studies ). Onchocerciasis Ivermectin is indicated for the treatment of onchocerciasis due to the nematode parasite Onchocerca volvulus . This indication is based on randomized, double-blind, placebo-controlled and comparative studies conducted in 1427 patients in onchocerciasis-endemic areas of West Africa. The comparative studies used diethylcarbamazine citrate (DEC-C). NOTE: Ivermectin has no activity against adult Onchocerca volvulus parasites. The adult parasites reside in subcutaneous nodules which are infrequently palpable. Surgical excision of these nodules (nodulectomy) may be considered in the management of patients with onchocerciasis, since this procedure will eliminate the microfilariae-producing adult parasites."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA204154"
+    ],
+    "brand_name": [
+      "Ivermectin"
+    ],
+    "generic_name": [
+      "IVERMECTIN"
+    ],
+    "manufacturer_name": [
+      "Asclemed USA, Inc."
+    ],
+    "product_ndc": [
+      "76420-619"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "IVERMECTIN"
+    ],
+    "rxcui": [
+      "311207"
+    ],
+    "spl_id": [
+      "06f2293c-2cf4-70d4-e063-6394a90a3a56"
+    ],
+    "spl_set_id": [
+      "014e33e7-c07d-4feb-a2cf-7cd160b1facd"
+    ],
+    "package_ndc": [
+      "76420-619-20"
+    ],
+    "original_packager_product_ndc": [
+      "42799-806"
+    ],
+    "nui": [
+      "N0000175484",
+      "N0000181811"
+    ],
+    "pharm_class_epc": [
+      "Antiparasitic [EPC]",
+      "Pediculicide [EPC]"
+    ],
+    "unii": [
+      "8883YP2R6D"
+    ]
+  }
+}

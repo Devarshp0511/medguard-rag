@@ -1,0 +1,55 @@
+{
+  "drug_name": "Trihexyphenidyl",
+  "drug_id": 1376,
+  "sections": {
+    "warnings": "WARNINGS Patients to be treated with trihexyphenidyl should have a gonioscope evaluation prior to initiation of therapy and close monitoring of intraocular pressures. The use of anticholinergic drugs may precipitate angle closure with an increase in intraocular pressure. If blurring of vision occurs during therapy, the possibility of narrow angle glaucoma should be considered. Blindness has been reported due to aggravation of narrow angle glaucoma. (See CONTRAINDICATIONS and ADVERSE REACTIONS ). Trihexyphenidyl should be administered with caution in hot weather, especially when given concomitantly with other atropine-like drugs to the chronically ill, alcoholics, those who have central nervous system disease, or those who do manual labor in a hot environment. Anhidrosis may occur more readily when some disturbance of sweating already exists. If there is evidence of anhidrosis, the possibility of hyperthermia should be considered. Dosage should be decreased so that the ability to maintain body heat equilibrium via perspiration is not impaired. Severe anhidrosis and fatal hyperthermia have occurred with the use of anticholinergics under the conditions described above. Neuroleptic Malignant Syndrome A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with dose reduction or discontinuation of trihexyphenidyl. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmias). The diagnostic evaluation of patients with this syndrome is complicated. In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS). Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system (CNS) pathology.",
+    "drug_interactions": "Drug Interactions Cannabinoids, barbiturates, opiates, and alcohol may have additive effects with trihexyphenidyl, and thus, an abuse potential exists. Concurrent use of alcohol or other CNS depressants with trihexyphenidyl may cause increased sedative effects. Monoamine oxidase inhibitors and tricyclic antidepressants possessing significant anticholinergic activity may intensify the anticholinergic effects of antidyskinetic agents because of the secondary anticholinergic activities of these medications. Prophylactic administration of anticholinergic agents, such as trihexyphenidyl, as a prevention of drug-induced parkinsonism during neuroleptic therapy is not recommended. There may be an increased risk for the development of tardive dyskinesia during concomitant administration of anticholinergics and neuroleptics (See PRECAUTIONS, General ). The usual dose of either trihexyphenidyl or levodopa may need to be reduced during concomitant therapy, since concomitant administration may increase drug-induced involuntary movements (See DOSAGE AND ADMINISTRATION ).",
+    "contraindications": "CONTRAINDICATIONS Trihexyphenidyl is contraindicated in patients with hypersensitivity to trihexyphenidyl or to any of the other ingredients. Trihexyphenidyl is also contraindicated in patients with narrow angle glaucoma. Blindness after long-term use due to narrow angle glaucoma has been reported.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Dosage should be individualized. The initial dose should be low and then increased gradually, especially in patients over 60 years of age.Whether trihexyphenidyl may best be given before or after meals should be determined by the way the patient reacts. Postencephalitic patients, who are usually more prone to excessive salivation, may prefer to take it after meals and may, in addition, require small amounts of atropine which, under such circumstances, is sometimes an effective adjuvant. If trihexyphenidyl tends to dry the mouth excessively, it may be better to take it before meals, unless it causes nausea. If taken after meals, the thirst sometimes induced can be allayed by mint candies, chewing gum or water. Abrupt withdrawal of treatment for parkinsonism may result in acute exacerbation of parkinsonism symptoms; therefore, abrupt withdrawal should be avoided. Abrupt withdrawal of treatment may result in neuroleptic malignant syndrome (NMS) (See WARNINGS ). Idiopathic Parkinsonism As initial therapy for parkinsonism, 1 mg of trihexyphenidyl hydrochloride may be administered the first day. The dose may then be increased by 2 mg increments at intervals of three to five days, until a total of 6 to 10 mg is given daily. The total daily dose will depend upon what is found to be the optimal level. Many patients derive maximum benefit from this daily total of 6 to 10 mg, but some patients, chiefly those in the postencephalitic group, may require a total daily dose of 12 to 15 mg. Drug-Induced Parkinsonism The size and frequency of the trihexyphenidyl dose needed to control extrapyramidal reactions to commonly employed tranquilizers, notably the phenothiazines, thioxanthenes, and butyrophenones, must be determined empirically. The total daily dosage usually ranges between 5 and 15 mg although, in some cases, these reactions have been satisfactorily controlled with as little as 1 mg daily. It may be advisable to commence therapy with a single 1 mg dose. If the extrapyramidal manifestations are not controlled in a few hours, the subsequent doses may be progressively increased until satisfactory control is achieved. Satisfactory control may sometimes be more rapidly achieved by temporarily reducing the dosage of the tranquilizer when instituting trihexyphenidyl therapy and then adjusting the dosage of both drugs until the desired ataractic effect is retained without onset of extrapyramidal reactions. It is sometimes possible to maintain the patient on a reduced trihexyphenidyl dosage after the reactions have remained under control for several days. Instances have been reported in which these reactions have remained in remission for long periods after trihexyphenidyl therapy was discontinued. Concomitant Use with Levodopa When trihexyphenidyl is used concomitantly with levodopa, the usual dose of each may need to be reduced. Careful adjustment is necessary, depending on side effects and degree of symptom control. A trihexyphenidyl dosage of 3 to 6 mg daily, in divided doses, is usually adequate. Concomitant Use with Other Parasympathetic Inhibitors Trihexyphenidyl may be substituted, in whole or in part, for other parasympathetic inhibitors. The usual technique is partial substitution initially, with progressive reduction in the other medication as the dose of trihexyphenidyl is increased. The total daily intake of trihexyphenidyl hydrochloride oral solution USP is tolerated best if divided into 3 doses and taken at mealtimes. High doses (>10 mg daily) may be divided into 4 parts, with 3 doses administered at mealtimes and the fourth at bedtime.",
+    "indications_and_usage": "INDICATIONS AND USAGE Trihexyphenidyl is indicated as an adjunct in the treatment of all forms of parkinsonism (postencephalitic, arteriosclerotic, and idiopathic). It is often useful as adjuvant therapy when treating these forms of parkinsonism with levodopa. Additionally, it is indicated for the control of extrapyramidal disorders caused by central nervous system drugs such as the dibenzoxazepines, phenothiazines, thioxanthenes, and butyrophenones."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA040251"
+    ],
+    "brand_name": [
+      "Trihexyphenidyl Hydrochloride"
+    ],
+    "generic_name": [
+      "TRIHEXYPHENIDYL HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Akorn"
+    ],
+    "product_ndc": [
+      "61748-054"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "TRIHEXYPHENIDYL HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "905273"
+    ],
+    "spl_id": [
+      "3a17b358-46b6-4e74-9788-ccb8acf9ca8f"
+    ],
+    "spl_set_id": [
+      "294cd88d-d9e8-4938-b4be-c3adc4a35de0"
+    ],
+    "package_ndc": [
+      "61748-054-16"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "AO61G82577"
+    ]
+  }
+}

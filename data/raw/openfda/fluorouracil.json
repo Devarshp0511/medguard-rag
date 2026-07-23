@@ -1,0 +1,64 @@
+{
+  "drug_name": "Fluorouracil",
+  "drug_id": 878,
+  "sections": {
+    "warnings": "WARNINGS Application to mucous membranes should be avoided due to the possibility of local inflammation and ulceration. Additionally, cases of miscarriage and a birth defect (ventricular septal defect) have been reported when Fluorouracil Cream was applied to mucous membrane areas during pregnancy. Occlusion of the skin with resultant hydration has been shown to increase percutaneous penetration of several topical preparations. If any occlusive dressing is used in treatment of basal cell carcinoma, there may be an increase in the severity of inflammatory reactions in the adjacent normal skin. A porous gauze dressing may be applied for cosmetic reasons without increase in reaction. Exposure to ultraviolet rays should be minimized during and immediately following treatment with Fluorouracil Cream because the intensity of the reaction may be increased. Patients should discontinue therapy with Fluorouracil Cream if symptoms of DPD enzyme deficiency develop (see CONTRAINDICATIONS ). Rarely, life-threatening toxicities such as stomatitis, diarrhea, neutropenia, and neurotoxicity have been reported with intravenous administration of fluorouracil in patients with DPD enzyme deficiency. One case of life-threatening systemic toxicity has been reported with the topical use of Fluorouracil Cream in a patient with DPD enzyme deficiency. Symptoms included severe abdominal pain, bloody diarrhea, vomiting, fever, and chills. Physical examination revealed stomatitis, erythematous skin rash, neutropenia, thrombocytopenia, inflammation of the esophagus, stomach, and small bowel. Although this case was observed with 5% fluorouracil cream, it is unknown whether patients with profound DPD enzyme deficiency would develop systemic toxicity with lower concentrations of topically applied fluorouracil.",
+    "contraindications": "CONTRAINDICATIONS Fluorouracil Cream may cause fetal harm when administered to a pregnant woman. There are no adequate and well-controlled studies in pregnant women with either the topical or the parenteral forms of fluorouracil. One birth defect (cleft lip and palate) has been reported in the newborn of a patient using Fluorouracil Cream as recommended. One birth defect (ventricular septal defect) and cases of miscarriage have been reported when Fluorouracil Cream was applied to mucous membrane areas. Multiple birth defects have been reported in a fetus of a patient treated with intravenous fluorouracil. Animal reproduction studies have not been conducted with Fluorouracil Cream. Fluorouracil administered parenterally has been shown to be teratogenic in mice, rats, and hamsters when given at doses equivalent to the usual human intravenous dose; however, the amount of fluorouracil absorbed systemically after topical administration to actinic keratoses is minimal (see CLINICAL PHARMACOLOGY ). Fluorouracil exhibited maximum teratogenicity when given to mice as single intraperitoneal injections of 10 to 40 mg/kg on Day 10 or 12 of gestation. Similarly, intraperitoneal doses of 12 to 37 mg/kg given to rats between Days 9 and 12 of gestation and intramuscular doses of 3 to 9 mg/kg given to hamsters between Days 8 and 11 of gestation were teratogenic and/or embryotoxic (i.e., resulted in increased resorptions or embryolethality). In monkeys, divided doses of 40 mg/kg given between Days 20 and 24 of gestation were not teratogenic. Doses higher than 40 mg/kg resulted in abortion. Fluorouracil Cream should not be used in patients with dihydropyrimidine dehydrogenase (DPD) enzyme deficiency. A large percentage of fluorouracil is catabolized by the DPD enzyme. DPD enzyme deficiency can result in shunting of fluorouracil to the anabolic pathway, leading to cytotoxic activity and potential toxicities. Fluorouracil Cream is contraindicated in women who are or may become pregnant during therapy. If this drug is used during pregnancy, or if the patient becomes pregnant while using this drug, the patient should be apprised of the potential hazard to the fetus. Fluorouracil Cream is also contraindicated in patients with known hypersensitivity to any of its components.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION When Fluorouracil Cream is applied to a lesion, a response occurs with the following sequence: erythema, usually followed by vesiculation, desquamation, erosion, and re-epithelialization. Fluorouracil Cream should be applied preferably with a nonmetal applicator or suitable glove. If Fluorouracil Cream is applied with the fingers, the hands should be washed immediately afterward. Actinic or Solar Keratosis Apply cream twice daily in an amount sufficient to cover the lesions. Medication should be continued until the inflammatory response reaches the erosion stage, at which time use of the drug should be terminated. The usual duration of therapy is from 2 to 4 weeks. Complete healing of the lesions may not be evident for 1 to 2 months following cessation of Fluorouracil Cream therapy. Superficial Basal Cell Carcinomas Only the 5% strength is recommended. Apply cream twice daily in an amount sufficient to cover the lesions. Treatment should be continued for at least 3 to 6 weeks. Therapy may be required for as long as 10 to 12 weeks before the lesions are obliterated. As in any neoplastic condition, the patient should be followed for a reasonable period of time to determine if a cure has been obtained.",
+    "indications_and_usage": "INDICATIONS AND USAGE Fluorouracil Cream is recommended for the topical treatment of multiple actinic or solar keratoses. In the 5% strength, it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites. Safety and efficacy in other indications have not been established. The diagnosis should be established prior to treatment, since this method has not been proven effective in other types of basal cell carcinomas. With isolated, easily accessible basal cell carcinomas, surgery is preferred since success with such lesions is almost 100%. The success rate with Fluorouracil Cream is approximately 93%, based on 113 lesions in 54 patients. Eighty-eight lesions treated with the cream produced 7 failures."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077524"
+    ],
+    "brand_name": [
+      "FLUOROURACIL"
+    ],
+    "generic_name": [
+      "FLUOROURACIL"
+    ],
+    "manufacturer_name": [
+      "Mayne Pharma Inc."
+    ],
+    "product_ndc": [
+      "51862-362"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "FLUOROURACIL"
+    ],
+    "rxcui": [
+      "105583"
+    ],
+    "spl_id": [
+      "d05a8a27-b7f9-40cc-a36a-97209fc998b1"
+    ],
+    "spl_set_id": [
+      "06475bd8-66d9-4f88-90e4-b367480dab39"
+    ],
+    "package_ndc": [
+      "51862-362-40"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000000233",
+      "N0000175595"
+    ],
+    "pharm_class_moa": [
+      "Nucleic Acid Synthesis Inhibitors [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Nucleoside Metabolic Inhibitor [EPC]"
+    ],
+    "unii": [
+      "U3P01618RT"
+    ]
+  }
+}

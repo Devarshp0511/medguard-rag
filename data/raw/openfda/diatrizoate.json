@@ -1,0 +1,53 @@
+{
+  "drug_name": "Diatrizoate",
+  "drug_id": 1045,
+  "sections": {
+    "warnings": "WARNINGS Severe sensitivity reactions are more likely to occur in patients with a personal or family history of bronchial asthma, significant allergies, or previous reactions to contrast agents. A history of sensitivity to iodine per se or to other contrast agents is not an absolute contraindication to the use of diatrizoate meglumine, but calls for extreme caution in administration.",
+    "contraindications": "CONTRAINDICATIONS This preparation is contraindicated in patients with a hypersensitivity to salts of diatrizoic acid.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Preparation of the patient: Appropriate preparation is desirable for optimal results. A laxative the night before the examination and a low residue diet the day before the procedure are recommended. Dosage: The dose for retrograde use in cystography and voiding cystourethrography ranges from 25 to 300 mL depending on the age of the patient and the degree of bladder irritability; amounts greater than 300 mL may be used if the bladder capacity allows. Best results are obtained when the bladder is filled with the contrast agent. If desired, the preparation may be diluted with sterile water or sterile saline as indicated in the table below. Administration: After sterile catheterization, the bladder should be filled to capacity with Cystografin using a suitable sterile administration set. Care should be taken to avoid using excessive pressure. The presence of bladder discomfort or reflux and/or spontaneous voiding usually indicates that the bladder is full. Radiography: The commonly employed radiographic techniques should be used. A scout film is recommended before the contrast agent is administered. Dilution Table USE DILUTED SOLUTIONS IMMEDIATELY 100 mL Bottle Sterile Water or Sterile Saline Added % Diatrizoate Meglumine w/v % Organically Bound Iodine w/v Total Volume 0 mL 30.0 14.1 100 mL 25 mL 24.0 11.3 125 mL 50 mL 20.0 9.4 150 mL 67 mL 18.0 8.5 167 mL 300 mL Bottle Sterile Water or Sterile Saline Added 0 mL 30.0 14.1 300 mL 50 mL 25.7 12.1 350 mL",
+    "dosage_and_administration_table": "<table ID=\"t5601281409676478\" width=\"100%\"><caption>Dilution Table</caption><tbody><tr><td styleCode=\"Botrule\" colspan=\"4\" align=\"center\"><content styleCode=\"bold\">USE DILUTED SOLUTIONS IMMEDIATELY</content></td></tr><tr><td align=\"center\"><content styleCode=\"bold\">100 mL Bottle</content></td><td colspan=\"3\"> </td></tr><tr><td styleCode=\"Botrule\" align=\"center\">Sterile Water or Sterile Saline Added </td><td styleCode=\"Botrule\" align=\"center\">% Diatrizoate Meglumine w/v</td><td styleCode=\"Botrule\" align=\"center\">% Organically Bound Iodine w/v </td><td styleCode=\"Botrule\" align=\"center\">Total Volume</td></tr><tr><td styleCode=\"Botrule\" align=\"center\">0 mL</td><td styleCode=\"Botrule\" align=\"center\"> 30.0 </td><td styleCode=\"Botrule\" align=\"center\">14.1 </td><td styleCode=\"Botrule\" align=\"center\">100 mL</td></tr><tr><td styleCode=\"Botrule\" align=\"center\"> 25 mL </td><td styleCode=\"Botrule\" align=\"center\">24.0 </td><td styleCode=\"Botrule\" align=\"center\">11.3 </td><td styleCode=\"Botrule\" align=\"center\">125 mL</td></tr><tr><td styleCode=\"Botrule\" align=\"center\">50 mL </td><td styleCode=\"Botrule\" align=\"center\">20.0</td><td styleCode=\"Botrule\" align=\"center\">9.4 </td><td styleCode=\"Botrule\" align=\"center\">150 mL</td></tr><tr><td styleCode=\"Botrule\" align=\"center\">67 mL</td><td styleCode=\"Botrule\" align=\"center\"> 18.0 </td><td styleCode=\"Botrule\" align=\"center\">8.5 </td><td styleCode=\"Botrule\" align=\"center\">167 mL</td></tr><tr><td align=\"center\"><content styleCode=\"bold\">300 mL Bottle</content></td><td colspan=\"3\"> </td></tr><tr><td styleCode=\"Botrule\" align=\"center\">Sterile Water or Sterile Saline Added</td><td styleCode=\"Botrule\" colspan=\"3\"> </td></tr><tr><td styleCode=\"Botrule\" align=\"center\">0 mL </td><td styleCode=\"Botrule\" align=\"center\">30.0 </td><td styleCode=\"Botrule\" align=\"center\">14.1 </td><td styleCode=\"Botrule\" align=\"center\">300 mL</td></tr><tr><td styleCode=\"Botrule\" align=\"center\">50 mL </td><td styleCode=\"Botrule\" align=\"center\">25.7 </td><td styleCode=\"Botrule\" align=\"center\">12.1 </td><td styleCode=\"Botrule\" align=\"center\">350 mL</td></tr></tbody></table>",
+    "indications_and_usage": "INDICATION Cystografin is indicated for retrograde cystourethrography."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA010040"
+    ],
+    "brand_name": [
+      "Cystografin"
+    ],
+    "generic_name": [
+      "DIATRIZOATE MEGLUMINE"
+    ],
+    "manufacturer_name": [
+      "BRACCO DIAGNOSTICS INC"
+    ],
+    "product_ndc": [
+      "0270-0149"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "DIATRIZOATE MEGLUMINE"
+    ],
+    "spl_id": [
+      "6b067ea9-50b4-0ec7-1f1c-e07b00faced4"
+    ],
+    "spl_set_id": [
+      "7496d736-9f7d-4136-ad5d-b24c7803c21b"
+    ],
+    "package_ndc": [
+      "0270-0149-60",
+      "0270-0149-57"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3X9MR4N98U"
+    ]
+  }
+}

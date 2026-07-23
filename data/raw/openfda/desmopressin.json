@@ -1,0 +1,61 @@
+{
+  "drug_name": "Desmopressin",
+  "drug_id": 227,
+  "sections": {
+    "warnings": "WARNINGS Very rare cases of hyponatremia have been reported from world-wide postmarketing experience in patients treated desmopressin acetate. Desmopressin acetate is a potent antidiuretic which, when administered, may lead to water intoxication and/or hyponatremia. Unless properly diagnosed and treated hyponatremia can be fatal. Therefore, fluid restriction is recommended and should be discussed with the patient and/or guardian. Careful medical supervision is required. When desmopressin acetate tablets are administered, in particular in pediatric and geriatric patients, fluid intake should be adjusted downward to decrease the potential occurrence of water intoxication and hyponatremia. (See PRECAUTIONS, Pediatric Use and Geriatric Use .) All patients receiving desmopressin acetate tablets therapy should be observed for the following signs of symptoms associated with hyponatremia: headache, nausea/vomiting, decreased serum sodium, weight gain, restlessness, fatigue, lethargy, disorientation, depressed reflexes, loss of appetite, irritability, muscle weakness, muscle spasms or cramps and abnormal mental status such as hallucinations, decreased consciousness and confusion. Severe symptoms may include one or a combination of the following: seizure, coma and/or respiratory arrest. Particular attention should be paid to the possibility of the rare occurrence of an extreme decrease in plasma osmolality that may result in seizures which could lead to coma. Desmopressin acetate tablets should be used with caution in patients with habitual or psychogenic polydipsia who may be more likely to drink excessive amounts of water, putting them at greater risk of hyponatremia.",
+    "drug_interactions": "Drug Interactions Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution.",
+    "contraindications": "CONTRAINDICATIONS Desmopressin acetate tablets are contraindicated in individuals with known hypersensitivity to desmopressin acetate or to any of the components of desmopressin acetate tablets. Desmopressin acetate tablets are contraindicated in patients with moderate to severe renal impairment (defined as a creatinine clearance below 50mL/min). Desmopressin acetate is contraindicated in patients with hyponatremia or a history of hyponatremia.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Central Diabetes Insipidus The dosage of desmopressin acetate tablets must be determined for each individual patient and adjusted according to the diurnal pattern of response. Response should be estimated by two parameters: adequate duration of sleep and adequate, not excessive, water turnover. Patients previously on intranasal desmopressin acetate therapy should begin tablet therapy twelve hours after the last intranasal dose. During the initial dose titration period, patients should be observed closely and appropriate safety parameters measured to assure adequate response. Patients should be monitored at regular intervals during the course of desmopressin acetate tablet therapy to assure adequate antidiuretic response. Modifications in dosage regimen should be implemented as necessary to assure adequate water turnover. Fluid restriction should be observed. (See WARNINGS , PRECAUTIONS, Pediatric Use and Geriatric Use .) Adults and Children It is recommended that patients be started on doses of 0.05 mg (1/2 of the 0.1 mg tablet) two times a day and individually adjusted to their optimum therapeutic dose. Most patients in clinical trials found that the optimal dosage range is 0.1 mg to 0.8 mg daily, administered in divided doses. Each dose should be separately adjusted for an adequate diurnal rhythm of water turnover. Total daily dosage should be increased or decreased in the range of 0.1 mg to 1.2 mg divided into two or three daily doses as needed to obtain adequate antidiuresis. See Pediatric Use subsection for special considerations when administering desmopressin acetate to pediatric diabetes insipidus patients. Geriatric Use This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function. (See CLINCAL PHARMACOLOGY, Human Pharmacokinetics , CONTRAINDICATIONS , and PRECAUTIONS, Geriatric Use .) Primary Nocturnal Enuresis The dosage of desmopressin acetate tablets must be determined for each individual patient and adjusted according to response. Patients previously on intranasal desmopressin acetate therapy can begin tablet therapy the night following (24 hours after) the last intranasal dose. The recommended initial dose for patients age 6 years and older is 0.2 mg at bedtime. The dose may be titrated up to 0.6 mg to achieve the desired response. Fluid restriction should be observed, and fluid intake should be limited to a minimum from 1 hour before desmopressin administration, until the next morning, or at least 8 hours after administration. (See WARNINGS , PRECAUTIONS, Pediatric Use and Geriatric Use .)",
+    "indications_and_usage": "INDICATIONS AND USAGE Central Diabetes Insipidus Desmopressin acetate tablets are indicated as antidiuretic replacement therapy in the management of central diabetes insipidus and for the management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region. Desmopressin acetate is ineffective for the treatment of nephrogenic diabetes insipidus. Patients were selected for therapy based on the diagnosis by means of the water deprivation test, the hypertonic saline infusion test, and/or response to antidiuretic hormone. Continued response to desmopressin acetate can be monitored by measuring urine volume and osmolality. Primary Nocturnal Enuresis Desmopressin acetate tablets are indicated for the management of primary nocturnal enuresis. Desmopressin acetate may be used alone or as an adjunct to behavioral conditioning or other non-pharmacologic intervention."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077414"
+    ],
+    "brand_name": [
+      "Desmopressin Acetate"
+    ],
+    "generic_name": [
+      "DESMOPRESSIN ACETATE"
+    ],
+    "manufacturer_name": [
+      "American Health Packaging"
+    ],
+    "product_ndc": [
+      "60687-721",
+      "60687-732"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DESMOPRESSIN ACETATE"
+    ],
+    "rxcui": [
+      "833008",
+      "849515"
+    ],
+    "spl_id": [
+      "437dc780-8fd1-6205-e063-6394a90a19db"
+    ],
+    "spl_set_id": [
+      "0d447b48-3f4b-430e-9e68-d8b9401c002e"
+    ],
+    "package_ndc": [
+      "60687-721-11",
+      "60687-721-21",
+      "60687-732-11",
+      "60687-732-21"
+    ],
+    "original_packager_product_ndc": [
+      "60505-0257",
+      "60505-0258"
+    ],
+    "unii": [
+      "XB13HYU18U"
+    ]
+  }
+}

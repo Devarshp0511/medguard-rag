@@ -1,0 +1,56 @@
+{
+  "drug_name": "Econazole",
+  "drug_id": 1487,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Contents are flammable. Instruct the patient to avoid heat, flame, and/or smoking during and immediately following application. ( 5.1 ) 5.1 Flammability Ecoza topical foam is flammable. Avoid heat, flame, and smoking during and immediately following application. Contents under pressure. Do not puncture and/or incinerate the containers. Do not expose containers to heat and/or store at temperatures above 120\u00b0F (49\u00b0C) even when empty. Do not store in direct sunlight.",
+    "drug_interactions": "7 DRUG INTERACTIONS 7.1 Warfarin Concomitant administration of econazole and warfarin has resulted in enhancement of anticoagulant effect. Most cases reported product application with use under occlusion, genital application, or application to a large body surface area which may increase the systemic absorption of econazole nitrate. Monitoring of International Normalized Ratio (INR) and/or prothrombin time may be indicated especially for patients who apply econazole to large body surface areas, in the genital area, or under occlusion.",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Ecoza topical foam, 1% is for topical use only. Ecoza topical foam, 1% is not for oral, ophthalmic, or intravaginal use. Ecoza topical foam, 1% should be applied to cover affected areas once daily for 4 weeks. For topical use only; not for oral, ophthalmic, or intravaginal use. ( 2 ) Apply once daily for 4 weeks. ( 2 )",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Ecoza (econazole nitrate) topical foam, 1%, is indicated for the treatment of interdigital tinea pedis caused by Trichophyton rubrum, Trichophyton mentagrophytes, and Epidermophyton floccosum in patients 12 years of age and older. Ecoza is an azole antifungal indicated for the treatment of interdigital tinea pedis caused by Trichophyton rubrum, Trichophyton mentagrophytes , and Epidermophyton floccosum in patients 12 years of age and older. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA205175"
+    ],
+    "brand_name": [
+      "Ecoza"
+    ],
+    "generic_name": [
+      "ECONAZOLE NITRATE"
+    ],
+    "manufacturer_name": [
+      "Resilia Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "81811-100"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ECONAZOLE NITRATE"
+    ],
+    "rxcui": [
+      "1442585",
+      "1442590"
+    ],
+    "spl_id": [
+      "0bb5d729-5109-e387-e063-6394a90a1fce"
+    ],
+    "spl_set_id": [
+      "0bb5fa27-32ed-ed13-e063-6394a90a1577"
+    ],
+    "package_ndc": [
+      "81811-100-70"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "H438WYN10E"
+    ]
+  }
+}

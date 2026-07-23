@@ -1,0 +1,65 @@
+{
+  "drug_name": "Roflumilast",
+  "drug_id": 1341,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Acute Bronchospasm: Do not use for the relief of acute bronchospasm. ( 5.1 ) Psychiatric Events including Suicidality: Advise patients, their caregivers, and families to be alert for the emergence or worsening of insomnia, anxiety, depression, suicidal thoughts or other mood changes, and if such changes occur to contact their healthcare provider. Carefully weigh the risks and benefits of treatment with roflumilast tablets in patients with a history of depression and/or suicidal thoughts or behavior. ( 5.2 ) Weight Decrease: Monitor weight regularly. If unexplained or clinically significant weight loss occurs, evaluate weight loss and consider discontinuation of roflumilast tablets. ( 5.3 ) Drug Interactions: Use with strong cytochrome P450 enzyme inducers (e.g., rifampicin, phenobarbital, carbamazepine, phenytoin) is not recommended. ( 5.4 ) 5.1 Treatment of Acute Bronchospasm Roflumilast tablets is not a bronchodilator and should not be used for the relief of acute bronchospasm. 5.2 Psychiatric Events including Suicidality Treatment with roflumilast tablets is associated with an increase in psychiatric adverse reactions. In 8 controlled clinical trials 5.9% (263) of patients treated with roflumilast tablets 500 mcg daily reported psychiatric adverse reactions compared to 3.3% (137) treated with placebo. The most commonly reported psychiatric adverse reactions were insomnia, anxiety, and depression which were reported at higher rates in those treated with roflumilast tablets 500 mcg daily (2.4%, 1.4%, and 1.2% for roflumilast tablets versus 1.0%, 0.9%, and 0.9% for placebo, respectively) [see Adverse Reactions (6.1) ] . Instances of suicidal ideation and behavior, including completed suicide, have been observed in clinical trials. Three patients experienced suicide-related adverse reactions (one completed suicide and two suicide attempts) while receiving roflumilast tablets compared to one patient (suicidal ideation) who received placebo. One patient completed suicide while receiving roflumilast tablets in Trial 9 [see Clinical Studies (14.1) ] , which assessed the effect of adding roflumilast to a fixed-dose combination (FDC) of ICS/LABA on rates of exacerbations in COPD patients over 1 year of treatment. Cases of suicidal ideation and behavior, including completed suicide, have been observed in the post-marketing setting in patients with or without a history of depression. Before using roflumilast tablets in patients with a history of depression and/or suicidal thoughts or behavior, prescribers should carefully weigh the risks and benefits of treatment with roflumilast tablets in such patients. Patients, their caregivers, and families should be advised of the need to be alert for the emergence or worsening of insomnia, anxiety, depression, suicidal thoughts or other mood changes, and if such changes occur to contact their healthcare provider. Prescribers should carefully evaluate the risks and benefits of continuing treatment with roflumilast tablets if such events occur. 5.3 Weight Decrease Weight loss was a common adverse reaction in roflumilast tablets clinical trials and was reported in 7.5% (331) of patients treated with roflumilast tablets 500 mcg once daily compared to 2.1% (89) treated with placebo [see Adverse Reactions (6.1) ] . In addition to being reported as adverse reactions, weight was prospectively assessed in two placebo-controlled clinical trials of one year duration. In these studies, 20% of patients receiving roflumilast experienced moderate weight loss (defined as between 5 to 10% of body weight) compared to 7% of patients who received placebo. In addition, 7% of patients who received roflumilast compared to 2% of patients receiving placebo experienced severe (greater than 10% body weight) weight loss. During follow-up after treatment discontinuation, the majority of patients with weight loss regained some of the weight they had lost while receiving roflumilast tablets. Patients treated with roflumilast tablets should have their weight monitored regularly. If unexplained or clinically significant weight loss occurs, weight loss should be evaluated, and discontinuation of roflumilast tablets should be considered. 5.4 Drug Interactions A major step in roflumilast metabolism is the N-oxidation of roflumilast to roflumilast N-oxide by CYP3A4 and CYP1A2. The administration of the cytochrome P450 enzyme inducer rifampicin resulted in a reduction in exposure, which may result in a decrease in the therapeutic effectiveness of roflumilast tablets. Therefore, the use of strong cytochrome P450 enzyme inducers (e.g., rifampicin, phenobarbital, carbamazepine, phenytoin) with roflumilast tablets is not recommended [see Drug Interactions (7.1) and Clinical Pharmacology (12.3) ].",
+    "drug_interactions": "7 DRUG INTERACTIONS A major step in roflumilast metabolism is the N-oxidation of roflumilast to roflumilast N-oxide by CYP3A4 and CYP1A2 [see Clinical Pharmacology (12.3) ]. Use with inhibitors of CYP3A4 or dual inhibitors of CYP3A4 and CYP1A2 (e.g., erythromycin, ketoconazole, fluvoxamine, enoxacin, cimetidine) will increase roflumilast systemic exposure and may result in increased adverse reactions. The risk of such concurrent use should be weighed carefully against benefit.( 7.2 ) 7.1 Drugs that Induce Cytochrome P450 (CYP) Enzymes Strong cytochrome P450 enzyme inducers decrease systemic exposure to roflumilast and may reduce the therapeutic effectiveness of roflumilast tablets. Therefore the use of strong cytochrome P450 inducers (e.g. rifampicin, phenobarbital, carbamazepine, and phenytoin) with roflumilast tablets is not recommended [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3) ]. 7.2 Drugs that Inhibit Cytochrome P450 (CYP) Enzymes The co-administration of roflumilast tablets (500 mcg) with CYP3A4 inhibitors or dual inhibitors that inhibit both CYP3A4 and CYP1A2 simultaneously (e.g., erythromycin, ketoconazole, fluvoxamine, enoxacin, cimetidine) may increase roflumilast systemic exposure and may result in increased adverse reactions. The risk of such concurrent use should be weighed carefully against benefit [see Clinical Pharmacology (12.3) ]. 7.3 Oral Contraceptives Containing Gestodene and Ethinyl Estradiol The co-administration of roflumilast tablets (500 mcg) with oral contraceptives containing gestodene and ethinyl estradiol may increase roflumilast systemic exposure and may result in increased side effects. The risk of such concurrent use should be weighed carefully against benefit [see Clinical Pharmacology (12.3) ].",
+    "contraindications": "4 CONTRAINDICATIONS The use of roflumilast tablets is contraindicated in the following condition: Moderate to severe liver impairment (Child-Pugh B or C) [see Clinical Pharmacology ( 12.3 ) and Use in Specific Populations ( 8.6 )]. Moderate to severe liver impairment (Child-Pugh B or C)",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The maintenance dose of roflumilast tablets is one 500 micrograms (mcg) tablet per day, with or without food. Starting treatment with a dose of Roflumilast tablets 250 mcg once daily for 4 weeks and increasing to Roflumilast tablets 500 mcg once daily thereafter may reduce the rate of treatment discontinuation in some patients [ see Clinical Studies ( 14.1 ) ]. However, 250 mcg per day is not the effective (therapeutic) dose. The maintenance dose for patients with COPD is one 500 mcg tablet per day, with or without food. Starting treatment with a dose of Roflumilast tablets 250 mcg once daily for 4 weeks and increasing to roflumilast tablets 500 mcg once daily thereafter may reduce the rate of treatment discontinuation in some patients.( 2 )",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Roflumilast tablets is indicated as a treatment to reduce the risk of COPD exacerbations in patients with severe COPD associated with chronic bronchitis and a history of exacerbations. Limitations of Use Roflumilast tablets is not a bronchodilator and is not indicated for the relief of acute bronchospasm. Roflumilast tablets 250 mcg is a starting dose, for the first 4 weeks of treatment only and is not the effective (therapeutic) dose. Roflumilast tablets is a selective phosphodiesterase 4 inhibitor indicated as a treatment to reduce the risk of COPD exacerbations in patients with severe COPD associated with chronic bronchitis and a history of exacerbations. ( 1 , 14 ) Limitations of Use: Roflumilast tablets is not a bronchodilator and is not indicated for the relief of acute bronchospasm. ( 1 , 14 ) Roflumilast tablets 250 mcg is a starting dose, for the first 4 weeks of treatment only and is not the effective (therapeutic) dose. ( 2 , 14 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA212490"
+    ],
+    "brand_name": [
+      "Roflumilast"
+    ],
+    "generic_name": [
+      "ROFLUMILAST"
+    ],
+    "manufacturer_name": [
+      "Golden State Medical Supply, Inc."
+    ],
+    "product_ndc": [
+      "51407-975"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ROFLUMILAST"
+    ],
+    "rxcui": [
+      "1091839"
+    ],
+    "spl_id": [
+      "30dd6be3-6f60-c6a9-e063-6294a90afaa4"
+    ],
+    "spl_set_id": [
+      "30dd6eae-6435-cae1-e063-6294a90a003b"
+    ],
+    "package_ndc": [
+      "51407-975-90"
+    ],
+    "original_packager_product_ndc": [
+      "67877-480"
+    ],
+    "nui": [
+      "N0000182961",
+      "N0000182960"
+    ],
+    "pharm_class_epc": [
+      "Phosphodiesterase 4 Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Phosphodiesterase 4 Inhibitors [MoA]"
+    ],
+    "unii": [
+      "0P6C6ZOP5U"
+    ]
+  }
+}

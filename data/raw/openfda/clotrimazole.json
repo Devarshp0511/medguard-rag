@@ -1,0 +1,63 @@
+{
+  "drug_name": "Clotrimazole",
+  "drug_id": 626,
+  "sections": {
+    "warnings": "Warnings For External use only.",
+    "dosage_and_administration": "Directions \u2022 Wash the affected area and dry thoroughly. \u25cf Apply a thin layer of this product over affected area twice daily (morning and night), or as directed by a doctor. \u25cf Supervise children in the use of this product. \u25cf For athlete\u2019s foot, pay special attention to the spaces between the toes; wear well-fitting ventilated shoes, and change shoes and socks at least once daily. \u25cf For athlete\u2019s foot and ringworm, use daily for 4 weeks. For jock itch, use daily for 2 weeks. \u25cf If conditions persists longer, consult a doctor. \u25cf This product is not effective on the scalp or nails.",
+    "indications_and_usage": "Uses Cures athlete\u2019s foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis). Relieves the itching, irritation, redness, scaling and discomfort which can accompany these conditions."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "Clotrimazole"
+    ],
+    "generic_name": [
+      "CLOTRIMAZOLE"
+    ],
+    "manufacturer_name": [
+      "Preferred Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "68788-8830"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CLOTRIMAZOLE"
+    ],
+    "rxcui": [
+      "309367"
+    ],
+    "spl_id": [
+      "0052992a-819c-4c55-bd88-201a09a3573a"
+    ],
+    "spl_set_id": [
+      "0052992a-819c-4c55-bd88-201a09a3573a"
+    ],
+    "package_ndc": [
+      "68788-8830-2"
+    ],
+    "original_packager_product_ndc": [
+      "69396-001"
+    ],
+    "nui": [
+      "N0000175487",
+      "M0002083"
+    ],
+    "pharm_class_epc": [
+      "Azole Antifungal [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Azoles [CS]"
+    ],
+    "unii": [
+      "G07GZ97H65"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "drug_name": "Sulfasalazine",
+  "drug_id": 888,
+  "sections": {
+    "warnings": "WARNINGS Hepatic, Renal, and Hematologic Toxicity or Other Conditions Only after critical appraisal should Sulfasalazine Tablets be given to patients with hepatic or renal damage or blood dyscrasias. Deaths associated with the administration of sulfasalazine have been reported from hypersensitivity reactions, agranulocytosis, aplastic anemia, other blood dyscrasias, renal and liver damage, irreversible neuromuscular and central nervous system changes, and fibrosing alveolitis. The presence of clinical signs such as sore throat, fever, pallor, purpura, or jaundice may be indications of serious blood disorders or hepatotoxicity. Complete blood counts, as well as urinalysis with careful microscopic examination, should be done frequently in patients receiving sulfasalazine (see PRECAUTIONS, Laboratory Tests). Discontinue treatment with sulfasalazine while awaiting the results of blood tests. Oligospermia and Infertility Oligospermia and infertility have been observed in men treated with sulfasalazine; however, withdrawal of the drug appears to reverse these effects. Serious Infections Serious infections, including fatal sepsis and pneumonia, have been reported. Some infections were associated with agranulocytosis, neutropenia, or myelosuppression. Discontinue sulfasalazine if a patient develops a serious infection. Closely monitor patients for the development of signs and symptoms of infection during and after treatment with sulfasalazine. For a patient who develops a new infection during treatment with sulfasalazine, perform a prompt and complete diagnostic workup for infection and myelosuppression. Caution should be exercised when considering the use of sulfasalazine in patients with a history of recurring or chronic infections or with underlying conditions or concomitant drugs which may predispose patients to infections. Hypersensitivity Reactions Severe hypersensitivity reactions may include internal organ involvement, such as hepatitis, nephritis, myocarditis, mononucleosis-like syndrome (i.e., pseudomononucleosis), hematological abnormalities (including hematophagic histiocytosis), and/or pneumonitis including eosinophilic infiltration. Severe Cutaneous Adverse Reactions Drug Reactions with Eosinophilia and Systemic Symptoms (DRESS) Severe, life-threatening, systemic hypersensitivity reactions such as drug reaction with eosinophilia and systemic symptoms DRESS have been reported in patients taking sulfasalazine. Early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident. If such signs or symptoms are present, evaluate the patient immediately. Discontinue sulfasalazine if an alternative etiology for the signs or symptoms cannot be established. Other Severe Cutaneous Adverse Reactions Other severe cutaneous adverse reactions, including exfoliative dermatitis, Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), and acute generalized exanthematous pustulosis (AGEP) have been reported in association with the use of sulfasalazine (See ADVERSE REACTIONS). Severe cutaneous adverse reactions can be serious and are sometimes fatal. Patients are at highest risk for these events early in therapy, with most events occurring within the first month of treatment. Discontinue sulfasalazine at the first appearance of signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation.",
+    "contraindications": "CONTRAINDICATIONS Sulfasalazine Tablets are contraindicated in: Patients with intestinal or urinary obstruction, Patients with porphyria as sulfonamides have been reported to precipitate an acute attack, Patients hypersensitive to sulfasalazine, its metabolites, sulfonamides, or salicylates.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The dosage of Sulfasalazine Tablets should be adjusted to each individual\u2019s response and tolerance. Initial Therapy: Adults: 3 to 4 g daily in evenly divided doses with dosage intervals not exceeding eight hours. In some cases, it is advisable to initiate therapy with a smaller dosage, e.g., 1 to 2 g daily, to reduce possible gastrointestinal intolerance. If daily doses exceeding 4 g are required to achieve desired effects, the increased risk of toxicity should be kept in mind. Children, six years of age and older: 40 to 60 mg/kg body weight in each 24-hour period, divided into 3 to 6 doses. Maintenance Therapy: Adults: 2 g daily. Children, six years of age and older: 30 mg/kg body weight in each 24-hour period, divided into 4 doses. The response of acute ulcerative colitis to Sulfasalazine Tablets can be evaluated by clinical criteria, including the presence of fever, weight changes, and degree and frequency of diarrhea and bleeding, as well as by sigmoidoscopy and the evaluation of biopsy samples. It is often necessary to continue medication even when clinical symptoms, including diarrhea, have been controlled. When endoscopic examination confirms satisfactory improvement, the dosage of sulfasalazine should be reduced to a maintenance level. If diarrhea recurs, the dosage should be increased to previously effective levels. If symptoms of gastric intolerance (anorexia, nausea, vomiting, etc.) occur after the first few doses of sulfasalazine, they are probably due to increased serum levels of total sulfapyridine and may be alleviated by halving the daily dose of sulfasalazine and subsequently increasing it gradually over several days. If gastric intolerance continues, the drug should be stopped for 5 to 7 days, then reintroduced at a lower daily dose. Some patients may be sensitive to treatment with sulfasalazine. Various desensitization- like regimens have been reported to be effective in 34 of 53 patients, 4 7 of 8 patients, 5 and 19 of 20 patients. 6 These regimens suggest starting with a total daily dose of 50 to 250 mg sulfasalazine initially, and doubling it every 4 to 7 days until the desired therapeutic level is achieved. If the symptoms of sensitivity recur, Sulfasalazine Tablets should be discontinued. Desensitization should not be attempted in patients who have a history of agranulocytosis, or who have experienced an anaphylactoid reaction while previously receiving sulfasalazine.",
+    "indications_and_usage": "INDICATIONS AND USAGE Sulfasalazine Tablets are indicated: a) in the treatment of mild to moderate ulcerative colitis, and as adjunctive therapy in severe ulcerative colitis; and b) for the prolongation of the remission period between acute attacks of ulcerative colitis."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA080197"
+    ],
+    "brand_name": [
+      "Sulfasalazine"
+    ],
+    "generic_name": [
+      "SULFASALAZINE"
+    ],
+    "manufacturer_name": [
+      "Chartwell RX, LLC."
+    ],
+    "product_ndc": [
+      "62135-960"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SULFASALAZINE"
+    ],
+    "rxcui": [
+      "198232"
+    ],
+    "spl_id": [
+      "ef9f56ad-c921-6fe7-e053-2a95a90a85af"
+    ],
+    "spl_set_id": [
+      "029716bd-ee1a-484c-bf1f-ec8d02d5281b"
+    ],
+    "package_ndc": [
+      "62135-960-01",
+      "62135-960-05",
+      "62135-960-10",
+      "62135-960-31"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0362135960018",
+      "0362135960056",
+      "0362135960315",
+      "0362135960100"
+    ],
+    "nui": [
+      "N0000175781",
+      "M0000971"
+    ],
+    "pharm_class_epc": [
+      "Aminosalicylate [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Aminosalicylic Acids [CS]"
+    ],
+    "unii": [
+      "3XC8GUZ6CB"
+    ]
+  }
+}

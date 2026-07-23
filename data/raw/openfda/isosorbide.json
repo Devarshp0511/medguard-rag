@@ -1,0 +1,76 @@
+{
+  "drug_name": "Isosorbide",
+  "drug_id": 1347,
+  "sections": {
+    "warnings": "WARNINGS Amplification of the vasodilatory effects of isosorbide mononitrate by sildenafil can result in severe hypotension. The time course and dose dependence of this interaction have not been studied. Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion. The benefits of isosorbide mononitrate in patients with acute myocardial infarction or congestive heart failure have not been established. Because the effects of isosorbide mononitrate are difficult to terminate rapidly, this drug is not recommended in these settings. If isosorbide mononitrate is used in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia.",
+    "drug_interactions": "Drug Interactions Concomitant use of isosorbide mononitrate with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS ). Concomitant use of isosorbide mononitrate with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS ). The vasodilating effects of isosorbide mononitrate may be additive with those of other vasodilators. Alcohol, in particular, has been found to exhibit additive effects of this variety. Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination. Dose adjustments of either class of agents may be necessary.",
+    "contraindications": "CONTRAINDICATIONS Isosorbide mononitrate is contraindicated in patients who are allergic to it. Do not use isosorbide mononitrate in patients who are taking certain drugs for erectile dysfunction (phosphodiesterase inhibitors), such as sildenafil, tadalafil, or vardenafil. Concomitant use can cause severe hypotension, syncope, or myocardial ischemia. Do not use isosorbide mononitrate in patients who are taking the soluble guanylate cyclase stimulator riociguat. Concomitant use can cause hypotension.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION The recommended regimen of isosorbide mononitrate tablets is 20 mg twice daily, with the doses seven hours apart. A starting dose of 5 mg (\u00bd tablet of the 10 mg dosing strength) might be appropriate for persons of particularly small stature but should be increased to at least 10 mg by the second or third day of therapy. Dosage adjustments are not necessary for elderly patients or patients with altered hepatic or renal function. As noted above ( CLINICAL PHARMACOLOGY ), multiple studies of organic nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance. The asymmetric (2 doses, 7 hours apart) dosing regimen for isosorbide mononitrate tablets provides a daily nitrate-free interval to minimize the development of tolerance. As also noted under CLINICAL PHARMACOLOGY , well-controlled studies have shown that tolerance to isosorbide mononitrate tablets occurs to some extent when using the twice-daily regimen in which the two doses are given seven hours apart. This regimen has been shown to have antianginal efficacy beginning one hour after the first dose and lasting at least seven hours after the second dose. The duration (if any) of antianginal activity beyond fourteen hours has not been studied. In clinical trials, isosorbide mononitrate has been administered in a variety of regimens and doses. Doses above 20 mg twice a day (with the doses seven hours apart) have not been adequately studied. Doses of 5 mg twice a day are clearly effective (effectiveness based on exercise tolerance) for only the first day of a twice-a-day (with doses 7 hours apart) regimen.",
+    "indications_and_usage": "INDICATIONS AND USAGE Isosorbide Mononitrate Tablets USP are indicated for the prevention and treatment of angina pectoris due to coronary artery disease. The onset of action of oral isosorbide mononitrate is not sufficiently rapid for this product to be useful in aborting an acute anginal episode."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA075147"
+    ],
+    "brand_name": [
+      "Isosorbide Mononitrate"
+    ],
+    "generic_name": [
+      "ISOSORBIDE MONONITRATE"
+    ],
+    "manufacturer_name": [
+      "ANI Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "62559-252",
+      "62559-253"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ISOSORBIDE MONONITRATE"
+    ],
+    "rxcui": [
+      "311192",
+      "311197"
+    ],
+    "spl_id": [
+      "616fb1d3-ab4c-40a1-b11a-7a913f0b617c"
+    ],
+    "spl_set_id": [
+      "06839534-85b8-42aa-b0e3-079ed236be44"
+    ],
+    "package_ndc": [
+      "62559-252-01",
+      "62559-253-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0362559252010",
+      "0362559253017"
+    ],
+    "nui": [
+      "N0000175415",
+      "M0014874",
+      "N0000009909"
+    ],
+    "pharm_class_epc": [
+      "Nitrate Vasodilator [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Nitrates [CS]"
+    ],
+    "pharm_class_pe": [
+      "Vasodilation [PE]"
+    ],
+    "unii": [
+      "LX1OH63030"
+    ]
+  }
+}

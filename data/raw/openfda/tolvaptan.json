@@ -1,0 +1,104 @@
+{
+  "drug_name": "Tolvaptan",
+  "drug_id": 728,
+  "sections": {
+    "boxed_warning": "WARNING: RISK OF SERIOUS LIVER INJURY JYNARQUE (tolvaptan) can cause serious and potentially fatal liver injury. Acute liver failure requiring liver transplantation has been reported [see Warnings and Precautions (5.1) ] . Measure ALT, AST and bilirubin before initiating treatment, at 2 weeks and 4 weeks after initiation, then monthly for the first 18 months and every 3 months thereafter [see Warnings and Precautions (5.1) ] . Prompt action in response to laboratory abnormalities, signs, or symptoms indicative of hepatic injury can mitigate, but not eliminate, the risk of serious hepatotoxicity. Because of the risks of serious liver injury, JYNARQUE is available only through a restricted distribution program under a Risk Evaluation and Mitigation Strategy (REMS) called the Tolvaptan for ADPKD Shared System REMS [see Warnings and Precautions (5.2) ] . WARNING: RISK OF SERIOUS LIVER INJURY See full prescribing information for complete boxed warning . JYNARQUE (tolvaptan) can cause serious and potentially fatal liver injury. Acute liver failure requiring liver transplantation has been reported ( 5.1 ) Measure transaminases and bilirubin before initiating treatment, at 2 weeks and 4 weeks after initiation, then continuing monthly for the first 18 months and every 3 months thereafter ( 5.1 ) JYNARQUE is available only through a restricted distribution program called the Tolvaptan for ADPKD Shared System REMS ( 5.2 )",
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Hypernatremia, dehydration and hypovolemia: May require intervention ( 5.3 ) 5.1 Serious Liver Injury JYNARQUE can cause serious and potentially fatal liver injury. Acute liver failure requiring liver transplantation has been reported in the post-marketing ADPKD experience. Discontinuation in response to laboratory abnormalities or signs or symptoms of liver injury (such as fatigue, anorexia, nausea, right upper abdominal discomfort, vomiting, fever, rash, pruritus, icterus, dark urine or jaundice) can reduce the risk of severe hepatotoxicity. In a 3-year placebo-controlled trial and its open-label extension (in which patients' liver tests were monitored every 4 months), evidence of serious hepatocellular injury (elevations of hepatic transaminases of at least 3 times the upper limit of normal [ULN] combined with elevated bilirubin at least 2 times the ULN) occurred in 0.2% (3/1487) of tolvaptan-treated patients compared to none of the placebo-treated patients. To reduce the risk of significant or irreversible liver injury, assess ALT, AST and bilirubin prior to initiation of JYNARQUE, at 2 weeks and 4 weeks after initiation, then monthly for 18 months and every 3 months thereafter. At the onset of signs or symptoms consistent with hepatic injury or if ALT, AST, or bilirubin increase to >2 times ULN, immediately discontinue JYNARQUE, obtain repeat tests as soon as possible (within 48 to 72 hours), and continue testing as appropriate. If laboratory abnormalities stabilize or resolve, JYNARQUE may be reinitiated with increased frequency of monitoring as long as ALT and AST remain below 3 times the ULN. Do not restart JYNARQUE in patients who experience signs or symptoms consistent with hepatic injury or whose ALT or AST ever exceeds 3 times the ULN during treatment with tolvaptan, unless there is another explanation for liver injury and the injury has resolved. In patients with a stable, low baseline AST or ALT, an increase above 2 times baseline, even if less than 2 times the ULN, may indicate early liver injury. Such elevations may warrant treatment suspension and prompt (48 to 72 hours) re-evaluation of liver test trends prior to reinitiating therapy with more frequent monitoring. 5.2 Tolvaptan for ADPKD Shared System REMS JYNARQUE is available only through a restricted distribution program under a Risk Evaluation and Mitigation Strategy (REMS) called the Tolvaptan for ADPKD Shared System REMS, because of the risks of liver injury [see Warnings and Precautions (5.1) ] . Notable requirements of the Tolvaptan for ADPKD Shared System REMS include the following: Prescribers must be certified by enrolling in the REMS program. Prescribers must inform patients receiving JYNARQUE about the risk of hepatotoxicity associated with its use and how to recognize the signs and symptoms of hepatotoxicity and the appropriate actions to take if it occurs. Patients must enroll in the REMS program and comply with ongoing monitoring requirements. Pharmacies must be certified by enrolling in the REMS program and must only dispense to patients who are authorized to receive JYNARQUE. Further information, including a list of qualified pharmacies/distributors, is available at www.TolvaptanADPKDSharedREMS.com or by telephone at 1-866-244-9446. 5.3 Hypernatremia, Dehydration and Hypovolemia JYNARQUE increases free water clearance and, as a result, may cause dehydration, hypovolemia and hypernatremia. Therefore, ensure abnormalities in sodium concentrations are corrected prior to initiation of therapy. Instruct patients to drink water when thirsty, and throughout the day and night if awake. Monitor for weight loss, tachycardia and hypotension because they may signal dehydration. In the two double-blind, placebo-controlled trials of patients with ADPKD, hypernatremia (defined as any serum sodium concentration >150 mEq/L) was observed in 4.0% versus 0.6% and 1.4% versus 0% of tolvaptan-treated versus placebo-treated patients, respectively. The rate of dehydration and hypovolemia in the two studies was 2.1% versus 0.7% and 2.3% versus 0.4% for tolvaptan-treated versus placebo-treated patients, respectively. During JYNARQUE therapy, if serum sodium increases above normal range or the patient becomes hypovolemic or dehydrated and fluid intake cannot be increased, then suspend JYNARQUE until serum sodium, hydration status and volume status is within the normal range. 5.4 Co-Administration with Inhibitors of CYP3A Concomitant use of JYNARQUE with drugs that are moderate or strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, lopinavir/ritonavir, indinavir/ritonavir, ritonavir, and conivaptan) increases tolvaptan exposure [see Drug Interactions (7.1) and Clinical Pharmacology (12.3) ] . Use with strong CYP3A inhibitors is contraindicated; dose reduction of JYNARQUE is recommended for patients while taking moderate CYP3A inhibitors [see Dosage and Administration (2.4) and Contraindications (4) ].",
+    "drug_interactions": "7 DRUG INTERACTIONS Avoid concomitant use with: Strong CYP3A Inducers ( 7.1 ) V 2 -Receptor Agonists ( 7.2 ) 7.1 CYP3A Inhibitors and Inducers CYP3A Inhibitors Tolvaptan's AUC was 5.4 times as large and Cmax was 3.5 times as large after co-administration of tolvaptan and 200 mg ketoconazole [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3) ] . Larger doses of the strong CYP3A inhibitor would be expected to produce larger increases in tolvaptan exposure. Concomitant use of tolvaptan with strong CYP3A inhibitors is contraindicated [see Contraindications (4) ]. Dose reduction of JYNARQUE is recommended for patients while taking moderate CYP3A inhibitors [see Dosage and Administration (2.4) ]. Patients should avoid grapefruit juice beverages while taking JYNARQUE. Strong CYP3A Inducers Co-administration of JYNARQUE with strong CYP3A inducers reduces exposure to JYNARQUE [see Clinical Pharmacology (12.3) ]. Avoid concomitant use of JYNARQUE with strong CYP3A inducers [see Dosage and Administration (2.4) ]. 7.2 V 2 -Receptor Agonist As a V 2 -receptor antagonist, tolvaptan will interfere with the V 2 -agonist activity of desmopressin (dDAVP). Avoid concomitant use of JYNARQUE with a V 2 -agonist.",
+    "contraindications": "4 CONTRAINDICATIONS JYNARQUE is contraindicated in patients: With a history, signs or symptoms of significant liver impairment or injury. This contraindication does not apply to uncomplicated polycystic liver disease [see Warnings and Precautions (5.1) ] Taking strong CYP3A inhibitors With uncorrected abnormal blood sodium concentrations [see Warnings and Precautions (5.3) ] Unable to sense or respond to thirst [see Warnings and Precautions (5.3) ] Hypovolemia [see Warnings and Precautions (5.3) ] Hypersensitivity (e.g., anaphylaxis, rash) to tolvaptan or any component of the product [see Adverse Reactions (6) ] Uncorrected urinary outflow obstruction Anuria History of signs or symptoms of significant liver impairment or injury, does not include uncomplicated polycystic liver disease ( 4 ) Concomitant use of strong CYP3A inhibitors is contraindicated ( 4 ) Uncorrected abnormal blood sodium concentrations ( 4 , 5.3 ) Unable to sense or respond to thirst ( 4 ) Hypovolemia ( 4 ) Hypersensitivity to tolvaptan or any of its components ( 4 ) Uncorrected urinary outflow obstruction ( 4 ) Anuria ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Recommended dosage ( 2.1 ) Initial Dosage Titration Step Target Dosage 1st Dose 45 mg 1st Dose 60 mg 1st Dose 90 mg 2nd Dose (8 hours later) 15 mg 2nd Dose (8 hours later) 30 mg 2nd Dose (8 hours later) 30 mg Total Daily Dose 60 mg Total Daily Dose 90 mg Total Daily Dose 120 mg Dose adjustment is recommended for patients taking moderate CYP3A inhibitors ( 2.4 , 5.4 , 7.1 ) 2.1 Recommended Dosage The initial dosage for JYNARQUE is 60 mg orally per day as 45 mg taken on waking and 15 mg taken 8 hours later. Titrate to 60 mg plus 30 mg then to 90 mg plus 30 mg per day if tolerated with at least weekly intervals between titrations. Patients may down-titrate based on tolerability. Encourage patients to drink enough water to avoid thirst or dehydration. 2.2 Monitoring To mitigate the risk of significant or irreversible liver injury, perform blood testing for ALT, AST and bilirubin prior to initiation of JYNARQUE, at 2 and 4 weeks after initiation, monthly for 18 months and every 3 months thereafter . Monitor for concurrent symptoms that may indicate liver injury [see Warnings and Precautions (5.1) ] . 2.3 Missed Doses If a dose of JYNARQUE is not taken at the scheduled time, take the next dose at its scheduled time. 2.4 Co-Administration with CYP3A Inhibitors CYP3A Inhibitors Concomitant use of strong CYP3A inhibitors is contraindicated [see Contraindications (4) and Warnings and Precautions (5.4) ] . In patients taking concomitant moderate CYP3A inhibitors, reduce the dose of JYNARQUE per Table 1. Consider further reductions if patients cannot tolerate the reduced dose [see Warnings and Precautions (5.4) and Drug Interactions (7.1) ] . Interrupt JYNARQUE temporarily for short term therapy with moderate CYP3A inhibitors if the recommended reduced doses are not available. Table 1: Dose adjustment for patients taking moderate CYP3A inhibitors Standard Morning and Afternoon Dose (mg) Dose (mg) with Moderate CYP3A Inhibitors 90 mg and 30 mg 45 mg and 15 mg 60 mg and 30 mg 30 mg and 15 mg 45 mg and 15 mg 15 mg and 15 mg",
+    "dosage_and_administration_table": "<table width=\"100%\"><col width=\"22%\" align=\"left\" valign=\"middle\"/><col width=\"12%\" align=\"left\" valign=\"middle\"/><col width=\"21%\" align=\"left\" valign=\"middle\"/><col width=\"12%\" align=\"left\" valign=\"middle\"/><col width=\"21%\" align=\"left\" valign=\"middle\"/><col width=\"12%\" align=\"left\" valign=\"middle\"/><thead><tr><th styleCode=\"Lrule Rrule\" colspan=\"2\" align=\"center\">Initial Dosage</th><th styleCode=\"Rrule\" colspan=\"2\" align=\"center\">Titration Step</th><th styleCode=\"Rrule\" colspan=\"2\" align=\"center\">Target Dosage</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\">1st Dose</td><td styleCode=\"Rrule\">45 mg</td><td>1st Dose</td><td styleCode=\"Rrule\">60 mg</td><td>1st Dose</td><td styleCode=\"Rrule\">90 mg</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\">2nd Dose  (8 hours later)</td><td styleCode=\"Rrule\">15 mg</td><td>2nd Dose  (8 hours later)</td><td styleCode=\"Rrule\">30 mg</td><td>2nd Dose  (8 hours later)</td><td styleCode=\"Rrule\">30 mg</td></tr><tr><td styleCode=\"Lrule\"><content styleCode=\"bold\">Total Daily Dose</content></td><td styleCode=\"Rrule\">60 mg</td><td><content styleCode=\"bold\">Total Daily Dose</content></td><td styleCode=\"Rrule\">90 mg</td><td><content styleCode=\"bold\">Total Daily Dose</content></td><td styleCode=\"Rrule\">120 mg</td></tr></tbody></table> <table width=\"75%\"><caption>Table 1: Dose adjustment for patients taking moderate CYP3A inhibitors</caption><col width=\"50%\" align=\"center\" valign=\"top\"/><col width=\"50%\" align=\"center\" valign=\"top\"/><thead><tr><th styleCode=\"Lrule Rrule\">Standard Morning and Afternoon Dose (mg)</th><th styleCode=\"Rrule\">Dose (mg) with Moderate CYP3A Inhibitors</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">90 mg and 30 mg</td><td styleCode=\"Rrule\">45 mg and 15 mg</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">60 mg and 30 mg</td><td styleCode=\"Rrule\">30 mg and 15 mg</td></tr><tr><td styleCode=\"Lrule Rrule\">45 mg and 15 mg</td><td styleCode=\"Rrule\">15 mg and 15 mg</td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE JYNARQUE is indicated to slow kidney function decline in adults at risk of rapidly progressing autosomal dominant polycystic kidney disease (ADPKD). JYNARQUE is a selective vasopressin V 2 -receptor antagonist indicated to slow kidney function decline in adults at risk of rapidly progressing autosomal dominant polycystic kidney disease (ADPKD) ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA204441"
+    ],
+    "brand_name": [
+      "Jynarque",
+      "JYNARQUE"
+    ],
+    "generic_name": [
+      "TOLVAPTAN"
+    ],
+    "manufacturer_name": [
+      "Otsuka America Pharmaceutical, Inc."
+    ],
+    "product_ndc": [
+      "59148-079",
+      "59148-080",
+      "59148-087",
+      "59148-088",
+      "59148-089",
+      "59148-082",
+      "59148-083"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "rxcui": [
+      "2044355",
+      "2044357",
+      "2044359",
+      "2044361",
+      "2044363",
+      "2044365",
+      "2044367",
+      "2044369",
+      "2044966",
+      "2044967",
+      "2044968",
+      "2044969",
+      "2044970",
+      "2044971",
+      "2274813",
+      "2274814",
+      "2274815",
+      "2274816",
+      "2719335",
+      "2719337"
+    ],
+    "spl_id": [
+      "3be8a6fe-a8d0-43ca-a84d-183b522a3cf4"
+    ],
+    "spl_set_id": [
+      "3febc0a1-9e5a-4ce0-843d-210f21d862c4"
+    ],
+    "package_ndc": [
+      "59148-079-07",
+      "59148-079-28",
+      "59148-080-07",
+      "59148-080-28",
+      "59148-087-07",
+      "59148-087-28",
+      "59148-088-07",
+      "59148-088-28",
+      "59148-089-07",
+      "59148-089-28",
+      "59148-082-13",
+      "59148-083-13"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000193181",
+      "N0000193178"
+    ],
+    "pharm_class_epc": [
+      "Vasopressin V2 Receptor Antagonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Vasopressin V2 Receptor Antagonists [MoA]"
+    ],
+    "unii": [
+      "21G72T1950"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "TOLVAPTAN"
+    ]
+  }
+}

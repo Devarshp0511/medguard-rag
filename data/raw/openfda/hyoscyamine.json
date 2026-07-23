@@ -1,0 +1,55 @@
+{
+  "drug_name": "Hyoscyamine",
+  "drug_id": 547,
+  "sections": {
+    "warnings": "WARNINGS In the presence of high environmental temperature, heat prostration can occur with drug use (fever and heat stroke due to decreased sweating). Diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy. In this instance, treatment with this drug would be inappropriate and possibly harmful. Like other anticholinergic agents, hyoscyamine sulfate may produce drowsiness, dizziness, or blurred vision. In this event, the patient should be warned not to engage in activities requiring mental alertness such as operating a motor vehicle or other machinery or to perform hazardous work while taking this drug. Psychosis has been reported in sensitive individuals given anticholinergic drugs including hyoscyamine sulfate. CNS signs and symptoms include confusion, disorientation, short-term memory loss, hallucinations, dysarthria, ataxia, euphoria, anxiety, fatigue, insomnia, agitation and mannerisms, and inappropriate affect. These CNS signs and symptoms usually resolve within 12 to 48 hours after discontinuation of the drug.",
+    "drug_interactions": "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate.",
+    "contraindications": "CONTRAINDICATIONS Glaucoma; obstructive uropathy (for example, bladder neck obstruction due to prostatic hypertrophy); obstructive disease of the gastrointestinal tract (as in achalasia, pyloroduodenal stenosis); paralytic ileus, intestinal atony of elderly or debilitated patients; unstable cardiovascular status in acute hemorrhage; severe ulcerative colitis; toxic megacolon complicating ulcerative colitis; myasthenia gravis.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Dosage may be adjusted according to the conditions and severity of symptoms. Adults And Pediatric Patients 12 Years Of Age And Older 1 to 2 tablets every 12 hours. Do not crush or chew tablets. Do not exceed 4 tablets in 24 hours.",
+    "indications_and_usage": "INDICATIONS AND USAGE Hyoscyamine sulfate extended-release tablets are effective as adjunctive therapy in the treatment of peptic ulcer. They can also be used to control gastric secretion, visceral spasm and hypermotility in spastic colitis, spastic bladder, cystitis, pylorospasm, and associated abdominal cramps. May be used in functional intestinal disorders to reduce symptoms such as those seen in mild dysenteries, diverticulitis, and acute enterocolitis. For use as adjunctive therapy in the treatment of irritable bowel syndrome (irritable colon, spastic colon, mucous colitis) and functional gastrointestinal disorders. Also used as adjunctive therapy in the treatment of neurogenic bladder andmneurogenic bowel disturbances (including the splenic flexure syndrome and neurogenic colon). Hyoscyamine sulfate extended-release tablets are indicated along with morphine or other narcotics in symptomatic relief of biliary and renal colic; as a \u201cdrying agent\u201d in the relief of symptoms of acute rhinitis; in the therapy of parkinsonism to reduce rigidity and tremors and to control associated sialorrhea and hyperhidrosis. May be used in the therapy of poisoning by anticholinesterase agents."
+  },
+  "openfda_meta": {
+    "brand_name": [
+      "Hyoscyamine ER"
+    ],
+    "generic_name": [
+      "HYOSCYAMINE SULFATE"
+    ],
+    "manufacturer_name": [
+      "Pharma Packaging Solutions, LLC dba Tjopack LLC"
+    ],
+    "product_ndc": [
+      "75929-057"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "HYOSCYAMINE SULFATE"
+    ],
+    "rxcui": [
+      "1046770"
+    ],
+    "spl_id": [
+      "347830a8-8833-26b7-e063-6294a90a1f17"
+    ],
+    "spl_set_id": [
+      "01f97804-a6cb-ce6d-e063-6394a90ae220"
+    ],
+    "package_ndc": [
+      "75929-057-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0351525011515"
+    ],
+    "unii": [
+      "F2R8V82B84"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "drug_name": "Bisacodyl",
+  "drug_id": 871,
+  "sections": {
+    "warnings": "Warnings For rectal use only.",
+    "dosage_and_administration": "Directions -detach one suppository from the strip -remove wrapper before inserting into the rectum adults and children 12 years of age and older 1 suppository once daily children 6 to under 12 years 1/2 suppository once daily children under 6 years do not use",
+    "indications_and_usage": "Directions -detach one suppository from the strip -remove wrapper before inserting into the rectum adults and children 12 years of age and older 1 suppository once daily children 6 to under 12 years 1/2 suppository once daily children under 6 years do not use"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M007"
+    ],
+    "brand_name": [
+      "Walgreens Gentle Laxative"
+    ],
+    "generic_name": [
+      "BISACODYL SUPPOSITORY"
+    ],
+    "manufacturer_name": [
+      "Walgreens"
+    ],
+    "product_ndc": [
+      "0363-0466"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "RECTAL"
+    ],
+    "substance_name": [
+      "BISACODYL"
+    ],
+    "rxcui": [
+      "198509"
+    ],
+    "spl_id": [
+      "485ea50e-b62c-cbb9-e063-6394a90a1cdf"
+    ],
+    "spl_set_id": [
+      "015e41d2-7543-4210-8345-626f5ae5f81d"
+    ],
+    "package_ndc": [
+      "0363-0466-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0311917162638"
+    ],
+    "nui": [
+      "N0000009371",
+      "N0000175812",
+      "N0000009871"
+    ],
+    "pharm_class_pe": [
+      "Increased Large Intestinal Motility [PE]",
+      "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+    ],
+    "pharm_class_epc": [
+      "Stimulant Laxative [EPC]"
+    ],
+    "unii": [
+      "10X0709Y6I"
+    ]
+  }
+}

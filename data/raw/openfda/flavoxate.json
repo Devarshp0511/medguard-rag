@@ -1,0 +1,57 @@
+{
+  "drug_name": "Flavoxate",
+  "drug_id": 1375,
+  "sections": {
+    "warnings": "WARNINGS Flavoxate HCl should be given cautiously in patients with suspected glaucoma.",
+    "contraindications": "CONTRAINDICATIONS Flavoxate HCl tablets are contraindicated in patients who have any of the following obstructive conditions: pyloric or duodenal obstruction, obstructive intestinal lesions or ileus, achalasia, gastrointestinal hemorrhage and obstructive uropathies of the lower urinary tract.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Adults and children over 12 years of age: One or two 100 mg tablets 3 or 4 times a day. With improvement of symptoms, the dose may be reduced. This drug cannot be recommended for infants and children under 12 years of age because safety and efficacy have not been demonstrated in this age group.",
+    "indications_and_usage": "INDICATIONS AND USAGE Flavoxate HCl tablets are indicated for symptomatic relief of dysuria, urgency, nocturia, suprapubic pain, frequency and incontinence as may occur in cystitis, prostatitis, urethritis, urethrocystitis/urethrotrigonitis. Flavoxate HCl tablets are not indicated for definitive treatment, but are compatible with drugs used for the treatment of urinary tract infections."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA076831"
+    ],
+    "brand_name": [
+      "FLAVOXATE HYDROCHLORIDE"
+    ],
+    "generic_name": [
+      "FLAVOXATE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Padagis US LLC"
+    ],
+    "product_ndc": [
+      "0574-0115"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FLAVOXATE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1095229"
+    ],
+    "spl_id": [
+      "ff1c0ee9-75d2-478a-9152-0753be81ff11"
+    ],
+    "spl_set_id": [
+      "a9c44c4b-5b3c-45bf-9bc9-ce858e3d06c5"
+    ],
+    "package_ndc": [
+      "0574-0115-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0305740115015"
+    ],
+    "unii": [
+      "9C05J6089W"
+    ]
+  }
+}

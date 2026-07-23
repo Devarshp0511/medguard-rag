@@ -1,0 +1,72 @@
+{
+  "drug_name": "Amisulpride",
+  "drug_id": 200,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS QT Prolongation : Occurs in a dose- and concentration-dependent manner. Avoid use in patients with congenital long QT syndrome and in patients taking droperidol. ECG monitoring is recommended in patients with pre-existing arrhythmias/cardiac conduction disorders; electrolyte abnormalities (e.g., hypokalemia or hypomagnesemia); congestive heart failure; and in patients taking other medicinal products (e.g., ondansetron) or with other medical conditions known to prolong the QT interval. ( 5.1 , 7.2 ) 5.1 QT Prolongation BARHEMSYS causes dose- and concentration-dependent prolongation of the QT interval [see Clinical Pharmacology (12.2) ] . The recommended dosage is 5 or 10 mg as a single intravenous dose infused over 1 to 2 minutes [see Dosage and Administration (2.1) ] . Avoid use in patients with congenital long QT syndrome and in patients taking droperidol. Electrocardiogram (ECG) monitoring is recommended in patients with pre-existing arrhythmias/cardiac conduction disorders; electrolyte abnormalities (e.g., hypokalemia or hypomagnesemia); congestive heart failure; and in patients taking other medicinal products (e.g., ondansetron) or with other medical conditions known to prolong the QT interval [see Drug Interactions (7.2) ] .",
+    "drug_interactions": "7 DRUG INTERACTIONS 7.1 Dopamine Agonists Reciprocal antagonism of effects occurs between dopamine agonists (e.g., levodopa) and BARHEMSYS. Avoid using levodopa with BARHEMSYS. 7.2 Drugs Prolonging the QT Interval BARHEMSYS causes dose- and concentration-dependent QT prolongation [see Clinical Pharmacology (12.2) ] . To avoid potential additive effects, avoid use of BARHEMSYS in patients taking droperidol. ECG monitoring is recommended in patients taking other drugs known to prolong the QT interval (e.g., ondansetron) [see Warnings and Precautions (5.1) ] .",
+    "contraindications": "4 CONTRAINDICATIONS BARHEMSYS is contraindicated in patients with known hypersensitivity to amisulpride [see Adverse Reactions (6.2) ] . Known hypersensitivity to amisulpride. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION The recommended dosage of BARHEMSYS: Prevention of PONV, either alone or in combination with another antiemetic : 5 mg as a single intravenous dose infused over 1 to 2 minutes at the time of induction of anesthesia. ( 2.1 ) Treatment of PONV : 10 mg as a single intravenous dose infused over 1 to 2 minutes in the event of nausea and/or vomiting after a surgical procedure. ( 2.1 ) See full prescribing information for preparation and administration instructions . ( 2.2 ) 2.1 Recommended Dosage The recommended adult dosage of BARHEMSYS and infusion rate by indication is shown in the table below: Indication Adult Dosage Regimen Prevention of PONV 5 mg as a single intravenous injection infused over 1 to 2 minutes at the time of induction of anesthesia [see Dosage and Administration (2.2) ] . Treatment of PONV 10 mg as a single intravenous injection infused over 1 to 2 minutes in the event of nausea and/or vomiting after a surgical procedure [see Dosage and Administration (2.2) ] . 2.2 Preparation and Administration Dilution of BARHEMSYS is not required before administration. BARHEMSYS is chemically and physically compatible with Water for Injection, 5% Dextrose Injection, 0.9% Sodium Chloride Injection, and Lactated Ringer's Solution (also known as Ringer's Lactate Solution, Compound Sodium Lactate Solution, and Hartmann's Solution), any of which may be used to flush an intravenous line before or after administration of BARHEMSYS. Protect from light. BARHEMSYS is subject to photodegradation. Administer BARHEMSYS within 12 hours of removal of the vial from the protective carton. Prior to administration, inspect the BARHEMSYS solution visually for particulate matter and discoloration. Discard if particulate matter or discoloration is observed.",
+    "dosage_and_administration_table": "<table width=\"75%\"><col width=\"30%\" align=\"left\" valign=\"top\"/><col width=\"70%\" align=\"left\" valign=\"top\"/><thead><tr><th styleCode=\"Lrule Rrule\">Indication</th><th styleCode=\"Rrule\">Adult Dosage Regimen</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Prevention of PONV</td><td styleCode=\"Rrule\">5 mg as a single intravenous injection infused over 1 to 2 minutes at the time of induction of anesthesia <content styleCode=\"italics\">[see <linkHtml href=\"#S2.2\">Dosage and Administration (2.2)</linkHtml>]</content>.</td></tr><tr><td styleCode=\"Lrule Rrule\">Treatment of PONV</td><td styleCode=\"Rrule\">10 mg as a single intravenous injection infused over 1 to 2 minutes in the event of nausea and/or vomiting after a surgical procedure <content styleCode=\"italics\">[see <linkHtml href=\"#S2.2\">Dosage and Administration (2.2)</linkHtml>]</content>.</td></tr></tbody></table>",
+    "indications_and_usage": "1 INDICATIONS AND USAGE BARHEMSYS \u00ae is indicated in adults for: prevention of postoperative nausea and vomiting (PONV), either alone or in combination with an antiemetic of a different class. treatment of PONV in patients who have received antiemetic prophylaxis with an agent of a different class or have not received prophylaxis. BARHEMSYS is a dopamine-2 (D 2 ) antagonist indicated in adults for: Prevention of postoperative nausea and vomiting (PONV), either alone or in combination with an antiemetic of a different class. ( 1 ) Treatment of PONV in patients who have received antiemetic prophylaxis with an agent of a different class or have not received prophylaxis. ( 1 )"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "NDA209510"
+    ],
+    "brand_name": [
+      "Barhemsys"
+    ],
+    "generic_name": [
+      "AMISULPRIDE"
+    ],
+    "manufacturer_name": [
+      "Acacia Pharma Ltd"
+    ],
+    "product_ndc": [
+      "71390-125"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "AMISULPRIDE"
+    ],
+    "rxcui": [
+      "2284232",
+      "2284237",
+      "2467148",
+      "2467149"
+    ],
+    "spl_id": [
+      "65f9d1f3-9e6a-48bd-8ae3-fee41402cd36"
+    ],
+    "spl_set_id": [
+      "ab23bc6e-b6a8-165f-e053-2a95a90ab144"
+    ],
+    "package_ndc": [
+      "71390-125-21",
+      "71390-125-20",
+      "71390-125-51",
+      "71390-125-50"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175800",
+      "N0000175799"
+    ],
+    "pharm_class_epc": [
+      "Dopamine-2 Receptor Antagonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Dopamine D2 Antagonists [MoA]"
+    ],
+    "unii": [
+      "8110R61I4U"
+    ]
+  }
+}

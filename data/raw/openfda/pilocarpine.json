@@ -1,0 +1,55 @@
+{
+  "drug_name": "Pilocarpine",
+  "drug_id": 1425,
+  "sections": {
+    "warnings": "WARNINGS: Cardiovascular Disease: Patients with significant cardiovascular disease may be unable to compensate for transient changes in hemodynamics or rhythm induced by pilocarpine. Pulmonary edema has been reported as a complication of pilocarpine toxicity from high ocular doses given for acute angle-closure glaucoma. Pilocarpine should be administered with caution in and under close medical supervision of patients with significant cardiovascular disease. Ocular: Ocular formulations of pilocarpine have been reported to cause visual blurring which may result in decreased visual acuity, especially at night and in patients with central lens changes, and to cause impairment of depth perception. Caution should be advised while driving at night or performing hazardous activities in reduced lighting. Pulmonary Disease: Pilocarpine has been reported to increase airway resistance, bronchial smooth muscle tone, and bronchial secretions. Pilocarpine hydrochloride should be administered with caution to and under close medical supervision in patients with controlled asthma, chronic bronchitis, or chronic obstructive pulmonary disease requiring pharmacotherapy.",
+    "drug_interactions": "Drug Interactions: Pilocarpine should be administered with caution to patients taking beta adrenergic antagonists because of the possibility of conduction disturbances. Drugs with parasympathomimetic effects administered concurrently with pilocarpine would be expected to result in additive pharmacologic effects. Pilocarpine might antagonize the anticholinergic effects of drugs used concomitantly. These effects should be considered when anticholinergic properties may be contributing to the therapeutic effect of concomitant medication (e.g., atropine, inhaled ipratropium). While no formal drug interaction studies have been performed, the following concomitant drugs were used in at least 10% of patients in either or both Sjogren's efficacy studies: acetylsalicylic acid, artificial tears, calcium, conjugated estrogens, hydroxychloroquine sulfate, ibuprofen, levothyroxine sodium, medroxyprogesterone acetate, methotrexate, multivitamins, naproxen, omeprazole, paracetamol, and prednisone.",
+    "contraindications": "CONTRAINDICATIONS: Pilocarpine hydrochloride tablets are contraindicated in patients with uncontrolled asthma, known hypersensitivity to pilocarpine, and when miosis is undesirable, e.g., in acute iritis and in narrow-angle (angle closure) glaucoma.",
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION: Regardless of the indication, the starting dose in patients with moderate hepatic impairment should be 5 mg twice daily, followed by adjustment based on therapeutic response and tolerability. Patients with mild hepatic insufficiency do not require dosage reductions. The use of pilocarpine in patients with severe hepatic insufficiency is not recommended. If needed, refer to the Hepatic Insufficiency subsection of the Precautions section of this label for definitions of mild, moderate and severe hepatic impairment. Head & Neck Cancer Patients: The recommended initial dose of pilocarpine hydrochloride tablets is 5 mg taken three times a day. Dosage should be titrated according to therapeutic response and tolerability. The usual dosage range is 15-30 mg per day. (Not to exceed 10 mg per dose.) Although early improvement may be realized, at least 12 weeks of uninterrupted therapy with pilocarpine hydrochloride tablets may be necessary to assess whether a beneficial response will be achieved. The incidence of the most common adverse events increases with dose. The lowest dose that is tolerated and effective should be used for maintenance. Sjogren's Syndrome Patients: The recommended dose of pilocarpine hydrochloride tablets is one tablet (5 mg) taken four times a day. Efficacy was established by 6 weeks of use.",
+    "indications_and_usage": "INDICATIONS AND USAGE: Pilocarpine hydrochloride tablets, USP are indicated for 1) the treatment of symptoms of dry mouth from salivary gland hypofunction caused by radiotherapy for cancer of the head and neck; and 2) the treatment of symptoms of dry mouth in patients with Sjogren's syndrome."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA077220"
+    ],
+    "brand_name": [
+      "Pilocarpine Hydrochloride"
+    ],
+    "generic_name": [
+      "PILOCARPINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "72162-1078"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PILOCARPINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1000913"
+    ],
+    "spl_id": [
+      "aa0c11f4-3998-4089-80b7-b6807c77ecd3"
+    ],
+    "spl_set_id": [
+      "06c054af-62b4-4373-813a-9bb2e5c92316"
+    ],
+    "package_ndc": [
+      "72162-1078-1"
+    ],
+    "original_packager_product_ndc": [
+      "0527-1313"
+    ],
+    "unii": [
+      "0WW6D218XJ"
+    ]
+  }
+}

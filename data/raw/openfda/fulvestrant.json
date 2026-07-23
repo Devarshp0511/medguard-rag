@@ -1,0 +1,68 @@
+{
+  "drug_name": "Fulvestrant",
+  "drug_id": 1479,
+  "sections": {
+    "warnings_and_cautions": "5 WARNINGS AND PRECAUTIONS Risk of Bleeding: Use with caution in patients with bleeding diatheses, thrombocytopenia, or anticoagulant use. ( 5.1 ) Increased Exposure in Patients with Hepatic Impairment: Use a 250 mg dose for patients with moderate hepatic impairment. ( 2.2 , 5.2 , 8.6 ) Injection Site Reaction: Use caution while administering Fulvestrant Injection at the dorsogluteal injection site due to the proximity of the underlying sciatic nerve. ( 5.3 ) Embryo-Fetal Toxicity: Can cause fetal harm. Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception. ( 5.4 , 8.1 , 8.3 ) Immunoassay Measurement of Serum Estradiol: Fulvestrant Injection can interfere with estradiol measurement by immunoassay, resulting in falsely elevated estradiol levels. ( 5.5 ) 5.1 Risk of Bleeding Because Fulvestrant Injection is administered intramuscularly, it should be used with caution in patients with bleeding diatheses, thrombocytopenia, or anticoagulant use. 5.2 Increased Exposure in Patients with Hepatic Impairment The safety and pharmacokinetics of Fulvestrant Injection were evaluated in a study in seven subjects with moderate hepatic impairment (Child-Pugh class B) and seven subjects with normal hepatic function. Exposure was increased in patients with moderate hepatic impairment, therefore a dose of 250 mg is recommended [see Dosage and Administration ( 2.2 )]. Fulvestrant Injection has not been studied in patients with severe hepatic impairment (Child-Pugh class C) [see Use in Specific Populations ( 8.6 )]. 5.3 Injection Site Reaction Injection site related events including sciatica, neuralgia, neuropathic pain, and peripheral neuropathy have been reported with Fulvestrant Injection. Caution should be taken while administering Fulvestrant Injection at the dorsogluteal injection site due to the proximity of the underlying sciatic nerve [see Dosage and Administration ( 2.3 ) and Adverse Reactions ( 6.1 )] . 5.4 Embryo-Fetal Toxicity Based on findings from animal studies and its mechanism of action, Fulvestrant Injection can cause fetal harm when administered to a pregnant woman. In animal reproduction studies, administration of fulvestrant to pregnant rats and rabbits during organogenesis resulted in embryo-fetal toxicity at daily doses that are significantly less than the maximum recommended human dose. Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with Fulvestrant Injection and for one year after the last dose [see Use in Specific Populations ( 8.1 ), ( 8.3 ) and Clinical Pharmacology ( 12.1 )]. 5.5 Immunoassay Measurement of Serum Estradiol Due to structural similarity of fulvestrant and estradiol, Fulvestrant Injection can interfere with estradiol measurement by immunoassay, resulting in falsely elevated estradiol levels.",
+    "drug_interactions": "7 DRUG INTERACTIONS There are no known drug-drug interactions. Although, fulvestrant is metabolized by CYP 3A4 in vitro , drug interactions studies with ketoconazole or rifampin did not alter fulvestrant pharmacokinetics. Dose adjustment is not needed in patients co-prescribed CYP 3A4 inhibitors or inducers [see Clinical Pharmacology ( 12.3 )] . There are no known drug-drug interactions. ( 7 )",
+    "contraindications": "4 CONTRAINDICATIONS Fulvestrant Injection is contraindicated in patients with a known hypersensitivity to the drug or to any of its components. Hypersensitivity reactions, including urticaria and angioedema, have been reported in association with Fulvestrant Injection [see Adverse Reactions ( 6.2 )]. Hypersensitivity. ( 4 )",
+    "dosage_and_administration": "2 DOSAGE AND ADMINISTRATION Fulvestrant Injection 500 mg should be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29, and once monthly thereafter. ( 2.1 , 14 ) A dose of 250 mg is recommended in patients with moderate hepatic impairment to be administered intramuscularly into the buttock (gluteal area) slowly (1 - 2 minutes) as one 5 mL injection on Days 1, 15, 29, and once monthly thereafter. ( 2.2 , 5.2 , 8.6 ) 2.1 Recommended Dose Monotherapy The recommended dose of Fulvestrant Injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29, and once monthly thereafter [see Clinical Studies ( 14 )]. Combination Therapy When Fulvestrant Injection is used in combination with palbociclib, abemaciclib, or ribociclib, the recommended dose of Fulvestrant Injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29, and once monthly thereafter. When Fulvestrant Injection is used in combination with palbociclib, the recommended dose of palbociclib is a 125 mg capsule taken orally once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days. Palbociclib should be taken with food. Refer to the Full Prescribing Information for palbociclib. When Fulvestrant Injection is used in combination with abemaciclib, the recommended dose of abemaciclib is 150 mg orally, twice daily. Abemaciclib may be taken with or without food. Refer to the Full Prescribing Information for abemaciclib. When Fulvestrant Injection is used in combination with ribociclib, the recommended dose of ribociclib is 600 mg taken orally, once daily for 21 consecutive days followed by 7 days off treatment resulting in a complete cycle of 28 days. Ribociclib can be taken with or without food. Refer to the Full Prescribing Information for ribociclib. Pre/perimenopausal women treated with the combination of Fulvestrant Injection plus palbociclib, abemaciclib, or ribociclib should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies ( 14 )]. 2.2 Dose Modification Monotherapy Hepatic Impairment A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock (gluteal area) slowly (1 - 2 minutes) as one 5 mL injection on Days 1, 15, 29 and once monthly thereafter. Fulvestrant Injection has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions ( 5.2 ) and Use in Specific Populations ( 8.6 )]. Combination Therapy When Fulvestrant Injection is used in combination with palbociclib, abemaciclib, or ribociclib, refer to monotherapy dose modification instructions for Fulvestrant Injection. Refer to the Full Prescribing Information of co-administered palbociclib, abemaciclib, or ribociclib for dose modification guidelines in the event of toxicities, for use with concomitant medications, and other relevant safety information. 2.3 Administration Technique Administer the injection according to the local guidelines for performing large volume intramuscular injections. NOTE: Due to the proximity of the underlying sciatic nerve, caution should be taken if administering Fulvestrant Injection at the dorsogluteal injection site [see Warnings and Precautions ( 5.3 ) and Adverse Reactions ( 6.1 )] . The proper method of administration of Fulvestrant Injection for intramuscular use is described in the following instructions. For each single-dose prefilled syringe: Remove glass syringe barrel from tray and check that it is not damaged. Remove perforated patient record label from syringe. Inspect drug product in glass syringe for any visible particulate matter or discoloration prior to use. Discard if particulate matter or discoloration is present. Peel open the safety needle (SafetyGlide \u2122 ) outer packaging. Hold the syringe upright on the ribbed part (C). With the other hand, take hold of the cap (A) and carefully TWIST THE CAP in a counter-clockwise direction until the cap disconnects for removal (see Figure 1 ). Figure 1 Pull the cap (A) off in a straight upward direction. DO NOT TOUCH THE STERILE SYRINGE TIP (Luer-Lok) (B) (see Figure 2 ). Figure 2 Attach the safety needle to the syringe tip (Luer-Lok). Twist needle until firmly seated (see Figure 3 ). Confirm that the needle is locked to the Luer connector before moving or tilting the syringe out of the vertical plane to avoid spillage of syringe contents. Figure 3 For Administration: Pull shield straight off needle to avoid damaging needle point. Remove needle sheath. Expel excess gas from the syringe (a small gas bubble may remain). Administer intramuscularly slowly (1-2 minutes/injection) into the buttock (gluteal area). For user convenience, the needle \u2018bevel up\u2019 position is orientated to the lever arm, as shown in Figure 4 . Figure 4 After injection, immediately activate the lever arm to deploy the needle shielding by applying a single-finger stroke to the activation assisted lever arm to push the lever arm completely forward. Listen for a click. Confirm that the needle shielding has completely covered the needle (see Figure 5 ). NOTE: Activate away from self and others. Figure 5 Discard the empty syringe into an approved sharps collector in accordance with applicable regulations and institutional policy. Repeat steps 1 through 13 for second syringe. How To Use Fulvestrant Injection For the 2 x 5 mL syringe package, the contents of both syringes must be injected to receive the 500 mg recommended dose. SAFETYGLIDE \u2122 INSTRUCTIONS FROM BECTON DICKINSON SafetyGlide \u2122 is a trademark of Becton Dickinson and Company. Important Administration Information To help avoid HIV (AIDS), HBV (Hepatitis), and other infectious diseases due to accidental needlesticks, contaminated needles should not be recapped or removed, unless there is no alternative or that such action is required by a specific medical procedure. Hands must remain behind the needle at all times during use and disposal. Do not autoclave SafetyGlide \u2122 Needle before use. Becton Dickinson guarantees the contents of their unopened or undamaged packages to be sterile, non-toxic and non-pyrogenic. Figure 1 Figure 2 Figure 3 Figure 4 Figure 5",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Fulvestrant Injection is an estrogen receptor antagonist indicated for the treatment of: Hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced breast cancer in postmenopausal women not previously treated with endocrine therapy. ( 1 ) HR-positive advanced breast cancer in postmenopausal women with disease progression following endocrine therapy. ( 1 ) HR-positive, HER2-negative advanced or metastatic breast cancer in postmenopausal women in combination with ribociclib, as initial endocrine based therapy or following disease progression on endocrine therapy. ( 1 ) HR-positive, HER2-negative advanced or metastatic breast cancer in combination with palbociclib or abemaciclib in women with disease progression after endocrine therapy. ( 1 ) Monotherapy Fulvestrant Injection is indicated for the treatment of: Hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced breast cancer in postmenopausal women not previously treated with endocrine therapy, or HR-positive advanced breast cancer in postmenopausal women with disease progression following endocrine therapy. Combination Therapy Fulvestrant Injection is indicated for the treatment of: HR-positive, HER2-negative advanced or metastatic breast cancer in postmenopausal women in combination with ribociclib as initial endocrine based therapy or following disease progression on endocrine therapy. HR-positive, HER2-negative advanced or metastatic breast cancer in combination with palbociclib or abemaciclib in women with disease progression after endocrine therapy."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA209714"
+    ],
+    "brand_name": [
+      "Fulvestrant"
+    ],
+    "generic_name": [
+      "FULVESTRANT"
+    ],
+    "manufacturer_name": [
+      "Meitheal Pharmaceuticals Inc"
+    ],
+    "product_ndc": [
+      "71288-555"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAMUSCULAR"
+    ],
+    "substance_name": [
+      "FULVESTRANT"
+    ],
+    "rxcui": [
+      "727762"
+    ],
+    "spl_id": [
+      "2be67b09-31de-41b4-9468-a73a284abe41"
+    ],
+    "spl_set_id": [
+      "015fafb6-23f7-4566-9c23-386eee7b035d"
+    ],
+    "package_ndc": [
+      "71288-555-85",
+      "71288-555-86"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175582",
+      "N0000000145",
+      "N0000000168"
+    ],
+    "pharm_class_epc": [
+      "Estrogen Receptor Antagonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Estrogen Receptor Antagonists [MoA]",
+      "Selective Estrogen Receptor Modulators [MoA]"
+    ],
+    "unii": [
+      "22X328QOC4"
+    ]
+  }
+}

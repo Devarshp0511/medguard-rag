@@ -1,0 +1,66 @@
+{
+  "drug_name": "Nizatidine",
+  "drug_id": 898,
+  "sections": {
+    "dosage_and_administration": "DOSAGE AND ADMINISTRATION Active Duodenal Ulcer \u2013 The recommended oral dosage for adults is 300 mg once daily at bedtime. An alternative dosage regimen is 150 mg twice daily. Maintenance of Healed Duodenal Ulcer \u2013 The recommended oral dosage for adults is 150 mg once daily at bedtime. Gastroesophageal Reflux Disease \u2013 The recommended oral dosage in adults for the treatment of erosions, ulcerations, and associated heartburn is 150 mg twice daily. Active Benign Gastric Ulcer \u2013 The recommended oral dosage is 300 mg given either as 150 mg twice daily or 300 mg once daily at bedtime. Prior to treatment, care should be taken to exclude the possibility of malignant gastric ulceration. Dosage Adjustment for Patients With Moderate to Severe Renal Insufficiency \u2013 The dose for patients with renal dysfunction should be reduced as follows: Active Duodenal Ulcer, GERD and Benign Gastric Ulcer C cr Dose 20-50 mL/min 150 mg daily <20 mL/min 150 mg every other day Maintenance Therapy C cr Dose 20-50 mL/min 150 mg every other day <20 mL/min 150 mg every 3 days Some elderly patients may have creatinine clearances of less than 50 mL/min, and based on pharmacokinetic data in patients with renal impairment, the dose for such patients should be reduced accordingly. The clinical effects of this dosage reduction in patients with renal failure have not been evaluated.",
+    "dosage_and_administration_table": "<table width=\"800px\"><caption>Active Duodenal Ulcer, GERD and Benign Gastric Ulcer</caption><col/><col/><col/><col/><col/><tbody><tr><td> </td><td align=\"center\"> C<sub>cr</sub></td><td> </td><td align=\"center\"> Dose</td><td> </td></tr><tr><td align=\"center\"> </td><td align=\"center\" styleCode=\" Toprule\"> 20-50 mL/min</td><td align=\"center\"> </td><td align=\"center\" styleCode=\" Toprule\"> 150 mg daily</td><td align=\"center\"> </td></tr><tr><td align=\"center\"> </td><td align=\"center\"> &lt;20 mL/min</td><td align=\"center\"> </td><td align=\"center\"> 150 mg every other day</td><td align=\"center\"> </td></tr></tbody></table> <table width=\"800px\"><caption>Maintenance Therapy</caption><col/><col/><col/><col/><col/><tbody><tr><td> </td><td align=\"center\"> C<sub>cr</sub></td><td> </td><td align=\"center\"> Dose</td><td> </td></tr><tr><td align=\"center\"> </td><td align=\"center\" styleCode=\" Toprule\"> 20-50 mL/min</td><td align=\"center\"> </td><td align=\"center\" styleCode=\" Toprule\"> 150 mg every other day</td><td align=\"center\"> </td></tr><tr><td align=\"center\"> </td><td align=\"center\"> &lt;20 mL/min</td><td align=\"center\"> </td><td align=\"center\"> 150 mg every 3 days</td><td align=\"center\"> </td></tr></tbody></table>",
+    "indications_and_usage": "INDICATIONS AND USAGE Nizatidine is indicated for up to 8 weeks for the treatment of active duodenal ulcer. In most patients, the ulcer will heal within 4 weeks. Nizatidine is indicated for maintenance therapy for duodenal ulcer patients, at a reduced dosage of 150 mg h.s. after healing of an active duodenal ulcer. The consequences of continuous therapy with nizatidine for longer than 1 year are not known. Nizatidine is indicated for up to 12 weeks for the treatment of endoscopically diagnosed esophagitis, including erosive and ulcerative esophagitis, and associated heartburn due to GERD. Nizatidine is indicated for up to 8 weeks for the treatment of active benign gastric ulcer. Before initiating therapy, care should be taken to exclude the possibility of malignant gastric ulceration."
+  },
+  "openfda_meta": {
+    "application_number": [
+      "ANDA075616"
+    ],
+    "brand_name": [
+      "Nizatidine"
+    ],
+    "generic_name": [
+      "NIZATIDINE"
+    ],
+    "manufacturer_name": [
+      "Actavis Pharma, Inc."
+    ],
+    "product_ndc": [
+      "0591-3137",
+      "0591-3138"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NIZATIDINE"
+    ],
+    "rxcui": [
+      "198041",
+      "312025"
+    ],
+    "spl_id": [
+      "0920fca7-e74b-49fb-809b-ef720690752e"
+    ],
+    "spl_set_id": [
+      "367a1004-59c1-4474-a4f6-ce8bf5a1b043"
+    ],
+    "package_ndc": [
+      "0591-3137-60",
+      "0591-3138-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000000151",
+      "N0000175784"
+    ],
+    "pharm_class_moa": [
+      "Histamine H2 Receptor Antagonists [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Histamine-2 Receptor Antagonist [EPC]"
+    ],
+    "unii": [
+      "P41PML4GHR"
+    ]
+  }
+}

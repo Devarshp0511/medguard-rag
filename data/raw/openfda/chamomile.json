@@ -1,0 +1,50 @@
+{
+  "drug_name": "Chamomile",
+  "drug_id": 42,
+  "sections": {
+    "warnings": "Warnings \u2022 FLAMMABLE. DO NOT USE NEAR HEAT, FLAME, OR WHILE SMOKING. CAN CAUSE SERIOUS INJURY OR DEATH \u2022 Keep away from face and mouth to avoid breathing in. \u2022 Avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not expose to heat or store at temperatures above 120\u00b0F/50\u00b0C or in enclosed places that could overheat \u2022 Do not use on broken skin. Stop use if rash or irritation occurs. \u2022 Ask a doctor before using if you have kidney disease. \u2022 USE ONLY AS DIRECTED. INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND INHALING THE CONTENTS CAN BE HARMFUL OR FATAL. Help stop inhalation abuse. For information visit www.inhalant.org",
+    "dosage_and_administration": "Directions apply to underarms only",
+    "indications_and_usage": "Uses \u2022 reduces underarm wetness"
+  },
+  "openfda_meta": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Dove"
+    ],
+    "generic_name": [
+      "ADVANCED PEACH AND CHAMOMILE TEA DRY SPRAY 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco, Inc. d/b/a Unilever"
+    ],
+    "product_ndc": [
+      "64942-2141"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "51b9ed68-1d30-b3bc-e063-6394a90a27b3"
+    ],
+    "spl_set_id": [
+      "00eef191-4eaa-5b06-e063-6294a90ad5bd"
+    ],
+    "package_ndc": [
+      "64942-2141-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}
