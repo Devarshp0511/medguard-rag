@@ -51,9 +51,16 @@ async def lifespan(app: FastAPI):
     """Load heavy resources once at startup, clean up on shutdown."""
     _resources["engine"] = create_engine(settings.database_url)
     _resources["embed_model"] = SentenceTransformer(EMBEDDING_MODEL_NAME)
-    _resources["qdrant"] = QdrantClient(
-        host=settings.qdrant_host, port=settings.qdrant_port, https=False
-    )
+    # Cloud deployment sets QDRANT_URL (full HTTPS cluster URL) + QDRANT_API_KEY.
+    # Local dev leaves QDRANT_URL unset and connects to Docker/localhost instead.
+    if settings.qdrant_url:
+        _resources["qdrant"] = QdrantClient(
+            url=settings.qdrant_url, api_key=settings.qdrant_api_key
+        )
+    else:
+        _resources["qdrant"] = QdrantClient(
+            host=settings.qdrant_host, port=settings.qdrant_port, https=False
+        )
     _resources["anthropic"] = anthropic.Anthropic(api_key=settings.anthropic_api_key)
     yield
     _resources.clear()

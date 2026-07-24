@@ -48,6 +48,11 @@ class Settings(BaseSettings):
     qdrant_collection_name: str = Field(default="fda_label_chunks")
     # Only required when using Qdrant Cloud rather than a local instance.
     qdrant_api_key: str | None = Field(default=None)
+    # Full cluster URL (e.g. "https://xxxx.aws.cloud.qdrant.io:6333") for
+    # Qdrant Cloud. When set, this takes priority over qdrant_host/port --
+    # the API's client construction branches on this being present. Local
+    # dev leaves this unset and uses host/port with https=False instead.
+    qdrant_url: str | None = Field(default=None)
 
     # --- LLM generation (Claude API) ---
     anthropic_api_key: str | None = Field(
