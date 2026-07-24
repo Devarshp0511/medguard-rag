@@ -31,7 +31,7 @@ import argparse
 import logging
 
 from qdrant_client import QdrantClient
-from qdrant_client.models import Distance, PointStruct, VectorParams
+from qdrant_client.models import Distance, PayloadSchemaType, PointStruct, VectorParams
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
 
@@ -62,6 +62,15 @@ def ensure_collection(client: QdrantClient) -> None:
     Creates the Qdrant collection if it doesn't already exist. Safe to call
     every run -- checks existence first rather than blindly recreating,
     which would wipe previously embedded data.
+
+    Also creates a payload index on `drug_id`, required for filtering on
+    that field. Local self-hosted Qdrant allows unindexed filtering (via a
+    slower full scan), but Qdrant Cloud enforces an explicit index and
+    rejects filtered queries without one -- discovered when our hybrid
+    retrieval's drug-scoped filtering worked locally but failed against
+    Cloud with "Index required but not found for drug_id". Creating this
+    index here means any fresh setup (local or cloud) gets it automatically,
+    rather than needing a one-off fix script after the fact.
     """
     existing = [c.name for c in client.get_collections().collections]
     if settings.qdrant_collection_name in existing:
@@ -73,6 +82,13 @@ def ensure_collection(client: QdrantClient) -> None:
         vectors_config=VectorParams(size=EMBEDDING_DIM, distance=Distance.COSINE),
     )
     logger.info("Created collection %r (dim=%d, cosine distance)", settings.qdrant_collection_name, EMBEDDING_DIM)
+
+    client.create_payload_index(
+        collection_name=settings.qdrant_collection_name,
+        field_name="drug_id",
+        field_schema=PayloadSchemaType.INTEGER,
+    )
+    logger.info("Created payload index on 'drug_id'")
 
 
 def embed_and_upsert(session: Session, client: QdrantClient, batch_size: int = EMBED_BATCH_SIZE) -> dict[str, int]:
