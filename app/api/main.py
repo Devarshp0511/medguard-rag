@@ -11,9 +11,11 @@ Why three separate endpoints instead of just /query:
   - /interactions is a fast, free, structured-only lookup
   - /query is the full pipeline (costs Claude API credits per call)
 
-Startup: loads the embedding model and connects to Qdrant once at app start,
-not per-request. The model is ~130MB in memory -- acceptable for a single-
-instance service, worth noting if you ever scale horizontally.
+Startup: connects to Qdrant once at app start, not per-request. Query
+embedding is handled by fastembed (app/core/embeddings.py), chosen
+specifically for its small memory footprint on constrained hosts (e.g.
+Render's free tier caps at 512MB, which PyTorch/sentence-transformers
+alone could exceed).
 
 Run as: uvicorn app.api.main:app --reload
 """
@@ -27,12 +29,11 @@ from fastapi import Depends, FastAPI, Header, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from qdrant_client import QdrantClient
-from sentence_transformers import SentenceTransformer
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
 
 from app.core.config import settings
-from app.generation.answer import EMBEDDING_MODEL_NAME, answer_query
+from app.generation.answer import answer_query
 from app.models.db_models import Drug, Interaction
 from app.retrieval.hybrid_search import (
     extract_drug_names,
@@ -50,7 +51,6 @@ _resources: dict = {}
 async def lifespan(app: FastAPI):
     """Load heavy resources once at startup, clean up on shutdown."""
     _resources["engine"] = create_engine(settings.database_url)
-    _resources["embed_model"] = SentenceTransformer(EMBEDDING_MODEL_NAME)
     # Cloud deployment sets QDRANT_URL (full HTTPS cluster URL) + QDRANT_API_KEY.
     # Local dev leaves QDRANT_URL unset and connects to Docker/localhost instead.
     if settings.qdrant_url:
@@ -155,7 +155,6 @@ def full_query(req: QueryRequest):
         result = answer_query(
             req.question,
             session,
-            _resources["embed_model"],
             _resources["qdrant"],
             _resources["anthropic"],
             top_k=req.top_k,
@@ -181,7 +180,6 @@ def search_only(req: QueryRequest):
         result = retrieve(
             req.question,
             session,
-            _resources["embed_model"],
             _resources["qdrant"],
             top_k=req.top_k,
         )

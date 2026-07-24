@@ -38,14 +38,11 @@ from dataclasses import dataclass
 
 import anthropic
 from qdrant_client import QdrantClient
-from sentence_transformers import SentenceTransformer
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
 
 from app.core.config import settings
 from app.retrieval.hybrid_search import RetrievalResult, retrieve
-
-EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
 
 SYSTEM_PROMPT = """You are a clinical decision-support assistant for licensed
 healthcare professionals. You answer drug interaction and dosage questions
@@ -141,12 +138,11 @@ def evidence_is_sufficient(retrieval: RetrievalResult) -> bool:
 def answer_query(
     query: str,
     session: Session,
-    embed_model: SentenceTransformer,
     qdrant_client: QdrantClient,
     anthropic_client: anthropic.Anthropic,
     top_k: int = 5,
 ) -> GeneratedAnswer:
-    retrieval = retrieve(query, session, embed_model, qdrant_client, top_k=top_k)
+    retrieval = retrieve(query, session, qdrant_client, top_k=top_k)
     sufficient = evidence_is_sufficient(retrieval)
 
     user_content = (
@@ -188,7 +184,6 @@ def _manual_test() -> None:
         )
 
     engine = create_engine(settings.database_url)
-    embed_model = SentenceTransformer(EMBEDDING_MODEL_NAME)
     qdrant_client = QdrantClient(
         host=settings.qdrant_host, port=settings.qdrant_port, https=False
     )
@@ -203,9 +198,7 @@ def _manual_test() -> None:
     with Session(engine) as session:
         for q in test_queries:
             print(f"\n{'=' * 70}\nQ: {q}\n")
-            result = answer_query(
-                q, session, embed_model, qdrant_client, anthropic_client
-            )
+            result = answer_query(q, session, qdrant_client, anthropic_client)
             print(f"Matched drugs: {result.retrieval.matched_drugs}")
             print(f"Evidence sufficient (pre-check): {result.evidence_sufficient}")
             print(f"\n--- ANSWER ---\n{result.answer_text}\n")

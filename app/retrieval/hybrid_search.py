@@ -30,14 +30,12 @@ from dataclasses import dataclass, field
 
 from qdrant_client import QdrantClient
 from qdrant_client.models import FieldCondition, Filter, MatchValue
-from sentence_transformers import SentenceTransformer
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
 
 from app.core.config import settings
+from app.core.embeddings import embed_text
 from app.models.db_models import Drug, Interaction
-
-EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
 
 
 @dataclass
@@ -94,7 +92,6 @@ def structured_lookup(drug_a: Drug, drug_b: Drug, session: Session) -> dict | No
 
 def semantic_search(
     query: str,
-    model: SentenceTransformer,
     client: QdrantClient,
     drug_ids: list[int] | None,
     top_k: int = 5,
@@ -105,7 +102,7 @@ def semantic_search(
     which is the old, less precise behavior, kept as a deliberate fallback
     for cases where no known drug was mentioned in the query at all.
     """
-    query_vector = model.encode(query, normalize_embeddings=True).tolist()
+    query_vector = embed_text(query)
 
     query_filter = None
     if drug_ids:
@@ -134,7 +131,6 @@ def semantic_search(
 def retrieve(
     query: str,
     session: Session,
-    model: SentenceTransformer,
     client: QdrantClient,
     top_k: int = 5,
 ) -> RetrievalResult:
@@ -146,7 +142,7 @@ def retrieve(
         structured = structured_lookup(matched_drugs[0], matched_drugs[1], session)
 
     drug_ids = [d.id for d in matched_drugs] if matched_drugs else None
-    chunks = semantic_search(query, model, client, drug_ids=drug_ids, top_k=top_k)
+    chunks = semantic_search(query, client, drug_ids=drug_ids, top_k=top_k)
 
     return RetrievalResult(
         matched_drugs=[d.name for d in matched_drugs],
@@ -159,7 +155,6 @@ def _manual_test() -> None:
     """Quick sanity check with a couple of real queries."""
     engine = create_engine(settings.database_url)
     client = QdrantClient(host=settings.qdrant_host, port=settings.qdrant_port, https=False)
-    model = SentenceTransformer(EMBEDDING_MODEL_NAME)
 
     test_queries = [
         "Is it safe to take Warfarin while pregnant?",
@@ -170,7 +165,7 @@ def _manual_test() -> None:
     with Session(engine) as session:
         for q in test_queries:
             print(f"\n{'=' * 70}\nQuery: {q}")
-            result = retrieve(q, session, model, client)
+            result = retrieve(q, session, client)
             print(f"Matched drugs: {result.matched_drugs}")
             if result.structured_interaction:
                 print(f"Structured interaction: {result.structured_interaction}")

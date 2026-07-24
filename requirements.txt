@@ -6,6 +6,13 @@ pydantic-settings>=2.0
 requests>=2.30
 
 # Embeddings & vector store
+# fastembed is what the actual pipeline (ingestion + retrieval) uses now --
+# see app/core/embeddings.py for why we moved off sentence-transformers/
+# torch (Render free-tier memory limits). sentence-transformers is kept
+# below only because Ragas' answer_relevancy metric (run_eval.py) needs it
+# indirectly via langchain-huggingface's HuggingFaceEmbeddings wrapper --
+# that's local-only eval tooling, never deployed.
+fastembed>=0.3.0
 sentence-transformers>=2.2
 qdrant-client>=1.9
 

@@ -35,13 +35,13 @@ from ragas.metrics import (
     context_recall,
     faithfulness,
 )
-from sentence_transformers import SentenceTransformer
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
 
 from app.core.config import settings
+from app.core.embeddings import EMBEDDING_MODEL_NAME
 from app.eval.test_set import TEST_SET, TestCase
-from app.generation.answer import EMBEDDING_MODEL_NAME, answer_query
+from app.generation.answer import answer_query
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
@@ -50,7 +50,6 @@ logger = logging.getLogger(__name__)
 def _run_pipeline_for_case(
     case: TestCase,
     session: Session,
-    embed_model: SentenceTransformer,
     qdrant_client: QdrantClient,
     anthropic_client: anthropic.Anthropic,
 ) -> dict:
@@ -61,9 +60,7 @@ def _run_pipeline_for_case(
       - contexts (the retrieved chunks, as plain strings)
       - ground_truth (the reference answer from the test set)
     """
-    result = answer_query(
-        case.question, session, embed_model, qdrant_client, anthropic_client
-    )
+    result = answer_query(case.question, session, qdrant_client, anthropic_client)
 
     # Ragas checks every claim in the answer against the "contexts" we
     # supply. Our answers can draw on TWO sources: vector-retrieved FDA
@@ -166,7 +163,6 @@ def main() -> None:
 
     logger.info("Loading pipeline components...")
     engine = create_engine(settings.database_url)
-    embed_model = SentenceTransformer(EMBEDDING_MODEL_NAME)
     qdrant_client = QdrantClient(
         host=settings.qdrant_host, port=settings.qdrant_port, https=False
     )
@@ -177,9 +173,7 @@ def main() -> None:
     with Session(engine) as session:
         for i, case in enumerate(test_cases, start=1):
             logger.info("  [%d/%d] %s", i, len(test_cases), case.question[:60])
-            rec = _run_pipeline_for_case(
-                case, session, embed_model, qdrant_client, anthropic_client
-            )
+            rec = _run_pipeline_for_case(case, session, qdrant_client, anthropic_client)
             records.append(rec)
 
     # Ragas uses an LLM to judge the answers (normal -- how the framework

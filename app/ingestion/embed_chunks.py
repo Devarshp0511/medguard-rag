@@ -1,14 +1,14 @@
 """
-Embeds every LabelChunk's text into a vector using a local, open-source
-embedding model (BAAI/bge-small-en-v1.5 via sentence-transformers), and
-loads those vectors into Qdrant.
+Embeds every LabelChunk's text into a vector using fastembed (a lightweight,
+ONNX-based embedding runtime maintained by Qdrant), and loads those vectors
+into Qdrant.
 
-Why this model: purpose-built for retrieval (unlike older baseline models
-like all-MiniLM), runs free on CPU with no API key, and produces small
-384-dimensional vectors -- fast enough to embed our full chunk set on a
-laptop in minutes rather than requiring GPU infrastructure or per-token
-API billing. See project docs for the fuller quality-vs-cost tradeoff
-discussion (cloud options like Voyage AI score higher on raw benchmarks).
+Why fastembed instead of sentence-transformers/PyTorch: PyTorch alone uses
+400-600MB+ of memory just importing + loading a model, which crashed our
+first Render deployment (free tier caps at 512MB). fastembed uses ONNX
+Runtime instead, with a dramatically smaller memory footprint -- see
+app/core/embeddings.py for the full reasoning and the shared embedding
+functions this script now uses.
 
 Pipeline position: this is the bridge between our two storage layers --
 LabelChunk rows in Postgres/SQLite already have a stable vector_id (a UUID
@@ -19,7 +19,8 @@ assigned at chunk-creation time in chunk_labels.py). This script:
 
 Idempotent: Qdrant upserts are keyed by point ID (our vector_id), so
 re-running this script simply overwrites existing points rather than
-duplicating them -- safe to re-run after adding more chunks.
+duplicating them -- safe to re-run after adding more chunks, or after
+switching embedding backends (as we did here).
 
 Run as: python -m app.ingestion.embed_chunks
 """
@@ -31,18 +32,16 @@ import logging
 
 from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, PointStruct, VectorParams
-from sentence_transformers import SentenceTransformer
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
 
 from app.core.config import settings
+from app.core.embeddings import EMBEDDING_DIM, embed_texts
 from app.models.db_models import LabelChunk
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
 
-EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
-EMBEDDING_DIM = 384  # fixed by the model above; must match Qdrant collection config
 EMBED_BATCH_SIZE = 64  # chunks per embedding batch -- balances speed vs memory
 
 
@@ -78,14 +77,11 @@ def ensure_collection(client: QdrantClient) -> None:
 
 def embed_and_upsert(session: Session, client: QdrantClient, batch_size: int = EMBED_BATCH_SIZE) -> dict[str, int]:
     """
-    Loads the embedding model once, then streams through every LabelChunk
-    in batches: embed the batch's text, upsert the vectors + metadata into
-    Qdrant. Batching (rather than one-chunk-at-a-time) is significantly
-    faster for both the embedding model and the Qdrant client.
+    Streams through every LabelChunk in batches: embed the batch's text,
+    upsert the vectors + metadata into Qdrant. Batching (rather than
+    one-chunk-at-a-time) is significantly faster for both the embedding
+    model and the Qdrant client.
     """
-    logger.info("Loading embedding model %s (first run downloads ~130MB)...", EMBEDDING_MODEL_NAME)
-    model = SentenceTransformer(EMBEDDING_MODEL_NAME)
-
     chunks = session.query(LabelChunk).all()
     total = len(chunks)
     logger.info("Embedding %d chunks in batches of %d", total, batch_size)
@@ -96,14 +92,14 @@ def embed_and_upsert(session: Session, client: QdrantClient, batch_size: int = E
         batch = chunks[i : i + batch_size]
         texts = [c.chunk_text for c in batch]
 
-        # normalize_embeddings=True makes cosine similarity search behave
-        # correctly and consistently -- BGE models expect this.
-        vectors = model.encode(texts, normalize_embeddings=True, show_progress_bar=False)
+        # embed_texts() L2-normalizes internally, matching what cosine
+        # similarity search in Qdrant expects.
+        vectors = embed_texts(texts)
 
         points = [
             PointStruct(
                 id=chunk.vector_id,
-                vector=vector.tolist(),
+                vector=vector,
                 payload={
                     "drug_id": chunk.drug_id,
                     "drug_name": chunk.drug.name,

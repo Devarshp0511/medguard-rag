@@ -1,0 +1,26 @@
+# Minimal dependencies for the deployed FastAPI service ONLY.
+#
+# Deliberately excludes sentence-transformers, torch, ragas, datasets, and
+# langchain-* -- those are only needed for local ingestion scripts
+# (embed_chunks.py previously used sentence-transformers, now uses
+# fastembed too) and the local evaluation harness (run_eval.py), neither of
+# which run inside the deployed API container. Installing them anyway was
+# what crashed the first Render deployment: PyTorch alone uses 400-600MB+
+# just importing, blowing past Render's free-tier 512MB cap. See
+# app/core/embeddings.py and docs/engineering-notes.md for the full story.
+#
+# For local development (running ingestion scripts, the eval suite, etc.),
+# use the full requirements.txt instead.
+
+fastapi>=0.123.0
+uvicorn[standard]>=0.38.0
+pydantic>=2.12.0
+pydantic-settings>=2.0.0
+sqlalchemy>=2.0.0
+
+qdrant-client>=1.9.0
+fastembed>=0.3.0
+
+anthropic>=0.40.0
+
+requests>=2.31.0
